@@ -1,0 +1,128 @@
+{
+ "meta": {
+  "awards": "5 wins & 2 nominations total",
+  "cast": [
+   "Lars Rudolph",
+   "Peter Fitz",
+   "Hanna Schygulla"
+  ],
+  "country": "Hungary, Italy, Germany, France",
+  "description": "Captures a town waiting for something it can't name to tip it over. A travelling circus brings a giant stuffed whale and a shadowy \"Prince\"; a gentle young man watches rumour congeal into riot across thirty-nine long takes. The whale, filmed like a god beached in a market square, is the purest image in Tarr: everyone projects onto the huge mute thing whatever their fear requires.\n\nA naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.",
+  "director": [
+   "Ágnes Hranitzky",
+   "Béla Tarr"
+  ],
+  "dvdRelease": "2006-02-28T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0249241",
+  "moviedb_id": 23160,
+  "name": "Werckmeister Harmonies",
+  "popularity": 0.09095333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0249241/img",
+  "released": "2001-02-01T00:00:00.000Z",
+  "runtime": "139 min",
+  "trailers": [
+   {
+    "source": "-tJVdq_G_Go",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "László Krasznahorkai",
+   "Béla Tarr",
+   "Péter Dobai"
+  ],
+  "year": "2001",
+  "popularities": {
+   "moviedb": 2.7286,
+   "stremio": 0.09095333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/werckmeister-harmonies-0249241",
+  "background": "https://images.metahub.space/background/medium/tt0249241/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0249241/img",
+  "id": "tt0249241",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2001",
+  "trailerStreams": [
+   {
+    "title": "Werckmeister Harmonies",
+    "ytId": "-tJVdq_G_Go"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0249241"
+   },
+   {
+    "name": "Werckmeister Harmonies",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/werckmeister-harmonies-0249241"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Lars Rudolph",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lars%20Rudolph"
+   },
+   {
+    "name": "Peter Fitz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Peter%20Fitz"
+   },
+   {
+    "name": "Hanna Schygulla",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hanna%20Schygulla"
+   },
+   {
+    "name": "László Krasznahorkai",
+    "category": "Writers",
+    "url": "stremio:///search?search=L%C3%A1szl%C3%B3%20Krasznahorkai"
+   },
+   {
+    "name": "Béla Tarr",
+    "category": "Writers",
+    "url": "stremio:///search?search=B%C3%A9la%20Tarr"
+   },
+   {
+    "name": "Péter Dobai",
+    "category": "Writers",
+    "url": "stremio:///search?search=P%C3%A9ter%20Dobai"
+   },
+   {
+    "name": "Ágnes Hranitzky",
+    "category": "Directors",
+    "url": "stremio:///search?search=%C3%81gnes%20Hranitzky"
+   },
+   {
+    "name": "Béla Tarr",
+    "category": "Directors",
+    "url": "stremio:///search?search=B%C3%A9la%20Tarr"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0249241",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 18 wins & 5 nominations total",
+  "cast": [
+   "Reza Naji",
+   "Amir Farrokh Hashemian",
+   "Bahare Seddiqi"
+  ],
+  "country": "Iran",
+  "description": "Captures two siblings running a logistics operation beyond most adults. A boy loses his sister's shoes — the family's only pair for her — and the two construct an elaborate daily timeshare of his own shoes, sprinting between schools, telling no one. The third act is a footrace he must finish exactly third: the prize is a pair of shoes. Stakes this small, engineered this precisely, become unbearable.\n\nAfter a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+  "director": [
+   "Majid Majidi"
+  ],
+  "dvdRelease": "2016-11-07T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Family",
+   "Sport"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0118849",
+  "moviedb_id": 21334,
+  "name": "Children of Heaven",
+  "popularity": 0.13061333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0118849/img",
+  "released": "1999-01-22T00:00:00.000Z",
+  "runtime": "88 min",
+  "trailers": [
+   {
+    "source": "dqxvZeQsVzY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Majid Majidi"
+  ],
+  "year": "1999",
+  "popularities": {
+   "moviedb": 3.9184,
+   "stremio": 0.13061333333333333,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/children-of-heaven-0118849",
+  "background": "https://images.metahub.space/background/medium/tt0118849/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0118849/img",
+  "id": "tt0118849",
+  "genres": [
+   "Drama",
+   "Family",
+   "Sport"
+  ],
+  "releaseInfo": "1999",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Children of Heaven",
+    "ytId": "dqxvZeQsVzY"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0118849"
+   },
+   {
+    "name": "Children of Heaven",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/children-of-heaven-0118849"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Reza Naji",
+    "category": "Cast",
+    "url": "stremio:///search?search=Reza%20Naji"
+   },
+   {
+    "name": "Amir Farrokh Hashemian",
+    "category": "Cast",
+    "url": "stremio:///search?search=Amir%20Farrokh%20Hashemian"
+   },
+   {
+    "name": "Bahare Seddiqi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bahare%20Seddiqi"
+   },
+   {
+    "name": "Majid Majidi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Majid%20Majidi"
+   },
+   {
+    "name": "Majid Majidi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Majid%20Majidi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0118849",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award22 wins & 36 nominations total",
+  "cast": [
+   "Waad Mohammed",
+   "Reem Abdullah",
+   "Abdullrahman Al Gohani"
+  ],
+  "country": "Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",
+  "description": "Captures a girl who wants a bicycle in a country where girls don't ride them. Ten-year-old Wadjda in Riyadh hustles — mix tapes, bracelets, a Quran competition's prize money — toward a green bicycle, while her mother faces being replaced by a second wife. The first Saudi feature directed by a woman, some of it shot from inside a van because she couldn't be seen directing men in the street; the film's making is inside its meaning.\n\nAn enterprising Saudi girl signs on for her school's Koran recitation competition as a way to raise the remaining funds she needs in order to buy the green bicycle that has captured her interest.",
+  "director": [
+   "Haifaa Al-Mansour"
+  ],
+  "dvdRelease": "2014-02-11T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt2258858",
+  "moviedb_id": 129112,
+  "name": "Wadjda",
+  "popularity": 0.13026666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt2258858/img",
+  "released": "2013-05-16T00:00:00.000Z",
+  "runtime": "98 min",
+  "trailers": [
+   {
+    "source": "neU-ycIOCWY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Haifaa Al-Mansour"
+  ],
+  "year": "2012",
+  "popularities": {
+   "moviedb": 3.908,
+   "stremio": 0.13026666666666667,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt2258858/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2258858/img",
+  "slug": "movie/wadjda-2258858",
+  "id": "tt2258858",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2012",
+  "trailerStreams": [
+   {
+    "title": "Wadjda",
+    "ytId": "neU-ycIOCWY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2258858"
+   },
+   {
+    "name": "Wadjda",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/wadjda-2258858"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Waad Mohammed",
+    "category": "Cast",
+    "url": "stremio:///search?search=Waad%20Mohammed"
+   },
+   {
+    "name": "Reem Abdullah",
+    "category": "Cast",
+    "url": "stremio:///search?search=Reem%20Abdullah"
+   },
+   {
+    "name": "Abdullrahman Al Gohani",
+    "category": "Cast",
+    "url": "stremio:///search?search=Abdullrahman%20Al%20Gohani"
+   },
+   {
+    "name": "Haifaa Al-Mansour",
+    "category": "Writers",
+    "url": "stremio:///search?search=Haifaa%20Al-Mansour"
+   },
+   {
+    "name": "Haifaa Al-Mansour",
+    "category": "Directors",
+    "url": "stremio:///search?search=Haifaa%20Al-Mansour"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2258858",
+   "hasScheduledVideos": false
+  }
+ }
+}

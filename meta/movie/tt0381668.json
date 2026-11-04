@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "7 wins & 8 nominations",
+  "cast": [
+   "Banlop Lomnoi",
+   "Sakda Kaewbuadee",
+   "Huai Dessom"
+  ],
+  "country": "Thailand, France, Germany, Italy",
+  "description": "Captures a film splitting into its own two natures. First half: a soldier and a village boy falling in love in present-day Thailand, all heat and small kindnesses. Then the film restarts as a folk tale — the soldier alone in jungle dark, hunting a tiger-shaman who may be the same boy. Romance observed, then the hidden structure underneath it, wearing fur.\n\nA romance between a soldier and a country boy, wrapped around a Thai folk-tale involving a shaman with shape-shifting abilities.",
+  "director": [
+   "Apichatpong Weerasethakul"
+  ],
+  "dvdRelease": "2005-11-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0381668",
+  "moviedb_id": 11534,
+  "name": "Tropical Malady",
+  "popularity": 0.05149333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0381668/img",
+  "released": "2004-11-24T00:00:00.000Z",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "rRN_HRZoV_w",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Apichatpong Weerasethakul"
+  ],
+  "year": "2004",
+  "popularities": {
+   "moviedb": 1.5448,
+   "stremio": 0.05149333333333333,
+   "stremio_lib": 0
+  },
+  "slug": "movie/tropical-malady-0381668",
+  "background": "https://images.metahub.space/background/medium/tt0381668/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0381668/img",
+  "id": "tt0381668",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
+  "releaseInfo": "2004",
+  "trailerStreams": [
+   {
+    "title": "Tropical Malady",
+    "ytId": "rRN_HRZoV_w"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0381668"
+   },
+   {
+    "name": "Tropical Malady",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tropical-malady-0381668"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Banlop Lomnoi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Banlop%20Lomnoi"
+   },
+   {
+    "name": "Sakda Kaewbuadee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sakda%20Kaewbuadee"
+   },
+   {
+    "name": "Huai Dessom",
+    "category": "Cast",
+    "url": "stremio:///search?search=Huai%20Dessom"
+   },
+   {
+    "name": "Apichatpong Weerasethakul",
+    "category": "Writers",
+    "url": "stremio:///search?search=Apichatpong%20Weerasethakul"
+   },
+   {
+    "name": "Apichatpong Weerasethakul",
+    "category": "Directors",
+    "url": "stremio:///search?search=Apichatpong%20Weerasethakul"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0381668",
+   "hasScheduledVideos": false
+  }
+ }
+}

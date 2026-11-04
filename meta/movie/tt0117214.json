@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "1 win & 1 nomination total",
+  "cast": [
+   "Mirhadi Tayebi",
+   "Mohsen Makhmalbaf",
+   "Ali Bakhsi"
+  ],
+  "country": "Iran, France",
+  "description": "Captures a director restaging his own worst act with the man he attacked. At seventeen, Makhmalbaf stabbed a policeman during a robbery; twenty years later he casts the policeman to play himself, and a young actor to play young Makhmalbaf, and the two versions keep correcting the production. Reenactment as negotiation between two memories of the same knife — documentary, fiction and apology occupying one frame.\n\nAn Iranian policeman asks a director to make a film about a true stabbing incident involving both of them.",
+  "director": [
+   "Mohsen Makhmalbaf"
+  ],
+  "dvdRelease": "2005-07-26T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0117214",
+  "moviedb_id": 43976,
+  "name": "A Moment of Innocence",
+  "popularity": 0.09582,
+  "poster": "https://images.metahub.space/poster/small/tt0117214/img",
+  "released": "1997-04-09T00:00:00.000Z",
+  "runtime": "78 min",
+  "trailers": [
+   {
+    "source": "p5HJPyLz8rA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Mohsen Makhmalbaf"
+  ],
+  "year": "1997",
+  "popularities": {
+   "moviedb": 2.8746,
+   "stremio": 0.09582,
+   "stremio_lib": 0
+  },
+  "slug": "movie/a-moment-of-innocence-0117214",
+  "background": "https://images.metahub.space/background/medium/tt0117214/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0117214/img",
+  "id": "tt0117214",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1997",
+  "trailerStreams": [
+   {
+    "title": "A Moment of Innocence",
+    "ytId": "p5HJPyLz8rA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0117214"
+   },
+   {
+    "name": "A Moment of Innocence",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-moment-of-innocence-0117214"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mirhadi Tayebi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mirhadi%20Tayebi"
+   },
+   {
+    "name": "Mohsen Makhmalbaf",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mohsen%20Makhmalbaf"
+   },
+   {
+    "name": "Ali Bakhsi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ali%20Bakhsi"
+   },
+   {
+    "name": "Mohsen Makhmalbaf",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mohsen%20Makhmalbaf"
+   },
+   {
+    "name": "Mohsen Makhmalbaf",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mohsen%20Makhmalbaf"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0117214",
+   "hasScheduledVideos": false
+  }
+ }
+}

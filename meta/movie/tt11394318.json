@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "imdb_id": "tt11394318",
+  "name": "The Truffle Hunters",
+  "awards": "9 wins & 22 nominations total",
+  "country": "Italy, Greece, United States",
+  "description": "Captures a vanishing craft economy from inside its last practitioners. Elderly men and their beloved dogs slip into Piedmont forests at night for white truffles worth more than gold, while dealers in suits wait at the edge of the woods. Shot like a Renaissance painting, scored by the men's own singing — competence, secrecy and interspecies partnership, all quietly ending.\n\nDeep in the forests of Piedmont, Italy, a handful of men, seventy or eighty years old, hunt for the rare and expensive white Alba truffle-which to date has resisted all of modern science's efforts at cultivation.",
+  "director": [
+   "Michael Dweck",
+   "Gregory Kershaw"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt11394318/img",
+  "released": "2021-03-12T00:00:00.000Z",
+  "runtime": "84 min",
+  "slug": "movie/the-truffle-hunters-11394318",
+  "type": "movie",
+  "year": "2020",
+  "moviedb_id": 653762,
+  "popularities": {
+   "moviedb": 1.7806,
+   "stremio": 0.059353333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "KFYhrc0AnVw",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Piero Botto",
+   "Sergio Cauda",
+   "Maria Cicciù"
+  ],
+  "writer": [
+   "Michael Dweck",
+   "Gregory Kershaw"
+  ],
+  "dvdRelease": "2021-08-17T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt11394318/img",
+  "logo": "https://images.metahub.space/logo/medium/tt11394318/img",
+  "popularity": 0.059353333333333334,
+  "id": "tt11394318",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2020",
+  "trailerStreams": [
+   {
+    "title": "The Truffle Hunters",
+    "ytId": "KFYhrc0AnVw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt11394318"
+   },
+   {
+    "name": "The Truffle Hunters",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-truffle-hunters-11394318"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Piero Botto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Piero%20Botto"
+   },
+   {
+    "name": "Sergio Cauda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sergio%20Cauda"
+   },
+   {
+    "name": "Maria Cicciù",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maria%20Cicci%C3%B9"
+   },
+   {
+    "name": "Michael Dweck",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Dweck"
+   },
+   {
+    "name": "Gregory Kershaw",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gregory%20Kershaw"
+   },
+   {
+    "name": "Michael Dweck",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Dweck"
+   },
+   {
+    "name": "Gregory Kershaw",
+    "category": "Directors",
+    "url": "stremio:///search?search=Gregory%20Kershaw"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt11394318",
+   "hasScheduledVideos": false
+  }
+ }
+}

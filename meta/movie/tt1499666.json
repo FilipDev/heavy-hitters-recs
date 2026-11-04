@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "8 wins & 8 nominations total",
+  "cast": [
+   "Jeong Jae-yeong",
+   "Jung Ryeo-won",
+   "Park Young-seo"
+  ],
+  "country": "South Korea",
+  "description": "Captures two solitudes becoming visible to each other across a river. A man survives a suicide jump and builds a castaway life on an uninhabited Han River island in the middle of Seoul; a hikikomori girl photographs him through a telephoto lens from her bedroom, her first contact with anyone in years. Urban isolation solved not by society but by one observer, one observed, and messages written in sand.\n\nA failed suicide attempt leads a heartbroken man to live a life in the wilderness.",
+  "director": [
+   "Lee Hae-jun"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt1499666",
+  "moviedb_id": 18438,
+  "name": "Castaway on the Moon",
+  "popularity": 0.10991,
+  "poster": "https://images.metahub.space/poster/small/tt1499666/img",
+  "released": "2009-05-14T00:00:00.000Z",
+  "runtime": "119 min",
+  "trailers": [
+   {
+    "source": "061ZyqHhdCo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lee Hae-jun"
+  ],
+  "year": "2009",
+  "popularities": {
+   "moviedb": 3.2973,
+   "stremio": 0.10991,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/castaway-on-the-moon-1499666",
+  "background": "https://images.metahub.space/background/medium/tt1499666/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1499666/img",
+  "id": "tt1499666",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2009",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Castaway on the Moon",
+    "ytId": "061ZyqHhdCo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1499666"
+   },
+   {
+    "name": "Castaway on the Moon",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/castaway-on-the-moon-1499666"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jeong Jae-yeong",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeong%20Jae-yeong"
+   },
+   {
+    "name": "Jung Ryeo-won",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jung%20Ryeo-won"
+   },
+   {
+    "name": "Park Young-seo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Park%20Young-seo"
+   },
+   {
+    "name": "Lee Hae-jun",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lee%20Hae-jun"
+   },
+   {
+    "name": "Lee Hae-jun",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lee%20Hae-jun"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1499666",
+   "hasScheduledVideos": false
+  }
+ }
+}

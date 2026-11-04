@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "imdb_id": "tt6412452",
+  "name": "The Ballad of Buster Scruggs",
+  "cast": [
+   "Tim Blake Nelson",
+   "Willie Watson",
+   "Clancy Brown"
+  ],
+  "country": "United States",
+  "description": "Captures the western as a storybook that keeps turning lethal. Six chapters from a singing gunslinger to a stagecoach of the dead, framed as pages of an old cloth-bound book — tonal whiplash as structure: farce, then a prospector's idyll, then the bleakest thing the Coens have made. The genre your collection holds only eight of, sampled across its whole emotional range in one sitting.\n\nSix tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train and a perverse pair of bounty hunters.",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Musical"
+  ],
+  "imdbRating": "7.2",
+  "released": "2018-11-09T00:00:00.000Z",
+  "slug": "movie/the-ballad-of-buster-scruggs-6412452",
+  "type": "movie",
+  "year": "2018",
+  "popularities": {
+   "trakt": 2,
+   "stremio": 0.25698,
+   "moviedb": 7.7094,
+   "stremio_lib": 0
+  },
+  "moviedb_id": 537996,
+  "trailers": [
+   {
+    "source": "_2PyxzSH1HM",
+    "type": "Trailer"
+   }
+  ],
+  "director": [
+   "Ethan Coen",
+   "Joel Coen"
+  ],
+  "writer": [
+   "Joel Coen",
+   "Ethan Coen",
+   "Jack London"
+  ],
+  "dvdRelease": "2018-11-16T00:00:00.000Z",
+  "poster": "https://images.metahub.space/poster/small/tt6412452/img",
+  "runtime": "132 min",
+  "background": "https://images.metahub.space/background/medium/tt6412452/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6412452/img",
+  "awards": "Nominated for 3 Oscars. 7 wins & 44 nominations total",
+  "popularity": 0.25698,
+  "id": "tt6412452",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Musical"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "The Ballad of Buster Scruggs",
+    "ytId": "_2PyxzSH1HM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6412452"
+   },
+   {
+    "name": "The Ballad of Buster Scruggs",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-ballad-of-buster-scruggs-6412452"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Musical",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Musical"
+   },
+   {
+    "name": "Tim Blake Nelson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tim%20Blake%20Nelson"
+   },
+   {
+    "name": "Willie Watson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Willie%20Watson"
+   },
+   {
+    "name": "Clancy Brown",
+    "category": "Cast",
+    "url": "stremio:///search?search=Clancy%20Brown"
+   },
+   {
+    "name": "Joel Coen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joel%20Coen"
+   },
+   {
+    "name": "Ethan Coen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ethan%20Coen"
+   },
+   {
+    "name": "Jack London",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jack%20London"
+   },
+   {
+    "name": "Ethan Coen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ethan%20Coen"
+   },
+   {
+    "name": "Joel Coen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joel%20Coen"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6412452",
+   "hasScheduledVideos": false
+  }
+ }
+}

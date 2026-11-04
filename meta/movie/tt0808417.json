@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 30 wins & 58 nominations total",
+  "cast": [
+   "Chiara Mastroianni",
+   "Catherine Deneuve",
+   "Danielle Darrieux"
+  ],
+  "country": "France, United States",
+  "description": "Captures a girlhood unfolding against a revolution, drawn in stark black and white. Marji in Tehran: veils imposed, uncles disappearing, contraband Iron Maiden, exile to Vienna, return, depression, departure again. The flat graphic style does what live action couldn't — a child's-eye scale where a key to paradise and a punk cassette are the same size, because to her they were.\n\nA precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+  "director": [
+   "Vincent Paronnaud",
+   "Marjane Satrapi"
+  ],
+  "dvdRelease": "2013-04-02T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Biography",
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0808417",
+  "moviedb_id": 2011,
+  "name": "Persepolis",
+  "popularity": 0.14349333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0808417/img",
+  "released": "2008-02-22T00:00:00.000Z",
+  "runtime": "95 min",
+  "trailers": [
+   {
+    "source": "pr-ffssDVgI",
+    "type": "Trailer"
+   },
+   {
+    "source": "NZ22VyjJ6n8",
+    "type": "Trailer"
+   },
+   {
+    "source": "3PXHeKuBzPY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Marjane Satrapi",
+   "Vincent Paronnaud"
+  ],
+  "year": "2008",
+  "background": "https://images.metahub.space/background/medium/tt0808417/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0808417/img",
+  "popularities": {
+   "moviedb": 4.3048,
+   "stremio": 0.14349333333333333,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/persepolis-0808417",
+  "id": "tt0808417",
+  "genres": [
+   "Animation",
+   "Biography",
+   "Drama"
+  ],
+  "releaseInfo": "2008",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Persepolis",
+    "ytId": "pr-ffssDVgI"
+   },
+   {
+    "title": "Persepolis",
+    "ytId": "NZ22VyjJ6n8"
+   },
+   {
+    "title": "Persepolis",
+    "ytId": "3PXHeKuBzPY"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0808417"
+   },
+   {
+    "name": "Persepolis",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/persepolis-0808417"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Chiara Mastroianni",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chiara%20Mastroianni"
+   },
+   {
+    "name": "Catherine Deneuve",
+    "category": "Cast",
+    "url": "stremio:///search?search=Catherine%20Deneuve"
+   },
+   {
+    "name": "Danielle Darrieux",
+    "category": "Cast",
+    "url": "stremio:///search?search=Danielle%20Darrieux"
+   },
+   {
+    "name": "Marjane Satrapi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Marjane%20Satrapi"
+   },
+   {
+    "name": "Vincent Paronnaud",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vincent%20Paronnaud"
+   },
+   {
+    "name": "Vincent Paronnaud",
+    "category": "Directors",
+    "url": "stremio:///search?search=Vincent%20Paronnaud"
+   },
+   {
+    "name": "Marjane Satrapi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Marjane%20Satrapi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0808417",
+   "hasScheduledVideos": false
+  }
+ }
+}

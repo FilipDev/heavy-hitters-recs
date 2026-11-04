@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "13 wins & 21 nominations total",
+  "cast": [
+   "Mira Barkhammar",
+   "Mira Grosin",
+   "Liv LeMoyne"
+  ],
+  "country": "Sweden, Denmark",
+  "description": "Captures three thirteen-year-olds forming a punk band to prove a point nobody asked them to prove. Stockholm, 1982: two girls who can't play recruit a quiet Christian guitarist, rehearse a song called \"Hate the Sport\" in a youth centre, and are simply, enormously alive. Adolescence as joy rather than damage — the energy your list usually gets from destruction, here from two chords and total conviction.\n\nThree girls in 1980s Stockholm decide to form a punk band -- despite not having any instruments and being told by everyone that punk is dead.",
+  "director": [
+   "Lukas Moodysson"
+  ],
+  "dvdRelease": "2016-10-04T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Music"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt2364975",
+  "moviedb_id": 191294,
+  "name": "We Are the Best!",
+  "popularity": 0.06468,
+  "poster": "https://images.metahub.space/poster/small/tt2364975/img",
+  "released": "2014-06-20T00:00:00.000Z",
+  "runtime": "102 min",
+  "trailers": [
+   {
+    "source": "TfPytPjV1xc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lukas Moodysson",
+   "Coco Moodysson"
+  ],
+  "year": "2014",
+  "popularities": {
+   "moviedb": 1.9404,
+   "stremio": 0.06468,
+   "stremio_lib": 0
+  },
+  "slug": "movie/we-are-the-best-2364975",
+  "background": "https://images.metahub.space/background/medium/tt2364975/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2364975/img",
+  "id": "tt2364975",
+  "genres": [
+   "Drama",
+   "Music"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "We Are the Best!",
+    "ytId": "TfPytPjV1xc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2364975"
+   },
+   {
+    "name": "We Are the Best!",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/we-are-the-best-2364975"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Mira Barkhammar",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mira%20Barkhammar"
+   },
+   {
+    "name": "Mira Grosin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mira%20Grosin"
+   },
+   {
+    "name": "Liv LeMoyne",
+    "category": "Cast",
+    "url": "stremio:///search?search=Liv%20LeMoyne"
+   },
+   {
+    "name": "Lukas Moodysson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lukas%20Moodysson"
+   },
+   {
+    "name": "Coco Moodysson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Coco%20Moodysson"
+   },
+   {
+    "name": "Lukas Moodysson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lukas%20Moodysson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2364975",
+   "hasScheduledVideos": false
+  }
+ }
+}

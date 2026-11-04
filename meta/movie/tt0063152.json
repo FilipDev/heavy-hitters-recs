@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "2 wins & 1 nomination total",
+  "cast": [
+   "Claude Rich",
+   "Olga Georges-Picot",
+   "Anouk Ferjac"
+  ],
+  "country": "France",
+  "description": "Captures a man unstuck in his own past, in fragments. Rescued from a suicide attempt, Claude agrees to test a time machine that can return him to one minute, a year ago; the machine scatters him across his memories in shards — a beach, a bathtub, a dead love — and can't reliably bring him back. Marienbad's director doing science fiction as pure editing: the self as an archive with corrupted indexing.\n\nAfter attempting suicide, Claude is recruited for a time travel experiment, but, when the machine goes haywire, he may be trapped hurtling through his memories.",
+  "director": [
+   "Alain Resnais"
+  ],
+  "dvdRelease": "2016-03-08T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0063152",
+  "moviedb_id": 4798,
+  "name": "Je t'aime je t'aime",
+  "popularity": 0.10660333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0063152/img",
+  "released": "1968-04-24T00:00:00.000Z",
+  "runtime": "94 min",
+  "trailers": [
+   {
+    "source": "HElwY3rt8t0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jacques Sternberg",
+   "Alain Resnais"
+  ],
+  "year": "1968",
+  "popularities": {
+   "moviedb": 3.1981,
+   "stremio": 0.10660333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/i-love-you-i-love-you-0063152",
+  "background": "https://images.metahub.space/background/medium/tt0063152/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0063152/img",
+  "id": "tt0063152",
+  "genres": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "1968",
+  "trailerStreams": [
+   {
+    "title": "I Love You, I Love You",
+    "ytId": "HElwY3rt8t0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0063152"
+   },
+   {
+    "name": "I Love You, I Love You",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/i-love-you-i-love-you-0063152"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Claude Rich",
+    "category": "Cast",
+    "url": "stremio:///search?search=Claude%20Rich"
+   },
+   {
+    "name": "Olga Georges-Picot",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olga%20Georges-Picot"
+   },
+   {
+    "name": "Anouk Ferjac",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anouk%20Ferjac"
+   },
+   {
+    "name": "Jacques Sternberg",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacques%20Sternberg"
+   },
+   {
+    "name": "Alain Resnais",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alain%20Resnais"
+   },
+   {
+    "name": "Alain Resnais",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alain%20Resnais"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0063152",
+   "hasScheduledVideos": false
+  }
+ }
+}

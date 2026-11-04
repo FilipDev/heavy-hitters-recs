@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "imdb_id": "tt7999962",
+  "cast": [
+   "Laurentiu Ginghina",
+   "Corneliu Porumboiu"
+  ],
+  "country": "Romania",
+  "description": "Captures a man who has spent thirty years redesigning football. After an injury ended his career, Laurențiu Ginghină concluded the rules themselves were at fault — too much running, too many collisions — and has been revising them ever since, explaining octagonal pitches to indulgent officials. A deadpan documentary about systems-thinking as a life's consolation: the local instance of a universal type.\n\nThey talk about the beautiful game, but for Laurentiu Ginghina, it's not enough. Football must be modified, streamlined, freed from restraints; corners are to be rounded off, players assigned to zones and subteams, norms revised. ...",
+  "director": [
+   "Corneliu Porumboiu"
+  ],
+  "genre": [
+   "Documentary",
+   "Sport"
+  ],
+  "imdbRating": "6.4",
+  "name": "Infinite Football",
+  "poster": "https://images.metahub.space/poster/small/tt7999962/img",
+  "released": "2018-11-09T00:00:00.000Z",
+  "runtime": "70 min",
+  "slug": "movie/infinite-football-7999962",
+  "type": "movie",
+  "year": "2018",
+  "moviedb_id": 499558,
+  "popularities": {
+   "moviedb": 1.459,
+   "stremio": 0.048633333333333334,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "7UJpkk28w5E",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [
+   "Corneliu Porumboiu"
+  ],
+  "awards": "1 win & 5 nominations total",
+  "dvdRelease": "2019-04-24T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt7999962/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7999962/img",
+  "popularity": 0.048633333333333334,
+  "id": "tt7999962",
+  "genres": [
+   "Documentary",
+   "Sport"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Infinite Football",
+    "ytId": "7UJpkk28w5E"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7999962"
+   },
+   {
+    "name": "Infinite Football",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/infinite-football-7999962"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Laurentiu Ginghina",
+    "category": "Cast",
+    "url": "stremio:///search?search=Laurentiu%20Ginghina"
+   },
+   {
+    "name": "Corneliu Porumboiu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Corneliu%20Porumboiu"
+   },
+   {
+    "name": "Corneliu Porumboiu",
+    "category": "Writers",
+    "url": "stremio:///search?search=Corneliu%20Porumboiu"
+   },
+   {
+    "name": "Corneliu Porumboiu",
+    "category": "Directors",
+    "url": "stremio:///search?search=Corneliu%20Porumboiu"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7999962",
+   "hasScheduledVideos": false
+  }
+ }
+}

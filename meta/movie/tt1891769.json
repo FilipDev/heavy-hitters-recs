@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "awards": "2 wins & 3 nominations",
+  "cast": [
+   "Jean Barney",
+   "Chloé Berthier",
+   "JB Blanc"
+  ],
+  "country": "France, Belgium, Canada",
+  "description": "Captures a world stratified by how finished it is. Inside an abandoned canvas live the Allduns (fully painted), the Halfies and the Sketchies (barely drawn), ruled by the completed who insist the Painter intended the hierarchy. A mixed group escapes the frame's edge to find the Painter and ask. Animated allegory about caste and creation, painted in the styles it moves through — the film's form is its argument.\n\nThree characters of different social classes escape their unfinished painting in search of the Painter, hoping he will complete it.",
+  "director": [
+   "Jean-François Laguionie"
+  ],
+  "dvdRelease": "2016-09-26T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt1891769",
+  "moviedb_id": 98162,
+  "name": "The Painting",
+  "popularity": 0.05471666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt1891769/img",
+  "released": "2013-05-10T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [
+   {
+    "source": "G5NNf1lrj2c",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Nicky Baker",
+   "Jean-François Laguionie",
+   "Anik Leray"
+  ],
+  "year": "2011",
+  "popularities": {
+   "moviedb": 1.6415,
+   "stremio": 0.05471666666666666,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1891769/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1891769/img",
+  "slug": "movie/the-painting-1891769",
+  "id": "tt1891769",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "The Painting",
+    "ytId": "G5NNf1lrj2c"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1891769"
+   },
+   {
+    "name": "The Painting",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-painting-1891769"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Jean Barney",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean%20Barney"
+   },
+   {
+    "name": "Chloé Berthier",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chlo%C3%A9%20Berthier"
+   },
+   {
+    "name": "JB Blanc",
+    "category": "Cast",
+    "url": "stremio:///search?search=JB%20Blanc"
+   },
+   {
+    "name": "Nicky Baker",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nicky%20Baker"
+   },
+   {
+    "name": "Jean-François Laguionie",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean-Fran%C3%A7ois%20Laguionie"
+   },
+   {
+    "name": "Anik Leray",
+    "category": "Writers",
+    "url": "stremio:///search?search=Anik%20Leray"
+   },
+   {
+    "name": "Jean-François Laguionie",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean-Fran%C3%A7ois%20Laguionie"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1891769",
+   "hasScheduledVideos": false
+  }
+ }
+}

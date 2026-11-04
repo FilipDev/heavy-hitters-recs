@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 BAFTA 2 wins & 5 nominations total",
+  "cast": [
+   "Ulla Jacobsson",
+   "Eva Dahlbeck",
+   "Harriet Andersson"
+  ],
+  "country": "Sweden",
+  "description": "Captures Bergman being funny, which turns out to mean Bergman being exact about desire instead of death. Couples mismatched by age and appetite rotate through a country weekend engineered by a grandmother and a bottle of wine; by dawn the pairings have re-sorted. The light register of the director your list knows at his heaviest — proof the same precision plays as farce.\n\nIn Sweden at the turn of the century, members of the upper class and their servants find themselves in a romantic tangle that they try to work out amidst jealousy and heartbreak.",
+  "director": [
+   "Ingmar Bergman"
+  ],
+  "dvdRelease": "2018-11-20T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Romance"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0048641",
+  "moviedb_id": 11700,
+  "name": "Smiles of a Summer Night",
+  "popularity": 0.12817333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0048641/img",
+  "released": "1957-12-23T00:00:00.000Z",
+  "runtime": "109 min",
+  "trailers": [
+   {
+    "source": "kacMgRPyNrs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ingmar Bergman"
+  ],
+  "year": "1955",
+  "popularities": {
+   "moviedb": 3.8452,
+   "stremio": 0.12817333333333333,
+   "stremio_lib": 0
+  },
+  "slug": "movie/smiles-of-a-summer-night-0048641",
+  "background": "https://images.metahub.space/background/medium/tt0048641/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0048641/img",
+  "id": "tt0048641",
+  "genres": [
+   "Comedy",
+   "Romance"
+  ],
+  "releaseInfo": "1955",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Smiles of a Summer Night",
+    "ytId": "kacMgRPyNrs"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0048641"
+   },
+   {
+    "name": "Smiles of a Summer Night",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/smiles-of-a-summer-night-0048641"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Ulla Jacobsson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ulla%20Jacobsson"
+   },
+   {
+    "name": "Eva Dahlbeck",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eva%20Dahlbeck"
+   },
+   {
+    "name": "Harriet Andersson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Harriet%20Andersson"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0048641",
+   "hasScheduledVideos": false
+  }
+ }
+}

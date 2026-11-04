@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "imdb_id": "tt20215968",
+  "name": "Hit Man",
+  "cast": [
+   "Glen Powell",
+   "Adria Arjona",
+   "Austin Amelio"
+  ],
+  "country": "United States",
+  "description": "Captures a philosophy professor discovering his gift is performance. Gary Johnson moonlights for the police posing as a hitman for hire; each sting is a new character built from what the client expects a killer to be. Based on a true story, and secretly a film about your favourite problem: identity as a projection fitted to an observer, and what happens when the performer prefers the projection.\n\nA professor moonlighting as a hit man of sorts for his city police department, descends into dangerous, dubious territory when he finds himself attracted to a woman who enlists his services.",
+  "director": [
+   "Richard Linklater"
+  ],
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Romance"
+  ],
+  "imdbRating": "6.8",
+  "released": "2024-06-07T00:00:00.000Z",
+  "slug": "movie/hit-man-20215968",
+  "type": "movie",
+  "writer": [
+   "Richard Linklater",
+   "Glen Powell",
+   "Skip Hollandsworth"
+  ],
+  "year": "2024",
+  "moviedb_id": 974635,
+  "popularities": {
+   "moviedb": 9.9526,
+   "stremio": 0.33175333333333334,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "poster": "https://images.metahub.space/poster/small/tt20215968/img",
+  "runtime": "116 min",
+  "trailers": [
+   {
+    "source": "9a7C7Bxsm90",
+    "type": "Trailer"
+   }
+  ],
+  "awards": "6 wins & 19 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt20215968/img",
+  "logo": "https://images.metahub.space/logo/medium/tt20215968/img",
+  "popularity": 0.33175333333333334,
+  "id": "tt20215968",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Romance"
+  ],
+  "releaseInfo": "2024",
+  "trailerStreams": [
+   {
+    "title": "Hit Man",
+    "ytId": "9a7C7Bxsm90"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt20215968"
+   },
+   {
+    "name": "Hit Man",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/hit-man-20215968"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Glen Powell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Glen%20Powell"
+   },
+   {
+    "name": "Adria Arjona",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adria%20Arjona"
+   },
+   {
+    "name": "Austin Amelio",
+    "category": "Cast",
+    "url": "stremio:///search?search=Austin%20Amelio"
+   },
+   {
+    "name": "Richard Linklater",
+    "category": "Writers",
+    "url": "stremio:///search?search=Richard%20Linklater"
+   },
+   {
+    "name": "Glen Powell",
+    "category": "Writers",
+    "url": "stremio:///search?search=Glen%20Powell"
+   },
+   {
+    "name": "Skip Hollandsworth",
+    "category": "Writers",
+    "url": "stremio:///search?search=Skip%20Hollandsworth"
+   },
+   {
+    "name": "Richard Linklater",
+    "category": "Directors",
+    "url": "stremio:///search?search=Richard%20Linklater"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt20215968",
+   "hasScheduledVideos": false
+  }
+ }
+}

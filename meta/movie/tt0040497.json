@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "1 win & 1 nomination",
+  "cast": [
+   "Jacques Tati",
+   "Guy Decomble",
+   "Paul Frankeur"
+  ],
+  "country": "France",
+  "description": "Captures a postman trying to become a system. François, a rural French mailman, sees a newsreel of American postal efficiency and spends a festival day attempting to deliver mail at modern speed, on a bicycle, increasingly drunk. Tati's first feature — the gentle prototype of everything he later built, and a comedy about optimisation filmed by a man who plainly preferred the unoptimised world.\n\nA village postman with no sense of humour delivers his mail via bicycle on the day the travelling fair comes to town. He is disrupted by a short film about US speed and efficiency and the playful teasing of the village folk.",
+  "director": [
+   "Jacques Tati"
+  ],
+  "dvdRelease": "2017-03-11T00:00:00.000Z",
+  "genre": [
+   "Comedy"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0040497",
+  "moviedb_id": 4595,
+  "name": "Jour de fête",
+  "popularity": 0.06101,
+  "poster": "https://images.metahub.space/poster/small/tt0040497/img",
+  "released": "1949-05-11T00:00:00.000Z",
+  "runtime": "86 min",
+  "trailers": [
+   {
+    "source": "U3-R6ZzKnoE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jacques Tati",
+   "Henri Marquet",
+   "René Wheeler"
+  ],
+  "year": "1949",
+  "popularities": {
+   "moviedb": 1.8303,
+   "stremio": 0.06101,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-big-day-0040497",
+  "background": "https://images.metahub.space/background/medium/tt0040497/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0040497/img",
+  "id": "tt0040497",
+  "genres": [
+   "Comedy"
+  ],
+  "releaseInfo": "1949",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Big Day",
+    "ytId": "U3-R6ZzKnoE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0040497"
+   },
+   {
+    "name": "The Big Day",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-big-day-0040497"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Jacques Tati",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacques%20Tati"
+   },
+   {
+    "name": "Guy Decomble",
+    "category": "Cast",
+    "url": "stremio:///search?search=Guy%20Decomble"
+   },
+   {
+    "name": "Paul Frankeur",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Frankeur"
+   },
+   {
+    "name": "Jacques Tati",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacques%20Tati"
+   },
+   {
+    "name": "Henri Marquet",
+    "category": "Writers",
+    "url": "stremio:///search?search=Henri%20Marquet"
+   },
+   {
+    "name": "René Wheeler",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ren%C3%A9%20Wheeler"
+   },
+   {
+    "name": "Jacques Tati",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jacques%20Tati"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0040497",
+   "hasScheduledVideos": false
+  }
+ }
+}

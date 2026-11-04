@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "imdb_id": "tt18162096",
+  "name": "Do Not Expect Too Much from the End of the World",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 2.3328,
+   "stremio": 0.07776000000000001,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "11 wins & 43 nominations total",
+  "cast": [
+   "Ilinca Manolache",
+   "Ovidiu Pîrsan",
+   "Nina Hoss"
+  ],
+  "country": "Romania, Luxembourg, France, Croatia, Switzerland, United Kingdom, Canada",
+  "description": "Captures gig work eating a person's day in real time. An exhausted production assistant drives Bucharest casting injured workers for a safety video, intercut with a 1981 Romanian film about a woman taxi driver and her own vertical TikToks as a toxic influencer parody. Two eras of the same city projected onto each other — the contemporary film, in every sense, that your list had least of.\n\nAn overworked and underpaid production assistant drives around Bucharest to shoot the casting for a workplace safety video commissioned by a multinational company.",
+  "director": [
+   "Radu Jude"
+  ],
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "released": "2024-05-03T00:00:00.000Z",
+  "slug": "movie/do-not-expect-too-much-from-the-end-of-the-world-18162096",
+  "writer": [
+   "Radu Jude"
+  ],
+  "year": "2024",
+  "moviedb_id": 937085,
+  "poster": "https://images.metahub.space/poster/small/tt18162096/img",
+  "runtime": "164 min",
+  "trailers": [
+   {
+    "source": "zWSkIgquPGo",
+    "type": "Trailer"
+   },
+   {
+    "source": "w0uh5i-SEW8",
+    "type": "Trailer"
+   },
+   {
+    "source": "107BDD11YcY",
+    "type": "Trailer"
+   },
+   {
+    "source": "Pg5UjA0hEFg",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt18162096/img",
+  "logo": "https://images.metahub.space/logo/medium/tt18162096/img",
+  "popularity": 0.07776000000000001,
+  "id": "tt18162096",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2024",
+  "trailerStreams": [
+   {
+    "title": "Do Not Expect Too Much from the End of the World",
+    "ytId": "zWSkIgquPGo"
+   },
+   {
+    "title": "Do Not Expect Too Much from the End of the World",
+    "ytId": "w0uh5i-SEW8"
+   },
+   {
+    "title": "Do Not Expect Too Much from the End of the World",
+    "ytId": "107BDD11YcY"
+   },
+   {
+    "title": "Do Not Expect Too Much from the End of the World",
+    "ytId": "Pg5UjA0hEFg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt18162096"
+   },
+   {
+    "name": "Do Not Expect Too Much from the End of the World",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/do-not-expect-too-much-from-the-end-of-the-world-18162096"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Ilinca Manolache",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ilinca%20Manolache"
+   },
+   {
+    "name": "Ovidiu Pîrsan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ovidiu%20P%C3%AErsan"
+   },
+   {
+    "name": "Nina Hoss",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nina%20Hoss"
+   },
+   {
+    "name": "Radu Jude",
+    "category": "Writers",
+    "url": "stremio:///search?search=Radu%20Jude"
+   },
+   {
+    "name": "Radu Jude",
+    "category": "Directors",
+    "url": "stremio:///search?search=Radu%20Jude"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt18162096",
+   "hasScheduledVideos": false
+  }
+ }
+}
