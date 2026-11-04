@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 1 nomination total",
+  "cast": [
+   "Sterling Hayden",
+   "Coleen Gray",
+   "Vince Edwards"
+  ],
+  "country": "United States",
+  "description": "Captures a perfect plan told in pieces that don't line up in time. A racetrack robbery replayed from each participant's angle, a suitcase of money, and an airport finale involving a small dog.\n\nCrook Johnny Clay assembles a five-man team to plan and execute a daring racetrack robbery.",
+  "director": [
+   "Stanley Kubrick"
+  ],
+  "dvdRelease": "2016-03-05T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Film-Noir"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0049406",
+  "moviedb_id": 247,
+  "name": "The Killing",
+  "popularity": 0.18326,
+  "poster": "https://images.metahub.space/poster/small/tt0049406/img",
+  "released": "1956-06-06T00:00:00.000Z",
+  "runtime": "85 min",
+  "trailers": [
+   {
+    "source": "c0Odg-GY40w",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Stanley Kubrick",
+   "Jim Thompson",
+   "Lionel White"
+  ],
+  "year": "1956",
+  "background": "https://images.metahub.space/background/medium/tt0049406/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0049406/img",
+  "popularities": {
+   "moviedb": 5.4978,
+   "stremio": 0.18326,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-killing-0049406",
+  "id": "tt0049406",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Film-Noir"
+  ],
+  "releaseInfo": "1956",
+  "trailerStreams": [
+   {
+    "title": "The Killing",
+    "ytId": "c0Odg-GY40w"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0049406"
+   },
+   {
+    "name": "The Killing",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-killing-0049406"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Film-Noir",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Film-Noir"
+   },
+   {
+    "name": "Sterling Hayden",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sterling%20Hayden"
+   },
+   {
+    "name": "Coleen Gray",
+    "category": "Cast",
+    "url": "stremio:///search?search=Coleen%20Gray"
+   },
+   {
+    "name": "Vince Edwards",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vince%20Edwards"
+   },
+   {
+    "name": "Stanley Kubrick",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stanley%20Kubrick"
+   },
+   {
+    "name": "Jim Thompson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jim%20Thompson"
+   },
+   {
+    "name": "Lionel White",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lionel%20White"
+   },
+   {
+    "name": "Stanley Kubrick",
+    "category": "Directors",
+    "url": "stremio:///search?search=Stanley%20Kubrick"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0049406",
+   "hasScheduledVideos": false
+  }
+ }
+}

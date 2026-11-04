@@ -1,0 +1,105 @@
+{
+ "meta": {
+  "awards": "1 win",
+  "cast": [
+   "Marceline Loridan Ivens",
+   "Marilù Parolini",
+   "Angelo"
+  ],
+  "country": "France",
+  "description": "Captures the moment documentary stopped pretending the camera wasn't in the room. Rouch and Morin ask Parisians 'Are you happy?', then film themselves arguing over whether the answers were real — cinéma vérité examining its own honesty.\n\nA documentary about the everyday lives of ordinary Parisians, done in the style of cinéma vérité.",
+  "director": [
+   "Edgar Morin",
+   "Jean Rouch"
+  ],
+  "dvdRelease": "2016-11-30T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0054745",
+  "moviedb_id": 84972,
+  "name": "Chronicle of a Summer",
+  "popularity": 0.05375,
+  "poster": "https://images.metahub.space/poster/small/tt0054745/img",
+  "released": "1961-10-20T00:00:00.000Z",
+  "runtime": "91 min",
+  "trailers": [
+   {
+    "source": "S0dOLHemSgs",
+    "type": "Featurette"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1961",
+  "popularities": {
+   "moviedb": 1.6125,
+   "stremio": 0.05375,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/chronicle-of-a-summer-0054745",
+  "background": "https://images.metahub.space/background/medium/tt0054745/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0054745/img",
+  "id": "tt0054745",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "1961",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0054745"
+   },
+   {
+    "name": "Chronicle of a Summer",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/chronicle-of-a-summer-0054745"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Marceline Loridan Ivens",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marceline%20Loridan%20Ivens"
+   },
+   {
+    "name": "Marilù Parolini",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maril%C3%B9%20Parolini"
+   },
+   {
+    "name": "Angelo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Angelo"
+   },
+   {
+    "name": "Edgar Morin",
+    "category": "Directors",
+    "url": "stremio:///search?search=Edgar%20Morin"
+   },
+   {
+    "name": "Jean Rouch",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean%20Rouch"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0054745",
+   "hasScheduledVideos": false
+  }
+ }
+}

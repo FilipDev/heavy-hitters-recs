@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "awards": "6 wins & 1 nomination total",
+  "cast": [
+   "Jean Servais",
+   "Carl Möhner",
+   "Robert Manuel"
+  ],
+  "country": "France",
+  "description": "Captures a robbery as manual labour. A Paris jewel heist whose centrepiece is roughly half an hour with no dialogue and no score — umbrellas, drills, plaster dust, men breathing — that every heist film since is quoting.\n\nFour men plan a technically perfect crime, but the human element intervenes...",
+  "director": [
+   "Jules Dassin"
+  ],
+  "dvdRelease": "2001-04-24T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0048021",
+  "moviedb_id": 934,
+  "name": "Rififi",
+  "popularity": 0.10224000000000001,
+  "poster": "https://images.metahub.space/poster/small/tt0048021/img",
+  "released": "1956-06-05T00:00:00.000Z",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "fJXgBZeFgNk",
+    "type": "Trailer"
+   },
+   {
+    "source": "PVRiC5ysSLk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Auguste Le Breton",
+   "Jules Dassin",
+   "René Wheeler"
+  ],
+  "year": "1956",
+  "popularities": {
+   "moviedb": 3.0672,
+   "stremio": 0.10224000000000001,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0048021/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0048021/img",
+  "slug": "movie/rififi-0048021",
+  "id": "tt0048021",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1956",
+  "trailerStreams": [
+   {
+    "title": "Rififi",
+    "ytId": "fJXgBZeFgNk"
+   },
+   {
+    "title": "Rififi",
+    "ytId": "PVRiC5ysSLk"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0048021"
+   },
+   {
+    "name": "Rififi",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/rififi-0048021"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Jean Servais",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean%20Servais"
+   },
+   {
+    "name": "Carl Möhner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Carl%20M%C3%B6hner"
+   },
+   {
+    "name": "Robert Manuel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20Manuel"
+   },
+   {
+    "name": "Auguste Le Breton",
+    "category": "Writers",
+    "url": "stremio:///search?search=Auguste%20Le%20Breton"
+   },
+   {
+    "name": "Jules Dassin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jules%20Dassin"
+   },
+   {
+    "name": "René Wheeler",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ren%C3%A9%20Wheeler"
+   },
+   {
+    "name": "Jules Dassin",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jules%20Dassin"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0048021",
+   "hasScheduledVideos": false
+  }
+ }
+}

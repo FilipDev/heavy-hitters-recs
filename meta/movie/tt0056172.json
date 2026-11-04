@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "awards": "Won 7 Oscars. 31 wins & 14 nominations total",
+  "cast": [
+   "Peter O&apos;Toole",
+   "Alec Guinness",
+   "Anthony Quinn"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures a man inventing himself at desert scale. Nearly four hours: the landscape is a character, and so is the gap between the legend being built and the person inside it.\n\nThe story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+  "director": [
+   "David Lean"
+  ],
+  "dvdRelease": "2013-04-02T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Biography",
+   "Drama"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt0056172",
+  "moviedb_id": 947,
+  "name": "Lawrence of Arabia",
+  "popularity": 0.33526,
+  "poster": "https://images.metahub.space/poster/small/tt0056172/img",
+  "released": "1962-12-16T00:00:00.000Z",
+  "runtime": "228 min",
+  "trailers": [
+   {
+    "source": "KR1yTI8zFJk",
+    "type": "Trailer"
+   },
+   {
+    "source": "i0IzV1q9g9Q",
+    "type": "Trailer"
+   },
+   {
+    "source": "_AznzZAlwVA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Robert Bolt",
+   "Michael Wilson"
+  ],
+  "year": "1962",
+  "background": "https://images.metahub.space/background/medium/tt0056172/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0056172/img",
+  "popularities": {
+   "moviedb": 10.0578,
+   "stremio": 0.33526,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/lawrence-of-arabia-0056172",
+  "id": "tt0056172",
+  "genres": [
+   "Adventure",
+   "Biography",
+   "Drama"
+  ],
+  "releaseInfo": "1962",
+  "trailerStreams": [
+   {
+    "title": "Lawrence of Arabia",
+    "ytId": "KR1yTI8zFJk"
+   },
+   {
+    "title": "Lawrence of Arabia",
+    "ytId": "i0IzV1q9g9Q"
+   },
+   {
+    "title": "Lawrence of Arabia",
+    "ytId": "_AznzZAlwVA"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0056172"
+   },
+   {
+    "name": "Lawrence of Arabia",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/lawrence-of-arabia-0056172"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Peter O&apos;Toole",
+    "category": "Cast",
+    "url": "stremio:///search?search=Peter%20O%26apos%3BToole"
+   },
+   {
+    "name": "Alec Guinness",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alec%20Guinness"
+   },
+   {
+    "name": "Anthony Quinn",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anthony%20Quinn"
+   },
+   {
+    "name": "Robert Bolt",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robert%20Bolt"
+   },
+   {
+    "name": "Michael Wilson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Wilson"
+   },
+   {
+    "name": "David Lean",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Lean"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0056172",
+   "hasScheduledVideos": false
+  }
+ }
+}

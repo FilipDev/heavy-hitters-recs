@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 Oscars. 9 wins & 8 nominations total",
+  "cast": [
+   "Brahim Hadjadj",
+   "Jean Martin",
+   "Yacef Saadi"
+  ],
+  "country": "Italy, Algeria",
+  "description": "Captures insurgency and counter-insurgency as procedures. Staged like newsreel, with no hero on either side, as Algiers becomes a chessboard of cells, checkpoints and bombs.\n\nIn the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+  "director": [
+   "Gillo Pontecorvo"
+  ],
+  "dvdRelease": "2017-01-14T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0058946",
+  "moviedb_id": 17295,
+  "name": "The Battle of Algiers",
+  "popularity": 0.17047666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0058946/img",
+  "released": "1967-09-20T00:00:00.000Z",
+  "runtime": "122 min",
+  "trailers": [
+   {
+    "source": "vhhoS3zOskE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Franco Solinas",
+   "Gillo Pontecorvo"
+  ],
+  "year": "1967",
+  "background": "https://images.metahub.space/background/medium/tt0058946/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0058946/img",
+  "popularities": {
+   "moviedb": 5.1143,
+   "stremio": 0.17047666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/the-battle-of-algiers-0058946",
+  "id": "tt0058946",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1967",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Battle of Algiers",
+    "ytId": "vhhoS3zOskE"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0058946"
+   },
+   {
+    "name": "The Battle of Algiers",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-battle-of-algiers-0058946"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Brahim Hadjadj",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brahim%20Hadjadj"
+   },
+   {
+    "name": "Jean Martin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean%20Martin"
+   },
+   {
+    "name": "Yacef Saadi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yacef%20Saadi"
+   },
+   {
+    "name": "Franco Solinas",
+    "category": "Writers",
+    "url": "stremio:///search?search=Franco%20Solinas"
+   },
+   {
+    "name": "Gillo Pontecorvo",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gillo%20Pontecorvo"
+   },
+   {
+    "name": "Gillo Pontecorvo",
+    "category": "Directors",
+    "url": "stremio:///search?search=Gillo%20Pontecorvo"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0058946",
+   "hasScheduledVideos": false
+  }
+ }
+}

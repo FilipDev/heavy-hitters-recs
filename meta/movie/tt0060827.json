@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 8 wins & 4 nominations total",
+  "cast": [
+   "Bibi Andersson",
+   "Liv Ullmann",
+   "Margaretha Krook"
+  ],
+  "country": "Sweden",
+  "description": "Captures what happens when one person stops speaking and the other can't stop. A mute actress, her nurse, a summer house, and the boundary between them getting porous.\n\nA nurse is put in charge of a mute actress and finds that their personae are melding together.",
+  "director": [
+   "Ingmar Bergman"
+  ],
+  "dvdRelease": "2017-03-11T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0060827",
+  "moviedb_id": 797,
+  "name": "Persona",
+  "popularity": 0.19886666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0060827/img",
+  "released": "1967-03-16T00:00:00.000Z",
+  "runtime": "85 min",
+  "trailers": [
+   {
+    "source": "8ZO01M8k1mg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ingmar Bergman"
+  ],
+  "year": "1967",
+  "background": "https://images.metahub.space/background/medium/tt0060827/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0060827/img",
+  "popularities": {
+   "moviedb": 5.966,
+   "stremio": 0.19886666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/persona-0060827",
+  "id": "tt0060827",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1967",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Persona",
+    "ytId": "8ZO01M8k1mg"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0060827"
+   },
+   {
+    "name": "Persona",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/persona-0060827"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Bibi Andersson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bibi%20Andersson"
+   },
+   {
+    "name": "Liv Ullmann",
+    "category": "Cast",
+    "url": "stremio:///search?search=Liv%20Ullmann"
+   },
+   {
+    "name": "Margaretha Krook",
+    "category": "Cast",
+    "url": "stremio:///search?search=Margaretha%20Krook"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0060827",
+   "hasScheduledVideos": false
+  }
+ }
+}

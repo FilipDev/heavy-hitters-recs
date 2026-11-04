@@ -1,0 +1,109 @@
+{
+ "meta": {
+  "awards": "1 win & 1 nomination.",
+  "cast": [
+   "Michel Bouquet",
+   "Reinhard Heydrich",
+   "Heinrich Himmler",
+   "Adolf Hitler"
+  ],
+  "country": "France",
+  "description": "Captures the Holocaust through the quiet, empty camps a decade later rather than footage of the killing itself: grass growing over atrocity, and how quickly a society decides to move on. Resnais' 32-minute essay remains documentary's foundational act of memory.\n\nThe history of Nazi Germany's death camps of the Final Solution and the hellish world of dehumanization and death contained inside.",
+  "director": [
+   "Alain Resnais"
+  ],
+  "dvdRelease": "2003-06-23T21:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Short",
+   "History"
+  ],
+  "imdbRating": "8.6",
+  "imdb_id": "tt0048434",
+  "moviedb_id": 803,
+  "name": "Night and Fog",
+  "poster": "https://images.metahub.space/poster/small/tt0048434/img",
+  "released": null,
+  "runtime": "32 min",
+  "trailers": [
+   {
+    "source": "5qGQTFJx-t0",
+    "type": "Clip"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jean Cayrol (commentary)"
+  ],
+  "year": "1955",
+  "popularities": {
+   "moviedb": 0.0582523702542813
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt0048434/img",
+  "background": "https://images.metahub.space/background/medium/tt0048434/img",
+  "id": "tt0048434",
+  "genres": [
+   "Documentary",
+   "Short",
+   "History"
+  ],
+  "releaseInfo": "1955",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "8.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0048434"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Short",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Short"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Michel Bouquet",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michel%20Bouquet"
+   },
+   {
+    "name": "Reinhard Heydrich",
+    "category": "Cast",
+    "url": "stremio:///search?search=Reinhard%20Heydrich"
+   },
+   {
+    "name": "Heinrich Himmler",
+    "category": "Cast",
+    "url": "stremio:///search?search=Heinrich%20Himmler"
+   },
+   {
+    "name": "Adolf Hitler",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adolf%20Hitler"
+   },
+   {
+    "name": "Jean Cayrol (commentary)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean%20Cayrol%20(commentary)"
+   },
+   {
+    "name": "Alain Resnais",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alain%20Resnais"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0048434",
+   "hasScheduledVideos": false
+  }
+ }
+}

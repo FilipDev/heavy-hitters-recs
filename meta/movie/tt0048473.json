@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 11 wins & 3 nominations total",
+  "cast": [
+   "Kanu Bannerjee",
+   "Karuna Bannerjee",
+   "Subir Banerjee"
+  ],
+  "country": "India",
+  "description": "Captures lyricism at ground level. Ray's Bengal village childhood — Apu and his sister Durga, the monsoon arriving like a miracle — where poverty is filmed as a complete sensory world rather than a condition to be pitied.\n\nImpoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+  "director": [
+   "Satyajit Ray"
+  ],
+  "dvdRelease": "2015-10-20T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0048473",
+  "moviedb_id": 5801,
+  "name": "Pather Panchali",
+  "popularity": 0.10785333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0048473/img",
+  "released": "1955-08-26T00:00:00.000Z",
+  "runtime": "125 min",
+  "trailers": [
+   {
+    "source": "mgv68E_o6VM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Bibhutibhushan Bandyopadhyay",
+   "Satyajit Ray"
+  ],
+  "year": "1955",
+  "background": "https://images.metahub.space/background/medium/tt0048473/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0048473/img",
+  "popularities": {
+   "moviedb": 3.2356,
+   "stremio": 0.10785333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/pather-panchali-0048473",
+  "id": "tt0048473",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1955",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Pather Panchali",
+    "ytId": "mgv68E_o6VM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0048473"
+   },
+   {
+    "name": "Pather Panchali",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/pather-panchali-0048473"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Kanu Bannerjee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kanu%20Bannerjee"
+   },
+   {
+    "name": "Karuna Bannerjee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Karuna%20Bannerjee"
+   },
+   {
+    "name": "Subir Banerjee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Subir%20Banerjee"
+   },
+   {
+    "name": "Bibhutibhushan Bandyopadhyay",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bibhutibhushan%20Bandyopadhyay"
+   },
+   {
+    "name": "Satyajit Ray",
+    "category": "Writers",
+    "url": "stremio:///search?search=Satyajit%20Ray"
+   },
+   {
+    "name": "Satyajit Ray",
+    "category": "Directors",
+    "url": "stremio:///search?search=Satyajit%20Ray"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0048473",
+   "hasScheduledVideos": false
+  }
+ }
+}

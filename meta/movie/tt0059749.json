@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 10 wins & 5 nominations total",
+  "cast": [
+   "Richard Burton",
+   "Oskar Werner",
+   "Claire Bloom"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures Cold War spycraft as exhaustion and managed betrayal. A burnt agent is sent on one last operation that requires him to become genuinely washed up — the bleakest, most honest of the Le Carré films.\n\nInstead of coming in from field work during the Cold War and taking a desk job, British intelligence agent Alec Leamas chooses to take on another assignment.",
+  "director": [
+   "Martin Ritt"
+  ],
+  "dvdRelease": "2012-02-08T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0059749",
+  "moviedb_id": 13580,
+  "name": "The Spy Who Came in from the Cold",
+  "popularity": 0.12784333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0059749/img",
+  "released": "1965-12-16T00:00:00.000Z",
+  "runtime": "112 min",
+  "trailers": [
+   {
+    "source": "52_3k1R3O9Q",
+    "type": "Trailer"
+   },
+   {
+    "source": "ixTaTXAvcqs",
+    "type": "Trailer"
+   },
+   {
+    "source": "vlYK9AoQlOc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "John le Carré",
+   "Paul Dehn",
+   "Guy Trosper"
+  ],
+  "year": "1965",
+  "popularities": {
+   "moviedb": 3.8353,
+   "stremio": 0.12784333333333334,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0059749/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0059749/img",
+  "slug": "movie/the-spy-who-came-in-from-the-cold-0059749",
+  "id": "tt0059749",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1965",
+  "trailerStreams": [
+   {
+    "title": "The Spy Who Came in from the Cold",
+    "ytId": "52_3k1R3O9Q"
+   },
+   {
+    "title": "The Spy Who Came in from the Cold",
+    "ytId": "ixTaTXAvcqs"
+   },
+   {
+    "title": "The Spy Who Came in from the Cold",
+    "ytId": "vlYK9AoQlOc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0059749"
+   },
+   {
+    "name": "The Spy Who Came in from the Cold",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-spy-who-came-in-from-the-cold-0059749"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Richard Burton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Richard%20Burton"
+   },
+   {
+    "name": "Oskar Werner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Oskar%20Werner"
+   },
+   {
+    "name": "Claire Bloom",
+    "category": "Cast",
+    "url": "stremio:///search?search=Claire%20Bloom"
+   },
+   {
+    "name": "John le Carré",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20le%20Carr%C3%A9"
+   },
+   {
+    "name": "Paul Dehn",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paul%20Dehn"
+   },
+   {
+    "name": "Guy Trosper",
+    "category": "Writers",
+    "url": "stremio:///search?search=Guy%20Trosper"
+   },
+   {
+    "name": "Martin Ritt",
+    "category": "Directors",
+    "url": "stremio:///search?search=Martin%20Ritt"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0059749",
+   "hasScheduledVideos": false
+  }
+ }
+}

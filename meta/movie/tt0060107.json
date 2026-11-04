@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "5 wins & 1 nomination total",
+  "cast": [
+   "Anatoliy Solonitsyn",
+   "Ivan Lapikov",
+   "Nikolay Grinko"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures an artist trying to make images of faith in a world of mud and violence. Medieval Russia through its greatest icon painter: raids, pagan festivals, and a boy casting a bell he may not know how to cast.\n\nThe life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev.",
+  "director": [
+   "Andrei Tarkovsky"
+  ],
+  "dvdRelease": "2018-09-29T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0060107",
+  "moviedb_id": 895,
+  "name": "Andrei Rublev",
+  "popularity": 0.19659333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0060107/img",
+  "released": "1973-10-01T00:00:00.000Z",
+  "runtime": "183 min",
+  "trailers": [
+   {
+    "source": "fYy9lhLqtEw",
+    "type": "Trailer"
+   },
+   {
+    "source": "t1d5FSyMEd8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Andrei Konchalovsky",
+   "Andrei Tarkovsky"
+  ],
+  "year": "1966",
+  "background": "https://images.metahub.space/background/medium/tt0060107/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0060107/img",
+  "popularities": {
+   "moviedb": 5.8978,
+   "stremio": 0.19659333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/andrei-rublev-0060107",
+  "id": "tt0060107",
+  "genres": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1966",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Andrei Rublev",
+    "ytId": "fYy9lhLqtEw"
+   },
+   {
+    "title": "Andrei Rublev",
+    "ytId": "t1d5FSyMEd8"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0060107"
+   },
+   {
+    "name": "Andrei Rublev",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/andrei-rublev-0060107"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Anatoliy Solonitsyn",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anatoliy%20Solonitsyn"
+   },
+   {
+    "name": "Ivan Lapikov",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ivan%20Lapikov"
+   },
+   {
+    "name": "Nikolay Grinko",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nikolay%20Grinko"
+   },
+   {
+    "name": "Andrei Konchalovsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrei%20Konchalovsky"
+   },
+   {
+    "name": "Andrei Tarkovsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrei%20Tarkovsky"
+   },
+   {
+    "name": "Andrei Tarkovsky",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andrei%20Tarkovsky"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0060107",
+   "hasScheduledVideos": false
+  }
+ }
+}

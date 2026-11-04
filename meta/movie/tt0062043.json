@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "id": "tt0062043",
+  "imdb_id": "tt0062043",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0062043/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0062043/img",
+  "background": "https://live.metahub.space/background/medium/tt0062043/img",
+  "moviedb_id": 85692,
+  "name": "A Man Vanishes",
+  "description": "Captures a documentary dissolving into fiction: Imamura investigates a missing salesman, but the fiancée and the lead actress fall for each other, and he pulls the set apart on camera to admit the investigation has become something else.\n\nA Man Vanishes examines the concept of Johatsu, tackling the phenomenon of people missing in Japan over the years. It picks one such person from the list, someone who had seemed to disappear from the face of the earth due to embezzlement from his company, and the filmmakers begin an investigative documentary into the reasons behind and attempt at tracking him down.",
+  "genres": [
+   "Drama",
+   "Documentary"
+  ],
+  "releaseInfo": "1967",
+  "runtime": "130 min",
+  "trailers": [
+   {
+    "source": "xZQywgSjg84",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Yoshie Hayakawa",
+   "Shōhei Imamura",
+   "Shigeru Tsuyuguchi"
+  ],
+  "credits_cast": [
+   {
+    "character": "Self",
+    "name": "Yoshie Hayakawa",
+    "profile_path": "/qclCFaI1uZ96xwPByCGdXl6j2Sy.jpg",
+    "id": 1086510
+   },
+   {
+    "character": "Self",
+    "name": "Shōhei Imamura",
+    "profile_path": "/6eHOTp1bsF9u3j8YinafjhTimnp.jpg",
+    "id": 20025
+   },
+   {
+    "character": "Self",
+    "name": "Shigeru Tsuyuguchi",
+    "profile_path": "/9VvzW68ZYtiHvftWpZyxg1PYXC7.jpg",
+    "id": 142491
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Shōhei Imamura",
+    "profile_path": "/6eHOTp1bsF9u3j8YinafjhTimnp.jpg",
+    "id": 20025
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Shōhei Imamura",
+    "profile_path": "/6eHOTp1bsF9u3j8YinafjhTimnp.jpg",
+    "id": 20025
+   }
+  ],
+  "director": [
+   "Shōhei Imamura"
+  ],
+  "imdbRating": "7.1",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "1 win",
+  "slug": "movie/a-man-vanishes-0062043",
+  "behaviorHints": {
+   "defaultVideoId": "tt0062043",
+   "hasScheduledVideos": false
+  }
+ }
+}

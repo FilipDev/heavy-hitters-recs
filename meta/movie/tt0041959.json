@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 6 wins & 4 nominations total",
+  "cast": [
+   "Orson Welles",
+   "Joseph Cotten",
+   "Alida Valli"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures friendship curdling in a ruined, divided city. Postwar Vienna: a pulp writer arrives to find his friend dead and getting saintlier the less sense the story makes — zither music, sewers, and the ferris wheel speech.\n\nPulp novelist Holly Martins travels to shadowy, mystifying post-war Vienna only to find himself investigating the mysterious sudden death of old friend Harry Lime.",
+  "director": [
+   "Carol Reed"
+  ],
+  "dvdRelease": "2009-09-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Film-Noir",
+   "Mystery"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0041959",
+  "moviedb_id": 1092,
+  "name": "The Third Man",
+  "popularity": 0.24579,
+  "poster": "https://images.metahub.space/poster/small/tt0041959/img",
+  "released": "1950-02-01T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "Y7nwySBGqCo",
+    "type": "Trailer"
+   },
+   {
+    "source": "z40GSfq5Scc",
+    "type": "Trailer"
+   },
+   {
+    "source": "U1LTnOvPiZQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "MMxj32oe3s8",
+    "type": "Trailer"
+   },
+   {
+    "source": "r9yyDEDGlr0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Graham Greene",
+   "Alexander Korda",
+   "Carol Reed"
+  ],
+  "year": "1950",
+  "background": "https://images.metahub.space/background/medium/tt0041959/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0041959/img",
+  "popularities": {
+   "moviedb": 7.3737,
+   "stremio": 0.24579,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-third-man-0041959",
+  "id": "tt0041959",
+  "genres": [
+   "Drama",
+   "Film-Noir",
+   "Mystery"
+  ],
+  "releaseInfo": "1950",
+  "trailerStreams": [
+   {
+    "title": "The Third Man",
+    "ytId": "Y7nwySBGqCo"
+   },
+   {
+    "title": "The Third Man",
+    "ytId": "z40GSfq5Scc"
+   },
+   {
+    "title": "The Third Man",
+    "ytId": "U1LTnOvPiZQ"
+   },
+   {
+    "title": "The Third Man",
+    "ytId": "MMxj32oe3s8"
+   },
+   {
+    "title": "The Third Man",
+    "ytId": "r9yyDEDGlr0"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0041959"
+   },
+   {
+    "name": "The Third Man",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-third-man-0041959"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Film-Noir",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Film-Noir"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Orson Welles",
+    "category": "Cast",
+    "url": "stremio:///search?search=Orson%20Welles"
+   },
+   {
+    "name": "Joseph Cotten",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joseph%20Cotten"
+   },
+   {
+    "name": "Alida Valli",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alida%20Valli"
+   },
+   {
+    "name": "Graham Greene",
+    "category": "Writers",
+    "url": "stremio:///search?search=Graham%20Greene"
+   },
+   {
+    "name": "Alexander Korda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alexander%20Korda"
+   },
+   {
+    "name": "Carol Reed",
+    "category": "Writers",
+    "url": "stremio:///search?search=Carol%20Reed"
+   },
+   {
+    "name": "Carol Reed",
+    "category": "Directors",
+    "url": "stremio:///search?search=Carol%20Reed"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0041959",
+   "hasScheduledVideos": false
+  }
+ }
+}

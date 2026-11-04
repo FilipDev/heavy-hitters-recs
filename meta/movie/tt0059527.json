@@ -1,0 +1,128 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 6 wins & 4 nominations total",
+  "cast": [
+   "Ida Kaminska",
+   "Jozef Kroner",
+   "František Zvarík"
+  ],
+  "country": "Czechoslovakia",
+  "description": "Captures collaboration at its smallest and most cowardly. A Slovak carpenter handed a Jewish widow's button shop under Aryanization laws hides her instead of profiting — comic and gentle, until the roundup comes anyway.\n\nA carpenter in the Fascist Slovak State is appointed \"Aryan controller\" of a Jewish widow's store.",
+  "director": [
+   "Ján Kadár",
+   "Elmar Klos"
+  ],
+  "dvdRelease": "2017-05-04T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0059527",
+  "moviedb_id": 25905,
+  "name": "The Shop on Main Street",
+  "popularity": 0.06496333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0059527/img",
+  "released": "1966-01-24T00:00:00.000Z",
+  "runtime": "128 min",
+  "trailers": [
+   {
+    "source": "gvZE9Yuxkyg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ladislav Grosman",
+   "Ján Kadár",
+   "Elmar Klos"
+  ],
+  "year": "1966",
+  "popularities": {
+   "moviedb": 1.9489,
+   "stremio": 0.06496333333333333,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-shop-on-main-street-0059527",
+  "background": "https://images.metahub.space/background/medium/tt0059527/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0059527/img",
+  "id": "tt0059527",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1966",
+  "trailerStreams": [
+   {
+    "title": "The Shop on Main Street",
+    "ytId": "gvZE9Yuxkyg"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0059527"
+   },
+   {
+    "name": "The Shop on Main Street",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-shop-on-main-street-0059527"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Ida Kaminska",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ida%20Kaminska"
+   },
+   {
+    "name": "Jozef Kroner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jozef%20Kroner"
+   },
+   {
+    "name": "František Zvarík",
+    "category": "Cast",
+    "url": "stremio:///search?search=Franti%C5%A1ek%20Zvar%C3%ADk"
+   },
+   {
+    "name": "Ladislav Grosman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ladislav%20Grosman"
+   },
+   {
+    "name": "Ján Kadár",
+    "category": "Writers",
+    "url": "stremio:///search?search=J%C3%A1n%20Kad%C3%A1r"
+   },
+   {
+    "name": "Elmar Klos",
+    "category": "Writers",
+    "url": "stremio:///search?search=Elmar%20Klos"
+   },
+   {
+    "name": "Ján Kadár",
+    "category": "Directors",
+    "url": "stremio:///search?search=J%C3%A1n%20Kad%C3%A1r"
+   },
+   {
+    "name": "Elmar Klos",
+    "category": "Directors",
+    "url": "stremio:///search?search=Elmar%20Klos"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0059527",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "awards": "1 nomination total",
+  "cast": [
+   "Supriya Choudhury",
+   "Anil Chatterjee",
+   "Gyanesh Mukherjee"
+  ],
+  "country": "India",
+  "description": "Captures a woman being consumed by the goddess-provider role her culture assigned her. Ghatak's Calcutta family survives entirely on daughter Neeta's earnings and takes and takes, while the soundtrack whips and distorts under the melodrama — myth as the load-bearing structure.\n\nA selfless young woman (Supriya Choudhury) sacrifices her own happiness for her unappreciative family.",
+  "director": [
+   "Ritwik Ghatak"
+  ],
+  "dvdRelease": "2021-04-08T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0054073",
+  "moviedb_id": 59239,
+  "name": "The Cloud-Capped Star",
+  "popularity": 0.04513,
+  "poster": "https://images.metahub.space/poster/small/tt0054073/img",
+  "released": "1960-04-14T00:00:00.000Z",
+  "runtime": "127 min",
+  "trailers": [
+   {
+    "source": "ZAAv6fBh8q8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Samiran Dutta",
+   "Ritwik Ghatak",
+   "Shaktipada Rajguru"
+  ],
+  "year": "1960",
+  "popularities": {
+   "moviedb": 1.3539,
+   "stremio": 0.04513,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-cloud-capped-star-0054073",
+  "background": "https://images.metahub.space/background/medium/tt0054073/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0054073/img",
+  "id": "tt0054073",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1960",
+  "trailerStreams": [
+   {
+    "title": "The Cloud-Capped Star",
+    "ytId": "ZAAv6fBh8q8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0054073"
+   },
+   {
+    "name": "The Cloud-Capped Star",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-cloud-capped-star-0054073"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Supriya Choudhury",
+    "category": "Cast",
+    "url": "stremio:///search?search=Supriya%20Choudhury"
+   },
+   {
+    "name": "Anil Chatterjee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anil%20Chatterjee"
+   },
+   {
+    "name": "Gyanesh Mukherjee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gyanesh%20Mukherjee"
+   },
+   {
+    "name": "Samiran Dutta",
+    "category": "Writers",
+    "url": "stremio:///search?search=Samiran%20Dutta"
+   },
+   {
+    "name": "Ritwik Ghatak",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ritwik%20Ghatak"
+   },
+   {
+    "name": "Shaktipada Rajguru",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shaktipada%20Rajguru"
+   },
+   {
+    "name": "Ritwik Ghatak",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ritwik%20Ghatak"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0054073",
+   "hasScheduledVideos": false
+  }
+ }
+}

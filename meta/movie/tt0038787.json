@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 4 wins & 3 nominations total",
+  "cast": [
+   "Cary Grant",
+   "Ingrid Bergman",
+   "Claude Rains"
+  ],
+  "country": "United States",
+  "description": "Captures love being used as an intelligence asset. A woman is recruited to marry into a Nazi circle in Rio because of who her father was, by an agent unable to say the one thing that would make it bearable.\n\nThe daughter of a convicted German spy is asked by American agents to gather information on a ring of German scientists in South America. How far will she have to go to ingratiate herself with them?",
+  "director": [
+   "Alfred Hitchcock"
+  ],
+  "dvdRelease": "2008-10-14T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Film-Noir",
+   "Mystery"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0038787",
+  "moviedb_id": 303,
+  "name": "Notorious",
+  "popularity": 0.16324666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0038787/img",
+  "released": "1946-09-06T00:00:00.000Z",
+  "runtime": "103 min",
+  "trailers": [
+   {
+    "source": "H8f4UOtLf5Q",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ben Hecht",
+   "John Taintor Foote",
+   "Alfred Hitchcock"
+  ],
+  "year": "1946",
+  "background": "https://images.metahub.space/background/medium/tt0038787/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0038787/img",
+  "popularities": {
+   "moviedb": 4.8974,
+   "stremio": 0.16324666666666668,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/notorious-0038787",
+  "id": "tt0038787",
+  "genres": [
+   "Drama",
+   "Film-Noir",
+   "Mystery"
+  ],
+  "releaseInfo": "1946",
+  "trailerStreams": [
+   {
+    "title": "Notorious",
+    "ytId": "H8f4UOtLf5Q"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0038787"
+   },
+   {
+    "name": "Notorious",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/notorious-0038787"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Film-Noir",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Film-Noir"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Cary Grant",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cary%20Grant"
+   },
+   {
+    "name": "Ingrid Bergman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ingrid%20Bergman"
+   },
+   {
+    "name": "Claude Rains",
+    "category": "Cast",
+    "url": "stremio:///search?search=Claude%20Rains"
+   },
+   {
+    "name": "Ben Hecht",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ben%20Hecht"
+   },
+   {
+    "name": "John Taintor Foote",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20Taintor%20Foote"
+   },
+   {
+    "name": "Alfred Hitchcock",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alfred%20Hitchcock"
+   },
+   {
+    "name": "Alfred Hitchcock",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alfred%20Hitchcock"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0038787",
+   "hasScheduledVideos": false
+  }
+ }
+}

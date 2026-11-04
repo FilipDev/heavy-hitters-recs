@@ -1,0 +1,122 @@
+{
+ "meta": {
+  "awards": "3 wins",
+  "cast": [
+   "Victor Moore",
+   "Beulah Bondi",
+   "Fay Bainter"
+  ],
+  "country": "United States",
+  "description": "Captures old parents becoming an inconvenience to distribute. In the Depression a couple lose their house and their adult children split them between households 'temporarily' — politeness does the damage, and the farewell scene is unforgettable.\n\nAn elderly couple are forced to live hundreds of miles apart when they lose their house and none of their five children will take both parents in.",
+  "director": [
+   "Leo McCarey"
+  ],
+  "dvdRelease": "2010-02-23T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0029192",
+  "moviedb_id": 41059,
+  "name": "Make Way for Tomorrow",
+  "popularity": 0.07587,
+  "poster": "https://images.metahub.space/poster/small/tt0029192/img",
+  "released": "1937-07-22T00:00:00.000Z",
+  "runtime": "92 min",
+  "trailers": [
+   {
+    "source": "AeKsY3Kg2OU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Viña Delmar",
+   "Josephine Lawrence",
+   "Helen Leary"
+  ],
+  "year": "1937",
+  "popularities": {
+   "moviedb": 2.2761,
+   "stremio": 0.07587,
+   "stremio_lib": 0
+  },
+  "slug": "movie/make-way-for-tomorrow-0029192",
+  "background": "https://images.metahub.space/background/medium/tt0029192/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0029192/img",
+  "id": "tt0029192",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1937",
+  "trailerStreams": [
+   {
+    "title": "Make Way for Tomorrow",
+    "ytId": "AeKsY3Kg2OU"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0029192"
+   },
+   {
+    "name": "Make Way for Tomorrow",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/make-way-for-tomorrow-0029192"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Victor Moore",
+    "category": "Cast",
+    "url": "stremio:///search?search=Victor%20Moore"
+   },
+   {
+    "name": "Beulah Bondi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Beulah%20Bondi"
+   },
+   {
+    "name": "Fay Bainter",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fay%20Bainter"
+   },
+   {
+    "name": "Viña Delmar",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vi%C3%B1a%20Delmar"
+   },
+   {
+    "name": "Josephine Lawrence",
+    "category": "Writers",
+    "url": "stremio:///search?search=Josephine%20Lawrence"
+   },
+   {
+    "name": "Helen Leary",
+    "category": "Writers",
+    "url": "stremio:///search?search=Helen%20Leary"
+   },
+   {
+    "name": "Leo McCarey",
+    "category": "Directors",
+    "url": "stremio:///search?search=Leo%20McCarey"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0029192",
+   "hasScheduledVideos": false
+  }
+ }
+}

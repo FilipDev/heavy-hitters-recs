@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 11 wins & 6 nominations total",
+  "cast": [
+   "Burt Lancaster",
+   "Alain Delon",
+   "Claudia Cardinale"
+  ],
+  "country": "Italy, France",
+  "description": "Captures pageantry as an instrument for measuring decay. Visconti's Sicilian prince watches his class dissolve during Italian unification, and the film saves its greatest set piece for a 45-minute ball where the old world dances beautifully with the one replacing it.\n\nThe Prince of Salina, a noble aristocrat of impeccable integrity, tries to preserve his family and class amid the tumultuous social upheavals of 1860s Sicily.",
+  "director": [
+   "Luchino Visconti"
+  ],
+  "dvdRelease": "2003-06-24T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0057091",
+  "moviedb_id": 1040,
+  "name": "The Leopard",
+  "popularity": 0.16256333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0057091/img",
+  "released": "1963-03-29T00:00:00.000Z",
+  "runtime": "186 min",
+  "trailers": [
+   {
+    "source": "06f7f24lpUI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Giuseppe Tomasi di Lampedusa",
+   "Suso Cecchi D&apos;Amico",
+   "Pasquale Festa Campanile"
+  ],
+  "year": "1963",
+  "popularities": {
+   "moviedb": 4.8769,
+   "stremio": 0.16256333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0057091/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0057091/img",
+  "slug": "movie/the-leopard-0057091",
+  "id": "tt0057091",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1963",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Leopard",
+    "ytId": "06f7f24lpUI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0057091"
+   },
+   {
+    "name": "The Leopard",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-leopard-0057091"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Burt Lancaster",
+    "category": "Cast",
+    "url": "stremio:///search?search=Burt%20Lancaster"
+   },
+   {
+    "name": "Alain Delon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alain%20Delon"
+   },
+   {
+    "name": "Claudia Cardinale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Claudia%20Cardinale"
+   },
+   {
+    "name": "Giuseppe Tomasi di Lampedusa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Giuseppe%20Tomasi%20di%20Lampedusa"
+   },
+   {
+    "name": "Suso Cecchi D&apos;Amico",
+    "category": "Writers",
+    "url": "stremio:///search?search=Suso%20Cecchi%20D%26apos%3BAmico"
+   },
+   {
+    "name": "Pasquale Festa Campanile",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pasquale%20Festa%20Campanile"
+   },
+   {
+    "name": "Luchino Visconti",
+    "category": "Directors",
+    "url": "stremio:///search?search=Luchino%20Visconti"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0057091",
+   "hasScheduledVideos": false
+  }
+ }
+}

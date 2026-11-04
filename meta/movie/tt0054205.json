@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "imdb_id": "tt0054205",
+  "awards": "1 win total",
+  "cast": [
+   "Robert Drew",
+   "Hubert H. Humphrey",
+   "Muriel Buck Humphrey"
+  ],
+  "country": "United States",
+  "description": "Captures the moment politics and television fused, visible as it happens. The film that invented American cinéma vérité: newly portable sync-sound cameras follow Kennedy and Humphrey through the 1960 Wisconsin primary, into rooms no camera had entered before.\n\nCinéma vérité feature that follows presidential hopefuls John F. Kennedy and Hubert H. Humphrey during the 1960 Wisconsin primary.",
+  "director": [
+   "Robert Drew"
+  ],
+  "dvdRelease": "2016-04-26T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "History",
+   "News"
+  ],
+  "imdbRating": "7.1",
+  "name": "Primary",
+  "poster": "https://images.metahub.space/poster/small/tt0054205/img",
+  "released": null,
+  "runtime": "53 min",
+  "slug": "movie/primary-0054205",
+  "type": "movie",
+  "writer": [
+   "Robert Drew"
+  ],
+  "year": "1960",
+  "moviedb_id": 133,
+  "popularities": {
+   "moviedb": 1.2353,
+   "stremio": 0.04117666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [],
+  "background": "https://images.metahub.space/background/medium/tt0054205/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0054205/img",
+  "popularity": 0.04117666666666667,
+  "id": "tt0054205",
+  "genres": [
+   "Documentary",
+   "History",
+   "News"
+  ],
+  "releaseInfo": "1960",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0054205"
+   },
+   {
+    "name": "Primary",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/primary-0054205"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "News",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=News"
+   },
+   {
+    "name": "Robert Drew",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20Drew"
+   },
+   {
+    "name": "Hubert H. Humphrey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hubert%20H.%20Humphrey"
+   },
+   {
+    "name": "Muriel Buck Humphrey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Muriel%20Buck%20Humphrey"
+   },
+   {
+    "name": "Robert Drew",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robert%20Drew"
+   },
+   {
+    "name": "Robert Drew",
+    "category": "Directors",
+    "url": "stremio:///search?search=Robert%20Drew"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0054205",
+   "hasScheduledVideos": false
+  }
+ }
+}

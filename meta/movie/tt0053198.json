@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 8 wins & 5 nominations total",
+  "cast": [
+   "Jean-Pierre Léaud",
+   "Albert Rémy",
+   "Claire Maurier"
+  ],
+  "country": "France",
+  "description": "Captures a boy being processed into a delinquent. Paris, a cramped flat, a teacher, small lies compounding into reform school — and a final run to the sea in one long take, ending on his face.\n\nA young boy, left without attention, delves into a life of petty crime.",
+  "director": [
+   "François Truffaut"
+  ],
+  "dvdRelease": "2011-11-29T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0053198",
+  "moviedb_id": 147,
+  "name": "The 400 Blows",
+  "popularity": 0.29061,
+  "poster": "https://images.metahub.space/poster/small/tt0053198/img",
+  "released": "1959-11-16T00:00:00.000Z",
+  "runtime": "99 min",
+  "trailers": [
+   {
+    "source": "ICGZfU-9Yl0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "François Truffaut",
+   "Marcel Moussy"
+  ],
+  "year": "1959",
+  "popularities": {
+   "moviedb": 8.7183,
+   "stremio": 0.29061,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0053198/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0053198/img",
+  "slug": "movie/the-400-blows-0053198",
+  "id": "tt0053198",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1959",
+  "trailerStreams": [
+   {
+    "title": "The 400 Blows",
+    "ytId": "ICGZfU-9Yl0"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0053198"
+   },
+   {
+    "name": "The 400 Blows",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-400-blows-0053198"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Jean-Pierre Léaud",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Pierre%20L%C3%A9aud"
+   },
+   {
+    "name": "Albert Rémy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Albert%20R%C3%A9my"
+   },
+   {
+    "name": "Claire Maurier",
+    "category": "Cast",
+    "url": "stremio:///search?search=Claire%20Maurier"
+   },
+   {
+    "name": "François Truffaut",
+    "category": "Writers",
+    "url": "stremio:///search?search=Fran%C3%A7ois%20Truffaut"
+   },
+   {
+    "name": "Marcel Moussy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Marcel%20Moussy"
+   },
+   {
+    "name": "François Truffaut",
+    "category": "Directors",
+    "url": "stremio:///search?search=Fran%C3%A7ois%20Truffaut"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0053198",
+   "hasScheduledVideos": false
+  }
+ }
+}

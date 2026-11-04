@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 11 wins & 11 nominations total",
+  "cast": [
+   "Gene Kelly",
+   "Donald O&apos;Connor",
+   "Debbie Reynolds"
+  ],
+  "country": "United States",
+  "description": "Captures pure performed joy, inside a story about an industry panicking. Hollywood switching to sound, a star with a terrible voice, and musical numbers that still feel like showing off for the love of it.\n\nWhen Hollywood's silent era gives way to talkies, a dashing screen idol and a gifted newcomer navigate romance, rivalry, and the comic chaos of reinventing the movies.",
+  "director": [
+   "Stanley Donen",
+   "Gene Kelly"
+  ],
+  "dvdRelease": "2014-03-01T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Musical",
+   "Romance"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt0045152",
+  "moviedb_id": 872,
+  "name": "Singin' in the Rain",
+  "popularity": 0.2991266666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0045152/img",
+  "released": "1952-04-10T00:00:00.000Z",
+  "runtime": "103 min",
+  "trailers": [
+   {
+    "source": "lSE8sl2-PZg",
+    "type": "Trailer"
+   },
+   {
+    "source": "D-NJHUasYVA",
+    "type": "Trailer"
+   },
+   {
+    "source": "p159J4j4GDU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Betty Comden",
+   "Adolph Green"
+  ],
+  "year": "1952",
+  "background": "https://images.metahub.space/background/medium/tt0045152/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0045152/img",
+  "popularities": {
+   "moviedb": 8.9738,
+   "stremio": 0.2991266666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/singin-in-the-rain-0045152",
+  "id": "tt0045152",
+  "genres": [
+   "Comedy",
+   "Musical",
+   "Romance"
+  ],
+  "releaseInfo": "1952",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Singin' in the Rain",
+    "ytId": "lSE8sl2-PZg"
+   },
+   {
+    "title": "Singin' in the Rain",
+    "ytId": "D-NJHUasYVA"
+   },
+   {
+    "title": "Singin' in the Rain",
+    "ytId": "p159J4j4GDU"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0045152"
+   },
+   {
+    "name": "Singin' in the Rain",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/singin-in-the-rain-0045152"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Musical",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Musical"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Gene Kelly",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gene%20Kelly"
+   },
+   {
+    "name": "Donald O&apos;Connor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Donald%20O%26apos%3BConnor"
+   },
+   {
+    "name": "Debbie Reynolds",
+    "category": "Cast",
+    "url": "stremio:///search?search=Debbie%20Reynolds"
+   },
+   {
+    "name": "Betty Comden",
+    "category": "Writers",
+    "url": "stremio:///search?search=Betty%20Comden"
+   },
+   {
+    "name": "Adolph Green",
+    "category": "Writers",
+    "url": "stremio:///search?search=Adolph%20Green"
+   },
+   {
+    "name": "Stanley Donen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Stanley%20Donen"
+   },
+   {
+    "name": "Gene Kelly",
+    "category": "Directors",
+    "url": "stremio:///search?search=Gene%20Kelly"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0045152",
+   "hasScheduledVideos": false
+  }
+ }
+}

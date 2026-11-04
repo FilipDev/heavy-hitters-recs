@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "id": "tt0050800",
+  "imdb_id": "tt0050800",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0050800/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0050800/img",
+  "background": "https://live.metahub.space/background/medium/tt0050800/img",
+  "moviedb_id": 88051,
+  "name": "On the Bowery",
+  "description": "Captures neo-realist method eating its own ethics: Rogosin lived among New York's skid-row alcoholics, then had them play themselves in a story built from their lives, as the production's own drinking blurred every line.\n\nA mix of documentary and scripted footage on the Bowery, New York City's skid row. Against a backdrop of men (and a few women) drinking in bars, talking and arguing, and sleeping on sidewalks, we have the story of Ray.",
+  "genres": [
+   "Documentary",
+   "Drama"
+  ],
+  "releaseInfo": "1957",
+  "runtime": "65 min",
+  "trailers": [
+   {
+    "source": "WAyLzJlYpjo",
+    "type": "Trailer"
+   },
+   {
+    "source": "CHuYXEwCk_U",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Ray Salyer",
+   "Gorman Hendricks",
+   "Frank Matthews"
+  ],
+  "credits_cast": [
+   {
+    "character": "Self",
+    "name": "Ray Salyer",
+    "profile_path": null,
+    "id": 1049449
+   },
+   {
+    "character": "Self",
+    "name": "Gorman Hendricks",
+    "profile_path": null,
+    "id": 1049446
+   },
+   {
+    "character": "Self",
+    "name": "Frank Matthews",
+    "profile_path": null,
+    "id": 1049447
+   },
+   {
+    "character": "Self - Minister, Bowery Mission (uncredited)",
+    "name": "George L. Bolton",
+    "profile_path": null,
+    "id": 3359724
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Lionel Rogosin",
+    "profile_path": "/ahL0rwDJwrBPUI6C56QqfToA7uj.jpg",
+    "id": 933247
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Richard Bagley",
+    "profile_path": null,
+    "id": 2174773
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Lionel Rogosin",
+    "profile_path": "/ahL0rwDJwrBPUI6C56QqfToA7uj.jpg",
+    "id": 933247
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Mark Sufrin",
+    "profile_path": null,
+    "id": 3171842
+   }
+  ],
+  "director": [
+   "Lionel Rogosin"
+  ],
+  "imdbRating": "7.3",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "slug": "movie/on-the-bowery-0050800",
+  "behaviorHints": {
+   "defaultVideoId": "tt0050800",
+   "hasScheduledVideos": false
+  }
+ }
+}

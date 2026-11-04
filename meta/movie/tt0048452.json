@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "7 wins & 2 nominations total",
+  "cast": [
+   "Henrik Malberg",
+   "Emil Hass Christensen",
+   "Preben Lerdorff Rye"
+  ],
+  "country": "Denmark",
+  "description": "Captures a household of different faiths waiting on a miracle nobody respectable believes in. A Danish farm: a strict father, a son who thinks he is Jesus, a beloved daughter-in-law — very slow and plain, then an ending argued about for 70 years.\n\nA devout Danish family wrestle with their inner demons while also negotiating conflict with each other and the rest of the town.",
+  "director": [
+   "Carl Theodor Dreyer"
+  ],
+  "dvdRelease": "2010-05-11T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0048452",
+  "moviedb_id": 48035,
+  "name": "Ordet",
+  "popularity": 0.13732,
+  "poster": "https://images.metahub.space/poster/small/tt0048452/img",
+  "released": "1955-01-10T00:00:00.000Z",
+  "runtime": "125 min",
+  "trailers": [
+   {
+    "source": "-uQEPjRog84",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kaj Munk",
+   "Carl Theodor Dreyer"
+  ],
+  "year": "1955",
+  "popularities": {
+   "moviedb": 4.1196,
+   "stremio": 0.13732,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0048452/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0048452/img",
+  "slug": "movie/ordet-0048452",
+  "id": "tt0048452",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1955",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Ordet",
+    "ytId": "-uQEPjRog84"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0048452"
+   },
+   {
+    "name": "Ordet",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ordet-0048452"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Henrik Malberg",
+    "category": "Cast",
+    "url": "stremio:///search?search=Henrik%20Malberg"
+   },
+   {
+    "name": "Emil Hass Christensen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emil%20Hass%20Christensen"
+   },
+   {
+    "name": "Preben Lerdorff Rye",
+    "category": "Cast",
+    "url": "stremio:///search?search=Preben%20Lerdorff%20Rye"
+   },
+   {
+    "name": "Kaj Munk",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kaj%20Munk"
+   },
+   {
+    "name": "Carl Theodor Dreyer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Carl%20Theodor%20Dreyer"
+   },
+   {
+    "name": "Carl Theodor Dreyer",
+    "category": "Directors",
+    "url": "stremio:///search?search=Carl%20Theodor%20Dreyer"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0048452",
+   "hasScheduledVideos": false
+  }
+ }
+}

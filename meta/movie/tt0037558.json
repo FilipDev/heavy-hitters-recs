@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 Oscars. 4 wins & 3 nominations total",
+  "cast": [
+   "Celia Johnson",
+   "Trevor Howard",
+   "Stanley Holloway"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures desire that obeys the rules anyway. A doctor and a housewife meet in a railway station café, fall in love in weekly instalments, and give each other up — two ordinary people torn apart by behaving well.\n\nMeeting a stranger in a railway station, a woman is tempted to cheat on her husband.",
+  "director": [
+   "David Lean"
+  ],
+  "dvdRelease": "2016-11-18T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0037558",
+  "moviedb_id": 851,
+  "name": "Brief Encounter",
+  "popularity": 0.19337,
+  "poster": "https://images.metahub.space/poster/small/tt0037558/img",
+  "released": "1946-08-24T00:00:00.000Z",
+  "runtime": "86 min",
+  "trailers": [
+   {
+    "source": "TtIN_HQHBdA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Noël Coward",
+   "Anthony Havelock-Allan",
+   "David Lean"
+  ],
+  "year": "1946",
+  "popularities": {
+   "moviedb": 5.8011,
+   "stremio": 0.19337,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0037558/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0037558/img",
+  "slug": "movie/brief-encounter-0037558",
+  "id": "tt0037558",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1946",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Brief Encounter",
+    "ytId": "TtIN_HQHBdA"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0037558"
+   },
+   {
+    "name": "Brief Encounter",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/brief-encounter-0037558"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Celia Johnson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Celia%20Johnson"
+   },
+   {
+    "name": "Trevor Howard",
+    "category": "Cast",
+    "url": "stremio:///search?search=Trevor%20Howard"
+   },
+   {
+    "name": "Stanley Holloway",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stanley%20Holloway"
+   },
+   {
+    "name": "Noël Coward",
+    "category": "Writers",
+    "url": "stremio:///search?search=No%C3%ABl%20Coward"
+   },
+   {
+    "name": "Anthony Havelock-Allan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Anthony%20Havelock-Allan"
+   },
+   {
+    "name": "David Lean",
+    "category": "Writers",
+    "url": "stremio:///search?search=David%20Lean"
+   },
+   {
+    "name": "David Lean",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Lean"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0037558",
+   "hasScheduledVideos": false
+  }
+ }
+}

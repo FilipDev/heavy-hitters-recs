@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "awards": "Won 5 Oscars. 26 wins & 8 nominations total",
+  "cast": [
+   "Jack Lemmon",
+   "Shirley MacLaine",
+   "Fred MacMurray"
+  ],
+  "country": "United States",
+  "description": "Captures loneliness in a big company, and kindness as a decision. An insurance clerk lends his flat to executives for their affairs to get promoted, loves the elevator girl from afar, and hits Christmas at the lowest point of both.\n\nA Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters.",
+  "director": [
+   "Billy Wilder"
+  ],
+  "dvdRelease": "2016-03-29T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt0053604",
+  "moviedb_id": 284,
+  "name": "The Apartment",
+  "popularity": 0.2876166666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0053604/img",
+  "released": "1960-06-29T00:00:00.000Z",
+  "runtime": "126 min",
+  "trailers": [
+   {
+    "source": "ekDkUUPSWuY",
+    "type": "Trailer"
+   },
+   {
+    "source": "isjfwA0B5xQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "OcslkrBMLGc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Billy Wilder",
+   "I.A.L. Diamond"
+  ],
+  "year": "1960",
+  "background": "https://images.metahub.space/background/medium/tt0053604/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0053604/img",
+  "popularities": {
+   "moviedb": 8.6285,
+   "stremio": 0.2876166666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-apartment-0053604",
+  "id": "tt0053604",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1960",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Apartment",
+    "ytId": "ekDkUUPSWuY"
+   },
+   {
+    "title": "The Apartment",
+    "ytId": "isjfwA0B5xQ"
+   },
+   {
+    "title": "The Apartment",
+    "ytId": "OcslkrBMLGc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0053604"
+   },
+   {
+    "name": "The Apartment",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-apartment-0053604"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jack Lemmon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jack%20Lemmon"
+   },
+   {
+    "name": "Shirley MacLaine",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shirley%20MacLaine"
+   },
+   {
+    "name": "Fred MacMurray",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fred%20MacMurray"
+   },
+   {
+    "name": "Billy Wilder",
+    "category": "Writers",
+    "url": "stremio:///search?search=Billy%20Wilder"
+   },
+   {
+    "name": "I.A.L. Diamond",
+    "category": "Writers",
+    "url": "stremio:///search?search=I.A.L.%20Diamond"
+   },
+   {
+    "name": "Billy Wilder",
+    "category": "Directors",
+    "url": "stremio:///search?search=Billy%20Wilder"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0053604",
+   "hasScheduledVideos": false
+  }
+ }
+}

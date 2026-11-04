@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 18 wins & 1 nomination total",
+  "cast": [
+   "Lamberto Maggiorani",
+   "Enzo Staiola",
+   "Lianella Carell"
+  ],
+  "country": "Italy",
+  "description": "Captures poverty as shame in front of your child. A man finally gets work, his bike is stolen on day one, and he and his small son walk Rome searching for it — nothing else, and it is enough.\n\nIn post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+  "director": [
+   "Vittorio De Sica"
+  ],
+  "dvdRelease": "2016-03-29T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0040522",
+  "moviedb_id": 5156,
+  "name": "Bicycle Thieves",
+  "popularity": 0.20818666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0040522/img",
+  "released": "1949-12-13T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "H2P4xo9kmPM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Cesare Zavattini",
+   "Luigi Bartolini",
+   "Oreste Biancoli"
+  ],
+  "year": "1949",
+  "background": "https://images.metahub.space/background/medium/tt0040522/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0040522/img",
+  "popularities": {
+   "moviedb": 6.2456,
+   "stremio": 0.20818666666666666,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/bicycle-thieves-0040522",
+  "id": "tt0040522",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1949",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Bicycle Thieves",
+    "ytId": "H2P4xo9kmPM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0040522"
+   },
+   {
+    "name": "Bicycle Thieves",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/bicycle-thieves-0040522"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Lamberto Maggiorani",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lamberto%20Maggiorani"
+   },
+   {
+    "name": "Enzo Staiola",
+    "category": "Cast",
+    "url": "stremio:///search?search=Enzo%20Staiola"
+   },
+   {
+    "name": "Lianella Carell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lianella%20Carell"
+   },
+   {
+    "name": "Cesare Zavattini",
+    "category": "Writers",
+    "url": "stremio:///search?search=Cesare%20Zavattini"
+   },
+   {
+    "name": "Luigi Bartolini",
+    "category": "Writers",
+    "url": "stremio:///search?search=Luigi%20Bartolini"
+   },
+   {
+    "name": "Oreste Biancoli",
+    "category": "Writers",
+    "url": "stremio:///search?search=Oreste%20Biancoli"
+   },
+   {
+    "name": "Vittorio De Sica",
+    "category": "Directors",
+    "url": "stremio:///search?search=Vittorio%20De%20Sica"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0040522",
+   "hasScheduledVideos": false
+  }
+ }
+}

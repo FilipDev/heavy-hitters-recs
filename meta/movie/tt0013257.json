@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Benjamin Christensen",
+   "Elisabeth Christensen",
+   "Maren Pedersen"
+  ],
+  "country": "Sweden, Denmark",
+  "description": "Captures a lecture dissolving into delirium. Christensen's silent Swedish study of witchcraft keeps abandoning its own lecture format for re-enactments — sabbaths, torture chambers, possessed nuns — and from 1922 remains wilder than most folk horror made since.\n\nFictionalized documentary showing the evolution of witchcraft, from its pagan roots to its confusion with hysteria in Eastern Europe.",
+  "director": [
+   "Benjamin Christensen"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Fantasy",
+   "Horror"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0013257",
+  "moviedb_id": 57283,
+  "name": "Häxan",
+  "popularity": 0.10560666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0013257/img",
+  "released": "1929-05-27T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "ltDAAu7uEjw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Benjamin Christensen"
+  ],
+  "year": "1929",
+  "popularities": {
+   "moviedb": 3.1682,
+   "stremio": 0.10560666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0013257/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0013257/img",
+  "slug": "movie/hxan-0013257",
+  "id": "tt0013257",
+  "genres": [
+   "Documentary",
+   "Fantasy",
+   "Horror"
+  ],
+  "releaseInfo": "1929",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Häxan",
+    "ytId": "ltDAAu7uEjw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0013257"
+   },
+   {
+    "name": "Häxan",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/hxan-0013257"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Benjamin Christensen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Benjamin%20Christensen"
+   },
+   {
+    "name": "Elisabeth Christensen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Elisabeth%20Christensen"
+   },
+   {
+    "name": "Maren Pedersen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maren%20Pedersen"
+   },
+   {
+    "name": "Benjamin Christensen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Benjamin%20Christensen"
+   },
+   {
+    "name": "Benjamin Christensen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Benjamin%20Christensen"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0013257",
+   "hasScheduledVideos": false
+  }
+ }
+}

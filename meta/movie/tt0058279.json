@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 5 wins & 3 nominations total",
+  "cast": [
+   "Rentaro Mikuni",
+   "Michiyo Aratama",
+   "Misako Watanabe"
+  ],
+  "country": "Japan",
+  "description": "Captures folklore as pure painted atmosphere. Kobayashi adapts Lafcadio Hearn's ghost tales on vast studio sets — a snow spirit, a blind biwa player performing for the dead — the closest Japanese equivalent to Parajanov's tableau method.\n\nA collection of four Japanese folk tales with supernatural themes.",
+  "director": [
+   "Masaki Kobayashi"
+  ],
+  "dvdRelease": "2015-09-15T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0058279",
+  "moviedb_id": 30959,
+  "name": "Kwaidan",
+  "popularity": 0.15087333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0058279/img",
+  "released": "1965-11-22T00:00:00.000Z",
+  "runtime": "183 min",
+  "trailers": [
+   {
+    "source": "CWcyccePme4",
+    "type": "Trailer"
+   },
+   {
+    "source": "YadApPG8W7Q",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Yoko Mizuki",
+   "Lafcadio Hearn"
+  ],
+  "year": "1965",
+  "popularities": {
+   "moviedb": 4.5262,
+   "stremio": 0.15087333333333333,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0058279/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0058279/img",
+  "slug": "movie/kwaidan-0058279",
+  "id": "tt0058279",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "releaseInfo": "1965",
+  "trailerStreams": [
+   {
+    "title": "Kwaidan",
+    "ytId": "CWcyccePme4"
+   },
+   {
+    "title": "Kwaidan",
+    "ytId": "YadApPG8W7Q"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0058279"
+   },
+   {
+    "name": "Kwaidan",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/kwaidan-0058279"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Rentaro Mikuni",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rentaro%20Mikuni"
+   },
+   {
+    "name": "Michiyo Aratama",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michiyo%20Aratama"
+   },
+   {
+    "name": "Misako Watanabe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Misako%20Watanabe"
+   },
+   {
+    "name": "Yoko Mizuki",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yoko%20Mizuki"
+   },
+   {
+    "name": "Lafcadio Hearn",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lafcadio%20Hearn"
+   },
+   {
+    "name": "Masaki Kobayashi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Masaki%20Kobayashi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0058279",
+   "hasScheduledVideos": false
+  }
+ }
+}

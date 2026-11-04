@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "awards": "1 win",
+  "cast": [
+   "Zbigniew Cybulski",
+   "Iga Cembrzynska",
+   "Elzbieta Czyzewska"
+  ],
+  "country": "Poland",
+  "description": "Captures storytelling itself as a folk labyrinth. A Napoleonic officer finds a manuscript and falls into tales within tales within tales — gypsies, kabbalists, ghosts, duels — for three hours in Wojciech Has's nested Polish epic.\n\nUpon finding a book that relates his grandfather's story, an officer ventures through Spain meeting a wide array of characters, most of whom have a story of their own to tell.",
+  "director": [
+   "Wojciech Has"
+  ],
+  "dvdRelease": "2002-03-26T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0059643",
+  "moviedb_id": 8785,
+  "name": "The Saragossa Manuscript",
+  "popularity": 0.08474333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0059643/img",
+  "released": "1965-02-09T00:00:00.000Z",
+  "runtime": "183 min",
+  "trailers": [
+   {
+    "source": "knA_-a-bhKg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Tadeusz Kwiatkowski",
+   "Jan Potocki"
+  ],
+  "year": "1965",
+  "popularities": {
+   "moviedb": 2.5423,
+   "stremio": 0.08474333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-saragossa-manuscript-0059643",
+  "background": "https://images.metahub.space/background/medium/tt0059643/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0059643/img",
+  "id": "tt0059643",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1965",
+  "trailerStreams": [
+   {
+    "title": "The Saragossa Manuscript",
+    "ytId": "knA_-a-bhKg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0059643"
+   },
+   {
+    "name": "The Saragossa Manuscript",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-saragossa-manuscript-0059643"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Zbigniew Cybulski",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zbigniew%20Cybulski"
+   },
+   {
+    "name": "Iga Cembrzynska",
+    "category": "Cast",
+    "url": "stremio:///search?search=Iga%20Cembrzynska"
+   },
+   {
+    "name": "Elzbieta Czyzewska",
+    "category": "Cast",
+    "url": "stremio:///search?search=Elzbieta%20Czyzewska"
+   },
+   {
+    "name": "Tadeusz Kwiatkowski",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tadeusz%20Kwiatkowski"
+   },
+   {
+    "name": "Jan Potocki",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jan%20Potocki"
+   },
+   {
+    "name": "Wojciech Has",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wojciech%20Has"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0059643",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "imdb_id": "tt0058642",
+  "awards": "2 wins & 2 nominations",
+  "cast": [
+   "Ivan Mikolaychuk",
+   "Larisa Kadochnikova",
+   "Tatyana Bestayeva"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures a folk tale carried by image and ritual rather than plot. Parajanov's Hutsul lovers Ivan and Marichka move through Carpathian weddings, funerals and seasons in whirling camera work, saturated colour and embroidered imagery. The film Filip confirmed watching and enjoying.\n\nA timeless Carpathian story - the young Ivan falls in love with the daughter of his father's killer among the Hutsul people of Ukraine.",
+  "director": [
+   "Sergei Parajanov"
+  ],
+  "dvdRelease": "2017-03-14T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.8",
+  "name": "Shadows of Forgotten Ancestors",
+  "poster": "https://images.metahub.space/poster/small/tt0058642/img",
+  "released": "1965-09-04T00:00:00.000Z",
+  "runtime": "96 min",
+  "slug": "movie/shadows-of-forgotten-ancestors-0058642",
+  "type": "movie",
+  "writer": [
+   "Ivan Chendej",
+   "Mikhail Kotsiubinsky",
+   "Sergei Parajanov"
+  ],
+  "year": "1965",
+  "moviedb_id": 26782,
+  "popularities": {
+   "moviedb": 2.5031,
+   "stremio": 0.08343666666666666,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "YUjYKxO-JRQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "OeIzpWNG23Y",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0058642/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0058642/img",
+  "popularity": 0.08343666666666666,
+  "id": "tt0058642",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1965",
+  "trailerStreams": [
+   {
+    "title": "Shadows of Forgotten Ancestors",
+    "ytId": "YUjYKxO-JRQ"
+   },
+   {
+    "title": "Shadows of Forgotten Ancestors",
+    "ytId": "OeIzpWNG23Y"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0058642"
+   },
+   {
+    "name": "Shadows of Forgotten Ancestors",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/shadows-of-forgotten-ancestors-0058642"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Ivan Mikolaychuk",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ivan%20Mikolaychuk"
+   },
+   {
+    "name": "Larisa Kadochnikova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Larisa%20Kadochnikova"
+   },
+   {
+    "name": "Tatyana Bestayeva",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tatyana%20Bestayeva"
+   },
+   {
+    "name": "Ivan Chendej",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ivan%20Chendej"
+   },
+   {
+    "name": "Mikhail Kotsiubinsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mikhail%20Kotsiubinsky"
+   },
+   {
+    "name": "Sergei Parajanov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sergei%20Parajanov"
+   },
+   {
+    "name": "Sergei Parajanov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sergei%20Parajanov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0058642",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Abel Jacquin",
+   "Alexandre O'Neill"
+  ],
+  "country": "Spain",
+  "description": "Captures documentary dishonesty itself: Buñuel's authoritative 'ethnography' of a destitute Spanish region stages scenes, lets animals die for the camera and lies in a straight-faced voiceover — in 1933, before the form had even settled.\n\nA surrealistic documentary portrait of the region of Las Hurdes, a remote region of Spain where civilisation has barely developed, showing how the local peasants try to survive without even the most basic utilities and skills.",
+  "director": [
+   "Luis Buñuel"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Documentary",
+   "Short"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0023037",
+  "moviedb_id": 91,
+  "name": "Land Without Bread",
+  "poster": "https://images.metahub.space/poster/small/tt0023037/img",
+  "released": "1933-11-30T22:00:00.000Z",
+  "runtime": "30 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Luis Buñuel (commentary)",
+   "Luis Buñuel",
+   "Rafael Sánchez Ventura (commentary)",
+   "Pierre Unik (commentary)"
+  ],
+  "year": "1933",
+  "popularities": {
+   "moviedb": 0.00616111719677247
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt0023037/img",
+  "background": "https://images.metahub.space/background/medium/tt0023037/img",
+  "id": "tt0023037",
+  "genres": [
+   "Documentary",
+   "Short"
+  ],
+  "releaseInfo": "1933",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0023037"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Short",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Short"
+   },
+   {
+    "name": "Abel Jacquin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Abel%20Jacquin"
+   },
+   {
+    "name": "Alexandre O'Neill",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alexandre%20O'Neill"
+   },
+   {
+    "name": "Luis Buñuel (commentary)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Luis%20Bu%C3%B1uel%20(commentary)"
+   },
+   {
+    "name": "Luis Buñuel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Luis%20Bu%C3%B1uel"
+   },
+   {
+    "name": "Rafael Sánchez Ventura (commentary)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Rafael%20S%C3%A1nchez%20Ventura%20(commentary)"
+   },
+   {
+    "name": "Pierre Unik (commentary)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pierre%20Unik%20(commentary)"
+   },
+   {
+    "name": "Luis Buñuel",
+    "category": "Directors",
+    "url": "stremio:///search?search=Luis%20Bu%C3%B1uel"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0023037",
+   "hasScheduledVideos": false
+  }
+ }
+}

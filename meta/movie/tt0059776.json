@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt0059776",
+  "awards": "2 nominations total",
+  "cast": [
+   "János Görbe",
+   "Zoltán Latinovits",
+   "Tibor Molnár"
+  ],
+  "country": "Hungary",
+  "description": "Captures power as folk dance. On an endless white plain, authorities process prisoners from a peasant uprising through rituals of selection and betrayal, in Jancsó's choreographed long takes — nobody's psychology is explained, and the rituals are the point.\n\nIn Hungary, the national movement led by Kossuth has been crushed and the Austrian hegemony re-established, but partisans carry on with violent actions. In order to root out the guerilla, the army rounds up suspects and jails them...",
+  "director": [
+   "Miklós Jancsó"
+  ],
+  "dvdRelease": "1993-04-07T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History",
+   "War"
+  ],
+  "imdbRating": "7.5",
+  "name": "The Round-Up",
+  "poster": "https://images.metahub.space/poster/small/tt0059776/img",
+  "released": "1966-01-06T00:00:00.000Z",
+  "runtime": "91 min",
+  "slug": "movie/the-round-up-0059776",
+  "type": "movie",
+  "writer": [
+   "Gyula Hernádi"
+  ],
+  "year": "1966",
+  "moviedb_id": 94663,
+  "popularities": {
+   "moviedb": 1.2075,
+   "stremio": 0.04025,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "9Edloa6Ds84",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0059776/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0059776/img",
+  "popularity": 0.04025,
+  "id": "tt0059776",
+  "genres": [
+   "Drama",
+   "History",
+   "War"
+  ],
+  "releaseInfo": "1966",
+  "trailerStreams": [
+   {
+    "title": "The Round-Up",
+    "ytId": "9Edloa6Ds84"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0059776"
+   },
+   {
+    "name": "The Round-Up",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-round-up-0059776"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "János Görbe",
+    "category": "Cast",
+    "url": "stremio:///search?search=J%C3%A1nos%20G%C3%B6rbe"
+   },
+   {
+    "name": "Zoltán Latinovits",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zolt%C3%A1n%20Latinovits"
+   },
+   {
+    "name": "Tibor Molnár",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tibor%20Moln%C3%A1r"
+   },
+   {
+    "name": "Gyula Hernádi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gyula%20Hern%C3%A1di"
+   },
+   {
+    "name": "Miklós Jancsó",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mikl%C3%B3s%20Jancs%C3%B3"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0059776",
+   "hasScheduledVideos": false
+  }
+ }
+}

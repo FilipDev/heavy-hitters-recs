@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "2 wins & 1 nomination total",
+  "cast": [
+   "Robert Mitchum",
+   "Shelley Winters",
+   "Lillian Gish"
+  ],
+  "country": "United States",
+  "description": "Captures childhood danger as a fairy tale. A preacher with LOVE and HATE tattooed on his knuckles hunts two children down a river for hidden money; they flee by boat through a dreamlike, animal-watched night.\n\nA self-proclaimed preacher marries a gullible widow whose young children are reluctant to tell him where their real dad hid the $10,000 he'd stolen in a robbery.",
+  "director": [
+   "Charles Laughton"
+  ],
+  "dvdRelease": "2011-01-16T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0048424",
+  "moviedb_id": 3112,
+  "name": "The Night of the Hunter",
+  "popularity": 0.2104,
+  "poster": "https://images.metahub.space/poster/small/tt0048424/img",
+  "released": "1955-07-27T00:00:00.000Z",
+  "runtime": "93 min",
+  "trailers": [
+   {
+    "source": "GAxs6tChiKo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Davis Grubb",
+   "James Agee",
+   "Charles Laughton"
+  ],
+  "year": "1955",
+  "background": "https://images.metahub.space/background/medium/tt0048424/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0048424/img",
+  "popularities": {
+   "moviedb": 6.312,
+   "stremio": 0.2104,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-night-of-the-hunter-0048424",
+  "id": "tt0048424",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1955",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Night of the Hunter",
+    "ytId": "GAxs6tChiKo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0048424"
+   },
+   {
+    "name": "The Night of the Hunter",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-night-of-the-hunter-0048424"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Robert Mitchum",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20Mitchum"
+   },
+   {
+    "name": "Shelley Winters",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shelley%20Winters"
+   },
+   {
+    "name": "Lillian Gish",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lillian%20Gish"
+   },
+   {
+    "name": "Davis Grubb",
+    "category": "Writers",
+    "url": "stremio:///search?search=Davis%20Grubb"
+   },
+   {
+    "name": "James Agee",
+    "category": "Writers",
+    "url": "stremio:///search?search=James%20Agee"
+   },
+   {
+    "name": "Charles Laughton",
+    "category": "Writers",
+    "url": "stremio:///search?search=Charles%20Laughton"
+   },
+   {
+    "name": "Charles Laughton",
+    "category": "Directors",
+    "url": "stremio:///search?search=Charles%20Laughton"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0048424",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "1 nomination",
+  "cast": [
+   "Geraldo Del Rey",
+   "Yoná Magalhães",
+   "Othon Bastos"
+  ],
+  "country": "Brazil",
+  "description": "Captures a peasant world where religion and violence are the only available languages. Rocha's Brazilian sertão — a hired killer, a self-proclaimed saint gathering followers, a blind bandit-prophet — is filmed like a folk ballad being sung at gunpoint, in glare and dust.\n\nAfter killing his employer when he tries to cheat him out of his payment, a man becomes an outlaw and starts following a self-proclaimed saint.",
+  "director": [
+   "Glauber Rocha"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Adventure",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0058006",
+  "moviedb_id": 67612,
+  "name": "Black God, White Devil",
+  "popularity": 0.08474333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0058006/img",
+  "released": "1964-07-10T00:00:00.000Z",
+  "runtime": "120 min",
+  "trailers": [
+   {
+    "source": "06lr4b9vA60",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Walter Lima Jr.",
+   "Glauber Rocha",
+   "Paulo Gil Soares"
+  ],
+  "year": "1964",
+  "popularities": {
+   "moviedb": 2.5423,
+   "stremio": 0.08474333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/black-god-white-devil-0058006",
+  "background": "https://images.metahub.space/background/medium/tt0058006/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0058006/img",
+  "id": "tt0058006",
+  "genres": [
+   "Adventure",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1964",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Black God, White Devil",
+    "ytId": "06lr4b9vA60"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0058006"
+   },
+   {
+    "name": "Black God, White Devil",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/black-god-white-devil-0058006"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Geraldo Del Rey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Geraldo%20Del%20Rey"
+   },
+   {
+    "name": "Yoná Magalhães",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yon%C3%A1%20Magalh%C3%A3es"
+   },
+   {
+    "name": "Othon Bastos",
+    "category": "Cast",
+    "url": "stremio:///search?search=Othon%20Bastos"
+   },
+   {
+    "name": "Walter Lima Jr.",
+    "category": "Writers",
+    "url": "stremio:///search?search=Walter%20Lima%20Jr."
+   },
+   {
+    "name": "Glauber Rocha",
+    "category": "Writers",
+    "url": "stremio:///search?search=Glauber%20Rocha"
+   },
+   {
+    "name": "Paulo Gil Soares",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paulo%20Gil%20Soares"
+   },
+   {
+    "name": "Glauber Rocha",
+    "category": "Directors",
+    "url": "stremio:///search?search=Glauber%20Rocha"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0058006",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Georges Hubert",
+   "Nicole Ladmiral",
+   "Alfred Macquart",
+   "Maurice Griselle"
+  ],
+  "country": "France",
+  "description": "Captures the calm labour beneath a city's breakfast: Franju intercuts Paris waking at dawn with slaughterhouses already methodically killing horses and calves, workers chatting through the work, in twenty unflinching minutes.\n\nAn early example of ultra-realism, this movie contrasts the quiet, bucolic life in the outskirts of Paris with the harsh, gory conditions inside the nearby slaughterhouses. Describes the ...",
+  "director": [
+   "Georges Franju"
+  ],
+  "dvdRelease": "2005-10-17T21:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Short",
+   "Horror"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0041842",
+  "moviedb_id": 91262,
+  "name": "Blood of the Beasts",
+  "poster": "https://images.metahub.space/poster/small/tt0041842/img",
+  "released": null,
+  "runtime": "20 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Georges Franju"
+  ],
+  "year": "1949",
+  "popularities": {
+   "moviedb": 0.000165545532242336
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt0041842/img",
+  "background": "https://images.metahub.space/background/medium/tt0041842/img",
+  "id": "tt0041842",
+  "genres": [
+   "Documentary",
+   "Short",
+   "Horror"
+  ],
+  "releaseInfo": "1949",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0041842"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Short",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Short"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Georges Hubert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Georges%20Hubert"
+   },
+   {
+    "name": "Nicole Ladmiral",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nicole%20Ladmiral"
+   },
+   {
+    "name": "Alfred Macquart",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alfred%20Macquart"
+   },
+   {
+    "name": "Maurice Griselle",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maurice%20Griselle"
+   },
+   {
+    "name": "Georges Franju",
+    "category": "Writers",
+    "url": "stremio:///search?search=Georges%20Franju"
+   },
+   {
+    "name": "Georges Franju",
+    "category": "Directors",
+    "url": "stremio:///search?search=Georges%20Franju"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0041842",
+   "hasScheduledVideos": false
+  }
+ }
+}

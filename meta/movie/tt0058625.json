@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 11 wins & 3 nominations total",
+  "cast": [
+   "Eiji Okada",
+   "Kyôko Kishida",
+   "Koji Mitsui"
+  ],
+  "country": "Japan",
+  "description": "Captures entrapment becoming routine. A man is lowered into a sand pit to shovel beside the woman who already lives there; escape stays theoretically possible while the days quietly become a life.\n\nAn entomologist on vacation is trapped by local villagers into living with a woman whose life task is shoveling sand for them.",
+  "director": [
+   "Hiroshi Teshigahara"
+  ],
+  "dvdRelease": "2017-03-08T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "8.4",
+  "imdb_id": "tt0058625",
+  "moviedb_id": 16672,
+  "name": "Woman in the Dunes",
+  "popularity": 0.2615166666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0058625/img",
+  "released": "1964-10-25T00:00:00.000Z",
+  "runtime": "147 min",
+  "trailers": [
+   {
+    "source": "UFbJ9iDeZgg",
+    "type": "Trailer"
+   },
+   {
+    "source": "7kX4h_sEBiI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kôbô Abe",
+   "Eiko Yoshida"
+  ],
+  "year": "1964",
+  "background": "https://images.metahub.space/background/medium/tt0058625/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0058625/img",
+  "popularities": {
+   "moviedb": 7.8455,
+   "stremio": 0.2615166666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/woman-in-the-dunes-0058625",
+  "id": "tt0058625",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1964",
+  "trailerStreams": [
+   {
+    "title": "Woman in the Dunes",
+    "ytId": "UFbJ9iDeZgg"
+   },
+   {
+    "title": "Woman in the Dunes",
+    "ytId": "7kX4h_sEBiI"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0058625"
+   },
+   {
+    "name": "Woman in the Dunes",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/woman-in-the-dunes-0058625"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Eiji Okada",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eiji%20Okada"
+   },
+   {
+    "name": "Kyôko Kishida",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ky%C3%B4ko%20Kishida"
+   },
+   {
+    "name": "Koji Mitsui",
+    "category": "Cast",
+    "url": "stremio:///search?search=Koji%20Mitsui"
+   },
+   {
+    "name": "Kôbô Abe",
+    "category": "Writers",
+    "url": "stremio:///search?search=K%C3%B4b%C3%B4%20Abe"
+   },
+   {
+    "name": "Eiko Yoshida",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eiko%20Yoshida"
+   },
+   {
+    "name": "Hiroshi Teshigahara",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hiroshi%20Teshigahara"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0058625",
+   "hasScheduledVideos": false
+  }
+ }
+}

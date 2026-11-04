@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 6 wins & 2 nominations total",
+  "cast": [
+   "Takashi Shimura",
+   "Nobuo Kaneko",
+   "Shin&apos;ichi Himori"
+  ],
+  "country": "Japan",
+  "description": "Captures realising your life has been wasted, and doing one real thing. A Tokyo bureaucrat who stamped papers for 30 years, given a terminal diagnosis, spends his last months forcing one small park through the same bureaucracy.\n\nAn aging Tokyo bureaucrat, shaken by a grave diagnosis, breaks from his hollow routine and searches for meaning, connection, and one worthwhile act.",
+  "director": [
+   "Akira Kurosawa"
+  ],
+  "dvdRelease": "2015-10-27T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt0044741",
+  "moviedb_id": 3782,
+  "name": "Ikiru",
+  "popularity": 0.5069766666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0044741/img",
+  "released": "1956-03-25T00:00:00.000Z",
+  "runtime": "143 min",
+  "trailers": [
+   {
+    "source": "geKhyNerWM8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Akira Kurosawa",
+   "Shinobu Hashimoto",
+   "Hideo Oguni"
+  ],
+  "year": "1956",
+  "background": "https://images.metahub.space/background/medium/tt0044741/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0044741/img",
+  "popularities": {
+   "moviedb": 15.2093,
+   "stremio": 0.5069766666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/ikiru-0044741",
+  "id": "tt0044741",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1956",
+  "trailerStreams": [
+   {
+    "title": "Ikiru",
+    "ytId": "geKhyNerWM8"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0044741"
+   },
+   {
+    "name": "Ikiru",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ikiru-0044741"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Takashi Shimura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Takashi%20Shimura"
+   },
+   {
+    "name": "Nobuo Kaneko",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nobuo%20Kaneko"
+   },
+   {
+    "name": "Shin&apos;ichi Himori",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shin%26apos%3Bichi%20Himori"
+   },
+   {
+    "name": "Akira Kurosawa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Akira%20Kurosawa"
+   },
+   {
+    "name": "Shinobu Hashimoto",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shinobu%20Hashimoto"
+   },
+   {
+    "name": "Hideo Oguni",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hideo%20Oguni"
+   },
+   {
+    "name": "Akira Kurosawa",
+    "category": "Directors",
+    "url": "stremio:///search?search=Akira%20Kurosawa"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0044741",
+   "hasScheduledVideos": false
+  }
+ }
+}

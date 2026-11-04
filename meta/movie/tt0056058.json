@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "9 wins & 3 nominations total",
+  "cast": [
+   "Tatsuya Nakadai",
+   "Akira Ishihama",
+   "Shima Iwashita"
+  ],
+  "country": "Japan",
+  "description": "Captures an honour code as bureaucratic cruelty. A penniless samurai asks to die at a clan house; the story he tells, and the one they tell back, dismantle the whole code — a courtroom film with swords.\n\nWhen a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+  "director": [
+   "Masaki Kobayashi"
+  ],
+  "dvdRelease": "2017-03-11T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "8.6",
+  "imdb_id": "tt0056058",
+  "moviedb_id": 14537,
+  "name": "Harakiri",
+  "popularity": 0.47086666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0056058/img",
+  "released": "1964-08-04T00:00:00.000Z",
+  "runtime": "135 min",
+  "trailers": [
+   {
+    "source": "gfABwM-Ppng",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Yasuhiko Takiguchi",
+   "Shinobu Hashimoto"
+  ],
+  "year": "1964",
+  "background": "https://images.metahub.space/background/medium/tt0056058/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0056058/img",
+  "popularities": {
+   "moviedb": 14.126,
+   "stremio": 0.47086666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/harakiri-0056058",
+  "id": "tt0056058",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "1964",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Harakiri",
+    "ytId": "gfABwM-Ppng"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0056058"
+   },
+   {
+    "name": "Harakiri",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/harakiri-0056058"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Tatsuya Nakadai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tatsuya%20Nakadai"
+   },
+   {
+    "name": "Akira Ishihama",
+    "category": "Cast",
+    "url": "stremio:///search?search=Akira%20Ishihama"
+   },
+   {
+    "name": "Shima Iwashita",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shima%20Iwashita"
+   },
+   {
+    "name": "Yasuhiko Takiguchi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yasuhiko%20Takiguchi"
+   },
+   {
+    "name": "Shinobu Hashimoto",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shinobu%20Hashimoto"
+   },
+   {
+    "name": "Masaki Kobayashi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Masaki%20Kobayashi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0056058",
+   "hasScheduledVideos": false
+  }
+ }
+}

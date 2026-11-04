@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "awards": "1 win & 1 nomination",
+  "cast": [
+   "Ivana Karbanová",
+   "Jitka Cerhová",
+   "Marie Cesková"
+  ],
+  "country": "Czechoslovakia",
+  "description": "Captures two girls deciding the world is spoiled, so they'll be spoiled too. A Czech New Wave food-fight against everything — banquets wrecked, scissors, fire, a chandelier swing — anarchy as pure visual mischief.\n\nAfter realizing that all world is spoiled, Marie and Marie are committed to be spoiled themselves. They rip off older men, feast in lavish meals and do all kinds of mischief. But what is all this leading to?",
+  "director": [
+   "Vera Chytilová"
+  ],
+  "dvdRelease": "2019-06-13T00:00:00.000Z",
+  "genre": [
+   "Comedy"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0060959",
+  "moviedb_id": 46919,
+  "name": "Daisies",
+  "popularity": 0.10157666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0060959/img",
+  "released": "1966-12-30T00:00:00.000Z",
+  "runtime": "76 min",
+  "trailers": [
+   {
+    "source": "9vBGo95SJz4",
+    "type": "Trailer"
+   },
+   {
+    "source": "5F46fcTm5n4",
+    "type": "Trailer"
+   },
+   {
+    "source": "Yadb0bFHA1g",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Vera Chytilová",
+   "Pavel Jurácek",
+   "Ester Krumbachová"
+  ],
+  "year": "1966",
+  "popularities": {
+   "moviedb": 3.0473,
+   "stremio": 0.10157666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/daisies-0060959",
+  "background": "https://images.metahub.space/background/medium/tt0060959/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0060959/img",
+  "id": "tt0060959",
+  "genres": [
+   "Comedy"
+  ],
+  "releaseInfo": "1966",
+  "trailerStreams": [
+   {
+    "title": "Daisies",
+    "ytId": "9vBGo95SJz4"
+   },
+   {
+    "title": "Daisies",
+    "ytId": "5F46fcTm5n4"
+   },
+   {
+    "title": "Daisies",
+    "ytId": "Yadb0bFHA1g"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0060959"
+   },
+   {
+    "name": "Daisies",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/daisies-0060959"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Ivana Karbanová",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ivana%20Karbanov%C3%A1"
+   },
+   {
+    "name": "Jitka Cerhová",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jitka%20Cerhov%C3%A1"
+   },
+   {
+    "name": "Marie Cesková",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marie%20Ceskov%C3%A1"
+   },
+   {
+    "name": "Vera Chytilová",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vera%20Chytilov%C3%A1"
+   },
+   {
+    "name": "Pavel Jurácek",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pavel%20Jur%C3%A1cek"
+   },
+   {
+    "name": "Ester Krumbachová",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ester%20Krumbachov%C3%A1"
+   },
+   {
+    "name": "Vera Chytilová",
+    "category": "Directors",
+    "url": "stremio:///search?search=Vera%20Chytilov%C3%A1"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0060959",
+   "hasScheduledVideos": false
+  }
+ }
+}

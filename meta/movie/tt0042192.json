@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "Won 6 Oscars. 27 wins & 22 nominations total",
+  "cast": [
+   "Bette Davis",
+   "Anne Baxter",
+   "George Sanders"
+  ],
+  "country": "United States",
+  "description": "Captures ambition wearing perfect manners. A young fan insinuates herself into a Broadway star's life one helpful errand at a time; the dialogue is the sharpest ever written for this, and every adult sees the game a moment too late.\n\nA seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+  "director": [
+   "Joseph L. Mankiewicz"
+  ],
+  "dvdRelease": "2013-03-01T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0042192",
+  "moviedb_id": 705,
+  "name": "All About Eve",
+  "popularity": 0.18901333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0042192/img",
+  "released": "1950-10-27T00:00:00.000Z",
+  "runtime": "139 min",
+  "trailers": [
+   {
+    "source": "MILphnfj2mo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Joseph L. Mankiewicz",
+   "Mary Orr"
+  ],
+  "year": "1950",
+  "background": "https://images.metahub.space/background/medium/tt0042192/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0042192/img",
+  "popularities": {
+   "moviedb": 5.6704,
+   "stremio": 0.18901333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/all-about-eve-0042192",
+  "id": "tt0042192",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1950",
+  "trailerStreams": [
+   {
+    "title": "All About Eve",
+    "ytId": "MILphnfj2mo"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0042192"
+   },
+   {
+    "name": "All About Eve",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/all-about-eve-0042192"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Bette Davis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bette%20Davis"
+   },
+   {
+    "name": "Anne Baxter",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anne%20Baxter"
+   },
+   {
+    "name": "George Sanders",
+    "category": "Cast",
+    "url": "stremio:///search?search=George%20Sanders"
+   },
+   {
+    "name": "Joseph L. Mankiewicz",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joseph%20L.%20Mankiewicz"
+   },
+   {
+    "name": "Mary Orr",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mary%20Orr"
+   },
+   {
+    "name": "Joseph L. Mankiewicz",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joseph%20L.%20Mankiewicz"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0042192",
+   "hasScheduledVideos": false
+  }
+ }
+}

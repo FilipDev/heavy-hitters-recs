@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination total",
+  "cast": [
+   "Ingrid Thulin",
+   "Gunnar Björnstrand",
+   "Gunnel Lindblom"
+  ],
+  "country": "Sweden",
+  "description": "Captures a pastor performing comfort he cannot feel. A small Swedish church, a fisherman terrified of nuclear war, a woman who has read the priest's coldness exactly — an hour and twenty minutes of winter afternoon.\n\nA small-town priest struggles with his faith.",
+  "director": [
+   "Ingmar Bergman"
+  ],
+  "dvdRelease": "2018-11-20T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0057358",
+  "moviedb_id": 29455,
+  "name": "Winter Light",
+  "popularity": 0.17489666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0057358/img",
+  "released": "1963-04-05T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [
+   {
+    "source": "S_ihGR6Wung",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ingmar Bergman"
+  ],
+  "year": "1963",
+  "popularities": {
+   "moviedb": 5.2469,
+   "stremio": 0.17489666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/winter-light-0057358",
+  "background": "https://images.metahub.space/background/medium/tt0057358/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0057358/img",
+  "id": "tt0057358",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1963",
+  "trailerStreams": [
+   {
+    "title": "Winter Light",
+    "ytId": "S_ihGR6Wung"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0057358"
+   },
+   {
+    "name": "Winter Light",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/winter-light-0057358"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Ingrid Thulin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ingrid%20Thulin"
+   },
+   {
+    "name": "Gunnar Björnstrand",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gunnar%20Bj%C3%B6rnstrand"
+   },
+   {
+    "name": "Gunnel Lindblom",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gunnel%20Lindblom"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0057358",
+   "hasScheduledVideos": false
+  }
+ }
+}

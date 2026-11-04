@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "id": "tt0059655",
+  "imdb_id": "tt0059655",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0059655/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0059655/img",
+  "background": "https://live.metahub.space/background/medium/tt0059655/img",
+  "moviedb_id": 149455,
+  "name": "A Spring for the Thirsty",
+  "description": "Captures a parable filmed in a desert: an old well-keeper, visited by memory and strangers, photographed by Yuri Ilyenko — the cinematographer of Shadows — in stark images the Soviet authorities shelved for over twenty years.\n\nA parable centering on an old man who lives a secluded life in the desert, alone with only his memories and photographs. His wellspring, once a source of joy and hope for thirsty passersby, is now rarely used. No longer able to find comfort in his memories, he turns all his photographs to face the walls.",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1965",
+  "runtime": "73 min",
+  "trailers": [],
+  "cast": [
+   "Dmytro Milyutenko",
+   "Larysa Kadochnykova",
+   "Feodosiya Lytvynenko"
+  ],
+  "credits_cast": [
+   {
+    "character": "Levko Serdyuk",
+    "name": "Dmytro Milyutenko",
+    "profile_path": "/tDwaG7RhVcfbrevOj8aps05DoU5.jpg",
+    "id": 119569
+   },
+   {
+    "character": "Solomiya",
+    "name": "Larysa Kadochnykova",
+    "profile_path": "/9nNo8g8awZR9CDHl0TYO4EqOIOc.jpg",
+    "id": 96210
+   },
+   {
+    "character": "grandmother Chornukha",
+    "name": "Feodosiya Lytvynenko",
+    "profile_path": null,
+    "id": 1804107
+   },
+   {
+    "character": "Mariya",
+    "name": "Gemma Firsova",
+    "profile_path": "/jl8Nw5h4mCdRvuP3CrGuVAF6rp.jpg",
+    "id": 1804103
+   },
+   {
+    "character": "Paraska",
+    "name": "Nina Alisova",
+    "profile_path": "/7v0luDT4AudKZ7GNZDclY1jFg4z.jpg",
+    "id": 96214
+   },
+   {
+    "character": "Maksym",
+    "name": "Yevhen Baliyev",
+    "profile_path": null,
+    "id": 1804109
+   },
+   {
+    "character": "Petro",
+    "name": "Yurii Mazhuha",
+    "profile_path": "/xQ5mIj1Z16MgCGhXR1iE3fFRhCA.jpg",
+    "id": 927726
+   },
+   {
+    "character": "Natalka",
+    "name": "Olena Kovalenko",
+    "profile_path": "/p7rvFKEsr16zt6ch6ZulMdgKEtC.jpg",
+    "id": 2601378
+   },
+   {
+    "character": "Artem",
+    "name": "Konstantin Ershov",
+    "profile_path": "/aaVNhCDrpMADOnAnMJ9ryrRLGqn.jpg",
+    "id": 225722
+   },
+   {
+    "character": "",
+    "name": "Vladimir Lemport",
+    "profile_path": "/7hcgOz1wo6fr29J9N531upmhdZB.jpg",
+    "id": 3487858
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Yurii Illienko",
+    "profile_path": "/sasL90bGrqsgglyAe3ZDBV8IXIO.jpg",
+    "id": 96205
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Ivan Drach",
+    "profile_path": "/fiemR4TsT0d8AX4Ar0QC2hpsEPT.jpg",
+    "id": 1079944
+   }
+  ],
+  "director": [
+   "Yurii Illienko"
+  ],
+  "imdbRating": "7.2",
+  "language": "Ukrainian, Russian",
+  "country": "Soviet Union",
+  "slug": "movie/a-spring-for-the-thirsty-0059655",
+  "behaviorHints": {
+   "defaultVideoId": "tt0059655",
+   "hasScheduledVideos": false
+  }
+ }
+}

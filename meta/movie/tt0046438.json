@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "3 wins total",
+  "cast": [
+   "Chishu Ryu",
+   "Chieko Higashiyama",
+   "So Yamamura"
+  ],
+  "country": "Japan",
+  "description": "Captures children drifting from parents, with everyone too polite to say it hurts. Elderly parents visit Tokyo, are gently passed around by their busy children, and go home.\n\nAn old couple visit their children and grandchildren in the city, but receive little attention.",
+  "director": [
+   "Yasujiro Ozu"
+  ],
+  "dvdRelease": "2012-02-23T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0046438",
+  "moviedb_id": 18148,
+  "name": "Tokyo Story",
+  "popularity": 0.19879666666666665,
+  "poster": "https://images.metahub.space/poster/small/tt0046438/img",
+  "released": "1953-11-03T00:00:00.000Z",
+  "runtime": "137 min",
+  "trailers": [
+   {
+    "source": "xqO0d3328Do",
+    "type": "Trailer"
+   },
+   {
+    "source": "XHwXe0w35MI",
+    "type": "Trailer"
+   },
+   {
+    "source": "5zEKw4VQIeY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kogo Noda",
+   "Yasujiro Ozu"
+  ],
+  "year": "1953",
+  "popularities": {
+   "moviedb": 5.9639,
+   "stremio": 0.19879666666666665,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0046438/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0046438/img",
+  "slug": "movie/tokyo-story-0046438",
+  "id": "tt0046438",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1953",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Tokyo Story",
+    "ytId": "xqO0d3328Do"
+   },
+   {
+    "title": "Tokyo Story",
+    "ytId": "XHwXe0w35MI"
+   },
+   {
+    "title": "Tokyo Story",
+    "ytId": "5zEKw4VQIeY"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0046438"
+   },
+   {
+    "name": "Tokyo Story",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tokyo-story-0046438"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Chishu Ryu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chishu%20Ryu"
+   },
+   {
+    "name": "Chieko Higashiyama",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chieko%20Higashiyama"
+   },
+   {
+    "name": "So Yamamura",
+    "category": "Cast",
+    "url": "stremio:///search?search=So%20Yamamura"
+   },
+   {
+    "name": "Kogo Noda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kogo%20Noda"
+   },
+   {
+    "name": "Yasujiro Ozu",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yasujiro%20Ozu"
+   },
+   {
+    "name": "Yasujiro Ozu",
+    "category": "Directors",
+    "url": "stremio:///search?search=Yasujiro%20Ozu"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0046438",
+   "hasScheduledVideos": false
+  }
+ }
+}

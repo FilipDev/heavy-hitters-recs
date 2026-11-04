@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 5 wins & 3 nominations total",
+  "cast": [
+   "Kirk Douglas",
+   "Ralph Meeker",
+   "Adolphe Menjou"
+  ],
+  "country": "United States",
+  "description": "Captures military honour used to cover a command failure. After a suicidal attack fails, three soldiers are chosen to be executed for cowardice to make the point, and their colonel tries law against arithmetic.\n\nA colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
+  "director": [
+   "Stanley Kubrick"
+  ],
+  "dvdRelease": "2008-09-16T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.4",
+  "imdb_id": "tt0050825",
+  "moviedb_id": 975,
+  "name": "Paths of Glory",
+  "popularity": 0.2762033333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0050825/img",
+  "released": "1957-12-25T00:00:00.000Z",
+  "runtime": "88 min",
+  "trailers": [
+   {
+    "source": "FESvZ0HG2p4",
+    "type": "Trailer"
+   },
+   {
+    "source": "6XZtnGvj-Sc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Stanley Kubrick",
+   "Calder Willingham",
+   "Jim Thompson"
+  ],
+  "year": "1957",
+  "background": "https://images.metahub.space/background/medium/tt0050825/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0050825/img",
+  "popularities": {
+   "moviedb": 8.2861,
+   "stremio": 0.2762033333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/paths-of-glory-0050825",
+  "id": "tt0050825",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1957",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Paths of Glory",
+    "ytId": "FESvZ0HG2p4"
+   },
+   {
+    "title": "Paths of Glory",
+    "ytId": "6XZtnGvj-Sc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0050825"
+   },
+   {
+    "name": "Paths of Glory",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/paths-of-glory-0050825"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Kirk Douglas",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kirk%20Douglas"
+   },
+   {
+    "name": "Ralph Meeker",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ralph%20Meeker"
+   },
+   {
+    "name": "Adolphe Menjou",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adolphe%20Menjou"
+   },
+   {
+    "name": "Stanley Kubrick",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stanley%20Kubrick"
+   },
+   {
+    "name": "Calder Willingham",
+    "category": "Writers",
+    "url": "stremio:///search?search=Calder%20Willingham"
+   },
+   {
+    "name": "Jim Thompson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jim%20Thompson"
+   },
+   {
+    "name": "Stanley Kubrick",
+    "category": "Directors",
+    "url": "stremio:///search?search=Stanley%20Kubrick"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0050825",
+   "hasScheduledVideos": false
+  }
+ }
+}
