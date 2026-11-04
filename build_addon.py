@@ -80,7 +80,7 @@ manifest = {
     'id': 'community.recommendations192',
     'version': '1.2.0',
     'name': 'Heavy Hitters',
-    'description': 'Heavy Hitters: a personally curated list of 363 films — diverse plots and emotional intensities, each one chosen because it powerfully captures something specific. One catalog, browsable by genre in Stremio\'s Discover. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
+    'description': 'Heavy Hitters: a personally curated list of films, each one chosen because it powerfully captures something specific — searing documentaries, poetic world cinema, confrontational classics and quiet masterpieces, spanning a century of film and every emotional intensity. One catalog, browsable by genre in Stremio\'s Discover. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
     'resources': ['catalog'],
     'types': ['movie'],
     'idPrefixes': ['tt'],
