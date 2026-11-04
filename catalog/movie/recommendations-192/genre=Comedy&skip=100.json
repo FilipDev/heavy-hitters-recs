@@ -100,6 +100,57 @@
    "runtime": "110 min",
    "director": "Sophie Barthes",
    "description": "A radical change arrives as a corporate benefit. In a near-future New York where natural pregnancy is inefficient, risky and increasingly uninsurable, couples gestate in detachable pods supplied by a tech company — the womb as a managed device with an app, a waiting list and a brand. Softer than a typical dystopia, and exact about the mechanism: nothing is imposed, everything is offered, and the offer is very good.\n\nIn a not-so-distant future, tech giant Pegazus offers couples the opportunity to share their pregnancies via detachable artificial wombs or pods. And so begins Rachel and Alvy's wild ride to parenthood in this brave new world."
+  },
+  {
+   "id": "tt0387808",
+   "type": "movie",
+   "name": "Idiocracy",
+   "poster": "https://images.metahub.space/poster/medium/tt0387808/img",
+   "background": "https://images.metahub.space/background/medium/tt0387808/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "84 min",
+   "director": "Mike Judge",
+   "description": "An ordinary man wakes five hundred years into a future where anti-intellectualism has compounded for generations: crops are watered with sports drink because 'it's what plants crave,' and public language has eroded to slogans. Mike Judge's comedy of drift — an exaggeration whose individual jokes keep quietly coming true.\n\nCorporal Joe Bauers, a decidedly average American, is selected for a top-secret hibernation program but is forgotten and left to awaken to a future so incredibly moronic that he's easily the most intelligent person alive."
+  },
+  {
+   "id": "tt18816518",
+   "type": "movie",
+   "name": "Sick of Myself",
+   "poster": "https://images.metahub.space/poster/medium/tt18816518/img",
+   "background": "https://images.metahub.space/background/medium/tt18816518/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Horror"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "97 min",
+   "director": "Kristoffer Borgli",
+   "description": "A woman eclipsed by her artist boyfriend takes black-market medication that visibly destroys her face — and converts the damage into fame. The film treats attention as a priced market working exactly as designed: the pathology is not vanity but the exchange rate. A relationship drama with a horror film's logic.\n\nIncreasingly overshadowed by her boyfriend's recent rise to fame as a contemporary artist creating sculptures from stolen furniture, Signe hatches a vicious plan to reclaim her rightfully deserved attention within the milieu of Os..."
+  },
+  {
+   "id": "tt21867434",
+   "type": "movie",
+   "name": "BlackBerry",
+   "poster": "https://images.metahub.space/poster/medium/tt21867434/img",
+   "background": "https://images.metahub.space/background/medium/tt21867434/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "120 min",
+   "director": "Matt Johnson",
+   "description": "A Canadian startup invents the smartphone era from Waterloo — then loses it to a competitor who understood consumers rather than engineers. Shot like a heist film about keyboards, bandwidth and carrier deals. The useful part is the timing: watching technical superiority stop mattering, quarter by quarter, in real time.\n\nThe story of the meteoric rise and catastrophic demise of the world's first smartphone."
   }
  ]
 }

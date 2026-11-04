@@ -686,6 +686,144 @@
    "runtime": "166 min",
    "director": "Adam Curtis",
    "description": "A world is governed by a story nobody believes anymore. Adam Curtis's essay film: after the 1970s, politicians, financiers and then tech platforms built a simplified, manageable fake version of reality — and eventually everyone, including its builders, lost the ability to act outside it. Syria, Putin, Trump, Brexit and the algorithm feed as symptoms of one condition: hypernormalisation, where the fake is known to be fake and continues anyway.\n\nAdam Curtis explains how, at a time of confusing and inexplicable world events, politicians and the people they represent have retreated in to a damaging over-simplified version of what is happening."
+  },
+  {
+   "id": "tt5446858",
+   "type": "movie",
+   "name": "Zero Days",
+   "poster": "https://images.metahub.space/poster/medium/tt5446858/img",
+   "background": "https://images.metahub.space/background/medium/tt5446858/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "116 min",
+   "director": "Alex Gibney",
+   "description": "Stuxnet — a computer weapon built by states, discovered by accident, never officially owned — is reconstructed through investigators and increasingly nervous anonymous sources. It shows the moment warfare went deniable and software-based: attacks with no return address, precedents set in secret, and rules of engagement that still don't exist.\n\nA documentary focused on Stuxnet, a piece of self-replicating computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility, and which ultimately spread beyond its intended target."
+  },
+  {
+   "id": "tt7689936",
+   "type": "movie",
+   "name": "The Cleaners",
+   "poster": "https://images.metahub.space/poster/medium/tt7689936/img",
+   "background": "https://images.metahub.space/background/medium/tt7689936/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "88 min",
+   "director": "Hans Block & Moritz Riesewieck",
+   "description": "The people inside 'the algorithm moderates it' are contractors in Manila, deleting or sparing the internet's worst material at industrial speed so feeds elsewhere stay clean. The film follows several of them home, and the work follows too. It is the hidden labour layer of every platform, and a record of what absorbing that much poison does to a person.\n\nA look at the shadowy underworld of the Internet where questionable content is removed."
+  },
+  {
+   "id": "tt7478112",
+   "type": "movie",
+   "name": "People's Republic of Desire",
+   "poster": "https://images.metahub.space/poster/medium/tt7478112/img",
+   "background": "https://images.metahub.space/background/medium/tt7478112/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "95 min",
+   "director": "Hao Wu",
+   "description": "China's livestream economy appears here as a complete social order: hosts performing intimacy on schedule, superfans buying rank with virtual gifts, agencies and wealthy patrons gaming the charts. Loneliness, class and money meet inside one interface. It was filmed in China, but the template now runs anywhere attention is sold.\n\nTwo live streamers seek fame, fortune and human connection in China's digital idol-making universe, ultimately finding the same promises and perils online as in their real lives. Winner of Grand Jury Award (Documentary) at 2018 SXSW."
+  },
+  {
+   "id": "tt3268458",
+   "type": "movie",
+   "name": "The Internet's Own Boy: The Story of Aaron Swartz",
+   "poster": "https://images.metahub.space/poster/medium/tt3268458/img",
+   "background": "https://images.metahub.space/background/medium/tt3268458/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "105 min",
+   "director": "Brian Knappenberger",
+   "description": "Aaron Swartz — who helped build RSS and Reddit and was federally prosecuted for downloading academic journals — becomes the test case for whether access to knowledge is a public good or a licensed product. His family, collaborators and own writings tell it. The argument the film starts has only grown since.\n\nThe story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26."
+  },
+  {
+   "id": "tt5129818",
+   "type": "movie",
+   "name": "Under the Sun",
+   "poster": "https://images.metahub.space/poster/medium/tt5129818/img",
+   "background": "https://images.metahub.space/background/medium/tt5129818/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "106 min",
+   "director": "Vitaly Mansky",
+   "description": "A Russian crew is hired to film a scripted portrait of a model North Korean family, and keeps the cameras rolling between takes. Officials adjust smiles, stage ordinary mornings, and retake a factory speech until it sounds spontaneous. The result shows a state manufacturing everyday reality, with the manufacturing left visible in the frame.\n\nA propaganda documentary about North Korea that reveals a few hidden facts because the director continues filming between the scripted scenes."
+  },
+  {
+   "id": "tt8132700",
+   "type": "movie",
+   "name": "Behind the Curve",
+   "poster": "https://images.metahub.space/poster/medium/tt8132700/img",
+   "background": "https://images.metahub.space/background/medium/tt8132700/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "96 min",
+   "director": "Daniel J. Clark",
+   "description": "Flat-earthers run genuinely careful experiments whose results refute their own theory — then explain the results away on camera. The film stays inside the community without contempt, interested in the machinery that keeps a refuted model alive: conferences, status, loyalty, expulsion. Its real subject is much larger than flat earth.\n\nMeet real Flat Earthers, a small but growing contingent of people who firmly believe in a conspiracy to suppress the truth that the Earth is flat."
+  },
+  {
+   "id": "tt3675568",
+   "type": "movie",
+   "name": "Merchants of Doubt",
+   "poster": "https://images.metahub.space/poster/medium/tt3675568/img",
+   "background": "https://images.metahub.space/background/medium/tt3675568/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "96 min",
+   "director": "Robert Kenner",
+   "description": "The same consultants, institutes and phrases — 'the science isn't settled,' 'more research is needed' — are traced from tobacco defence through climate denial to flame retardants. It names the playbook for manufacturing uncertainty as a professional service. Once the technique is visible across decades, it becomes recognisable in any contested field.\n\nA documentary that looks at pundits-for-hire who present themselves as scientific authorities as they speak about topics like toxic chemicals, pharmaceuticals and climate change."
+  },
+  {
+   "id": "tt9351980",
+   "type": "movie",
+   "name": "American Factory",
+   "poster": "https://images.metahub.space/poster/medium/tt9351980/img",
+   "background": "https://images.metahub.space/background/medium/tt9351980/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "110 min",
+   "director": "Steven Bognar & Julia Reichert",
+   "description": "A Chinese billionaire reopens a shuttered Ohio auto plant, and two management cultures meet on one factory floor: American workers, Chinese production discipline, union organisers, surveillance, and automation waiting at the edge of every conversation. No narrator and no verdict — the systems argue with each other directly.\n\nIn post-industrial Ohio, a Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class..."
+  },
+  {
+   "id": "tt26681810",
+   "type": "movie",
+   "name": "War Game",
+   "poster": "https://images.metahub.space/poster/medium/tt26681810/img",
+   "background": "https://images.metahub.space/background/medium/tt26681810/img",
+   "genres": [
+    "Documentary",
+    "Thriller"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "94 min",
+   "director": "Jesse Moss & Tony Gerber",
+   "description": "Former senators, generals and cabinet officials role-play a US president facing an insurrection over a disputed election, unscripted, in a replica situation room. The value is procedural: watching experienced operators discover in real time which tools the office actually has, and which it only appears to have.\n\nUS officials simulate a coup post a disputed election. Insurgents take capitals, questioning the president's military control. Countering disinformation is vital, highlighting bipartisan defense of democracy."
   }
  ]
 }

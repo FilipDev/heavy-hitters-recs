@@ -719,6 +719,23 @@
    "runtime": "80 min",
    "director": "Jean-François Laguionie",
    "description": "A world is stratified by how finished it is. Inside an abandoned canvas live the Allduns (fully painted), the Halfies and the Sketchies (barely drawn), ruled by the completed who insist the Painter intended the hierarchy. A mixed group escapes the frame's edge to find the Painter and ask. Animated allegory about caste and creation, painted in the styles it moves through — the film's form is its argument.\n\nThree characters of different social classes escape their unfinished painting in search of the Painter, hoping he will complete it."
+  },
+  {
+   "id": "tt0387808",
+   "type": "movie",
+   "name": "Idiocracy",
+   "poster": "https://images.metahub.space/poster/medium/tt0387808/img",
+   "background": "https://images.metahub.space/background/medium/tt0387808/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "84 min",
+   "director": "Mike Judge",
+   "description": "An ordinary man wakes five hundred years into a future where anti-intellectualism has compounded for generations: crops are watered with sports drink because 'it's what plants crave,' and public language has eroded to slogans. Mike Judge's comedy of drift — an exaggeration whose individual jokes keep quietly coming true.\n\nCorporal Joe Bauers, a decidedly average American, is selected for a top-secret hibernation program but is forgotten and left to awaken to a future so incredibly moronic that he's easily the most intelligent person alive."
   }
  ]
 }

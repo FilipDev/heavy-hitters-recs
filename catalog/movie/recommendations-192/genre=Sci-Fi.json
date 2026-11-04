@@ -607,6 +607,74 @@
    "runtime": "110 min",
    "director": "Sophie Barthes",
    "description": "A radical change arrives as a corporate benefit. In a near-future New York where natural pregnancy is inefficient, risky and increasingly uninsurable, couples gestate in detachable pods supplied by a tech company — the womb as a managed device with an app, a waiting list and a brand. Softer than a typical dystopia, and exact about the mechanism: nothing is imposed, everything is offered, and the offer is very good.\n\nIn a not-so-distant future, tech giant Pegazus offers couples the opportunity to share their pregnancies via detachable artificial wombs or pods. And so begins Rachel and Alvy's wild ride to parenthood in this brave new world."
+  },
+  {
+   "id": "tt0096256",
+   "type": "movie",
+   "name": "They Live",
+   "poster": "https://images.metahub.space/poster/medium/tt0096256/img",
+   "background": "https://images.metahub.space/background/medium/tt0096256/img",
+   "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "94 min",
+   "director": "John Carpenter",
+   "description": "A drifter finds sunglasses that strip advertising, money and official speech down to bare commands — OBEY, CONSUME, STAY ASLEEP — broadcast by a ruling class hiding inside the ordinary population. John Carpenter's pulp premise is structurally exact: power as a signal carried by everyday media, invisible until something makes its content legible.\n\nThey influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live."
+  },
+  {
+   "id": "tt0090163",
+   "type": "movie",
+   "name": "Threads",
+   "poster": "https://images.metahub.space/poster/medium/tt0090163/img",
+   "background": "https://images.metahub.space/background/medium/tt0090163/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "112 min",
+   "director": "Mick Jackson",
+   "description": "Nuclear war is followed here as the slow unspooling of ordinary systems — food, medicine, money, language, government — in one English city across more than a decade. Made for the BBC with scientific advisers and documentary grammar, with no heroes and no recovery arc. It remains the reference point for filming civilisational fragility honestly.\n\nThe effects of a nuclear holocaust on the working class city of Sheffield, England and the eventual long-term effects of nuclear war on civilization."
+  },
+  {
+   "id": "tt0387808",
+   "type": "movie",
+   "name": "Idiocracy",
+   "poster": "https://images.metahub.space/poster/medium/tt0387808/img",
+   "background": "https://images.metahub.space/background/medium/tt0387808/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "84 min",
+   "director": "Mike Judge",
+   "description": "An ordinary man wakes five hundred years into a future where anti-intellectualism has compounded for generations: crops are watered with sports drink because 'it's what plants crave,' and public language has eroded to slogans. Mike Judge's comedy of drift — an exaggeration whose individual jokes keep quietly coming true.\n\nCorporal Joe Bauers, a decidedly average American, is selected for a top-secret hibernation program but is forgotten and left to awaken to a future so incredibly moronic that he's easily the most intelligent person alive."
+  },
+  {
+   "id": "tt2099556",
+   "type": "movie",
+   "name": "Antiviral",
+   "poster": "https://images.metahub.space/poster/medium/tt2099556/img",
+   "background": "https://images.metahub.space/background/medium/tt2099556/img",
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "108 min",
+   "director": "Brandon Cronenberg",
+   "description": "A clinic sells fans infections harvested from celebrities, so they can share their idol's illness; a technician smuggles pathogens out inside his own body. Brandon Cronenberg made it before influencer economies and bio-hacking went mainstream, and it now reads like market research: intimacy with the famous, packaged as a consumable with side effects.\n\nIn a blackly satirical near future, a thriving industry sells celebrity illnesses to their obsessed fans. Employee Syd March's attempts to exploit the system backfire when they involve him in a potentially deadly mystery."
   }
  ]
 }

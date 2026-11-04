@@ -703,6 +703,40 @@
    "runtime": "122 min",
    "director": "Juel Taylor",
    "description": "A conspiracy is discovered by the three people least equipped to explain it. A dealer, a sex worker and a pimp in a decaying block find the same man alive after watching him die, and pull a thread that leads under the neighbourhood. Blaxploitation styling over a genuinely paranoid systems plot — funny until the moment the mechanism's scale lands, then funny again, differently.\n\nA series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy in this pulpy mystery caper."
+  },
+  {
+   "id": "tt12747748",
+   "type": "movie",
+   "name": "Leave the World Behind",
+   "poster": "https://images.metahub.space/poster/medium/tt12747748/img",
+   "background": "https://images.metahub.space/background/medium/tt12747748/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "138 min",
+   "director": "Sam Esmail",
+   "description": "Two families share a rented house while the networks die: planes fall out of pattern, GPS lies, and no channel can establish what is happening. The emergency arrives as an information failure before it becomes a physical one — strangers deciding what to believe, and whether to trust each other, with no reliable signal left.\n\nA family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door."
+  },
+  {
+   "id": "tt2099556",
+   "type": "movie",
+   "name": "Antiviral",
+   "poster": "https://images.metahub.space/poster/medium/tt2099556/img",
+   "background": "https://images.metahub.space/background/medium/tt2099556/img",
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "108 min",
+   "director": "Brandon Cronenberg",
+   "description": "A clinic sells fans infections harvested from celebrities, so they can share their idol's illness; a technician smuggles pathogens out inside his own body. Brandon Cronenberg made it before influencer economies and bio-hacking went mainstream, and it now reads like market research: intimacy with the famous, packaged as a consumable with side effects.\n\nIn a blackly satirical near future, a thriving industry sells celebrity illnesses to their obsessed fans. Employee Syd March's attempts to exploit the system backfire when they involve him in a potentially deadly mystery."
   }
  ]
 }

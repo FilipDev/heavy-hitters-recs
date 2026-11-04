@@ -514,6 +514,57 @@
    "runtime": "93 min",
    "director": "Caitlin Cronenberg",
    "description": "A state euthanasia programme plays out inside an Ontario mansion. Facing ecological collapse, the government asks citizens to enlist for euthanasia to cut the population by twenty percent, with a payment to the family; a wealthy patriarch announces at dinner that he and his wife have signed up, and the evening becomes the policy's real content — inheritance, guilt and persuasion administered as a family argument. Polite recruiters included.\n\nIn the wake of an environmental collapse that is forcing humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry."
+  },
+  {
+   "id": "tt0096256",
+   "type": "movie",
+   "name": "They Live",
+   "poster": "https://images.metahub.space/poster/medium/tt0096256/img",
+   "background": "https://images.metahub.space/background/medium/tt0096256/img",
+   "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "94 min",
+   "director": "John Carpenter",
+   "description": "A drifter finds sunglasses that strip advertising, money and official speech down to bare commands — OBEY, CONSUME, STAY ASLEEP — broadcast by a ruling class hiding inside the ordinary population. John Carpenter's pulp premise is structurally exact: power as a signal carried by everyday media, invisible until something makes its content legible.\n\nThey influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live."
+  },
+  {
+   "id": "tt2099556",
+   "type": "movie",
+   "name": "Antiviral",
+   "poster": "https://images.metahub.space/poster/medium/tt2099556/img",
+   "background": "https://images.metahub.space/background/medium/tt2099556/img",
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "108 min",
+   "director": "Brandon Cronenberg",
+   "description": "A clinic sells fans infections harvested from celebrities, so they can share their idol's illness; a technician smuggles pathogens out inside his own body. Brandon Cronenberg made it before influencer economies and bio-hacking went mainstream, and it now reads like market research: intimacy with the famous, packaged as a consumable with side effects.\n\nIn a blackly satirical near future, a thriving industry sells celebrity illnesses to their obsessed fans. Employee Syd March's attempts to exploit the system backfire when they involve him in a potentially deadly mystery."
+  },
+  {
+   "id": "tt18816518",
+   "type": "movie",
+   "name": "Sick of Myself",
+   "poster": "https://images.metahub.space/poster/medium/tt18816518/img",
+   "background": "https://images.metahub.space/background/medium/tt18816518/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Horror"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "97 min",
+   "director": "Kristoffer Borgli",
+   "description": "A woman eclipsed by her artist boyfriend takes black-market medication that visibly destroys her face — and converts the damage into fame. The film treats attention as a priced market working exactly as designed: the pathology is not vanity but the exchange rate. A relationship drama with a horror film's logic.\n\nIncreasingly overshadowed by her boyfriend's recent rise to fame as a contemporary artist creating sculptures from stolen furniture, Signe hatches a vicious plan to reclaim her rightfully deserved attention within the milieu of Os..."
   }
  ]
 }

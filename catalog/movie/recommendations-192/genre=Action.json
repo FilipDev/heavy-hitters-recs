@@ -365,6 +365,23 @@
    "runtime": "114 min",
    "director": "John Badham",
    "description": "Automation learns the wrong lesson at full scale. A Seattle teenager hacking around in what he thinks is a games company's computer is actually inside NORAD's war simulator, and the machine — tasked with learning to win a game that cannot be won — keeps playing after he logs off. The hardware is pure 1983; the failure mode, a system optimising past the point where anyone can tell simulation from reality, is the present tense.\n\nA young teen boy finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III."
+  },
+  {
+   "id": "tt0096256",
+   "type": "movie",
+   "name": "They Live",
+   "poster": "https://images.metahub.space/poster/medium/tt0096256/img",
+   "background": "https://images.metahub.space/background/medium/tt0096256/img",
+   "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "94 min",
+   "director": "John Carpenter",
+   "description": "A drifter finds sunglasses that strip advertising, money and official speech down to bare commands — OBEY, CONSUME, STAY ASLEEP — broadcast by a ruling class hiding inside the ordinary population. John Carpenter's pulp premise is structurally exact: power as a signal carried by everyday media, invisible until something makes its content legible.\n\nThey influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live."
   }
  ]
 }

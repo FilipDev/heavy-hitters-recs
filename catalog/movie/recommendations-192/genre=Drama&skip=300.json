@@ -1413,6 +1413,106 @@
    "runtime": "103 min",
    "director": "Mark Romanek",
    "description": "A monstrous policy is absorbed into timetables and good manners. Children cloned to become organ donors are raised at an English boarding school that teaches them to be proud of their purpose; grown, they mostly do not rebel — they apply, through the proper channels, for deferrals. Ishiguro's premise filmed at the temperature of a school story: the foundational text of the administered dystopia, and it stays exceptionally quiet throughout.\n\nThe lives of three friends, from their early school days into young adulthood, when the reality of the world they live in comes knocking."
+  },
+  {
+   "id": "tt6751668",
+   "type": "movie",
+   "name": "Parasite",
+   "poster": "https://images.metahub.space/poster/medium/tt6751668/img",
+   "background": "https://images.metahub.space/background/medium/tt6751668/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "132 min",
+   "director": "Bong Joon Ho",
+   "description": "Class is built here as architecture: a poor family infiltrates a rich household one service job at a time, in a film organised by height — semi-basement, garden villa, and something below both. Who lives at what level, and what floods first. Bong Joon Ho shoots the vertical city as a single connected machine with no neutral floor.\n\nGreed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+  },
+  {
+   "id": "tt12747748",
+   "type": "movie",
+   "name": "Leave the World Behind",
+   "poster": "https://images.metahub.space/poster/medium/tt12747748/img",
+   "background": "https://images.metahub.space/background/medium/tt12747748/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "138 min",
+   "director": "Sam Esmail",
+   "description": "Two families share a rented house while the networks die: planes fall out of pattern, GPS lies, and no channel can establish what is happening. The emergency arrives as an information failure before it becomes a physical one — strangers deciding what to believe, and whether to trust each other, with no reliable signal left.\n\nA family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door."
+  },
+  {
+   "id": "tt1675192",
+   "type": "movie",
+   "name": "Take Shelter",
+   "poster": "https://images.metahub.space/poster/medium/tt1675192/img",
+   "background": "https://images.metahub.space/background/medium/tt1675192/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "120 min",
+   "director": "Jeff Nichols",
+   "description": "An Ohio father dreams of an apocalyptic storm and builds a shelter while his family, doctors and town read the visions as breakdown. The film never settles whether he is prophet or patient, and makes both readings cost the same. It is about preparation as a rational problem: what do you owe a signal you cannot verify?\n\nFrightening visions convince an Ohio man that disaster looms on the horizon."
+  },
+  {
+   "id": "tt0090163",
+   "type": "movie",
+   "name": "Threads",
+   "poster": "https://images.metahub.space/poster/medium/tt0090163/img",
+   "background": "https://images.metahub.space/background/medium/tt0090163/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "112 min",
+   "director": "Mick Jackson",
+   "description": "Nuclear war is followed here as the slow unspooling of ordinary systems — food, medicine, money, language, government — in one English city across more than a decade. Made for the BBC with scientific advisers and documentary grammar, with no heroes and no recovery arc. It remains the reference point for filming civilisational fragility honestly.\n\nThe effects of a nuclear holocaust on the working class city of Sheffield, England and the eventual long-term effects of nuclear war on civilization."
+  },
+  {
+   "id": "tt18816518",
+   "type": "movie",
+   "name": "Sick of Myself",
+   "poster": "https://images.metahub.space/poster/medium/tt18816518/img",
+   "background": "https://images.metahub.space/background/medium/tt18816518/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Horror"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "97 min",
+   "director": "Kristoffer Borgli",
+   "description": "A woman eclipsed by her artist boyfriend takes black-market medication that visibly destroys her face — and converts the damage into fame. The film treats attention as a priced market working exactly as designed: the pathology is not vanity but the exchange rate. A relationship drama with a horror film's logic.\n\nIncreasingly overshadowed by her boyfriend's recent rise to fame as a contemporary artist creating sculptures from stolen furniture, Signe hatches a vicious plan to reclaim her rightfully deserved attention within the milieu of Os..."
+  },
+  {
+   "id": "tt21867434",
+   "type": "movie",
+   "name": "BlackBerry",
+   "poster": "https://images.metahub.space/poster/medium/tt21867434/img",
+   "background": "https://images.metahub.space/background/medium/tt21867434/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "120 min",
+   "director": "Matt Johnson",
+   "description": "A Canadian startup invents the smartphone era from Waterloo — then loses it to a competitor who understood consumers rather than engineers. Shot like a heist film about keyboards, bandwidth and carrier deals. The useful part is the timing: watching technical superiority stop mattering, quarter by quarter, in real time.\n\nThe story of the meteoric rise and catastrophic demise of the world's first smartphone."
   }
  ]
 }

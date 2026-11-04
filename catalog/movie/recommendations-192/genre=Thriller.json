@@ -1173,6 +1173,88 @@
    "runtime": "93 min",
    "director": "Caitlin Cronenberg",
    "description": "A state euthanasia programme plays out inside an Ontario mansion. Facing ecological collapse, the government asks citizens to enlist for euthanasia to cut the population by twenty percent, with a payment to the family; a wealthy patriarch announces at dinner that he and his wife have signed up, and the evening becomes the policy's real content — inheritance, guilt and persuasion administered as a family argument. Polite recruiters included.\n\nIn the wake of an environmental collapse that is forcing humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry."
+  },
+  {
+   "id": "tt26681810",
+   "type": "movie",
+   "name": "War Game",
+   "poster": "https://images.metahub.space/poster/medium/tt26681810/img",
+   "background": "https://images.metahub.space/background/medium/tt26681810/img",
+   "genres": [
+    "Documentary",
+    "Thriller"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "94 min",
+   "director": "Jesse Moss & Tony Gerber",
+   "description": "Former senators, generals and cabinet officials role-play a US president facing an insurrection over a disputed election, unscripted, in a replica situation room. The value is procedural: watching experienced operators discover in real time which tools the office actually has, and which it only appears to have.\n\nUS officials simulate a coup post a disputed election. Insurgents take capitals, questioning the president's military control. Countering disinformation is vital, highlighting bipartisan defense of democracy."
+  },
+  {
+   "id": "tt6751668",
+   "type": "movie",
+   "name": "Parasite",
+   "poster": "https://images.metahub.space/poster/medium/tt6751668/img",
+   "background": "https://images.metahub.space/background/medium/tt6751668/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "132 min",
+   "director": "Bong Joon Ho",
+   "description": "Class is built here as architecture: a poor family infiltrates a rich household one service job at a time, in a film organised by height — semi-basement, garden villa, and something below both. Who lives at what level, and what floods first. Bong Joon Ho shoots the vertical city as a single connected machine with no neutral floor.\n\nGreed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+  },
+  {
+   "id": "tt12747748",
+   "type": "movie",
+   "name": "Leave the World Behind",
+   "poster": "https://images.metahub.space/poster/medium/tt12747748/img",
+   "background": "https://images.metahub.space/background/medium/tt12747748/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "138 min",
+   "director": "Sam Esmail",
+   "description": "Two families share a rented house while the networks die: planes fall out of pattern, GPS lies, and no channel can establish what is happening. The emergency arrives as an information failure before it becomes a physical one — strangers deciding what to believe, and whether to trust each other, with no reliable signal left.\n\nA family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door."
+  },
+  {
+   "id": "tt1675192",
+   "type": "movie",
+   "name": "Take Shelter",
+   "poster": "https://images.metahub.space/poster/medium/tt1675192/img",
+   "background": "https://images.metahub.space/background/medium/tt1675192/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "120 min",
+   "director": "Jeff Nichols",
+   "description": "An Ohio father dreams of an apocalyptic storm and builds a shelter while his family, doctors and town read the visions as breakdown. The film never settles whether he is prophet or patient, and makes both readings cost the same. It is about preparation as a rational problem: what do you owe a signal you cannot verify?\n\nFrightening visions convince an Ohio man that disaster looms on the horizon."
+  },
+  {
+   "id": "tt0090163",
+   "type": "movie",
+   "name": "Threads",
+   "poster": "https://images.metahub.space/poster/medium/tt0090163/img",
+   "background": "https://images.metahub.space/background/medium/tt0090163/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "112 min",
+   "director": "Mick Jackson",
+   "description": "Nuclear war is followed here as the slow unspooling of ordinary systems — food, medicine, money, language, government — in one English city across more than a decade. Made for the BBC with scientific advisers and documentary grammar, with no heroes and no recovery arc. It remains the reference point for filming civilisational fragility honestly.\n\nThe effects of a nuclear holocaust on the working class city of Sheffield, England and the eventual long-term effects of nuclear war on civilization."
   }
  ]
 }

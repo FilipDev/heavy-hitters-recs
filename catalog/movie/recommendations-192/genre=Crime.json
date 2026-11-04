@@ -1096,6 +1096,23 @@
    "runtime": "110 min",
    "director": "Ali Abbasi",
    "description": "A woman's senses tell her the world is other than described. A customs officer with a preternatural smell for contraband and shame meets a stranger who looks like her and knows why. Scandinavian folklore smuggled through a procedural: what begins as body-strangeness becomes a question about which species' account of her life she'll accept. The less known going in, the better.\n\nA customs officer who can smell fear develops an unusual attraction to a strange traveler while aiding a police investigation which will call into question her entire existence."
+  },
+  {
+   "id": "tt3268458",
+   "type": "movie",
+   "name": "The Internet's Own Boy: The Story of Aaron Swartz",
+   "poster": "https://images.metahub.space/poster/medium/tt3268458/img",
+   "background": "https://images.metahub.space/background/medium/tt3268458/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "105 min",
+   "director": "Brian Knappenberger",
+   "description": "Aaron Swartz — who helped build RSS and Reddit and was federally prosecuted for downloading academic journals — becomes the test case for whether access to knowledge is a public good or a licensed product. His family, collaborators and own writings tell it. The argument the film starts has only grown since.\n\nThe story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26."
   }
  ]
 }
