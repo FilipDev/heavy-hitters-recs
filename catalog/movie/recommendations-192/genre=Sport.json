@@ -180,6 +180,39 @@
    "runtime": "133 min",
    "director": "Bennett Miller",
    "description": "Captures competence itself as drama: a general manager and a Yale economist re-deriving baseball from its statistics while the entire sport's intuition laughs at them. The closest film on this list to your actual profession — observed numbers versus inherited scouting folklore, and the numbers are the love story.\n\nOakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players."
+  },
+  {
+   "id": "tt7999962",
+   "type": "movie",
+   "name": "Infinite Football",
+   "poster": "https://images.metahub.space/poster/medium/tt7999962/img",
+   "background": "https://images.metahub.space/background/medium/tt7999962/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "70 min",
+   "director": "Corneliu Porumboiu",
+   "description": "Captures a man who has spent thirty years redesigning football. After an injury ended his career, Laurențiu Ginghină concluded the rules themselves were at fault — too much running, too many collisions — and has been revising them ever since, explaining octagonal pitches to indulgent officials. A deadpan documentary about systems-thinking as a life's consolation: the local instance of a universal type.\n\nThey talk about the beautiful game, but for Laurentiu Ginghina, it's not enough. Football must be modified, streamlined, freed from restraints; corners are to be rounded off, players assigned to zones and subteams, norms revised. ..."
+  },
+  {
+   "id": "tt0118849",
+   "type": "movie",
+   "name": "Children of Heaven",
+   "poster": "https://images.metahub.space/poster/medium/tt0118849/img",
+   "background": "https://images.metahub.space/background/medium/tt0118849/img",
+   "genres": [
+    "Drama",
+    "Family",
+    "Sport"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "89 min",
+   "director": "Majid Majidi",
+   "description": "Captures two siblings running a logistics operation beyond most adults. A boy loses his sister's shoes — the family's only pair for her — and the two construct an elaborate daily timeshare of his own shoes, sprinting between schools, telling no one. The third act is a footrace he must finish exactly third: the prize is a pair of shoes. Stakes this small, engineered this precisely, become unbearable.\n\nAfter a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair."
   }
  ]
 }

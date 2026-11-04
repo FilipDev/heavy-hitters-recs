@@ -862,6 +862,23 @@
    "runtime": "133 min",
    "director": "Bennett Miller",
    "description": "Captures competence itself as drama: a general manager and a Yale economist re-deriving baseball from its statistics while the entire sport's intuition laughs at them. The closest film on this list to your actual profession — observed numbers versus inherited scouting folklore, and the numbers are the love story.\n\nOakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players."
+  },
+  {
+   "id": "tt0808417",
+   "type": "movie",
+   "name": "Persepolis",
+   "poster": "https://images.metahub.space/poster/medium/tt0808417/img",
+   "background": "https://images.metahub.space/background/medium/tt0808417/img",
+   "genres": [
+    "Animation",
+    "Biography",
+    "Drama"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "96 min",
+   "director": "Marjane Satrapi & Vincent Paronnaud",
+   "description": "Captures a girlhood unfolding against a revolution, drawn in stark black and white. Marji in Tehran: veils imposed, uncles disappearing, contraband Iron Maiden, exile to Vienna, return, depression, departure again. The flat graphic style does what live action couldn't — a child's-eye scale where a key to paradise and a punk cassette are the same size, because to her they were.\n\nA precocious and outspoken Iranian girl grows up during the Islamic Revolution."
   }
  ]
 }

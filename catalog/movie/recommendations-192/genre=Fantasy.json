@@ -643,6 +643,40 @@
    "runtime": "103 min",
    "director": "Hayao Miyazaki",
    "description": "Captures a thirteen-year-old witch founding a delivery business in a seaside town, and competence arriving in stages: first flights, first customers, a slump where the gift itself fails. Work as dignity, kindness of strangers as infrastructure.\n\nAlong with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ..."
+  },
+  {
+   "id": "tt0381668",
+   "type": "movie",
+   "name": "Tropical Malady",
+   "poster": "https://images.metahub.space/poster/medium/tt0381668/img",
+   "background": "https://images.metahub.space/background/medium/tt0381668/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+   ],
+   "releaseInfo": "2004",
+   "year": 2004,
+   "runtime": "118 min",
+   "director": "Apichatpong Weerasethakul",
+   "description": "Captures a film splitting into its own two natures. First half: a soldier and a village boy falling in love in present-day Thailand, all heat and small kindnesses. Then the film restarts as a folk tale — the soldier alone in jungle dark, hunting a tiger-shaman who may be the same boy. Romance observed, then the hidden structure underneath it, wearing fur.\n\nA romance between a soldier and a country boy, wrapped around a Thai folk-tale involving a shaman with shape-shifting abilities."
+  },
+  {
+   "id": "tt5501104",
+   "type": "movie",
+   "name": "Border",
+   "poster": "https://images.metahub.space/poster/medium/tt5501104/img",
+   "background": "https://images.metahub.space/background/medium/tt5501104/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "110 min",
+   "director": "Ali Abbasi",
+   "description": "Captures a woman whose senses tell her the world is other than described. A customs officer with a preternatural smell for contraband and shame meets a stranger who looks like her and knows why. Scandinavian folklore smuggled through a procedural: what begins as body-strangeness becomes a question about which species' account of her life she'll accept. The less known going in, the better.\n\nA customs officer who can smell fear develops an unusual attraction to a strange traveler while aiding a police investigation which will call into question her entire existence."
   }
  ]
 }

@@ -670,6 +670,39 @@
    "runtime": "100 min",
    "director": "Mamoru Oshii",
    "description": "Captures a detective and his mostly-robotic partner investigating murdered dolls that begged to die. Denser and stranger than the first: every character quotes philosophy at each other while the camera orbits ball-jointed gynoids in a festival parade that took a year to animate. The observed/observable problem, with dolls as the transducers.\n\nIn the year 2032, Batô, a cyborg detective for the anti-terrorist unit Public Security Section 9, investigates the case of a female robot--one created solely for sexual pleasure--who slaughtered her owner."
+  },
+  {
+   "id": "tt0249241",
+   "type": "movie",
+   "name": "Werckmeister Harmonies",
+   "poster": "https://images.metahub.space/poster/medium/tt0249241/img",
+   "background": "https://images.metahub.space/background/medium/tt0249241/img",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "145 min",
+   "director": "Béla Tarr",
+   "description": "Captures a town waiting for something it can't name to tip it over. A travelling circus brings a giant stuffed whale and a shadowy \"Prince\"; a gentle young man watches rumour congeal into riot across thirty-nine long takes. The whale, filmed like a god beached in a market square, is the purest image in Tarr: everyone projects onto the huge mute thing whatever their fear requires.\n\nA naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction."
+  },
+  {
+   "id": "tt9873892",
+   "type": "movie",
+   "name": "They Cloned Tyrone",
+   "poster": "https://images.metahub.space/poster/medium/tt9873892/img",
+   "background": "https://images.metahub.space/background/medium/tt9873892/img",
+   "genres": [
+    "Comedy",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "122 min",
+   "director": "Juel Taylor",
+   "description": "Captures a conspiracy discovered by the three people least equipped to explain it. A dealer, a sex worker and a pimp in a decaying block find the same man alive after watching him die, and pull a thread that leads under the neighbourhood. Blaxploitation styling over a genuinely paranoid systems plot — funny until the moment the mechanism's scale lands, then funny again, differently.\n\nA series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy in this pulpy mystery caper."
   }
  ]
 }

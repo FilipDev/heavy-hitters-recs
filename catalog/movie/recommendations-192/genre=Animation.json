@@ -873,6 +873,40 @@
    "runtime": "86 min",
    "director": "Brad Bird",
    "description": "Captures a boy teaching a fifty-foot weapon that it can choose what it is. Cold War Maine, a beatnik sculptor, a government man terrified of the unknown — and the Giant learning the word for what he refuses to be. Friendship between unequals where the smaller one does the moral teaching; “you are who you choose to be” earned, not printed.\n\nA young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy."
+  },
+  {
+   "id": "tt1891769",
+   "type": "movie",
+   "name": "The Painting",
+   "poster": "https://images.metahub.space/poster/medium/tt1891769/img",
+   "background": "https://images.metahub.space/background/medium/tt1891769/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Drama"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "80 min",
+   "director": "Jean-François Laguionie",
+   "description": "Captures a world stratified by how finished it is. Inside an abandoned canvas live the Allduns (fully painted), the Halfies and the Sketchies (barely drawn), ruled by the completed who insist the Painter intended the hierarchy. A mixed group escapes the frame's edge to find the Painter and ask. Animated allegory about caste and creation, painted in the styles it moves through — the film's form is its argument.\n\nThree characters of different social classes escape their unfinished painting in search of the Painter, hoping he will complete it."
+  },
+  {
+   "id": "tt0808417",
+   "type": "movie",
+   "name": "Persepolis",
+   "poster": "https://images.metahub.space/poster/medium/tt0808417/img",
+   "background": "https://images.metahub.space/background/medium/tt0808417/img",
+   "genres": [
+    "Animation",
+    "Biography",
+    "Drama"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "96 min",
+   "director": "Marjane Satrapi & Vincent Paronnaud",
+   "description": "Captures a girlhood unfolding against a revolution, drawn in stark black and white. Marji in Tehran: veils imposed, uncles disappearing, contraband Iron Maiden, exile to Vienna, return, depression, departure again. The flat graphic style does what live action couldn't — a child's-eye scale where a key to paradise and a punk cassette are the same size, because to her they were.\n\nA precocious and outspoken Iranian girl grows up during the Islamic Revolution."
   }
  ]
 }

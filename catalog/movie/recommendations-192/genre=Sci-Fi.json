@@ -390,6 +390,39 @@
    "runtime": "102 min",
    "director": "Takeshi Koike",
    "description": "Captures the most dangerous race in the galaxy, drawn by hand over seven years. A pompadoured driver, a fascist robot planet, cars that deform like taffy at speed; there is no CGI sheen anywhere, just 100,000 drawings insisting that velocity is a drawing problem.\n\nA story about the most popular racing event in the galaxy, the Redline, and the various racers who compete in it."
+  },
+  {
+   "id": "tt9873892",
+   "type": "movie",
+   "name": "They Cloned Tyrone",
+   "poster": "https://images.metahub.space/poster/medium/tt9873892/img",
+   "background": "https://images.metahub.space/background/medium/tt9873892/img",
+   "genres": [
+    "Comedy",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "122 min",
+   "director": "Juel Taylor",
+   "description": "Captures a conspiracy discovered by the three people least equipped to explain it. A dealer, a sex worker and a pimp in a decaying block find the same man alive after watching him die, and pull a thread that leads under the neighbourhood. Blaxploitation styling over a genuinely paranoid systems plot — funny until the moment the mechanism's scale lands, then funny again, differently.\n\nA series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy in this pulpy mystery caper."
+  },
+  {
+   "id": "tt0063152",
+   "type": "movie",
+   "name": "Je t'aime je t'aime",
+   "poster": "https://images.metahub.space/poster/medium/tt0063152/img",
+   "background": "https://images.metahub.space/background/medium/tt0063152/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1968",
+   "year": 1968,
+   "runtime": "91 min",
+   "director": "Alain Resnais",
+   "description": "Captures a man unstuck in his own past, in fragments. Rescued from a suicide attempt, Claude agrees to test a time machine that can return him to one minute, a year ago; the machine scatters him across his memories in shards — a beach, a bathtub, a dead love — and can't reliably bring him back. Marienbad's director doing science fiction as pure editing: the self as an archive with corrupted indexing.\n\nAfter attempting suicide, Claude is recruited for a time travel experiment, but, when the machine goes haywire, he may be trapped hurtling through his memories."
   }
  ]
 }
