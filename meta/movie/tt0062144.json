@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "imdb_id": "tt0062144",
+  "type": "movie",
+  "name": "Portrait of Jason",
+  "year": "1967",
+  "runtime": "108 min",
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "released": "1967-09-29T00:00:00.000Z",
+  "director": [
+   "Shirley Clarke"
+  ],
+  "cast": [
+   "Jason Holliday",
+   "Shirley Clarke",
+   "Carl Lee"
+  ],
+  "imdbRating": "7.0",
+  "poster": "https://images.metahub.space/poster/small/tt0062144/img",
+  "description": "Captures the point where performance stops protecting a man: hustler and would-be cabaret act Jason Holliday performs his life all night for Shirley Clarke's provoking camera, until the act slowly, visibly cracks.\n\nBlack gay prostitute Jason Holliday is rigorously interviewed on his story and character, revealing nuanced truths about life and art.",
+  "country": "United States",
+  "awards": "1 win",
+  "trailers": [
+   {
+    "source": "t-ehssx01b0",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 83232,
+  "popularities": {
+   "moviedb": 0.7952,
+   "stremio": 0.026506666666666668,
+   "stremio_lib": 0
+  },
+  "writer": [],
+  "slug": "movie/portrait-of-jason-0062144",
+  "dvdRelease": "2016-09-22T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt0062144/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0062144/img",
+  "popularity": 0.026506666666666668,
+  "id": "tt0062144",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "1967",
+  "trailerStreams": [
+   {
+    "title": "Portrait of Jason",
+    "ytId": "t-ehssx01b0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0062144"
+   },
+   {
+    "name": "Portrait of Jason",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/portrait-of-jason-0062144"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Jason Holliday",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jason%20Holliday"
+   },
+   {
+    "name": "Shirley Clarke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shirley%20Clarke"
+   },
+   {
+    "name": "Carl Lee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Carl%20Lee"
+   },
+   {
+    "name": "Shirley Clarke",
+    "category": "Directors",
+    "url": "stremio:///search?search=Shirley%20Clarke"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0062144",
+   "hasScheduledVideos": false
+  }
+ }
+}

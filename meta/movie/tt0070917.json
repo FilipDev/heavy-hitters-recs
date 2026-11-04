@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "awards": "3 wins & 6 nominations total",
+  "cast": [
+   "Edward Woodward",
+   "Christopher Lee",
+   "Diane Cilento"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures paganism not as horror but as joy. A devout Christian policeman arrives on a Scottish island where the harvest failed and the old religion quietly resumed — and the islanders keep bursting into song, which is what makes the ending land.\n\nA puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the pagan locals claim never existed.",
+  "director": [
+   "Robin Hardy"
+  ],
+  "dvdRelease": "2016-10-06T00:00:00.000Z",
+  "genre": [
+   "Horror",
+   "Mystery",
+   "Thriller"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0070917",
+  "moviedb_id": 16307,
+  "name": "The Wicker Man",
+  "popularity": 0.2950833333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0070917/img",
+  "released": "1974-08-07T00:00:00.000Z",
+  "runtime": "93 min",
+  "trailers": [
+   {
+    "source": "MXq-NuS24fg",
+    "type": "Trailer"
+   },
+   {
+    "source": "mKvbtZWUTBc",
+    "type": "Trailer"
+   },
+   {
+    "source": "a-tDnavDCwI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Anthony Shaffer",
+   "David Pinner"
+  ],
+  "year": "1974",
+  "background": "https://images.metahub.space/background/medium/tt0070917/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0070917/img",
+  "popularities": {
+   "moviedb": 8.8525,
+   "stremio": 0.2950833333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-wicker-man-0070917",
+  "id": "tt0070917",
+  "genres": [
+   "Horror",
+   "Mystery",
+   "Thriller"
+  ],
+  "releaseInfo": "1974",
+  "trailerStreams": [
+   {
+    "title": "The Wicker Man",
+    "ytId": "MXq-NuS24fg"
+   },
+   {
+    "title": "The Wicker Man",
+    "ytId": "mKvbtZWUTBc"
+   },
+   {
+    "title": "The Wicker Man",
+    "ytId": "a-tDnavDCwI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0070917"
+   },
+   {
+    "name": "The Wicker Man",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-wicker-man-0070917"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Edward Woodward",
+    "category": "Cast",
+    "url": "stremio:///search?search=Edward%20Woodward"
+   },
+   {
+    "name": "Christopher Lee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Christopher%20Lee"
+   },
+   {
+    "name": "Diane Cilento",
+    "category": "Cast",
+    "url": "stremio:///search?search=Diane%20Cilento"
+   },
+   {
+    "name": "Anthony Shaffer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Anthony%20Shaffer"
+   },
+   {
+    "name": "David Pinner",
+    "category": "Writers",
+    "url": "stremio:///search?search=David%20Pinner"
+   },
+   {
+    "name": "Robin Hardy",
+    "category": "Directors",
+    "url": "stremio:///search?search=Robin%20Hardy"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0070917",
+   "hasScheduledVideos": false
+  }
+ }
+}

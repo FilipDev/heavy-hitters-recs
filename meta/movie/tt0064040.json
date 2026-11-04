@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "4 wins & 1 nomination total",
+  "cast": [
+   "Lino Ventura",
+   "Paul Meurisse",
+   "Jean-Pierre Cassel"
+  ],
+  "country": "France, Italy",
+  "description": "Captures resistance as cold, lonely procedure. French Resistance, 1942: safe houses, coded phrases, informers executed badly — no glamour and almost no hope, filmed like a heist movie in mourning.\n\nAn account of underground resistance fighters in Nazi-occupied France.",
+  "director": [
+   "Jean-Pierre Melville"
+  ],
+  "dvdRelease": "2014-09-02T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0064040",
+  "moviedb_id": 15383,
+  "name": "Army of Shadows",
+  "popularity": 0.13126333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0064040/img",
+  "released": "1970-06-19T00:00:00.000Z",
+  "runtime": "145 min",
+  "trailers": [
+   {
+    "source": "sxnCZ0nR2a4",
+    "type": "Trailer"
+   },
+   {
+    "source": "GYl2I0vVok4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Joseph Kessel",
+   "Jean-Pierre Melville"
+  ],
+  "year": "1970",
+  "popularities": {
+   "moviedb": 3.9379,
+   "stremio": 0.13126333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0064040/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0064040/img",
+  "slug": "movie/army-of-shadows-0064040",
+  "id": "tt0064040",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1970",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Army of Shadows",
+    "ytId": "sxnCZ0nR2a4"
+   },
+   {
+    "title": "Army of Shadows",
+    "ytId": "GYl2I0vVok4"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0064040"
+   },
+   {
+    "name": "Army of Shadows",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/army-of-shadows-0064040"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Lino Ventura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lino%20Ventura"
+   },
+   {
+    "name": "Paul Meurisse",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Meurisse"
+   },
+   {
+    "name": "Jean-Pierre Cassel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Pierre%20Cassel"
+   },
+   {
+    "name": "Joseph Kessel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joseph%20Kessel"
+   },
+   {
+    "name": "Jean-Pierre Melville",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean-Pierre%20Melville"
+   },
+   {
+    "name": "Jean-Pierre Melville",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean-Pierre%20Melville"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0064040",
+   "hasScheduledVideos": false
+  }
+ }
+}

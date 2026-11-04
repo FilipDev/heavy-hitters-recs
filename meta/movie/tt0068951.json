@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "id": "tt0068951",
+  "imdb_id": "tt0068951",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0068951/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0068951/img",
+  "background": "https://live.metahub.space/background/medium/tt0068951/img",
+  "moviedb_id": 125374,
+  "name": "Minamata: The Victims and Their World",
+  "description": "Captures resistance as a way of life: Tsuchimoto lives with Minamata's mercury-poisoned fishing families as they confront the Chisso corporation, sit in at shareholder meetings and refuse, for years, to go away.\n\nThe first in a series of independent documentaries that Tsuchimoto made of the mercury poisoning incident in Minamata, Japan.",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1971",
+  "runtime": "123 min",
+  "trailers": [],
+  "cast": [],
+  "credits_cast": [],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Noriaki Tsuchimoto",
+    "profile_path": "/kcr6g8u1kHHwVx8fT3g5cA2SGWh.jpg",
+    "id": 1081282
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Ryutaro Takagi",
+    "profile_path": null,
+    "id": 2303783
+   }
+  ],
+  "director": [
+   "Noriaki Tsuchimoto"
+  ],
+  "imdbRating": "7.6",
+  "language": "Japanese",
+  "country": "Japan",
+  "slug": "movie/minamata-the-victims-and-their-world-0068951",
+  "behaviorHints": {
+   "defaultVideoId": "tt0068951",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "3 wins",
+  "cast": [
+   "Abilio Fernández",
+   "Salvador Allende"
+  ],
+  "country": "Chile, Cuba",
+  "description": "Captures a revolution and its destruction filmed by people unsure which they were recording: Guzmán's crew shoots Allende's final year in Chile's streets across three parts, as mass rallies and strikes give way to the coup arriving around the camera.\n\nThe chronicle of the political tension in Chile in 1973 and of the violent counter revolution against the democratically elected government of Salvador Allende.",
+  "director": [
+   "Patricio Guzmán"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0072685",
+  "moviedb_id": 132144,
+  "name": "The Battle of Chile",
+  "popularity": 0.043083333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0072685/img",
+  "released": "1975-03-18T00:00:00.000Z",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "4FY3-dhym3g",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Patricio Guzmán",
+   "Pedro Chaskel",
+   "Jose Bartolome"
+  ],
+  "year": "1975",
+  "popularities": {
+   "moviedb": 1.2925,
+   "stremio": 0.043083333333333335,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-battle-of-chile-part-i-0072685",
+  "background": "https://images.metahub.space/background/medium/tt0072685/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0072685/img",
+  "id": "tt0072685",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "1975",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Battle of Chile: Part I",
+    "ytId": "4FY3-dhym3g"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0072685"
+   },
+   {
+    "name": "The Battle of Chile: Part I",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-battle-of-chile-part-i-0072685"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Abilio Fernández",
+    "category": "Cast",
+    "url": "stremio:///search?search=Abilio%20Fern%C3%A1ndez"
+   },
+   {
+    "name": "Salvador Allende",
+    "category": "Cast",
+    "url": "stremio:///search?search=Salvador%20Allende"
+   },
+   {
+    "name": "Patricio Guzmán",
+    "category": "Writers",
+    "url": "stremio:///search?search=Patricio%20Guzm%C3%A1n"
+   },
+   {
+    "name": "Pedro Chaskel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pedro%20Chaskel"
+   },
+   {
+    "name": "Jose Bartolome",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jose%20Bartolome"
+   },
+   {
+    "name": "Patricio Guzmán",
+    "category": "Directors",
+    "url": "stremio:///search?search=Patricio%20Guzm%C3%A1n"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0072685",
+   "hasScheduledVideos": false
+  }
+ }
+}

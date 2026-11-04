@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Won 1 BAFTA Award18 wins & 1 nomination total",
+  "cast": [
+   "Luigi Ornaghi",
+   "Francesca Moriggi",
+   "Omar Brignoli"
+  ],
+  "country": "Italy",
+  "description": "Captures the folk world at the opposite end of the temperament scale from Parajanov — patient, plain, and quietly overwhelming. Olmi films Lombardy peasants playing their grandparents' generation: four families, one farm, a whole year of seasons, labour and ritual.\n\nPeasant life in a feudal farm in rural Italy at the end of the 19th century.",
+  "director": [
+   "Ermanno Olmi"
+  ],
+  "dvdRelease": "2017-02-14T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0077138",
+  "moviedb_id": 31542,
+  "name": "The Tree of Wooden Clogs",
+  "popularity": 0.12105,
+  "poster": "https://images.metahub.space/poster/small/tt0077138/img",
+  "released": "1979-06-01T00:00:00.000Z",
+  "runtime": "187 min",
+  "trailers": [
+   {
+    "source": "v6LAOc3M6b0",
+    "type": "Trailer"
+   },
+   {
+    "source": "4oYqy0PnGXs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ermanno Olmi"
+  ],
+  "year": "1978",
+  "popularities": {
+   "moviedb": 3.6315,
+   "stremio": 0.12105,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "slug": "movie/the-tree-of-wooden-clogs-0077138",
+  "background": "https://images.metahub.space/background/medium/tt0077138/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0077138/img",
+  "id": "tt0077138",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1978",
+  "trailerStreams": [
+   {
+    "title": "The Tree of Wooden Clogs",
+    "ytId": "v6LAOc3M6b0"
+   },
+   {
+    "title": "The Tree of Wooden Clogs",
+    "ytId": "4oYqy0PnGXs"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0077138"
+   },
+   {
+    "name": "The Tree of Wooden Clogs",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-tree-of-wooden-clogs-0077138"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Luigi Ornaghi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Luigi%20Ornaghi"
+   },
+   {
+    "name": "Francesca Moriggi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Francesca%20Moriggi"
+   },
+   {
+    "name": "Omar Brignoli",
+    "category": "Cast",
+    "url": "stremio:///search?search=Omar%20Brignoli"
+   },
+   {
+    "name": "Ermanno Olmi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ermanno%20Olmi"
+   },
+   {
+    "name": "Ermanno Olmi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ermanno%20Olmi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0077138",
+   "hasScheduledVideos": false
+  }
+ }
+}

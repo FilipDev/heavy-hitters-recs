@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "1 nomination total",
+  "cast": [
+   "Alain Delon",
+   "François Périer",
+   "Nathalie Delon"
+  ],
+  "country": "France, Italy",
+  "description": "Captures cool as ritual and solitude. A Paris hitman in a trench coat, a grey room, a bird in a cage, an alibi arranged like furniture — almost no psychology given, all behaviour.\n\nAfter professional hitman Jef Costello is seen by witnesses, his efforts to provide himself an alibi drive him further into a corner.",
+  "director": [
+   "Jean-Pierre Melville"
+  ],
+  "dvdRelease": "2015-07-14T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0062229",
+  "moviedb_id": 5511,
+  "name": "Le Samouraï",
+  "popularity": 0.15962666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0062229/img",
+  "released": "1967-10-25T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "PTFV07ah4fY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jean-Pierre Melville",
+   "Joan McLeod",
+   "Georges Pellegrin"
+  ],
+  "year": "1967",
+  "background": "https://images.metahub.space/background/medium/tt0062229/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0062229/img",
+  "popularities": {
+   "moviedb": 4.7888,
+   "stremio": 0.15962666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/le-samoura-0062229",
+  "id": "tt0062229",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1967",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Le Samouraï",
+    "ytId": "PTFV07ah4fY"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0062229"
+   },
+   {
+    "name": "Le Samouraï",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/le-samoura-0062229"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Alain Delon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alain%20Delon"
+   },
+   {
+    "name": "François Périer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fran%C3%A7ois%20P%C3%A9rier"
+   },
+   {
+    "name": "Nathalie Delon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nathalie%20Delon"
+   },
+   {
+    "name": "Jean-Pierre Melville",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean-Pierre%20Melville"
+   },
+   {
+    "name": "Joan McLeod",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joan%20McLeod"
+   },
+   {
+    "name": "Georges Pellegrin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Georges%20Pellegrin"
+   },
+   {
+    "name": "Jean-Pierre Melville",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean-Pierre%20Melville"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0062229",
+   "hasScheduledVideos": false
+  }
+ }
+}

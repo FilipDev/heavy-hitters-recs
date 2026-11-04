@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "imdb_id": "tt0073198",
+  "popularity": 0.11531666666666666,
+  "name": "Jeanne Dielman, 23 quai du commerce, 1080 Bruxelles",
+  "year": "1976",
+  "runtime": "202 min",
+  "genre": [
+   "Drama"
+  ],
+  "released": "1976-01-21T00:00:00.000Z",
+  "director": [
+   "Chantal Akerman"
+  ],
+  "writer": [
+   "Chantal Akerman"
+  ],
+  "cast": [
+   "Delphine Seyrig",
+   "Jan Decorte",
+   "Henri Storck"
+  ],
+  "imdbRating": "7.5",
+  "poster": "https://images.metahub.space/poster/small/tt0073198/img",
+  "description": "Captures a domestic routine so exactly that you feel it crack. A widow's day — bath, potatoes, clients — filmed at near real duration for 201 minutes, until one small deviation changes the temperature of everything.\n\nA lonely widowed housewife does her daily chores, takes care of her apartment where she lives with her teenage son, and turns the occasional trick to make ends meet, but something happens that changes her safe routine.",
+  "country": "Belgium, France",
+  "awards": "2 nominations",
+  "dvdRelease": "2017-05-09T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "iuP1MN6RNJU",
+    "type": "Trailer"
+   },
+   {
+    "source": "YSRQ_oE-psg",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 44012,
+  "popularities": {
+   "moviedb": 3.4595,
+   "stremio": 0.11531666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-0073198",
+  "background": "https://images.metahub.space/background/medium/tt0073198/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0073198/img",
+  "id": "tt0073198",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1976",
+  "trailerStreams": [
+   {
+    "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+    "ytId": "iuP1MN6RNJU"
+   },
+   {
+    "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+    "ytId": "YSRQ_oE-psg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0073198"
+   },
+   {
+    "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/jeanne-dielman-23-quai-du-commerce-1080-bruxelles-0073198"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Delphine Seyrig",
+    "category": "Cast",
+    "url": "stremio:///search?search=Delphine%20Seyrig"
+   },
+   {
+    "name": "Jan Decorte",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jan%20Decorte"
+   },
+   {
+    "name": "Henri Storck",
+    "category": "Cast",
+    "url": "stremio:///search?search=Henri%20Storck"
+   },
+   {
+    "name": "Chantal Akerman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Chantal%20Akerman"
+   },
+   {
+    "name": "Chantal Akerman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Chantal%20Akerman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0073198",
+   "hasScheduledVideos": false
+  }
+ }
+}

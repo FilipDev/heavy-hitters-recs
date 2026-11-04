@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "Won 4 Oscars. 20 wins & 27 nominations total",
+  "cast": [
+   "Faye Dunaway",
+   "William Holden",
+   "Peter Finch"
+  ],
+  "country": "United States",
+  "description": "Captures television discovering that a breakdown is better content than news. A news anchor unravels on air, ratings rise, and the network builds a show around it; written in 1976, it describes now.\n\nA television network cynically exploits a deranged former anchor's ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
+  "director": [
+   "Sidney Lumet"
+  ],
+  "dvdRelease": "2008-01-01T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0074958",
+  "moviedb_id": 10774,
+  "name": "Network",
+  "popularity": 0.24572666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0074958/img",
+  "released": "1976-11-27T00:00:00.000Z",
+  "runtime": "122 min",
+  "trailers": [
+   {
+    "source": "T-PyQ1gMT6o",
+    "type": "Trailer"
+   },
+   {
+    "source": "xxajGBZeQZc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Paddy Chayefsky"
+  ],
+  "year": "1976",
+  "background": "https://images.metahub.space/background/medium/tt0074958/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0074958/img",
+  "popularities": {
+   "moviedb": 7.3718,
+   "stremio": 0.24572666666666668,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/network-0074958",
+  "id": "tt0074958",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1976",
+  "trailerStreams": [
+   {
+    "title": "Network",
+    "ytId": "T-PyQ1gMT6o"
+   },
+   {
+    "title": "Network",
+    "ytId": "xxajGBZeQZc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0074958"
+   },
+   {
+    "name": "Network",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/network-0074958"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Faye Dunaway",
+    "category": "Cast",
+    "url": "stremio:///search?search=Faye%20Dunaway"
+   },
+   {
+    "name": "William Holden",
+    "category": "Cast",
+    "url": "stremio:///search?search=William%20Holden"
+   },
+   {
+    "name": "Peter Finch",
+    "category": "Cast",
+    "url": "stremio:///search?search=Peter%20Finch"
+   },
+   {
+    "name": "Paddy Chayefsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paddy%20Chayefsky"
+   },
+   {
+    "name": "Sidney Lumet",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sidney%20Lumet"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0074958",
+   "hasScheduledVideos": false
+  }
+ }
+}

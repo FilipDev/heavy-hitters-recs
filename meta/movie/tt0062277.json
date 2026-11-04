@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 7 wins & 6 nominations total",
+  "cast": [
+   "Bekim Fehmiu",
+   "Olivera Katarina",
+   "Velimir 'Bata' Zivojinovic"
+  ],
+  "country": "Yugoslavia",
+  "description": "Captures a community filmed from inside its own music and fatalism. A Romani feather trader in the mud flats of Vojvodina, folk songs everywhere, makes a series of choices each slightly worse than the last.\n\nTensions arise in a Gypsy community when a local feather seller falls in love with a much younger girl.",
+  "director": [
+   "Aleksandar Petrovic"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0062277",
+  "moviedb_id": 59088,
+  "name": "I Even Met Happy Gypsies",
+  "popularity": 0.09799666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0062277/img",
+  "released": "1968-03-20T00:00:00.000Z",
+  "runtime": "94 min",
+  "trailers": [
+   {
+    "source": "u3MH8hAs_Dg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Aleksandar Petrovic"
+  ],
+  "year": "1967",
+  "popularities": {
+   "moviedb": 2.9399,
+   "stremio": 0.09799666666666668,
+   "stremio_lib": 0
+  },
+  "slug": "movie/i-even-met-happy-gypsies-0062277",
+  "background": "https://images.metahub.space/background/medium/tt0062277/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0062277/img",
+  "id": "tt0062277",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1967",
+  "trailerStreams": [
+   {
+    "title": "I Even Met Happy Gypsies",
+    "ytId": "u3MH8hAs_Dg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0062277"
+   },
+   {
+    "name": "I Even Met Happy Gypsies",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/i-even-met-happy-gypsies-0062277"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Bekim Fehmiu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bekim%20Fehmiu"
+   },
+   {
+    "name": "Olivera Katarina",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olivera%20Katarina"
+   },
+   {
+    "name": "Velimir 'Bata' Zivojinovic",
+    "category": "Cast",
+    "url": "stremio:///search?search=Velimir%20'Bata'%20Zivojinovic"
+   },
+   {
+    "name": "Aleksandar Petrovic",
+    "category": "Writers",
+    "url": "stremio:///search?search=Aleksandar%20Petrovic"
+   },
+   {
+    "name": "Aleksandar Petrovic",
+    "category": "Directors",
+    "url": "stremio:///search?search=Aleksandar%20Petrovic"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0062277",
+   "hasScheduledVideos": false
+  }
+ }
+}

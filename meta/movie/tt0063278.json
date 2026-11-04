@@ -1,0 +1,137 @@
+{
+ "meta": {
+  "awards": "2 wins & 2 nominations total",
+  "cast": [
+   "Josef Kemr",
+   "Magda Vášáryová",
+   "Nada Hejná"
+  ],
+  "country": "Czechoslovakia",
+  "description": "Captures a whole civilisation changing gods. Medieval Bohemia in deep winter — pagan and Christian clans, wolf packs, kidnapped nuns, mud and chanting — with Shadows' savage lyricism stretched to epic scale. Frequently called the greatest Czech film.\n\nA grim portrayal of the shift from Paganism to Christianity in medieval central Europe - as a young virgin promised to God is kidnapped and raped by a marauder who her religious father seeks to kill in return.",
+  "director": [
+   "František Vlácil"
+  ],
+  "dvdRelease": "2017-02-17T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History",
+   "Romance"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0063278",
+  "moviedb_id": 25904,
+  "name": "Marketa Lazarová",
+  "popularity": 0.14059666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0063278/img",
+  "released": "1967-11-24T00:00:00.000Z",
+  "runtime": "166 min",
+  "trailers": [
+   {
+    "source": "YF8uWhXtkJg",
+    "type": "Trailer"
+   },
+   {
+    "source": "GR7YXgF3pPY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Frantisek Pavlícek",
+   "Vladislav Vancura",
+   "František Vlácil"
+  ],
+  "year": "1967",
+  "popularities": {
+   "moviedb": 4.2179,
+   "stremio": 0.14059666666666668,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0063278/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0063278/img",
+  "slug": "movie/marketa-lazarov-0063278",
+  "id": "tt0063278",
+  "genres": [
+   "Drama",
+   "History",
+   "Romance"
+  ],
+  "releaseInfo": "1967",
+  "trailerStreams": [
+   {
+    "title": "Marketa Lazarová",
+    "ytId": "YF8uWhXtkJg"
+   },
+   {
+    "title": "Marketa Lazarová",
+    "ytId": "GR7YXgF3pPY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0063278"
+   },
+   {
+    "name": "Marketa Lazarová",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/marketa-lazarov-0063278"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Josef Kemr",
+    "category": "Cast",
+    "url": "stremio:///search?search=Josef%20Kemr"
+   },
+   {
+    "name": "Magda Vášáryová",
+    "category": "Cast",
+    "url": "stremio:///search?search=Magda%20V%C3%A1%C5%A1%C3%A1ryov%C3%A1"
+   },
+   {
+    "name": "Nada Hejná",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nada%20Hejn%C3%A1"
+   },
+   {
+    "name": "Frantisek Pavlícek",
+    "category": "Writers",
+    "url": "stremio:///search?search=Frantisek%20Pavl%C3%ADcek"
+   },
+   {
+    "name": "Vladislav Vancura",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vladislav%20Vancura"
+   },
+   {
+    "name": "František Vlácil",
+    "category": "Writers",
+    "url": "stremio:///search?search=Franti%C5%A1ek%20Vl%C3%A1cil"
+   },
+   {
+    "name": "František Vlácil",
+    "category": "Directors",
+    "url": "stremio:///search?search=Franti%C5%A1ek%20Vl%C3%A1cil"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0063278",
+   "hasScheduledVideos": false
+  }
+ }
+}

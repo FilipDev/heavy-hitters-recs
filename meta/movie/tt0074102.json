@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "4 wins total",
+  "cast": [
+   "Tatsuya Fuji",
+   "Eiko Matsuda",
+   "Aoi Nakajima"
+  ],
+  "country": "Japan, France",
+  "description": "Captures obsession with the outside world switched off. 1930s Japan, a hotel maid and her employer in a room, in a spiral based on a real case — explicit as claustrophobia, not titillation.\n\nA fictionalized retelling of the story of Sada Abe, whose affair with her master quickly turned obsessive and sadomasochistic.",
+  "director": [
+   "Nagisa Oshima"
+  ],
+  "dvdRelease": "2017-05-23T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "6.6",
+  "imdb_id": "tt0074102",
+  "moviedb_id": 5879,
+  "name": "In the Realm of the Senses",
+  "popularity": 0.3867233333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0074102/img",
+  "released": "1977-04-01T00:00:00.000Z",
+  "runtime": "102 min",
+  "trailers": [
+   {
+    "source": "w-o8EKjXJPQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Nagisa Oshima",
+   "Koji Wakamatsu"
+  ],
+  "year": "1977",
+  "popularities": {
+   "moviedb": 11.6017,
+   "stremio": 0.3867233333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0074102/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0074102/img",
+  "slug": "movie/in-the-realm-of-the-senses-0074102",
+  "id": "tt0074102",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1977",
+  "trailerStreams": [
+   {
+    "title": "In the Realm of the Senses",
+    "ytId": "w-o8EKjXJPQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0074102"
+   },
+   {
+    "name": "In the Realm of the Senses",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/in-the-realm-of-the-senses-0074102"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Tatsuya Fuji",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tatsuya%20Fuji"
+   },
+   {
+    "name": "Eiko Matsuda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eiko%20Matsuda"
+   },
+   {
+    "name": "Aoi Nakajima",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aoi%20Nakajima"
+   },
+   {
+    "name": "Nagisa Oshima",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nagisa%20Oshima"
+   },
+   {
+    "name": "Koji Wakamatsu",
+    "category": "Writers",
+    "url": "stremio:///search?search=Koji%20Wakamatsu"
+   },
+   {
+    "name": "Nagisa Oshima",
+    "category": "Directors",
+    "url": "stremio:///search?search=Nagisa%20Oshima"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0074102",
+   "hasScheduledVideos": false
+  }
+ }
+}

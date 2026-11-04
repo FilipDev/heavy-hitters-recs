@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "imdb_id": "tt0064921",
+  "awards": "4 wins total",
+  "cast": [
+   "Paul Brennan",
+   "Charles McDevitt",
+   "James Baker"
+  ],
+  "country": "United States",
+  "description": "Captures a man whose self-belief is running out, one rejected doorstep at a time. The Maysles brothers follow a Bible salesman through Boston and Florida as his pitch slowly stops working and the road stops feeling like hope.\n\nFour dogged door-to-door Bible salesmen travel from Boston to Florida on a seemingly futile quest to sell luxury editions of the Good Book to working-class Catholics.",
+  "director": [
+   "Albert Maysles",
+   "David Maysles",
+   "Charlotte Zwerin"
+  ],
+  "dvdRelease": "2016-11-30T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "name": "Salesman",
+  "poster": "https://images.metahub.space/poster/small/tt0064921/img",
+  "released": "2021-12-11T00:00:00.000Z",
+  "runtime": "90 min",
+  "slug": "movie/salesman-0064921",
+  "type": "movie",
+  "year": "2021",
+  "moviedb_id": 27375,
+  "popularities": {
+   "moviedb": 1.7859,
+   "stremio": 0.05953,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "GMcrdhBJkvA",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "background": "https://images.metahub.space/background/medium/tt0064921/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0064921/img",
+  "popularity": 0.05953,
+  "id": "tt0064921",
+  "genres": [
+   "Documentary",
+   "Drama"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "Salesman",
+    "ytId": "GMcrdhBJkvA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0064921"
+   },
+   {
+    "name": "Salesman",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/salesman-0064921"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Paul Brennan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Brennan"
+   },
+   {
+    "name": "Charles McDevitt",
+    "category": "Cast",
+    "url": "stremio:///search?search=Charles%20McDevitt"
+   },
+   {
+    "name": "James Baker",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Baker"
+   },
+   {
+    "name": "Albert Maysles",
+    "category": "Directors",
+    "url": "stremio:///search?search=Albert%20Maysles"
+   },
+   {
+    "name": "David Maysles",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Maysles"
+   },
+   {
+    "name": "Charlotte Zwerin",
+    "category": "Directors",
+    "url": "stremio:///search?search=Charlotte%20Zwerin"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0064921",
+   "hasScheduledVideos": false
+  }
+ }
+}

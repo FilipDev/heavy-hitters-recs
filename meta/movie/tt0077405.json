@@ -1,0 +1,128 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 13 wins & 13 nominations total",
+  "cast": [
+   "Richard Gere",
+   "Brooke Adams",
+   "Sam Shepard"
+  ],
+  "country": "United States",
+  "description": "Captures labour, land and sky at a scale that makes human betrayal look like weather passing through it. Malick's wheat-harvest tragedy, shot almost entirely at magic hour and narrated by a child who only half understands the adults around her.\n\nA hot-tempered farm laborer convinces the woman he loves to marry their rich but dying boss so that they can have a claim to his fortune.",
+  "director": [
+   "Terrence Malick"
+  ],
+  "dvdRelease": "2016-03-22T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0077405",
+  "moviedb_id": 16642,
+  "name": "Days of Heaven",
+  "popularity": 0.16773666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0077405/img",
+  "released": "1978-10-06T00:00:00.000Z",
+  "runtime": "94 min",
+  "trailers": [
+   {
+    "source": "7LAqRFoT97o",
+    "type": "Trailer"
+   },
+   {
+    "source": "r9KfKLrmntA",
+    "type": "Trailer"
+   },
+   {
+    "source": "XVbg9xc7tGc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Terrence Malick"
+  ],
+  "year": "1978",
+  "background": "https://images.metahub.space/background/medium/tt0077405/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0077405/img",
+  "popularities": {
+   "moviedb": 5.0321,
+   "stremio": 0.16773666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/days-of-heaven-0077405",
+  "id": "tt0077405",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1978",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Days of Heaven",
+    "ytId": "7LAqRFoT97o"
+   },
+   {
+    "title": "Days of Heaven",
+    "ytId": "r9KfKLrmntA"
+   },
+   {
+    "title": "Days of Heaven",
+    "ytId": "XVbg9xc7tGc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0077405"
+   },
+   {
+    "name": "Days of Heaven",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/days-of-heaven-0077405"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Richard Gere",
+    "category": "Cast",
+    "url": "stremio:///search?search=Richard%20Gere"
+   },
+   {
+    "name": "Brooke Adams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brooke%20Adams"
+   },
+   {
+    "name": "Sam Shepard",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sam%20Shepard"
+   },
+   {
+    "name": "Terrence Malick",
+    "category": "Writers",
+    "url": "stremio:///search?search=Terrence%20Malick"
+   },
+   {
+    "name": "Terrence Malick",
+    "category": "Directors",
+    "url": "stremio:///search?search=Terrence%20Malick"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0077405",
+   "hasScheduledVideos": false
+  }
+ }
+}

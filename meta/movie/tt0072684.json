@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "awards": "Won 4 Oscars. 18 wins & 14 nominations total",
+  "cast": [
+   "Ryan O&apos;Neal",
+   "Marisa Berenson",
+   "Patrick Magee"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures a rise and fall narrated like fate already happened. An Irish opportunist climbs 18th-century society through duels, war and marriage, shot like paintings, with a narrator who keeps telling you the ending early.\n\nAn Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+  "director": [
+   "Stanley Kubrick"
+  ],
+  "dvdRelease": "2007-12-31T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0072684",
+  "moviedb_id": 3175,
+  "name": "Barry Lyndon",
+  "popularity": 0.28337333333333337,
+  "poster": "https://images.metahub.space/poster/small/tt0072684/img",
+  "released": "1975-12-18T00:00:00.000Z",
+  "runtime": "188 min",
+  "trailers": [
+   {
+    "source": "JH8j_1dUlUU",
+    "type": "Trailer"
+   },
+   {
+    "source": "XjPSGuJskxM",
+    "type": "Trailer"
+   },
+   {
+    "source": "9lzSoKOs1fc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Stanley Kubrick",
+   "William Makepeace Thackeray"
+  ],
+  "year": "1975",
+  "background": "https://images.metahub.space/background/medium/tt0072684/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0072684/img",
+  "popularities": {
+   "moviedb": 8.5012,
+   "stremio": 0.28337333333333337,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/barry-lyndon-0072684",
+  "id": "tt0072684",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1975",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Barry Lyndon",
+    "ytId": "JH8j_1dUlUU"
+   },
+   {
+    "title": "Barry Lyndon",
+    "ytId": "XjPSGuJskxM"
+   },
+   {
+    "title": "Barry Lyndon",
+    "ytId": "9lzSoKOs1fc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0072684"
+   },
+   {
+    "name": "Barry Lyndon",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/barry-lyndon-0072684"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Ryan O&apos;Neal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ryan%20O%26apos%3BNeal"
+   },
+   {
+    "name": "Marisa Berenson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marisa%20Berenson"
+   },
+   {
+    "name": "Patrick Magee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Patrick%20Magee"
+   },
+   {
+    "name": "Stanley Kubrick",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stanley%20Kubrick"
+   },
+   {
+    "name": "William Makepeace Thackeray",
+    "category": "Writers",
+    "url": "stremio:///search?search=William%20Makepeace%20Thackeray"
+   },
+   {
+    "name": "Stanley Kubrick",
+    "category": "Directors",
+    "url": "stremio:///search?search=Stanley%20Kubrick"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0072684",
+   "hasScheduledVideos": false
+  }
+ }
+}

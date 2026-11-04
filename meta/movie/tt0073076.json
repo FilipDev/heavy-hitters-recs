@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "5 wins & 1 nomination total",
+  "cast": [
+   "Edith Bouvier Beale",
+   "Edith &apos;Little Edie&apos; Bouvier Beale",
+   "Brooks Hyers"
+  ],
+  "country": "United States",
+  "description": "Captures a mother and daughter fused together in a decaying mansion. The Beales, relatives of Jackie Kennedy, singing, bickering and feeding raccoons in the attic — performing for the camera and trapped with each other.\n\nMeet a mother and daughter, high-society dropouts, reclusive cousins of Jackie O., managing to thrive together amid the decay and disorder of their East Hampton, NY, mansion, making for an eerily ramshackle echo of the American Ca...",
+  "director": [
+   "Ellen Hovde",
+   "Albert Maysles",
+   "David Maysles"
+  ],
+  "dvdRelease": "2009-07-21T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0073076",
+  "moviedb_id": 17346,
+  "name": "Grey Gardens",
+  "popularity": 0.054490000000000004,
+  "poster": "https://images.metahub.space/poster/small/tt0073076/img",
+  "released": "1975-09-27T00:00:00.000Z",
+  "runtime": "95 min",
+  "trailers": [
+   {
+    "source": "mumWYU5aHBU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1975",
+  "popularities": {
+   "moviedb": 1.6347,
+   "stremio": 0.054490000000000004,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0073076/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0073076/img",
+  "slug": "movie/grey-gardens-0073076",
+  "id": "tt0073076",
+  "genres": [
+   "Documentary",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1975",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Grey Gardens",
+    "ytId": "mumWYU5aHBU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0073076"
+   },
+   {
+    "name": "Grey Gardens",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/grey-gardens-0073076"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Edith Bouvier Beale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Edith%20Bouvier%20Beale"
+   },
+   {
+    "name": "Edith &apos;Little Edie&apos; Bouvier Beale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Edith%20%26apos%3BLittle%20Edie%26apos%3B%20Bouvier%20Beale"
+   },
+   {
+    "name": "Brooks Hyers",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brooks%20Hyers"
+   },
+   {
+    "name": "Ellen Hovde",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ellen%20Hovde"
+   },
+   {
+    "name": "Albert Maysles",
+    "category": "Directors",
+    "url": "stremio:///search?search=Albert%20Maysles"
+   },
+   {
+    "name": "David Maysles",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Maysles"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0073076",
+   "hasScheduledVideos": false
+  }
+ }
+}

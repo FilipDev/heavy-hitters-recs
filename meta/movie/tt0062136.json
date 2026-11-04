@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "2 wins & 1 nomination total",
+  "cast": [
+   "Jacques Tati",
+   "Barbara Dennek",
+   "Rita Maiden"
+  ],
+  "country": "France, Italy",
+  "description": "Captures modern architecture failing to be lived in. Tati wanders a Paris of glass and identical cubicles where the jokes happen at the edges of the frame, all at once, none of them underlined.\n\nMonsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists. Meanwhile, a nightclub/restaurant prepares its opening night, but it's still under construction.",
+  "director": [
+   "Jacques Tati"
+  ],
+  "dvdRelease": "2017-03-23T00:00:00.000Z",
+  "genre": [
+   "Comedy"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0062136",
+  "moviedb_id": 10227,
+  "name": "Playtime",
+  "popularity": 0.23902333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0062136/img",
+  "released": "1973-06-27T00:00:00.000Z",
+  "runtime": "115 min",
+  "trailers": [
+   {
+    "source": "zrYB8hgyq4s",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jacques Tati",
+   "Jacques Lagrange",
+   "Art Buchwald"
+  ],
+  "year": "1973",
+  "popularities": {
+   "moviedb": 7.1707,
+   "stremio": 0.23902333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/playtime-0062136",
+  "background": "https://images.metahub.space/background/medium/tt0062136/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0062136/img",
+  "id": "tt0062136",
+  "genres": [
+   "Comedy"
+  ],
+  "releaseInfo": "1973",
+  "trailerStreams": [
+   {
+    "title": "Playtime",
+    "ytId": "zrYB8hgyq4s"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0062136"
+   },
+   {
+    "name": "Playtime",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/playtime-0062136"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Jacques Tati",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacques%20Tati"
+   },
+   {
+    "name": "Barbara Dennek",
+    "category": "Cast",
+    "url": "stremio:///search?search=Barbara%20Dennek"
+   },
+   {
+    "name": "Rita Maiden",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rita%20Maiden"
+   },
+   {
+    "name": "Jacques Tati",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacques%20Tati"
+   },
+   {
+    "name": "Jacques Lagrange",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacques%20Lagrange"
+   },
+   {
+    "name": "Art Buchwald",
+    "category": "Writers",
+    "url": "stremio:///search?search=Art%20Buchwald"
+   },
+   {
+    "name": "Jacques Tati",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jacques%20Tati"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0062136",
+   "hasScheduledVideos": false
+  }
+ }
+}

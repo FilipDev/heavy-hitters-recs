@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "7 wins & 1 nomination total",
+  "cast": [
+   "Fernando Fernán Gómez",
+   "Teresa Gimpera",
+   "Ana Torrent"
+  ],
+  "country": "Spain",
+  "description": "Captures a child's imagination working inside a silenced country. Post-civil-war Spain: a travelling cinema shows Frankenstein, and a solemn little girl goes looking for the monster in fields and empty houses.\n\nIn 1940, after watching and being traumatized by the movie Frankenstein (1931), a sensitive seven-year-old girl living in a small Spanish village drifts into her own fantasy world.",
+  "director": [
+   "Víctor Erice"
+  ],
+  "dvdRelease": "2006-09-19T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0070040",
+  "moviedb_id": 4495,
+  "name": "The Spirit of the Beehive",
+  "popularity": 0.10003999999999999,
+  "poster": "https://images.metahub.space/poster/small/tt0070040/img",
+  "released": "1975-03-14T00:00:00.000Z",
+  "runtime": "99 min",
+  "trailers": [
+   {
+    "source": "aqvpMJNlqxE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ángel Fernández-Santos de Blázquez",
+   "Víctor Erice"
+  ],
+  "year": "1975",
+  "popularities": {
+   "moviedb": 3.0012,
+   "stremio": 0.10003999999999999,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0070040/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0070040/img",
+  "slug": "movie/the-spirit-of-the-beehive-0070040",
+  "id": "tt0070040",
+  "genres": [
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1975",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Spirit of the Beehive",
+    "ytId": "aqvpMJNlqxE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0070040"
+   },
+   {
+    "name": "The Spirit of the Beehive",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-spirit-of-the-beehive-0070040"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Fernando Fernán Gómez",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fernando%20Fern%C3%A1n%20G%C3%B3mez"
+   },
+   {
+    "name": "Teresa Gimpera",
+    "category": "Cast",
+    "url": "stremio:///search?search=Teresa%20Gimpera"
+   },
+   {
+    "name": "Ana Torrent",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ana%20Torrent"
+   },
+   {
+    "name": "Ángel Fernández-Santos de Blázquez",
+    "category": "Writers",
+    "url": "stremio:///search?search=%C3%81ngel%20Fern%C3%A1ndez-Santos%20de%20Bl%C3%A1zquez"
+   },
+   {
+    "name": "Víctor Erice",
+    "category": "Writers",
+    "url": "stremio:///search?search=V%C3%ADctor%20Erice"
+   },
+   {
+    "name": "Víctor Erice",
+    "category": "Directors",
+    "url": "stremio:///search?search=V%C3%ADctor%20Erice"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0070040",
+   "hasScheduledVideos": false
+  }
+ }
+}

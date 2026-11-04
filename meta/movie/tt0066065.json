@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "2 nominations total",
+  "cast": [
+   "Maria Callas",
+   "Massimo Girotti",
+   "Laurent Terzieff"
+  ],
+  "country": "Italy, France, West Germany",
+  "description": "Captures two cosmologies colliding. Pasolini casts Maria Callas, who barely sings a note, as the barbarian priestess Jason brings home to a rational, modern Corinth with no room for her gods — the archaic ritual world filmed in Cappadocia's stone landscapes.\n\nAfter his quest to retrieve the fabled Golden Fleece, Jason returns to Greece with powerful sorceress Medea. However, when the king banishes her, it's only human that Medea plots her furious revenge. Can they escape her wrath?",
+  "director": [
+   "Pier Paolo Pasolini"
+  ],
+  "dvdRelease": "2016-04-24T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "6.9",
+  "imdb_id": "tt0066065",
+  "moviedb_id": 26356,
+  "name": "Medea",
+  "popularity": 0.07295333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0066065/img",
+  "released": "1970-01-28T00:00:00.000Z",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "HN-KHdL1Hs0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Pier Paolo Pasolini",
+   "Euripides"
+  ],
+  "year": "1970",
+  "popularities": {
+   "moviedb": 2.1886,
+   "stremio": 0.07295333333333334,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0066065/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0066065/img",
+  "slug": "movie/medea-0066065",
+  "id": "tt0066065",
+  "genres": [
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1970",
+  "trailerStreams": [
+   {
+    "title": "Medea",
+    "ytId": "HN-KHdL1Hs0"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0066065"
+   },
+   {
+    "name": "Medea",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/medea-0066065"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Maria Callas",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maria%20Callas"
+   },
+   {
+    "name": "Massimo Girotti",
+    "category": "Cast",
+    "url": "stremio:///search?search=Massimo%20Girotti"
+   },
+   {
+    "name": "Laurent Terzieff",
+    "category": "Cast",
+    "url": "stremio:///search?search=Laurent%20Terzieff"
+   },
+   {
+    "name": "Pier Paolo Pasolini",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pier%20Paolo%20Pasolini"
+   },
+   {
+    "name": "Euripides",
+    "category": "Writers",
+    "url": "stremio:///search?search=Euripides"
+   },
+   {
+    "name": "Pier Paolo Pasolini",
+    "category": "Directors",
+    "url": "stremio:///search?search=Pier%20Paolo%20Pasolini"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0066065",
+   "hasScheduledVideos": false
+  }
+ }
+}

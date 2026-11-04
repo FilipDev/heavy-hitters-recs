@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "1 win & 1 nomination",
+  "cast": [
+   "Jenny Agutter",
+   "David Gulpilil",
+   "Luc Roeg"
+  ],
+  "country": "United Kingdom, Australia, United States",
+  "description": "Captures two cosmologies meeting in a landscape older than both. Two white children lost in the Australian outback are found by an Aboriginal boy on his walkabout; Eden and catastrophe share every frame.\n\nTwo city-bred siblings are stranded in the Australian Outback, where they learn to survive with the aid of an Aboriginal boy on his \"walkabout\": a ritual separation from his tribe.",
+  "director": [
+   "Nicolas Roeg"
+  ],
+  "dvdRelease": "2009-07-21T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0067959",
+  "moviedb_id": 36040,
+  "name": "Walkabout",
+  "popularity": 0.0896,
+  "poster": "https://images.metahub.space/poster/small/tt0067959/img",
+  "released": "1971-07-01T00:00:00.000Z",
+  "runtime": "95 min",
+  "trailers": [
+   {
+    "source": "_E_LnRqTla8",
+    "type": "Trailer"
+   },
+   {
+    "source": "4_zhIV3dqe8",
+    "type": "Trailer"
+   },
+   {
+    "source": "Fdqwbs8uKwQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Edward Bond",
+   "Donald G. Payne",
+   "Nicolas Roeg"
+  ],
+  "year": "1971",
+  "popularities": {
+   "moviedb": 2.688,
+   "stremio": 0.0896,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0067959/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0067959/img",
+  "slug": "movie/walkabout-0067959",
+  "id": "tt0067959",
+  "genres": [
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "1971",
+  "trailerStreams": [
+   {
+    "title": "Walkabout",
+    "ytId": "_E_LnRqTla8"
+   },
+   {
+    "title": "Walkabout",
+    "ytId": "4_zhIV3dqe8"
+   },
+   {
+    "title": "Walkabout",
+    "ytId": "Fdqwbs8uKwQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0067959"
+   },
+   {
+    "name": "Walkabout",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/walkabout-0067959"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Jenny Agutter",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jenny%20Agutter"
+   },
+   {
+    "name": "David Gulpilil",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Gulpilil"
+   },
+   {
+    "name": "Luc Roeg",
+    "category": "Cast",
+    "url": "stremio:///search?search=Luc%20Roeg"
+   },
+   {
+    "name": "Edward Bond",
+    "category": "Writers",
+    "url": "stremio:///search?search=Edward%20Bond"
+   },
+   {
+    "name": "Donald G. Payne",
+    "category": "Writers",
+    "url": "stremio:///search?search=Donald%20G.%20Payne"
+   },
+   {
+    "name": "Nicolas Roeg",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nicolas%20Roeg"
+   },
+   {
+    "name": "Nicolas Roeg",
+    "category": "Directors",
+    "url": "stremio:///search?search=Nicolas%20Roeg"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0067959",
+   "hasScheduledVideos": false
+  }
+ }
+}

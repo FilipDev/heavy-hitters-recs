@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "4 wins & 3 nominations total",
+  "cast": [
+   "Henry G. Sanders",
+   "Kaycee Moore",
+   "Charles Bracy"
+  ],
+  "country": "United States",
+  "description": "Captures working-class exhaustion as a numbness in the body. A slaughterhouse worker in Watts, his kids and wife, a car engine that keeps falling out — almost no plot, made for almost no money.\n\nSet in the Watts area of Los Angeles, a slaughterhouse worker must suspend his emotions to continue working at a job he finds repugnant, and then he finds he has little sensitivity for the family he works so hard to support.",
+  "director": [
+   "Charles Burnett"
+  ],
+  "dvdRelease": "2009-09-15T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0076263",
+  "moviedb_id": 27432,
+  "name": "Killer of Sheep",
+  "popularity": 0.060803333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0076263/img",
+  "released": "1978-11-14T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [
+   {
+    "source": "bORJQ8dF9tQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Charles Burnett"
+  ],
+  "year": "1978",
+  "popularities": {
+   "moviedb": 1.8241,
+   "stremio": 0.060803333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/killer-of-sheep-0076263",
+  "background": "https://images.metahub.space/background/medium/tt0076263/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0076263/img",
+  "id": "tt0076263",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1978",
+  "trailerStreams": [
+   {
+    "title": "Killer of Sheep",
+    "ytId": "bORJQ8dF9tQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0076263"
+   },
+   {
+    "name": "Killer of Sheep",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/killer-of-sheep-0076263"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Henry G. Sanders",
+    "category": "Cast",
+    "url": "stremio:///search?search=Henry%20G.%20Sanders"
+   },
+   {
+    "name": "Kaycee Moore",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kaycee%20Moore"
+   },
+   {
+    "name": "Charles Bracy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Charles%20Bracy"
+   },
+   {
+    "name": "Charles Burnett",
+    "category": "Writers",
+    "url": "stremio:///search?search=Charles%20Burnett"
+   },
+   {
+    "name": "Charles Burnett",
+    "category": "Directors",
+    "url": "stremio:///search?search=Charles%20Burnett"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0076263",
+   "hasScheduledVideos": false
+  }
+ }
+}

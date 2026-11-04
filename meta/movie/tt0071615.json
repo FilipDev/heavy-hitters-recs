@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "1 win & 1 nomination total",
+  "cast": [
+   "Alejandro Jodorowsky",
+   "Horacio Salinas",
+   "Zamira Saunders"
+  ],
+  "country": "Mexico",
+  "description": "Captures meaning stacked in images until it overloads. Jodorowsky's alchemical procession — a Christ figure and seven archetypes played by industrialists and generals — assembles some of the densest tableaux ever put on film, grotesque and deliberate.\n\nIn a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
+  "director": [
+   "Alejandro Jodorowsky"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0071615",
+  "moviedb_id": 8327,
+  "name": "The Holy Mountain",
+  "popularity": 0.15106333333333336,
+  "poster": "https://images.metahub.space/poster/small/tt0071615/img",
+  "released": "1975-07-11T00:00:00.000Z",
+  "runtime": "115 min",
+  "trailers": [
+   {
+    "source": "DSON8vHpxzY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Alejandro Jodorowsky"
+  ],
+  "year": "1975",
+  "popularities": {
+   "moviedb": 4.5319,
+   "stremio": 0.15106333333333336,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0071615/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0071615/img",
+  "slug": "movie/the-holy-mountain-0071615",
+  "id": "tt0071615",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1975",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Holy Mountain",
+    "ytId": "DSON8vHpxzY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0071615"
+   },
+   {
+    "name": "The Holy Mountain",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-holy-mountain-0071615"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Alejandro Jodorowsky",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alejandro%20Jodorowsky"
+   },
+   {
+    "name": "Horacio Salinas",
+    "category": "Cast",
+    "url": "stremio:///search?search=Horacio%20Salinas"
+   },
+   {
+    "name": "Zamira Saunders",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zamira%20Saunders"
+   },
+   {
+    "name": "Alejandro Jodorowsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alejandro%20Jodorowsky"
+   },
+   {
+    "name": "Alejandro Jodorowsky",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alejandro%20Jodorowsky"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0071615",
+   "hasScheduledVideos": false
+  }
+ }
+}

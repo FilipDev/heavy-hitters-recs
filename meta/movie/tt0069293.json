@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "2 wins & 4 nominations total",
+  "cast": [
+   "Natalya Bondarchuk",
+   "Donatas Banionis",
+   "Jüri Järvet"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures grief arriving in physical form, in orbit. A psychologist on a space station finds the crew haunted by visitors the planet below has made from their memories — including his dead wife, who knows she isn't her.\n\nA psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
+  "director": [
+   "Andrei Tarkovsky"
+  ],
+  "dvdRelease": "2009-07-21T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0069293",
+  "moviedb_id": 593,
+  "name": "Solaris",
+  "popularity": 0.20268,
+  "poster": "https://images.metahub.space/poster/small/tt0069293/img",
+  "released": "1972-09-26T00:00:00.000Z",
+  "runtime": "167 min",
+  "trailers": [
+   {
+    "source": "jfzGX6266Vo",
+    "type": "Trailer"
+   },
+   {
+    "source": "BBYJH6UAAfw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Stanislaw Lem",
+   "Fridrikh Gorenshteyn",
+   "Andrei Tarkovsky"
+  ],
+  "year": "1972",
+  "background": "https://images.metahub.space/background/medium/tt0069293/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0069293/img",
+  "popularities": {
+   "moviedb": 6.0804,
+   "stremio": 0.20268,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/solaris-0069293",
+  "id": "tt0069293",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "1972",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Solaris",
+    "ytId": "jfzGX6266Vo"
+   },
+   {
+    "title": "Solaris",
+    "ytId": "BBYJH6UAAfw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0069293"
+   },
+   {
+    "name": "Solaris",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/solaris-0069293"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Natalya Bondarchuk",
+    "category": "Cast",
+    "url": "stremio:///search?search=Natalya%20Bondarchuk"
+   },
+   {
+    "name": "Donatas Banionis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Donatas%20Banionis"
+   },
+   {
+    "name": "Jüri Järvet",
+    "category": "Cast",
+    "url": "stremio:///search?search=J%C3%BCri%20J%C3%A4rvet"
+   },
+   {
+    "name": "Stanislaw Lem",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stanislaw%20Lem"
+   },
+   {
+    "name": "Fridrikh Gorenshteyn",
+    "category": "Writers",
+    "url": "stremio:///search?search=Fridrikh%20Gorenshteyn"
+   },
+   {
+    "name": "Andrei Tarkovsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrei%20Tarkovsky"
+   },
+   {
+    "name": "Andrei Tarkovsky",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andrei%20Tarkovsky"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0069293",
+   "hasScheduledVideos": false
+  }
+ }
+}

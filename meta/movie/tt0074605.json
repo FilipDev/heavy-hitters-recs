@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 9 wins & 1 nomination total",
+  "cast": [
+   "John L. Lewis",
+   "Carl Horn",
+   "Norman Yarborough"
+  ],
+  "country": "United States",
+  "description": "Captures a labour strike from inside the picket line. Kentucky coal miners, their wives taking over the fight, company gunmen driving past at night — filmed as it happened, over years.\n\nA heartbreaking record of the thirteen-month struggle between a community fighting to survive and a corporation dedicated to the bottom line.",
+  "director": [
+   "Barbara Kopple"
+  ],
+  "dvdRelease": "2020-10-15T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0074605",
+  "moviedb_id": 33324,
+  "name": "Harlan County, USA",
+  "popularity": 0.06838999999999999,
+  "poster": "https://images.metahub.space/poster/small/tt0074605/img",
+  "released": "1977-09-28T00:00:00.000Z",
+  "runtime": "104 min",
+  "trailers": [
+   {
+    "source": "xiW_K2QLBGk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1976",
+  "popularities": {
+   "moviedb": 2.0517,
+   "stremio": 0.06838999999999999,
+   "stremio_lib": 0
+  },
+  "slug": "movie/harlan-county-usa-0074605",
+  "background": "https://images.metahub.space/background/medium/tt0074605/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0074605/img",
+  "id": "tt0074605",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1976",
+  "trailerStreams": [
+   {
+    "title": "Harlan County U.S.A.",
+    "ytId": "xiW_K2QLBGk"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0074605"
+   },
+   {
+    "name": "Harlan County U.S.A.",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/harlan-county-usa-0074605"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "John L. Lewis",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20L.%20Lewis"
+   },
+   {
+    "name": "Carl Horn",
+    "category": "Cast",
+    "url": "stremio:///search?search=Carl%20Horn"
+   },
+   {
+    "name": "Norman Yarborough",
+    "category": "Cast",
+    "url": "stremio:///search?search=Norman%20Yarborough"
+   },
+   {
+    "name": "Barbara Kopple",
+    "category": "Directors",
+    "url": "stremio:///search?search=Barbara%20Kopple"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0074605",
+   "hasScheduledVideos": false
+  }
+ }
+}

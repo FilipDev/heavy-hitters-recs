@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "4 wins & 3 nominations total",
+  "cast": [
+   "Klaus Kinski",
+   "Ruy Guerra",
+   "Helena Rojo"
+  ],
+  "country": "West Germany, Mexico, Peru",
+  "description": "Captures conquest as a fever that keeps marching after its purpose has rotted. Herzog takes a conquistador expedition down the Amazon until the jungle, the raft and Klaus Kinski's face are all dissolving at the same rate.\n\nIn the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.",
+  "director": [
+   "Werner Herzog"
+  ],
+  "dvdRelease": "2017-02-15T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Adventure",
+   "Biography"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0068182",
+  "moviedb_id": 2000,
+  "name": "Aguirre, the Wrath of God",
+  "popularity": 0.21989666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0068182/img",
+  "released": "1977-04-03T00:00:00.000Z",
+  "runtime": "95 min",
+  "trailers": [
+   {
+    "source": "eJDuicFyJPg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Werner Herzog"
+  ],
+  "year": "1977",
+  "background": "https://images.metahub.space/background/medium/tt0068182/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0068182/img",
+  "popularities": {
+   "moviedb": 6.5969,
+   "stremio": 0.21989666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/aguirre-the-wrath-of-god-0068182",
+  "id": "tt0068182",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Biography"
+  ],
+  "releaseInfo": "1977",
+  "trailerStreams": [
+   {
+    "title": "Aguirre, the Wrath of God",
+    "ytId": "eJDuicFyJPg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0068182"
+   },
+   {
+    "name": "Aguirre, the Wrath of God",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/aguirre-the-wrath-of-god-0068182"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Klaus Kinski",
+    "category": "Cast",
+    "url": "stremio:///search?search=Klaus%20Kinski"
+   },
+   {
+    "name": "Ruy Guerra",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ruy%20Guerra"
+   },
+   {
+    "name": "Helena Rojo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Helena%20Rojo"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Writers",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Directors",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0068182",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination",
+  "cast": [
+   "Mick Jagger",
+   "Keith Richards",
+   "Mick Taylor"
+  ],
+  "country": "United States",
+  "description": "Captures the precise frame where the 1960s dream curdles: Altamont, a fan stabbed to death in front of the stage, and the Rolling Stones afterwards watching the footage of it, not knowing what to say.\n\nWhen three hundred thousand members of the Love Generation collided with a few dozen Hells Angels at San Francisco's Altamont Speedway, the bloody slash that transformed a decade's dreams into disillusionment was immortalized on t...",
+  "director": [
+   "Albert Maysles",
+   "David Maysles",
+   "Charlotte Zwerin"
+  ],
+  "dvdRelease": "2017-05-22T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Music",
+   "Thriller"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0065780",
+  "moviedb_id": 132,
+  "name": "Gimme Shelter",
+  "popularity": 0.07280666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0065780/img",
+  "released": "1971-05-13T00:00:00.000Z",
+  "runtime": "92 min",
+  "trailers": [
+   {
+    "source": "x7UsBmavjsE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1970",
+  "popularities": {
+   "moviedb": 2.1842,
+   "stremio": 0.07280666666666667,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0065780/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0065780/img",
+  "slug": "movie/gimme-shelter-0065780",
+  "id": "tt0065780",
+  "genres": [
+   "Documentary",
+   "Music",
+   "Thriller"
+  ],
+  "releaseInfo": "1970",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Gimme Shelter",
+    "ytId": "x7UsBmavjsE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0065780"
+   },
+   {
+    "name": "Gimme Shelter",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/gimme-shelter-0065780"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Mick Jagger",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mick%20Jagger"
+   },
+   {
+    "name": "Keith Richards",
+    "category": "Cast",
+    "url": "stremio:///search?search=Keith%20Richards"
+   },
+   {
+    "name": "Mick Taylor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mick%20Taylor"
+   },
+   {
+    "name": "Albert Maysles",
+    "category": "Directors",
+    "url": "stremio:///search?search=Albert%20Maysles"
+   },
+   {
+    "name": "David Maysles",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Maysles"
+   },
+   {
+    "name": "Charlotte Zwerin",
+    "category": "Directors",
+    "url": "stremio:///search?search=Charlotte%20Zwerin"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0065780",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "Won 4 Oscars. 17 wins & 23 nominations total",
+  "cast": [
+   "Dustin Hoffman",
+   "Robert Redford",
+   "Jack Warden"
+  ],
+  "country": "United States",
+  "description": "Captures journalism as shoe leather. Watergate as phone calls, parking garages, notebooks and editors asking 'what else do you have?' — verification repeated until a presidency moves.\n\n\"The Washington Post\" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation.",
+  "director": [
+   "Alan J. Pakula"
+  ],
+  "dvdRelease": "2010-02-16T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History",
+   "Thriller"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0074119",
+  "moviedb_id": 891,
+  "name": "All the President's Men",
+  "popularity": 0.2650633333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0074119/img",
+  "released": "1976-04-09T00:00:00.000Z",
+  "runtime": "138 min",
+  "trailers": [
+   {
+    "source": "k5y8SW2KyTY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Carl Bernstein",
+   "Bob Woodward",
+   "William Goldman"
+  ],
+  "year": "1976",
+  "background": "https://images.metahub.space/background/medium/tt0074119/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0074119/img",
+  "popularities": {
+   "moviedb": 7.9519,
+   "stremio": 0.2650633333333333,
+   "trakt": 33,
+   "stremio_lib": 0
+  },
+  "slug": "movie/all-the-presidents-men-0074119",
+  "id": "tt0074119",
+  "genres": [
+   "Drama",
+   "History",
+   "Thriller"
+  ],
+  "releaseInfo": "1976",
+  "trailerStreams": [
+   {
+    "title": "All the President's Men",
+    "ytId": "k5y8SW2KyTY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0074119"
+   },
+   {
+    "name": "All the President's Men",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/all-the-presidents-men-0074119"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Dustin Hoffman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dustin%20Hoffman"
+   },
+   {
+    "name": "Robert Redford",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20Redford"
+   },
+   {
+    "name": "Jack Warden",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jack%20Warden"
+   },
+   {
+    "name": "Carl Bernstein",
+    "category": "Writers",
+    "url": "stremio:///search?search=Carl%20Bernstein"
+   },
+   {
+    "name": "Bob Woodward",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bob%20Woodward"
+   },
+   {
+    "name": "William Goldman",
+    "category": "Writers",
+    "url": "stremio:///search?search=William%20Goldman"
+   },
+   {
+    "name": "Alan J. Pakula",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alan%20J.%20Pakula"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0074119",
+   "hasScheduledVideos": false
+  }
+ }
+}

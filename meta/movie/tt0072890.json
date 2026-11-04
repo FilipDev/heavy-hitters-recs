@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 15 wins & 20 nominations total",
+  "cast": [
+   "Al Pacino",
+   "John Cazale",
+   "Penelope Allen"
+  ],
+  "country": "United States",
+  "description": "Captures a bank robbery becoming a live street spectacle. One hot Brooklyn afternoon, Pacino working the crowd outside like a rally, and the reason for the robbery arriving piece by piece.\n\nThree amateur robbers plan to hold up a Brooklyn bank. A nice, simple robbery: Walk in, take the money, and run. Unfortunately, the supposedly uncomplicated heist suddenly becomes a bizarre nightmare as everything that could go wr...",
+  "director": [
+   "Sidney Lumet"
+  ],
+  "dvdRelease": "2008-08-15T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0072890",
+  "moviedb_id": 968,
+  "name": "Dog Day Afternoon",
+  "popularity": 0.24389,
+  "poster": "https://images.metahub.space/poster/small/tt0072890/img",
+  "released": "1975-12-25T00:00:00.000Z",
+  "runtime": "124 min",
+  "trailers": [
+   {
+    "source": "nP4iEKNDAUM",
+    "type": "Trailer"
+   },
+   {
+    "source": "3STmwLDDBcI",
+    "type": "Trailer"
+   },
+   {
+    "source": "yVasSCjU91A",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Frank Pierson",
+   "P.F. Kluge",
+   "Thomas Moore"
+  ],
+  "year": "1975",
+  "background": "https://images.metahub.space/background/medium/tt0072890/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0072890/img",
+  "popularities": {
+   "moviedb": 7.3167,
+   "stremio": 0.24389,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/dog-day-afternoon-0072890",
+  "id": "tt0072890",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1975",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Dog Day Afternoon",
+    "ytId": "nP4iEKNDAUM"
+   },
+   {
+    "title": "Dog Day Afternoon",
+    "ytId": "3STmwLDDBcI"
+   },
+   {
+    "title": "Dog Day Afternoon",
+    "ytId": "yVasSCjU91A"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0072890"
+   },
+   {
+    "name": "Dog Day Afternoon",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/dog-day-afternoon-0072890"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Al Pacino",
+    "category": "Cast",
+    "url": "stremio:///search?search=Al%20Pacino"
+   },
+   {
+    "name": "John Cazale",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Cazale"
+   },
+   {
+    "name": "Penelope Allen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Penelope%20Allen"
+   },
+   {
+    "name": "Frank Pierson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Frank%20Pierson"
+   },
+   {
+    "name": "P.F. Kluge",
+    "category": "Writers",
+    "url": "stremio:///search?search=P.F.%20Kluge"
+   },
+   {
+    "name": "Thomas Moore",
+    "category": "Writers",
+    "url": "stremio:///search?search=Thomas%20Moore"
+   },
+   {
+    "name": "Sidney Lumet",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sidney%20Lumet"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0072890",
+   "hasScheduledVideos": false
+  }
+ }
+}

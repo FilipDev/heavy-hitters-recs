@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "id": "tt0064815",
+  "imdb_id": "tt0064815",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0064815/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0064815/img",
+  "background": "https://live.metahub.space/background/medium/tt0064815/img",
+  "moviedb_id": 88302,
+  "name": "Pirosmani",
+  "description": "Captures a film learning to see the way its subject painted. Georgian folk painter Niko Pirosmani's life built from his own canvases — taverns, feasts, animals, a man painting signs for food and dying unrecognised.\n\nA biography of the Georgian primitive artist Nikoloz Pirosmanishvili (1862–1918), better known as Pirosmani, who died of starvation and sold his paintings to bars and restaurants for food and drink. The film experiments with color control techniques based on the painter’s style.",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1969",
+  "runtime": "85 min",
+  "trailers": [
+   {
+    "source": "j19L9QdVdZw",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Avtandil Varazi",
+   "David Abashidze",
+   "Givi Aleksandria"
+  ],
+  "credits_cast": [
+   {
+    "character": "Nico Pirosmanichvili",
+    "name": "Avtandil Varazi",
+    "profile_path": "/yflmicFSrbysa7DtwtCi6Qe3wFN.jpg",
+    "id": 936062
+   },
+   {
+    "character": "Kinto",
+    "name": "David Abashidze",
+    "profile_path": "/1n0EJuFSwsQhDyTT5sFIpBa6xO2.jpg",
+    "id": 560142
+   },
+   {
+    "character": "",
+    "name": "Givi Aleksandria",
+    "profile_path": null,
+    "id": 936065
+   },
+   {
+    "character": "",
+    "name": "Spartak Bagashvili",
+    "profile_path": "/qSWiFXjGbkjn7lQKWqneikazxBz.jpg",
+    "id": 96212
+   },
+   {
+    "character": "",
+    "name": "Teimuraz Beridze",
+    "profile_path": "/nbupkaJyBSMW6hKjj9lmxvl8Mw1.jpg",
+    "id": 936067
+   },
+   {
+    "character": "Ushangi",
+    "name": "Zurab Kapianidze",
+    "profile_path": "/tV6968Ur50oLFiJqNwWEzVU6Y34.jpg",
+    "id": 1804140
+   },
+   {
+    "character": "",
+    "name": "Shota Daushvili",
+    "profile_path": "/e5vxNKBYln5qCoJqyXP7X5spN4S.jpg",
+    "id": 1804141
+   },
+   {
+    "character": "",
+    "name": "Aleqsandre Rekhviashvili",
+    "profile_path": null,
+    "id": 1125238
+   },
+   {
+    "character": "Dimitriy",
+    "name": "Boris Tsipuria",
+    "profile_path": "/bldmMT9yummRBKRAubQi6LheWtz.jpg",
+    "id": 1299134
+   },
+   {
+    "character": "",
+    "name": "Margo Gvaramadze",
+    "profile_path": "/5pACGkuZcZHbFnQJ8D84AArBFaC.jpg",
+    "id": 4231021
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Giorgi Shengelaia",
+    "profile_path": "/k5T61diWH1DaDOzBupchSp4XrTa.jpg",
+    "id": 936052
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Erlom Akhvlediani",
+    "profile_path": "/70PI24CtT2iY7INWQV7DUB7LBnm.jpg",
+    "id": 1489457
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Giorgi Shengelaia",
+    "profile_path": "/k5T61diWH1DaDOzBupchSp4XrTa.jpg",
+    "id": 936052
+   }
+  ],
+  "director": [
+   "Giorgi Shengelaia"
+  ],
+  "imdbRating": "7.7",
+  "language": "Russian, Georgian, French",
+  "country": "Soviet Union",
+  "awards": "3 wins",
+  "slug": "movie/pirosmani-0064815",
+  "behaviorHints": {
+   "defaultVideoId": "tt0064815",
+   "hasScheduledVideos": false
+  }
+ }
+}

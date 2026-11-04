@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 13 wins & 7 nominations total",
+  "cast": [
+   "Jacqueline Bisset",
+   "Jean-Pierre Léaud",
+   "François Truffaut"
+  ],
+  "country": "France, Italy",
+  "description": "Captures a film set as a chaotic temporary family. Truffaut plays the director of a mediocre melodrama, keeping affairs, breakdowns, accidents and deadlines moving toward a finished film nobody thinks is great and everybody needs.\n\nA committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+  "director": [
+   "François Truffaut"
+  ],
+  "dvdRelease": "2014-05-13T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0070460",
+  "moviedb_id": 1675,
+  "name": "Day for Night",
+  "popularity": 0.11146666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0070460/img",
+  "released": "1973-09-07T00:00:00.000Z",
+  "runtime": "116 min",
+  "trailers": [
+   {
+    "source": "GmSpeM5Hj2A",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "François Truffaut",
+   "Jean-Louis Richard",
+   "Suzanne Schiffman"
+  ],
+  "year": "1973",
+  "popularities": {
+   "moviedb": 3.344,
+   "stremio": 0.11146666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/day-for-night-0070460",
+  "background": "https://images.metahub.space/background/medium/tt0070460/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0070460/img",
+  "id": "tt0070460",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1973",
+  "trailerStreams": [
+   {
+    "title": "Day for Night",
+    "ytId": "GmSpeM5Hj2A"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0070460"
+   },
+   {
+    "name": "Day for Night",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/day-for-night-0070460"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jacqueline Bisset",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacqueline%20Bisset"
+   },
+   {
+    "name": "Jean-Pierre Léaud",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Pierre%20L%C3%A9aud"
+   },
+   {
+    "name": "François Truffaut",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fran%C3%A7ois%20Truffaut"
+   },
+   {
+    "name": "François Truffaut",
+    "category": "Writers",
+    "url": "stremio:///search?search=Fran%C3%A7ois%20Truffaut"
+   },
+   {
+    "name": "Jean-Louis Richard",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean-Louis%20Richard"
+   },
+   {
+    "name": "Suzanne Schiffman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Suzanne%20Schiffman"
+   },
+   {
+    "name": "François Truffaut",
+    "category": "Directors",
+    "url": "stremio:///search?search=Fran%C3%A7ois%20Truffaut"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0070460",
+   "hasScheduledVideos": false
+  }
+ }
+}

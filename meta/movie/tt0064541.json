@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "Won 2 BAFTA Awards. 6 wins & 5 nominations total",
+  "cast": [
+   "David Bradley",
+   "Brian Glover",
+   "Freddie Fletcher"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures a working-class kid with exactly one thing of his own. In Barnsley coal country, Billy is written off at home and school, teaches himself falconry from a library book, and a kestrel makes him articulate and gentle.\n\nA working-class English boy spends his free time caring for and training his pet kestrel.",
+  "director": [
+   "Ken Loach"
+  ],
+  "dvdRelease": "2017-04-28T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Family"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0064541",
+  "moviedb_id": 13384,
+  "name": "Kes",
+  "popularity": 0.11345999999999999,
+  "poster": "https://images.metahub.space/poster/small/tt0064541/img",
+  "released": "1970-04-03T00:00:00.000Z",
+  "runtime": "111 min",
+  "trailers": [
+   {
+    "source": "BGcllKvfnYs",
+    "type": "Trailer"
+   },
+   {
+    "source": "JTZwKbJgoDk",
+    "type": "Trailer"
+   },
+   {
+    "source": "Q2BMFtefUag",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Barry Hines",
+   "Ken Loach",
+   "Tony Garnett"
+  ],
+  "year": "1970",
+  "background": "https://images.metahub.space/background/medium/tt0064541/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0064541/img",
+  "popularities": {
+   "moviedb": 3.4038,
+   "stremio": 0.11345999999999999,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/kes-0064541",
+  "id": "tt0064541",
+  "genres": [
+   "Drama",
+   "Family"
+  ],
+  "releaseInfo": "1970",
+  "trailerStreams": [
+   {
+    "title": "Kes",
+    "ytId": "BGcllKvfnYs"
+   },
+   {
+    "title": "Kes",
+    "ytId": "JTZwKbJgoDk"
+   },
+   {
+    "title": "Kes",
+    "ytId": "Q2BMFtefUag"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0064541"
+   },
+   {
+    "name": "Kes",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/kes-0064541"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "David Bradley",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Bradley"
+   },
+   {
+    "name": "Brian Glover",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brian%20Glover"
+   },
+   {
+    "name": "Freddie Fletcher",
+    "category": "Cast",
+    "url": "stremio:///search?search=Freddie%20Fletcher"
+   },
+   {
+    "name": "Barry Hines",
+    "category": "Writers",
+    "url": "stremio:///search?search=Barry%20Hines"
+   },
+   {
+    "name": "Ken Loach",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ken%20Loach"
+   },
+   {
+    "name": "Tony Garnett",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tony%20Garnett"
+   },
+   {
+    "name": "Ken Loach",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ken%20Loach"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0064541",
+   "hasScheduledVideos": false
+  }
+ }
+}

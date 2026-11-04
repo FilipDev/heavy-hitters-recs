@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "imdb_id": "tt0063555",
+  "awards": "1 win & 1 nomination",
+  "cast": [
+   "Sofiko Chiaureli",
+   "Melkon Alekyan",
+   "Vilen Galstyan"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures a poet's life as a series of icons instead of events. An Armenian troubadour rendered in tableaux — books, blood, grapes, lace — with almost no dialogue and no interest in explaining itself.\n\nThe life of the Armenian poet Sayat-Nova, from childhood to death: his spiritual journey, artistic endeavors, and inner conflicts within the cultural and historical context of Armenia. Hailed as revolutionary by Mikhail Vartanov.",
+  "director": [
+   "Sergei Parajanov"
+  ],
+  "dvdRelease": "2019-01-03T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "7.6",
+  "name": "The Colour of Pomegranates",
+  "poster": "https://images.metahub.space/poster/small/tt0063555/img",
+  "released": "1982-01-27T00:00:00.000Z",
+  "runtime": "80 min",
+  "slug": "movie/the-color-of-pomegranates-0063555",
+  "type": "movie",
+  "writer": [
+   "Sayat Nova",
+   "Sergei Parajanov"
+  ],
+  "year": "1969",
+  "moviedb_id": 26302,
+  "popularities": {
+   "moviedb": 4.1643,
+   "stremio": 0.13881,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "RsrUqqnPA3Q",
+    "type": "Trailer"
+   },
+   {
+    "source": "BtsgH_KkW1M",
+    "type": "Trailer"
+   },
+   {
+    "source": "9XN3vgj2za4",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0063555/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0063555/img",
+  "popularity": 0.13881,
+  "id": "tt0063555",
+  "genres": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1969",
+  "trailerStreams": [
+   {
+    "title": "The Color of Pomegranates",
+    "ytId": "RsrUqqnPA3Q"
+   },
+   {
+    "title": "The Color of Pomegranates",
+    "ytId": "BtsgH_KkW1M"
+   },
+   {
+    "title": "The Color of Pomegranates",
+    "ytId": "9XN3vgj2za4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0063555"
+   },
+   {
+    "name": "The Color of Pomegranates",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-color-of-pomegranates-0063555"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Sofiko Chiaureli",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sofiko%20Chiaureli"
+   },
+   {
+    "name": "Melkon Alekyan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Melkon%20Alekyan"
+   },
+   {
+    "name": "Vilen Galstyan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vilen%20Galstyan"
+   },
+   {
+    "name": "Sayat Nova",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sayat%20Nova"
+   },
+   {
+    "name": "Sergei Parajanov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sergei%20Parajanov"
+   },
+   {
+    "name": "Sergei Parajanov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sergei%20Parajanov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0063555",
+   "hasScheduledVideos": false
+  }
+ }
+}

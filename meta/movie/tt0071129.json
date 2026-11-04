@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 20 wins & 9 nominations total",
+  "cast": [
+   "Magali Noël",
+   "Bruno Zanin",
+   "Pupella Maggio"
+  ],
+  "country": "Italy, France",
+  "description": "Captures a community remembering itself, every ritual half affection and half mockery. Fellini rebuilds his hometown of Rimini as permanent carnival: fascist rallies, family dinners, a peacock in the snow, a whole town rowing out to greet an ocean liner.\n\nA series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.",
+  "director": [
+   "Federico Fellini"
+  ],
+  "dvdRelease": "2012-02-23T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0071129",
+  "moviedb_id": 7857,
+  "name": "Amarcord",
+  "popularity": 0.12467,
+  "poster": "https://images.metahub.space/poster/small/tt0071129/img",
+  "released": "1974-09-19T00:00:00.000Z",
+  "runtime": "123 min",
+  "trailers": [
+   {
+    "source": "BtG9ZM-ZHnY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Federico Fellini",
+   "Tonino Guerra"
+  ],
+  "year": "1974",
+  "background": "https://images.metahub.space/background/medium/tt0071129/img",
+  "popularities": {
+   "moviedb": 3.7401,
+   "stremio": 0.12467,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt0071129/img",
+  "slug": "movie/amarcord-0071129",
+  "id": "tt0071129",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1974",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Amarcord",
+    "ytId": "BtG9ZM-ZHnY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0071129"
+   },
+   {
+    "name": "Amarcord",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/amarcord-0071129"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Magali Noël",
+    "category": "Cast",
+    "url": "stremio:///search?search=Magali%20No%C3%ABl"
+   },
+   {
+    "name": "Bruno Zanin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bruno%20Zanin"
+   },
+   {
+    "name": "Pupella Maggio",
+    "category": "Cast",
+    "url": "stremio:///search?search=Pupella%20Maggio"
+   },
+   {
+    "name": "Federico Fellini",
+    "category": "Writers",
+    "url": "stremio:///search?search=Federico%20Fellini"
+   },
+   {
+    "name": "Tonino Guerra",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tonino%20Guerra"
+   },
+   {
+    "name": "Federico Fellini",
+    "category": "Directors",
+    "url": "stremio:///search?search=Federico%20Fellini"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0071129",
+   "hasScheduledVideos": false
+  }
+ }
+}

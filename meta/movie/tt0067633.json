@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "1 win total",
+  "cast": [
+   "Patrick Boland",
+   "Kent Foreman",
+   "Carmen Argenziano"
+  ],
+  "country": "United States, United Kingdom",
+  "description": "Captures a camera crew admitting it has a side: Watkins' fake documentary follows political prisoners running fifty miles through desert toward a flag while police hunt them, and the crew ends up screaming at the officers.\n\nA pseudo-documentary purporting to be media coverage of a film crew of a team of soldiers escorting a group of hippies, rebellious and dissident types across the desert.",
+  "director": [
+   "Peter Watkins"
+  ],
+  "dvdRelease": "2016-10-27T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0067633",
+  "moviedb_id": 26513,
+  "name": "Punishment Park",
+  "popularity": 0.1811566666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0067633/img",
+  "released": "1972-02-10T00:00:00.000Z",
+  "runtime": "88 min",
+  "trailers": [
+   {
+    "source": "uiWZEZkg0uY",
+    "type": "Trailer"
+   },
+   {
+    "source": "suh2r2ojP3I",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Peter Watkins"
+  ],
+  "year": "1972",
+  "popularities": {
+   "moviedb": 5.4347,
+   "stremio": 0.1811566666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0067633/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0067633/img",
+  "slug": "movie/punishment-park-0067633",
+  "id": "tt0067633",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1972",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Punishment Park",
+    "ytId": "uiWZEZkg0uY"
+   },
+   {
+    "title": "Punishment Park",
+    "ytId": "suh2r2ojP3I"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0067633"
+   },
+   {
+    "name": "Punishment Park",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/punishment-park-0067633"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Patrick Boland",
+    "category": "Cast",
+    "url": "stremio:///search?search=Patrick%20Boland"
+   },
+   {
+    "name": "Kent Foreman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kent%20Foreman"
+   },
+   {
+    "name": "Carmen Argenziano",
+    "category": "Cast",
+    "url": "stremio:///search?search=Carmen%20Argenziano"
+   },
+   {
+    "name": "Peter Watkins",
+    "category": "Writers",
+    "url": "stremio:///search?search=Peter%20Watkins"
+   },
+   {
+    "name": "Peter Watkins",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Watkins"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0067633",
+   "hasScheduledVideos": false
+  }
+ }
+}

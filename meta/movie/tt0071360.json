@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 Oscars. 14 wins & 17 nominations total",
+  "cast": [
+   "Gene Hackman",
+   "John Cazale",
+   "Allen Garfield"
+  ],
+  "country": "United States",
+  "description": "Captures a man whose job is listening realising he has finally heard something. A surveillance expert replays one taped conversation until a line changes meaning, and his own privacy obsession turns on him.\n\nA paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
+  "director": [
+   "Francis Ford Coppola"
+  ],
+  "dvdRelease": "2011-10-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0071360",
+  "moviedb_id": 592,
+  "name": "The Conversation",
+  "popularity": 0.1766,
+  "poster": "https://images.metahub.space/poster/small/tt0071360/img",
+  "released": "1974-04-12T00:00:00.000Z",
+  "runtime": "115 min",
+  "trailers": [
+   {
+    "source": "mDgKPQWyjRk",
+    "type": "Trailer"
+   },
+   {
+    "source": "x-_LxiRETWA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Francis Ford Coppola"
+  ],
+  "year": "1974",
+  "popularities": {
+   "moviedb": 5.298,
+   "stremio": 0.1766,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0071360/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0071360/img",
+  "slug": "movie/the-conversation-0071360",
+  "id": "tt0071360",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "releaseInfo": "1974",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Conversation",
+    "ytId": "mDgKPQWyjRk"
+   },
+   {
+    "title": "The Conversation",
+    "ytId": "x-_LxiRETWA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0071360"
+   },
+   {
+    "name": "The Conversation",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-conversation-0071360"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Gene Hackman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gene%20Hackman"
+   },
+   {
+    "name": "John Cazale",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Cazale"
+   },
+   {
+    "name": "Allen Garfield",
+    "category": "Cast",
+    "url": "stremio:///search?search=Allen%20Garfield"
+   },
+   {
+    "name": "Francis Ford Coppola",
+    "category": "Writers",
+    "url": "stremio:///search?search=Francis%20Ford%20Coppola"
+   },
+   {
+    "name": "Francis Ford Coppola",
+    "category": "Directors",
+    "url": "stremio:///search?search=Francis%20Ford%20Coppola"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0071360",
+   "hasScheduledVideos": false
+  }
+ }
+}

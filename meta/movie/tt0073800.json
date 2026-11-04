@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "12 wins & 2 nominations",
+  "cast": [
+   "Eva Kotamanidou",
+   "Vangelis Kazan",
+   "Aliki Georgouli"
+  ],
+  "country": "Greece",
+  "description": "Captures a nation's history carried by the people paid to keep entertaining it. Angelopoulos follows a folk theatre troupe performing the same pastoral play across Greece from 1939 to 1952, and in vast single takes, occupation, civil war and executions slide past mid-scene.\n\nGreece, 1939-1952: Fascist, Nazi, and Communist conflict, as seen through the eyes of a family of travelling provincial players.",
+  "director": [
+   "Theodoros Angelopoulos"
+  ],
+  "dvdRelease": "1999-07-13T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History",
+   "Music"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0073800",
+  "moviedb_id": 689,
+  "name": "The Travelling Players",
+  "popularity": 0.04867666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0073800/img",
+  "released": "1975-10-13T00:00:00.000Z",
+  "runtime": "223 min",
+  "trailers": [
+   {
+    "source": "9Fa5Ig1eDv0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Theodoros Angelopoulos"
+  ],
+  "year": "1975",
+  "popularities": {
+   "moviedb": 1.4603,
+   "stremio": 0.04867666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-travelling-players-0073800",
+  "background": "https://images.metahub.space/background/medium/tt0073800/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0073800/img",
+  "id": "tt0073800",
+  "genres": [
+   "Drama",
+   "History",
+   "Music"
+  ],
+  "releaseInfo": "1975",
+  "trailerStreams": [
+   {
+    "title": "The Travelling Players",
+    "ytId": "9Fa5Ig1eDv0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0073800"
+   },
+   {
+    "name": "The Travelling Players",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-travelling-players-0073800"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Eva Kotamanidou",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eva%20Kotamanidou"
+   },
+   {
+    "name": "Vangelis Kazan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vangelis%20Kazan"
+   },
+   {
+    "name": "Aliki Georgouli",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aliki%20Georgouli"
+   },
+   {
+    "name": "Theodoros Angelopoulos",
+    "category": "Writers",
+    "url": "stremio:///search?search=Theodoros%20Angelopoulos"
+   },
+   {
+    "name": "Theodoros Angelopoulos",
+    "category": "Directors",
+    "url": "stremio:///search?search=Theodoros%20Angelopoulos"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0073800",
+   "hasScheduledVideos": false
+  }
+ }
+}
