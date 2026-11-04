@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "imdb_id": "tt7772412",
+  "name": "Supa Modo",
+  "year": "2018",
+  "released": "2019-04-18T00:00:00.000Z",
+  "director": [
+   "Likarion Wainaina"
+  ],
+  "writer": [
+   "Wanjeri Gakuru",
+   "Silas Miami",
+   "Kamau Ndungu"
+  ],
+  "cast": [
+   "Stycie Waweru",
+   "Marrianne Nungo",
+   "Nyawara Ndambia"
+  ],
+  "imdbRating": "7.2",
+  "poster": "https://images.metahub.space/poster/small/tt7772412/img",
+  "description": "Captures a Kenyan village conspiring to give a terminally ill girl her superhero movie. Jo is nine, obsessed with action films, and going home to die; the village stages rescues, builds costumes, shoots her scenes. A community performing cinema as care — the Hara premise inverted to warmth: the camera as accomplice in a kind lie.\n\nStory of a young girl whose dream of becoming a superhero is threatened by terminal illness, inspiring her village to rally together to make her dream come true.",
+  "country": "Kenya, Germany",
+  "awards": "44 wins & 14 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "G7ToKioHCoU",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 493915,
+  "popularities": {
+   "moviedb": 0.7545,
+   "stremio": 0.02515,
+   "stremio_lib": 0
+  },
+  "genre": [
+   "Drama"
+  ],
+  "slug": "movie/supa-modo-7772412",
+  "runtime": "74 min",
+  "dvdRelease": "2020-06-30T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt7772412/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7772412/img",
+  "popularity": 0.02515,
+  "id": "tt7772412",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Supa Modo",
+    "ytId": "G7ToKioHCoU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7772412"
+   },
+   {
+    "name": "Supa Modo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/supa-modo-7772412"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Stycie Waweru",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stycie%20Waweru"
+   },
+   {
+    "name": "Marrianne Nungo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marrianne%20Nungo"
+   },
+   {
+    "name": "Nyawara Ndambia",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nyawara%20Ndambia"
+   },
+   {
+    "name": "Wanjeri Gakuru",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wanjeri%20Gakuru"
+   },
+   {
+    "name": "Silas Miami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Silas%20Miami"
+   },
+   {
+    "name": "Kamau Ndungu",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kamau%20Ndungu"
+   },
+   {
+    "name": "Likarion Wainaina",
+    "category": "Directors",
+    "url": "stremio:///search?search=Likarion%20Wainaina"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7772412",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 30 wins & 46 nominations total",
+  "cast": [
+   "Irrfan Khan",
+   "Nimrat Kaur",
+   "Nawazuddin Siddiqui"
+  ],
+  "country": "India, France, Germany, United States, Canada",
+  "description": "Captures a connection routed through Mumbai's dabbawala lunchbox system by a one-in-a-million delivery error. A lonely accountant receives the lunch a neglected wife cooked for her husband; notes ride back inside the empty tins. Contemporary ordinary life — offices, trains, ageing in the city — with food as the medium.\n\nA mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.",
+  "director": [
+   "Ritesh Batra"
+  ],
+  "dvdRelease": "2014-07-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt2350496",
+  "moviedb_id": 191714,
+  "name": "The Lunchbox",
+  "popularity": 0.11840666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt2350496/img",
+  "released": "2013-09-20T00:00:00.000Z",
+  "runtime": "104 min",
+  "trailers": [
+   {
+    "source": "lJxLudSPxsQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "sK3R0rvnlPs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ritesh Batra",
+   "Vasan Bala"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2350496/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2350496/img",
+  "popularities": {
+   "moviedb": 3.5522,
+   "stremio": 0.11840666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/the-lunchbox-2350496",
+  "id": "tt2350496",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "The Lunchbox",
+    "ytId": "lJxLudSPxsQ"
+   },
+   {
+    "title": "The Lunchbox",
+    "ytId": "sK3R0rvnlPs"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2350496"
+   },
+   {
+    "name": "The Lunchbox",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-lunchbox-2350496"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Irrfan Khan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Irrfan%20Khan"
+   },
+   {
+    "name": "Nimrat Kaur",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nimrat%20Kaur"
+   },
+   {
+    "name": "Nawazuddin Siddiqui",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nawazuddin%20Siddiqui"
+   },
+   {
+    "name": "Ritesh Batra",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ritesh%20Batra"
+   },
+   {
+    "name": "Vasan Bala",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vasan%20Bala"
+   },
+   {
+    "name": "Ritesh Batra",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ritesh%20Batra"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2350496",
+   "hasScheduledVideos": false
+  }
+ }
+}

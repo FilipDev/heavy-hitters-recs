@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "3 wins & 5 nominations total",
+  "cast": [
+   "Rob Reiner",
+   "Michael McKean",
+   "Christopher Guest"
+  ],
+  "country": "United States",
+  "description": "Captures a metal band's decline documented with total, lethal courtesy. Your collection holds exactly one film tagged Satire; this is the second, and it's also the music-industry film — amps to eleven, drummers expiring, a Stonehenge set built to the wrong unit. The mockumentary as a transducer problem: every interview projects a band that no longer exists.\n\nSpinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.",
+  "director": [
+   "Rob Reiner"
+  ],
+  "dvdRelease": "2016-08-03T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Music"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0088258",
+  "moviedb_id": 11031,
+  "name": "This Is Spinal Tap",
+  "popularity": 0.18033666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0088258/img",
+  "released": "1984-03-02T00:00:00.000Z",
+  "runtime": "82 min",
+  "trailers": [
+   {
+    "source": "_9leMez8sQ8",
+    "type": "Trailer"
+   },
+   {
+    "source": "z6F0VyKp4Ik",
+    "type": "Trailer"
+   },
+   {
+    "source": "YZbHagBNY98",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Christopher Guest",
+   "Michael McKean",
+   "Harry Shearer"
+  ],
+  "year": "1984",
+  "background": "https://images.metahub.space/background/medium/tt0088258/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0088258/img",
+  "popularities": {
+   "moviedb": 5.4101,
+   "stremio": 0.18033666666666667,
+   "trakt": 39,
+   "stremio_lib": 0
+  },
+  "slug": "movie/this-is-spinal-tap-0088258",
+  "id": "tt0088258",
+  "genres": [
+   "Comedy",
+   "Music"
+  ],
+  "releaseInfo": "1984",
+  "trailerStreams": [
+   {
+    "title": "This Is Spinal Tap",
+    "ytId": "_9leMez8sQ8"
+   },
+   {
+    "title": "This Is Spinal Tap",
+    "ytId": "z6F0VyKp4Ik"
+   },
+   {
+    "title": "This Is Spinal Tap",
+    "ytId": "YZbHagBNY98"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0088258"
+   },
+   {
+    "name": "This Is Spinal Tap",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/this-is-spinal-tap-0088258"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Rob Reiner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rob%20Reiner"
+   },
+   {
+    "name": "Michael McKean",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20McKean"
+   },
+   {
+    "name": "Christopher Guest",
+    "category": "Cast",
+    "url": "stremio:///search?search=Christopher%20Guest"
+   },
+   {
+    "name": "Christopher Guest",
+    "category": "Writers",
+    "url": "stremio:///search?search=Christopher%20Guest"
+   },
+   {
+    "name": "Michael McKean",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20McKean"
+   },
+   {
+    "name": "Harry Shearer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Harry%20Shearer"
+   },
+   {
+    "name": "Rob Reiner",
+    "category": "Directors",
+    "url": "stremio:///search?search=Rob%20Reiner"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0088258",
+   "hasScheduledVideos": false
+  }
+ }
+}

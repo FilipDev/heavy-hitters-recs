@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 25 wins & 31 nominations total",
+  "cast": [
+   "Glen Hansard",
+   "Markéta Irglová",
+   "Hugh Walsh"
+  ],
+  "country": "Ireland, United States",
+  "description": "Captures two musicians in Dublin falling into perfect collaboration and declining, kindly, to wreck their lives with it. A busker and a Czech pianist make an album in a week; the love is real, expressed entirely as music, and the ending honours everyone including the people not in the room. Shot on a camcorder for almost nothing.\n\nA modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.",
+  "director": [
+   "John Carney"
+  ],
+  "dvdRelease": "2015-11-19T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Music",
+   "Musical"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0907657",
+  "moviedb_id": 5723,
+  "name": "Once",
+  "popularity": 0.18633666666666665,
+  "poster": "https://images.metahub.space/poster/small/tt0907657/img",
+  "released": "2007-06-15T00:00:00.000Z",
+  "runtime": "85 min",
+  "trailers": [
+   {
+    "source": "iBYTsu3L6r4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "John Carney",
+   "Glen Hansard",
+   "Markéta Irglová"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0907657/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0907657/img",
+  "popularities": {
+   "moviedb": 5.5901,
+   "stremio": 0.18633666666666665,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/once-0907657",
+  "id": "tt0907657",
+  "genres": [
+   "Drama",
+   "Music",
+   "Musical"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Once",
+    "ytId": "iBYTsu3L6r4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0907657"
+   },
+   {
+    "name": "Once",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/once-0907657"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Musical",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Musical"
+   },
+   {
+    "name": "Glen Hansard",
+    "category": "Cast",
+    "url": "stremio:///search?search=Glen%20Hansard"
+   },
+   {
+    "name": "Markéta Irglová",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%C3%A9ta%20Irglov%C3%A1"
+   },
+   {
+    "name": "Hugh Walsh",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hugh%20Walsh"
+   },
+   {
+    "name": "John Carney",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20Carney"
+   },
+   {
+    "name": "Glen Hansard",
+    "category": "Writers",
+    "url": "stremio:///search?search=Glen%20Hansard"
+   },
+   {
+    "name": "Markéta Irglová",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mark%C3%A9ta%20Irglov%C3%A1"
+   },
+   {
+    "name": "John Carney",
+    "category": "Directors",
+    "url": "stremio:///search?search=John%20Carney"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0907657",
+   "hasScheduledVideos": false
+  }
+ }
+}

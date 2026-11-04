@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "imdb_id": "tt19760052",
+  "name": "The Taste of Things",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 5.4399,
+   "stremio": 0.18133,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "9 wins & 32 nominations total",
+  "cast": [
+   "Juliette Binoche",
+   "Benoît Magimel",
+   "Emmanuel Salinger"
+  ],
+  "country": "France, Belgium",
+  "description": "Captures a marriage conducted in a kitchen over twenty years. A cook and the gourmet who employs and adores her; the film is mostly the work itself — stocks, vol-au-vent, hands passing tools without looking. Love that works, shown as competence shared. From the director of The Scent of Green Papaya, at the opposite pole of life.\n\nThe story of Eugenie, an esteemed cook, and Dodin - the fine gourmet chef she has been working for over the last 20 years.",
+  "director": [
+   "Tran Anh Hung"
+  ],
+  "genre": [
+   "Drama",
+   "History",
+   "Romance"
+  ],
+  "imdbRating": "7.4",
+  "released": "2024-02-09T00:00:00.000Z",
+  "slug": "movie/the-taste-of-things-19760052",
+  "writer": [
+   "Tran Anh Hung",
+   "Marcel Rouff"
+  ],
+  "year": "2024",
+  "moviedb_id": 964960,
+  "poster": "https://images.metahub.space/poster/small/tt19760052/img",
+  "runtime": "135 min",
+  "trailers": [
+   {
+    "source": "LeI-4eWvqwU",
+    "type": "Trailer"
+   },
+   {
+    "source": "cKKCGtoIOVY",
+    "type": "Trailer"
+   },
+   {
+    "source": "2BtQjrT1Qks",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt19760052/img",
+  "logo": "https://images.metahub.space/logo/medium/tt19760052/img",
+  "popularity": 0.18133,
+  "id": "tt19760052",
+  "genres": [
+   "Drama",
+   "History",
+   "Romance"
+  ],
+  "releaseInfo": "2024",
+  "trailerStreams": [
+   {
+    "title": "The Taste of Things",
+    "ytId": "LeI-4eWvqwU"
+   },
+   {
+    "title": "The Taste of Things",
+    "ytId": "cKKCGtoIOVY"
+   },
+   {
+    "title": "The Taste of Things",
+    "ytId": "2BtQjrT1Qks"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt19760052"
+   },
+   {
+    "name": "The Taste of Things",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-taste-of-things-19760052"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Juliette Binoche",
+    "category": "Cast",
+    "url": "stremio:///search?search=Juliette%20Binoche"
+   },
+   {
+    "name": "Benoît Magimel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Beno%C3%AEt%20Magimel"
+   },
+   {
+    "name": "Emmanuel Salinger",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emmanuel%20Salinger"
+   },
+   {
+    "name": "Tran Anh Hung",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tran%20Anh%20Hung"
+   },
+   {
+    "name": "Marcel Rouff",
+    "category": "Writers",
+    "url": "stremio:///search?search=Marcel%20Rouff"
+   },
+   {
+    "name": "Tran Anh Hung",
+    "category": "Directors",
+    "url": "stremio:///search?search=Tran%20Anh%20Hung"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt19760052",
+   "hasScheduledVideos": false
+  }
+ }
+}

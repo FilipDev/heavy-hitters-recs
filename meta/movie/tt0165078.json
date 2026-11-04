@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "7 wins & 8 nominations total",
+  "cast": [
+   "Arata Iura",
+   "Erika Oda",
+   "Susumu Terajima"
+  ],
+  "country": "Japan",
+  "description": "Captures the dead choosing one memory to keep forever, processed by a calm office of caseworkers who stage and film each chosen moment. People pick afternoons, a breeze, a childhood shame redeemed. Your memory-and-projection interests in their gentlest possible form — the afterlife as an archive with a production department.\n\nAfter death, people have a week to choose only one memory to keep for eternity.",
+  "director": [
+   "Hirokazu Koreeda"
+  ],
+  "dvdRelease": "2000-08-15T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0165078",
+  "moviedb_id": 17962,
+  "name": "After Life",
+  "popularity": 0.10976999999999999,
+  "poster": "https://images.metahub.space/poster/small/tt0165078/img",
+  "released": "1999-04-17T00:00:00.000Z",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "f8K_YxtdzRo",
+    "type": "Trailer"
+   },
+   {
+    "source": "DN9sr5wVkik",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Hirokazu Koreeda"
+  ],
+  "year": "1999",
+  "popularities": {
+   "moviedb": 3.2931,
+   "stremio": 0.10976999999999999,
+   "stremio_lib": 0
+  },
+  "slug": "movie/after-life-0165078",
+  "background": "https://images.metahub.space/background/medium/tt0165078/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0165078/img",
+  "id": "tt0165078",
+  "genres": [
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1999",
+  "trailerStreams": [
+   {
+    "title": "After Life",
+    "ytId": "f8K_YxtdzRo"
+   },
+   {
+    "title": "After Life",
+    "ytId": "DN9sr5wVkik"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0165078"
+   },
+   {
+    "name": "After Life",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/after-life-0165078"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Arata Iura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arata%20Iura"
+   },
+   {
+    "name": "Erika Oda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Erika%20Oda"
+   },
+   {
+    "name": "Susumu Terajima",
+    "category": "Cast",
+    "url": "stremio:///search?search=Susumu%20Terajima"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0165078",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 11 wins & 10 nominations total",
+  "cast": [
+   "Stéphane Audran",
+   "Bodil Kjer",
+   "Birgitte Federspiel"
+  ],
+  "country": "Denmark",
+  "description": "Captures grace arriving as a dinner. Two austere Danish sisters who have refused every pleasure take in a refugee cook; her one act of revenge against a life of plain food is a full Parisian feast for the sect that saved her. Faith as belonging, food as love language, and an ending where nobody is punished for enjoying themselves.\n\nDuring the late 19th century, a strict religious community in a Danish village takes in a French refugee from the Franco-Prussian War as a servant to the late pastor's daughters.",
+  "director": [
+   "Gabriel Axel"
+  ],
+  "dvdRelease": "2017-03-02T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0092603",
+  "moviedb_id": 11832,
+  "name": "Babette's Feast",
+  "popularity": 0.11524666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0092603/img",
+  "released": "1988-03-04T00:00:00.000Z",
+  "runtime": "104 min",
+  "trailers": [
+   {
+    "source": "H5w9skKcdnA",
+    "type": "Trailer"
+   },
+   {
+    "source": "yXk2A226Wfc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Karen Blixen",
+   "Gabriel Axel"
+  ],
+  "year": "1988",
+  "popularities": {
+   "moviedb": 3.4574,
+   "stremio": 0.11524666666666666,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0092603/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0092603/img",
+  "slug": "movie/babettes-feast-0092603",
+  "id": "tt0092603",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1988",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Babette's Feast",
+    "ytId": "H5w9skKcdnA"
+   },
+   {
+    "title": "Babette's Feast",
+    "ytId": "yXk2A226Wfc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0092603"
+   },
+   {
+    "name": "Babette's Feast",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/babettes-feast-0092603"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Stéphane Audran",
+    "category": "Cast",
+    "url": "stremio:///search?search=St%C3%A9phane%20Audran"
+   },
+   {
+    "name": "Bodil Kjer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bodil%20Kjer"
+   },
+   {
+    "name": "Birgitte Federspiel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Birgitte%20Federspiel"
+   },
+   {
+    "name": "Karen Blixen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Karen%20Blixen"
+   },
+   {
+    "name": "Gabriel Axel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gabriel%20Axel"
+   },
+   {
+    "name": "Gabriel Axel",
+    "category": "Directors",
+    "url": "stremio:///search?search=Gabriel%20Axel"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0092603",
+   "hasScheduledVideos": false
+  }
+ }
+}

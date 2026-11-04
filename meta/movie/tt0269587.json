@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "id": "tt0269587",
+  "imdb_id": "tt0269587",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0269587/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0269587/img",
+  "background": "https://live.metahub.space/background/medium/tt0269587/img",
+  "moviedb_id": 93553,
+  "name": "Mysterious Object at Noon",
+  "description": "Captures a story built by handing it from stranger to stranger across Thailand: a teacher, a boxer, market sellers each continue a tale about a boy and a mysterious object, and Apichatpong films their additions as fact. Storytelling as a chain of transducers, each adding loss and invention — your framework run as a parlour game in 16mm black and white.\n\nA camera crew travels through Thailand asking villagers to invent the next chapter of an ever-growing story.",
+  "genres": [
+   "Documentary",
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2000",
+  "runtime": "90 min",
+  "trailers": [
+   {
+    "source": "9S9AyJX3v7U",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Duangjai Hiransri",
+   "Somsri Pinyopol",
+   "Kannikar Narong"
+  ],
+  "credits_cast": [
+   {
+    "character": "Dogfahr 1",
+    "name": "Duangjai Hiransri",
+    "profile_path": "/iU2Rh0bpbRfbeF1o1ZmVS9yW0Rt.jpg",
+    "id": 3278336
+   },
+   {
+    "character": "Dogfahr 2",
+    "name": "Somsri Pinyopol",
+    "profile_path": null,
+    "id": 1601502
+   },
+   {
+    "character": "Dogfahr 3",
+    "name": "Kannikar Narong",
+    "profile_path": null,
+    "id": 1601505
+   },
+   {
+    "character": "",
+    "name": "To Hanudomlapr",
+    "profile_path": null,
+    "id": 1601504
+   },
+   {
+    "character": "",
+    "name": "Kongkiat Khomsiri",
+    "profile_path": "/dAjEAoTXXpmZ1ZgbJ31fiHejW6b.jpg",
+    "id": 80733
+   },
+   {
+    "character": "Doctor",
+    "name": "Jaruwan Techasatiern",
+    "profile_path": null,
+    "id": 1601529
+   },
+   {
+    "character": "Crippled Boy 2",
+    "name": "Thanit Niyomprasit",
+    "profile_path": null,
+    "id": 1601550
+   },
+   {
+    "character": "Neighbour",
+    "name": "Chakree Duangklao",
+    "profile_path": null,
+    "id": 4398838
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Apichatpong Weerasethakul",
+    "profile_path": "/zZyGqhaPNzeb88bHkYiCQHHXyhY.jpg",
+    "id": 69759
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Gridthiya Gaweewong",
+    "profile_path": null,
+    "id": 1601501
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Mingmongkol Sonakul",
+    "profile_path": null,
+    "id": 1601495
+   }
+  ],
+  "director": [
+   "Apichatpong Weerasethakul"
+  ],
+  "imdbRating": "6.7",
+  "language": "Thai, Sign Languages",
+  "country": "Thailand, Netherlands",
+  "awards": "4 wins & 4 nominations total",
+  "slug": "movie/mysterious-object-at-noon-0269587",
+  "behaviorHints": {
+   "defaultVideoId": "tt0269587",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "34 wins & 19 nominations",
+  "cast": [
+   "Yann Yann Yeo",
+   "Tian Wen Chen",
+   "Angeli Bayani"
+  ],
+  "country": "Singapore",
+  "description": "Captures an ordinary Singapore family during the 1997 financial crisis, and the Filipina maid who becomes load-bearing in it. No villain, no collapse — a boy's jealousy slowly becoming attachment while the adults quietly fail and cope. The Family genre, done at the collection's standard.\n\nIn 90s Singapore, the friendship between Filipino nursemaid Teresa and her young charge Jiale makes waves in a family, while the Asian recession hits the region.",
+  "director": [
+   "Anthony Chen"
+  ],
+  "dvdRelease": "2016-10-14T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt2901736",
+  "moviedb_id": 188598,
+  "name": "Ilo Ilo",
+  "popularity": 0.055536666666666665,
+  "poster": "https://images.metahub.space/poster/small/tt2901736/img",
+  "released": "2013-08-29T00:00:00.000Z",
+  "runtime": "100 min",
+  "trailers": [
+   {
+    "source": "ISovsVvX8Bg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Anthony Chen"
+  ],
+  "year": "2013",
+  "popularities": {
+   "moviedb": 1.6661,
+   "stremio": 0.055536666666666665,
+   "stremio_lib": 0
+  },
+  "slug": "movie/ilo-ilo-2901736",
+  "background": "https://images.metahub.space/background/medium/tt2901736/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2901736/img",
+  "id": "tt2901736",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "Ilo Ilo",
+    "ytId": "ISovsVvX8Bg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2901736"
+   },
+   {
+    "name": "Ilo Ilo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ilo-ilo-2901736"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Yann Yann Yeo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yann%20Yann%20Yeo"
+   },
+   {
+    "name": "Tian Wen Chen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tian%20Wen%20Chen"
+   },
+   {
+    "name": "Angeli Bayani",
+    "category": "Cast",
+    "url": "stremio:///search?search=Angeli%20Bayani"
+   },
+   {
+    "name": "Anthony Chen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Anthony%20Chen"
+   },
+   {
+    "name": "Anthony Chen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Anthony%20Chen"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2901736",
+   "hasScheduledVideos": false
+  }
+ }
+}

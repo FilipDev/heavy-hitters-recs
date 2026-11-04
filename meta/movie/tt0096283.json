@@ -1,0 +1,142 @@
+{
+ "meta": {
+  "awards": "6 wins & 2 nominations total",
+  "cast": [
+   "Hitoshi Takagi",
+   "Noriko Hidaka",
+   "Chika Sakamoto"
+  ],
+  "country": "Japan",
+  "description": "Captures childhood before it learns to be endangered: two sisters new to the countryside, a mother in hospital kept almost off-screen, and the forest spirits who treat worry as weather. The children's happiness here is not ignorance — it's a skill the film takes seriously.\n\nWhen two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+  "director": [
+   "Hayao Miyazaki"
+  ],
+  "dvdRelease": "2019-12-10T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0096283",
+  "moviedb_id": 8392,
+  "name": "My Neighbor Totoro",
+  "popularity": 0.8618633333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0096283/img",
+  "released": "1990-07-13T00:00:00.000Z",
+  "runtime": "86 min",
+  "trailers": [
+   {
+    "source": "_nv94fL_IA8",
+    "type": "Trailer"
+   },
+   {
+    "source": "xCtRJOWZCmM",
+    "type": "Trailer"
+   },
+   {
+    "source": "I0103wkhQ-c",
+    "type": "Trailer"
+   },
+   {
+    "source": "srW-wajSxog",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Hayao Miyazaki"
+  ],
+  "year": "1990",
+  "background": "https://images.metahub.space/background/medium/tt0096283/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0096283/img",
+  "popularities": {
+   "moviedb": 25.8559,
+   "stremio": 0.8618633333333333,
+   "trakt": 50,
+   "stremio_lib": 0
+  },
+  "slug": "movie/my-neighbor-totoro-0096283",
+  "id": "tt0096283",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "releaseInfo": "1990",
+  "trailerStreams": [
+   {
+    "title": "My Neighbor Totoro",
+    "ytId": "_nv94fL_IA8"
+   },
+   {
+    "title": "My Neighbor Totoro",
+    "ytId": "xCtRJOWZCmM"
+   },
+   {
+    "title": "My Neighbor Totoro",
+    "ytId": "I0103wkhQ-c"
+   },
+   {
+    "title": "My Neighbor Totoro",
+    "ytId": "srW-wajSxog"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0096283"
+   },
+   {
+    "name": "My Neighbor Totoro",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/my-neighbor-totoro-0096283"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Hitoshi Takagi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hitoshi%20Takagi"
+   },
+   {
+    "name": "Noriko Hidaka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Noriko%20Hidaka"
+   },
+   {
+    "name": "Chika Sakamoto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chika%20Sakamoto"
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hayao%20Miyazaki"
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hayao%20Miyazaki"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0096283",
+   "hasScheduledVideos": false
+  }
+ }
+}

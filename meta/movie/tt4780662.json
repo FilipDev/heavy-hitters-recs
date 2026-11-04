@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "imdb_id": "tt4780662",
+  "awards": "6 wins & 5 nominations total",
+  "cast": [
+   "Sachie Tanaka",
+   "Hazuki Kikuchi",
+   "Maiko Mihara"
+  ],
+  "country": "Japan",
+  "description": "Captures four women friends in Kobe, in their late thirties, at the length friendship actually takes: five hours seventeen minutes. Workshops, dinners, a hearing, a reading — one friend's decision re-sorts all four lives. The friendship film your collection barely has, made with the patience of the films it does have.\n\nA slow-burning epic chronicling the emotional journey of four thirty something women in the misty seaside city of Kobe.",
+  "director": [
+   "Ryusuke Hamaguchi"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "name": "Happy Hour",
+  "poster": "https://images.metahub.space/poster/small/tt4780662/img",
+  "released": "2015-12-12T00:00:00.000Z",
+  "runtime": "317 min",
+  "slug": "movie/happy-hour-4780662",
+  "type": "movie",
+  "writer": [
+   "Ryusuke Hamaguchi",
+   "Tadashi Nohara",
+   "Tomoyuki Takahashi"
+  ],
+  "year": "2015",
+  "moviedb_id": 354759,
+  "popularities": {
+   "moviedb": 3.6158,
+   "stremio": 0.12052666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "Zey1icUfbuo",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt4780662/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4780662/img",
+  "popularity": 0.12052666666666667,
+  "id": "tt4780662",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Happy Hour",
+    "ytId": "Zey1icUfbuo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4780662"
+   },
+   {
+    "name": "Happy Hour",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/happy-hour-4780662"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sachie Tanaka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sachie%20Tanaka"
+   },
+   {
+    "name": "Hazuki Kikuchi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hazuki%20Kikuchi"
+   },
+   {
+    "name": "Maiko Mihara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maiko%20Mihara"
+   },
+   {
+    "name": "Ryusuke Hamaguchi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ryusuke%20Hamaguchi"
+   },
+   {
+    "name": "Tadashi Nohara",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tadashi%20Nohara"
+   },
+   {
+    "name": "Tomoyuki Takahashi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tomoyuki%20Takahashi"
+   },
+   {
+    "name": "Ryusuke Hamaguchi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ryusuke%20Hamaguchi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4780662",
+   "hasScheduledVideos": false
+  }
+ }
+}

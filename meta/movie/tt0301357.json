@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 36 wins & 22 nominations total",
+  "cast": [
+   "Daniel Brühl",
+   "Katrin Sass",
+   "Chulpan Khamatova"
+  ],
+  "country": "Germany",
+  "description": "Captures a son rebuilding East Germany in his mother's bedroom because the truth would kill her. Forged news broadcasts, decanted pickles, a whole fake state maintained as an act of love. History in your collection is usually an indictment; here it's a forgery staged by tenderness.\n\nIn 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared.",
+  "director": [
+   "Wolfgang Becker"
+  ],
+  "dvdRelease": "2017-03-17T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0301357",
+  "moviedb_id": 338,
+  "name": "Good Bye, Lenin!",
+  "popularity": 0.16076,
+  "poster": "https://images.metahub.space/poster/small/tt0301357/img",
+  "released": "2004-05-14T00:00:00.000Z",
+  "runtime": "121 min",
+  "trailers": [
+   {
+    "source": "mIjSaHUKD5I",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Bernd Lichtenberg",
+   "Wolfgang Becker",
+   "Achim von Borries"
+  ],
+  "year": "2004",
+  "background": "https://images.metahub.space/background/medium/tt0301357/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0301357/img",
+  "popularities": {
+   "moviedb": 4.8228,
+   "stremio": 0.16076,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/good-bye-lenin-0301357",
+  "id": "tt0301357",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2004",
+  "trailerStreams": [
+   {
+    "title": "Good Bye Lenin!",
+    "ytId": "mIjSaHUKD5I"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0301357"
+   },
+   {
+    "name": "Good Bye Lenin!",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/good-bye-lenin-0301357"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Daniel Brühl",
+    "category": "Cast",
+    "url": "stremio:///search?search=Daniel%20Br%C3%BChl"
+   },
+   {
+    "name": "Katrin Sass",
+    "category": "Cast",
+    "url": "stremio:///search?search=Katrin%20Sass"
+   },
+   {
+    "name": "Chulpan Khamatova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chulpan%20Khamatova"
+   },
+   {
+    "name": "Bernd Lichtenberg",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bernd%20Lichtenberg"
+   },
+   {
+    "name": "Wolfgang Becker",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wolfgang%20Becker"
+   },
+   {
+    "name": "Achim von Borries",
+    "category": "Writers",
+    "url": "stremio:///search?search=Achim%20von%20Borries"
+   },
+   {
+    "name": "Wolfgang Becker",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wolfgang%20Becker"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0301357",
+   "hasScheduledVideos": false
+  }
+ }
+}

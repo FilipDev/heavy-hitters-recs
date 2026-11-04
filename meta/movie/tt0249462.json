@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 Oscars. 55 wins & 71 nominations total",
+  "cast": [
+   "Jamie Bell",
+   "Julie Walters",
+   "Jean Heywood"
+  ],
+  "country": "United Kingdom, France",
+  "description": "Captures a miner's son whose body insists on ballet during the strike that is crushing his father. The body in health, at last: dancing as the one articulate thing in a house of men who can't talk. And the father's thaw — pride arriving through sacrifice he never announces — is the reconciliation your list usually withholds.\n\nA talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.",
+  "director": [
+   "Stephen Daldry"
+  ],
+  "dvdRelease": "2016-05-18T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Music"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0249462",
+  "moviedb_id": 71,
+  "name": "Billy Elliot",
+  "popularity": 0.29993,
+  "poster": "https://images.metahub.space/poster/small/tt0249462/img",
+  "released": "2000-11-10T00:00:00.000Z",
+  "runtime": "111 min",
+  "trailers": [
+   {
+    "source": "WVUoWgyDxeo",
+    "type": "Trailer"
+   },
+   {
+    "source": "qMZkyG4skCU",
+    "type": "Trailer"
+   },
+   {
+    "source": "glKDtUXNAZw",
+    "type": "Trailer"
+   },
+   {
+    "source": "RhpZfYqypEU",
+    "type": "Trailer"
+   },
+   {
+    "source": "Im7n8HGOQMs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lee Hall"
+  ],
+  "year": "2000",
+  "background": "https://images.metahub.space/background/medium/tt0249462/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0249462/img",
+  "popularities": {
+   "moviedb": 8.9979,
+   "stremio": 0.29993,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/billy-elliot-0249462",
+  "id": "tt0249462",
+  "genres": [
+   "Drama",
+   "Music"
+  ],
+  "releaseInfo": "2000",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Billy Elliot",
+    "ytId": "WVUoWgyDxeo"
+   },
+   {
+    "title": "Billy Elliot",
+    "ytId": "qMZkyG4skCU"
+   },
+   {
+    "title": "Billy Elliot",
+    "ytId": "glKDtUXNAZw"
+   },
+   {
+    "title": "Billy Elliot",
+    "ytId": "RhpZfYqypEU"
+   },
+   {
+    "title": "Billy Elliot",
+    "ytId": "Im7n8HGOQMs"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0249462"
+   },
+   {
+    "name": "Billy Elliot",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/billy-elliot-0249462"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Jamie Bell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jamie%20Bell"
+   },
+   {
+    "name": "Julie Walters",
+    "category": "Cast",
+    "url": "stremio:///search?search=Julie%20Walters"
+   },
+   {
+    "name": "Jean Heywood",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean%20Heywood"
+   },
+   {
+    "name": "Lee Hall",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lee%20Hall"
+   },
+   {
+    "name": "Stephen Daldry",
+    "category": "Directors",
+    "url": "stremio:///search?search=Stephen%20Daldry"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0249462",
+   "hasScheduledVideos": false
+  }
+ }
+}

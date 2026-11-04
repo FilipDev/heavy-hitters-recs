@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "46 wins & 16 nominations",
+  "cast": [
+   "Sasson Gabay",
+   "Ronit Elkabetz",
+   "Saleh Bakri"
+  ],
+  "country": "Israel, United States, France",
+  "description": "Captures an Egyptian police orchestra stranded for one night in the wrong Israeli town, and enmity dissolving into dinner, small talk and a roller rink. Reconciliation without a summit — just people feeding their assigned enemies. The quietest film here, and the one where music does diplomacy's job.\n\nA band comprised of members of the Egyptian police force head to Israel to play at the inaugural ceremony of an Arab arts center, only to find themselves lost in the wrong town.",
+  "director": [
+   "Eran Kolirin"
+  ],
+  "dvdRelease": "2008-09-27T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Music"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt1032856",
+  "moviedb_id": 5259,
+  "name": "The Band's Visit",
+  "popularity": 0.07379666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt1032856/img",
+  "released": "2008-03-21T00:00:00.000Z",
+  "runtime": "83 min",
+  "trailers": [
+   {
+    "source": "QWYlLb0jm8U",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Eran Kolirin"
+  ],
+  "year": "2007",
+  "popularities": {
+   "moviedb": 2.2139,
+   "stremio": 0.07379666666666668,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1032856/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1032856/img",
+  "slug": "movie/the-bands-visit-1032856",
+  "id": "tt1032856",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Music"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Band's Visit",
+    "ytId": "QWYlLb0jm8U"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1032856"
+   },
+   {
+    "name": "The Band's Visit",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-bands-visit-1032856"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Sasson Gabay",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sasson%20Gabay"
+   },
+   {
+    "name": "Ronit Elkabetz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ronit%20Elkabetz"
+   },
+   {
+    "name": "Saleh Bakri",
+    "category": "Cast",
+    "url": "stremio:///search?search=Saleh%20Bakri"
+   },
+   {
+    "name": "Eran Kolirin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eran%20Kolirin"
+   },
+   {
+    "name": "Eran Kolirin",
+    "category": "Directors",
+    "url": "stremio:///search?search=Eran%20Kolirin"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1032856",
+   "hasScheduledVideos": false
+  }
+ }
+}

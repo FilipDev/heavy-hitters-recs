@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "awards": "Won 1 BAFTA Award. 20 wins & 18 nominations total",
+  "cast": [
+   "Eli Marienthal",
+   "Harry Connick Jr.",
+   "Jennifer Aniston"
+  ],
+  "country": "United States, Czech Republic, United Kingdom",
+  "description": "Captures a boy teaching a fifty-foot weapon that it can choose what it is. Cold War Maine, a beatnik sculptor, a government man terrified of the unknown — and the Giant learning the word for what he refuses to be. Friendship between unequals where the smaller one does the moral teaching; “you are who you choose to be” earned, not printed.\n\nA young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+  "director": [
+   "Brad Bird"
+  ],
+  "dvdRelease": "2008-04-03T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0129167",
+  "moviedb_id": 10386,
+  "name": "The Iron Giant",
+  "popularity": 0.4221133333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0129167/img",
+  "released": "1999-08-06T00:00:00.000Z",
+  "runtime": "86 min",
+  "trailers": [
+   {
+    "source": "fLbS3KJI0lE",
+    "type": "Trailer"
+   },
+   {
+    "source": "1XHf94YqGyQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "2izFEWmzPdk",
+    "type": "Trailer"
+   },
+   {
+    "source": "obLtyj8hfFk",
+    "type": "Trailer"
+   },
+   {
+    "source": "fq2FZdvQXXg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Tim McCanlies",
+   "Brad Bird",
+   "Ted Hughes"
+  ],
+  "year": "1999",
+  "background": "https://images.metahub.space/background/medium/tt0129167/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0129167/img",
+  "popularities": {
+   "moviedb": 12.6634,
+   "stremio": 0.4221133333333333,
+   "trakt": 19,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-iron-giant-0129167",
+  "id": "tt0129167",
+  "genres": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "releaseInfo": "1999",
+  "trailerStreams": [
+   {
+    "title": "The Iron Giant",
+    "ytId": "fLbS3KJI0lE"
+   },
+   {
+    "title": "The Iron Giant",
+    "ytId": "1XHf94YqGyQ"
+   },
+   {
+    "title": "The Iron Giant",
+    "ytId": "2izFEWmzPdk"
+   },
+   {
+    "title": "The Iron Giant",
+    "ytId": "obLtyj8hfFk"
+   },
+   {
+    "title": "The Iron Giant",
+    "ytId": "fq2FZdvQXXg"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0129167"
+   },
+   {
+    "name": "The Iron Giant",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-iron-giant-0129167"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Eli Marienthal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eli%20Marienthal"
+   },
+   {
+    "name": "Harry Connick Jr.",
+    "category": "Cast",
+    "url": "stremio:///search?search=Harry%20Connick%20Jr."
+   },
+   {
+    "name": "Jennifer Aniston",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jennifer%20Aniston"
+   },
+   {
+    "name": "Tim McCanlies",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tim%20McCanlies"
+   },
+   {
+    "name": "Brad Bird",
+    "category": "Writers",
+    "url": "stremio:///search?search=Brad%20Bird"
+   },
+   {
+    "name": "Ted Hughes",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ted%20Hughes"
+   },
+   {
+    "name": "Brad Bird",
+    "category": "Directors",
+    "url": "stremio:///search?search=Brad%20Bird"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0129167",
+   "hasScheduledVideos": false
+  }
+ }
+}

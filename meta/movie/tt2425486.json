@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "awards": "25 wins & 19 nominations total",
+  "cast": [
+   "Paulina García",
+   "Sergio Hernández",
+   "Diego Fontecilla"
+  ],
+  "country": "Chile, Spain",
+  "description": "Captures a 58-year-old divorcée in Santiago going dancing, falling into a messy affair, and refusing to shrink. Old-er age as appetite — discos, road trips, a paintball gun used with feeling. Paulina García holds every frame; the ending is a woman dancing alone because she wants to.\n\nA story set in Santiago and centered on Gloria, a free-spirited older woman, and the realities of her whirlwind relationship with a former naval officer whom she meets out in the clubs.",
+  "director": [
+   "Sebastián Lelio"
+  ],
+  "dvdRelease": "2015-11-15T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "6.9",
+  "imdb_id": "tt2425486",
+  "moviedb_id": 160068,
+  "name": "Gloria",
+  "popularity": 0.06570333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt2425486/img",
+  "released": "2013-05-09T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "lrmuQBUO13Y",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Sebastián Lelio",
+   "Gonzalo Maza"
+  ],
+  "year": "2013",
+  "popularities": {
+   "moviedb": 1.9711,
+   "stremio": 0.06570333333333334,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt2425486/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2425486/img",
+  "slug": "movie/gloria-2425486",
+  "id": "tt2425486",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "Gloria",
+    "ytId": "lrmuQBUO13Y"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2425486"
+   },
+   {
+    "name": "Gloria",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/gloria-2425486"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Paulina García",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paulina%20Garc%C3%ADa"
+   },
+   {
+    "name": "Sergio Hernández",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sergio%20Hern%C3%A1ndez"
+   },
+   {
+    "name": "Diego Fontecilla",
+    "category": "Cast",
+    "url": "stremio:///search?search=Diego%20Fontecilla"
+   },
+   {
+    "name": "Sebastián Lelio",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sebasti%C3%A1n%20Lelio"
+   },
+   {
+    "name": "Gonzalo Maza",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gonzalo%20Maza"
+   },
+   {
+    "name": "Sebastián Lelio",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sebasti%C3%A1n%20Lelio"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2425486",
+   "hasScheduledVideos": false
+  }
+ }
+}

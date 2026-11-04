@@ -1,0 +1,157 @@
+{
+ "meta": {
+  "awards": "4 wins total",
+  "cast": [
+   "Minami Takayama",
+   "Rei Sakuma",
+   "Mieko Nobusawa"
+  ],
+  "country": "Japan",
+  "description": "Captures a thirteen-year-old witch founding a delivery business in a seaside town, and competence arriving in stages: first flights, first customers, a slump where the gift itself fails. Work as dignity, kindness of strangers as infrastructure.\n\nAlong with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ...",
+  "director": [
+   "Hayao Miyazaki"
+  ],
+  "dvdRelease": "2007-05-08T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Family",
+   "Fantasy"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0097814",
+  "moviedb_id": 16859,
+  "name": "Kiki's Delivery Service",
+  "popularity": 0.6382533333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0097814/img",
+  "released": "1990-12-20T00:00:00.000Z",
+  "runtime": "103 min",
+  "trailers": [
+   {
+    "source": "nu4OX6RKeLY",
+    "type": "Trailer"
+   },
+   {
+    "source": "C1gq8ARWI_w",
+    "type": "Trailer"
+   },
+   {
+    "source": "PRqEt0Izrjc",
+    "type": "Trailer"
+   },
+   {
+    "source": "ihjUoHFF_7Y",
+    "type": "Trailer"
+   },
+   {
+    "source": "4bG17OYs-GA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Eiko Kadono",
+   "Hayao Miyazaki"
+  ],
+  "year": "1990",
+  "background": "https://images.metahub.space/background/medium/tt0097814/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0097814/img",
+  "popularities": {
+   "moviedb": 19.1476,
+   "stremio": 0.6382533333333333,
+   "trakt": 27,
+   "stremio_lib": 0
+  },
+  "slug": "movie/kikis-delivery-service-0097814",
+  "id": "tt0097814",
+  "genres": [
+   "Animation",
+   "Family",
+   "Fantasy"
+  ],
+  "releaseInfo": "1990",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Kiki's Delivery Service",
+    "ytId": "nu4OX6RKeLY"
+   },
+   {
+    "title": "Kiki's Delivery Service",
+    "ytId": "C1gq8ARWI_w"
+   },
+   {
+    "title": "Kiki's Delivery Service",
+    "ytId": "PRqEt0Izrjc"
+   },
+   {
+    "title": "Kiki's Delivery Service",
+    "ytId": "ihjUoHFF_7Y"
+   },
+   {
+    "title": "Kiki's Delivery Service",
+    "ytId": "4bG17OYs-GA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0097814"
+   },
+   {
+    "name": "Kiki's Delivery Service",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/kikis-delivery-service-0097814"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Minami Takayama",
+    "category": "Cast",
+    "url": "stremio:///search?search=Minami%20Takayama"
+   },
+   {
+    "name": "Rei Sakuma",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rei%20Sakuma"
+   },
+   {
+    "name": "Mieko Nobusawa",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mieko%20Nobusawa"
+   },
+   {
+    "name": "Eiko Kadono",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eiko%20Kadono"
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hayao%20Miyazaki"
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hayao%20Miyazaki"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0097814",
+   "hasScheduledVideos": false
+  }
+ }
+}

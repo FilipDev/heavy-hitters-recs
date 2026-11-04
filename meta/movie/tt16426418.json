@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "imdb_id": "tt16426418",
+  "name": "Challengers",
+  "type": "movie",
+  "cast": [
+   "Mike Faist",
+   "Josh O&apos;Connor",
+   "Zendaya"
+  ],
+  "country": "United States, Italy",
+  "description": "Captures a tennis match as the only honest conversation three people can have. A wife, a husband and his ex-best friend, thirteen years of desire and ambition routed through one challenger final, the camera riding the ball. Bodies in motion, erotic and athletic at once — the contemporary register the list was missing.\n\nTashi, a former tennis prodigy-turned-coach, transformed her husband into a champion. But to overcome a recent losing streak and redeem himself, he'll need to face off against his former best friend--Tashi's ex-boyfriend.",
+  "director": [
+   "Luca Guadagnino"
+  ],
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.0",
+  "released": "2024-04-26T00:00:00.000Z",
+  "slug": "movie/challengers-16426418",
+  "writer": [
+   "Justin Kuritzkes"
+  ],
+  "year": "2024",
+  "moviedb_id": 937287,
+  "popularities": {
+   "moviedb": 23.9314,
+   "stremio": 0.7977133333333334,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "poster": "https://images.metahub.space/poster/small/tt16426418/img",
+  "trailers": [
+   {
+    "source": "-2N3hmRmwHQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "VobTTbg-te0",
+    "type": "Trailer"
+   },
+   {
+    "source": "MDnVk5jIJr0",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt16426418/img",
+  "logo": "https://images.metahub.space/logo/medium/tt16426418/img",
+  "runtime": "132 min",
+  "awards": "77 wins & 152 nominations total",
+  "popularity": 0.7977133333333334,
+  "id": "tt16426418",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2024",
+  "trailerStreams": [
+   {
+    "title": "Challengers",
+    "ytId": "-2N3hmRmwHQ"
+   },
+   {
+    "title": "Challengers",
+    "ytId": "VobTTbg-te0"
+   },
+   {
+    "title": "Challengers",
+    "ytId": "MDnVk5jIJr0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt16426418"
+   },
+   {
+    "name": "Challengers",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/challengers-16426418"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Mike Faist",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mike%20Faist"
+   },
+   {
+    "name": "Josh O&apos;Connor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Josh%20O%26apos%3BConnor"
+   },
+   {
+    "name": "Zendaya",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zendaya"
+   },
+   {
+    "name": "Justin Kuritzkes",
+    "category": "Writers",
+    "url": "stremio:///search?search=Justin%20Kuritzkes"
+   },
+   {
+    "name": "Luca Guadagnino",
+    "category": "Directors",
+    "url": "stremio:///search?search=Luca%20Guadagnino"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt16426418",
+   "hasScheduledVideos": false
+  }
+ }
+}

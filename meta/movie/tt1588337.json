@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 20 wins & 31 nominations total",
+  "cast": [
+   "Lambert Wilson",
+   "Michael Lonsdale",
+   "Olivier Rabourdin"
+  ],
+  "country": "France",
+  "description": "Captures a monastery of French monks in Algeria deciding, by discussion and by choir, whether to stay with the village that depends on them as the violence closes in. Faith as belonging tested at the highest price — and the belonging is shown first: meals, medicine, a birthday, one bottle of wine and a tape of Swan Lake.\n\nUnder threat by fundamentalist terrorists, a group of Trappist monks stationed with an impoverished Algerian community must decide whether to leave or stay.",
+  "director": [
+   "Xavier Beauvois"
+  ],
+  "dvdRelease": "2014-03-09T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt1588337",
+  "moviedb_id": 46332,
+  "name": "Of Gods and Men",
+  "popularity": 0.11066,
+  "poster": "https://images.metahub.space/poster/small/tt1588337/img",
+  "released": "2011-03-25T00:00:00.000Z",
+  "runtime": "120 min",
+  "trailers": [
+   {
+    "source": "nhQzn2gVGjQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Xavier Beauvois",
+   "Etienne Comar"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1588337/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1588337/img",
+  "popularities": {
+   "moviedb": 3.3198,
+   "stremio": 0.11066,
+   "stremio_lib": 0
+  },
+  "slug": "movie/of-gods-and-men-1588337",
+  "id": "tt1588337",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "Of Gods and Men",
+    "ytId": "nhQzn2gVGjQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1588337"
+   },
+   {
+    "name": "Of Gods and Men",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/of-gods-and-men-1588337"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Lambert Wilson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lambert%20Wilson"
+   },
+   {
+    "name": "Michael Lonsdale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Lonsdale"
+   },
+   {
+    "name": "Olivier Rabourdin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olivier%20Rabourdin"
+   },
+   {
+    "name": "Xavier Beauvois",
+    "category": "Writers",
+    "url": "stremio:///search?search=Xavier%20Beauvois"
+   },
+   {
+    "name": "Etienne Comar",
+    "category": "Writers",
+    "url": "stremio:///search?search=Etienne%20Comar"
+   },
+   {
+    "name": "Xavier Beauvois",
+    "category": "Directors",
+    "url": "stremio:///search?search=Xavier%20Beauvois"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1588337",
+   "hasScheduledVideos": false
+  }
+ }
+}

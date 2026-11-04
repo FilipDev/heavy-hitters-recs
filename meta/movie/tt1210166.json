@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "Nominated for 6 Oscars. 29 wins & 82 nominations total",
+  "cast": [
+   "Brad Pitt",
+   "Robin Wright",
+   "Jonah Hill"
+  ],
+  "country": "United States",
+  "description": "Captures competence itself as drama: a general manager and a Yale economist re-deriving baseball from its statistics while the entire sport's intuition laughs at them. The closest film on this list to your actual profession — observed numbers versus inherited scouting folklore, and the numbers are the love story.\n\nOakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+  "director": [
+   "Bennett Miller"
+  ],
+  "dvdRelease": "2013-09-03T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt1210166",
+  "moviedb_id": 60308,
+  "name": "Moneyball",
+  "popularity": 0.30373,
+  "poster": "https://images.metahub.space/poster/small/tt1210166/img",
+  "released": "2011-09-23T00:00:00.000Z",
+  "runtime": "134 min",
+  "trailers": [
+   {
+    "source": "RAG74hfW4pM",
+    "type": "Trailer"
+   },
+   {
+    "source": "D1R-LwHbld4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Steven Zaillian",
+   "Aaron Sorkin",
+   "Stan Chervin"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1210166/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1210166/img",
+  "popularities": {
+   "moviedb": 9.1119,
+   "stremio": 0.30373,
+   "trakt": 15,
+   "stremio_lib": 0
+  },
+  "slug": "movie/moneyball-1210166",
+  "id": "tt1210166",
+  "genres": [
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "releaseInfo": "2011",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Moneyball",
+    "ytId": "RAG74hfW4pM"
+   },
+   {
+    "title": "Moneyball",
+    "ytId": "D1R-LwHbld4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1210166"
+   },
+   {
+    "name": "Moneyball",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/moneyball-1210166"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Brad Pitt",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brad%20Pitt"
+   },
+   {
+    "name": "Robin Wright",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robin%20Wright"
+   },
+   {
+    "name": "Jonah Hill",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jonah%20Hill"
+   },
+   {
+    "name": "Steven Zaillian",
+    "category": "Writers",
+    "url": "stremio:///search?search=Steven%20Zaillian"
+   },
+   {
+    "name": "Aaron Sorkin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Aaron%20Sorkin"
+   },
+   {
+    "name": "Stan Chervin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stan%20Chervin"
+   },
+   {
+    "name": "Bennett Miller",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bennett%20Miller"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1210166",
+   "hasScheduledVideos": false
+  }
+ }
+}
