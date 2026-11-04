@@ -1,0 +1,39 @@
+# 192 Movie Recommendations — static Stremio catalog addon
+
+A purely static Stremio addon (no server code) that publishes the 192-film
+recommendation list as three Stremio catalogs:
+
+- **All 192 Recommendations** (`recommendations-192`)
+- **List A — First Picks (18)** (`recommendations-a`)
+- **The Numbered List (174)** (`recommendations-b`)
+
+Every entry carries its verified IMDb ID, poster/backdrop (via
+images.metahub.space), year, genres, runtime, director and the
+“powerfully captures…” description from the dashboard. Streams, casting
+and Add to Library are Stremio's own — this addon is catalog-only.
+
+## Files
+
+- `manifest.json` — the addon manifest. Its hosted URL is what you paste
+  into Stremio to install.
+- `catalog/movie/<catalog-id>.json` — first page (100 items) of each catalog.
+- `catalog/movie/<catalog-id>/skip=100.json` — second page, requested by
+  Stremio when scrolling (pagination is 100/page).
+- `index.html` — landing page with an Install button; it builds the
+  manifest URL from wherever the files are hosted.
+- `build_addon.py` — regenerates all JSON from the dashboard dataset
+  (`var FILMS` in the dashboard source). Re-run after any list change.
+
+## Hosting requirements
+
+Any static host works, provided:
+
+1. The files are served over **HTTPS** at fixed paths (Stremio clients
+   fetch `…/manifest.json` and `…/catalog/movie/…` exactly).
+2. Responses send **`Access-Control-Allow-Origin: *`** (needed by
+   Stremio Web; GitHub Pages does this by default).
+
+## Install
+
+Open the hosted `index.html` and tap **Install in the Stremio app**, or
+paste the manifest URL into Stremio → Addons → Community Add-ons.

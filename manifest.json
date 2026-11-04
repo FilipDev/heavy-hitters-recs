@@ -1,0 +1,38 @@
+{
+ "id": "community.recommendations192",
+ "version": "1.0.0",
+ "name": "192 Movie Recommendations",
+ "description": "A personally curated list of 192 films — diverse plots and emotional intensities, each one chosen because it powerfully captures something specific. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "recommendations-192",
+   "name": "All 192 Recommendations"
+  },
+  {
+   "type": "movie",
+   "id": "recommendations-a",
+   "name": "List A — First Picks (18)"
+  },
+  {
+   "type": "movie",
+   "id": "recommendations-b",
+   "name": "The Numbered List (174)"
+  }
+ ],
+ "behaviorHints": {
+  "adult": false,
+  "p2p": false,
+  "configurable": false,
+  "configurationRequired": false
+ }
+}

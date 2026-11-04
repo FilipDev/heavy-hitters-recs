@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>192 Movie Recommendations — Stremio Addon</title>
+<style>
+  body { font-family: system-ui, sans-serif; background:#14101d; color:#eee; margin:0; padding:2rem 1rem; }
+  main { max-width: 640px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; }
+  .card { background:#1e1830; border-radius:12px; padding:1.25rem 1.5rem; margin:1rem 0; }
+  button, .btn { background:#7b5cff; color:#fff; border:0; border-radius:8px; padding:.7rem 1.2rem;
+                 font-size:1rem; cursor:pointer; text-decoration:none; display:inline-block; }
+  code { background:#000; padding:.15rem .4rem; border-radius:4px; word-break:break-all; }
+  input { width:100%; padding:.6rem; border-radius:8px; border:1px solid #444; background:#0d0a14; color:#eee; }
+  li { margin:.4rem 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>🎬 192 Movie Recommendations — Stremio Addon</h1>
+  <p>Your 192-film recommendation list as a native Stremio catalog. Once installed, the films
+     appear inside Stremio under <b>All 192 Recommendations</b>, <b>List A — First Picks (18)</b> and
+     <b>The Numbered List (174)</b> — where Play, Chromecast and Add to Library are all built in.
+     This addon only provides the catalog; streams come from your other installed addons.</p>
+
+  <div class="card">
+    <h2>Install</h2>
+    <p><a class="btn" id="installApp" href="#">Install in the Stremio app</a></p>
+    <p>Or paste this manifest URL into Stremio (Addons → Add-on Repository / Community Add-ons → paste link),
+       including in Stremio Web:</p>
+    <input id="manifestUrl" readonly onclick="this.select()">
+    <p><button id="copyBtn" type="button">Copy manifest URL</button></p>
+  </div>
+
+  <div class="card">
+    <h2>What you get</h2>
+    <ul>
+      <li>All 192 films, in the original recommendation order, with posters, year, genres, runtime and the same “powerfully captures…” descriptions as the dashboard.</li>
+      <li>Every film opens Stremio's normal detail page — add it to your library, pick a stream from your addons, and cast to your Chromecast from the player.</li>
+      <li>No account, no tracking, no server code: this addon is a handful of static files.</li>
+    </ul>
+  </div>
+</main>
+<script>
+  var base = window.location.href.replace(/index\.html($|\?.*)/, '').replace(/\/?$/, '/');
+  var manifest = base + 'manifest.json';
+  document.getElementById('manifestUrl').value = manifest;
+  document.getElementById('installApp').href = manifest.replace(/^https?:\/\//, 'stremio://');
+  document.getElementById('copyBtn').addEventListener('click', function () {
+    var el = document.getElementById('manifestUrl');
+    el.select();
+    if (navigator.clipboard) { navigator.clipboard.writeText(manifest); }
+    this.textContent = 'Copied';
+  });
+</script>
+</body>
+</html>
