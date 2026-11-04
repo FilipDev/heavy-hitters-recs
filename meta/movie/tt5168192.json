@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "imdb_id": "tt5168192",
+  "name": "I, Daniel Blake",
+  "popularities": {
+   "moviedb": 4.4293,
+   "stremio": 0.14764333333333332,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "tWaZFvdW7Pc",
+    "type": "Trailer"
+   },
+   {
+    "source": "ahWgxw9E_h4",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 374473,
+  "year": "2017",
+  "runtime": "100 min",
+  "genre": [
+   "Drama"
+  ],
+  "released": "2017-06-09T00:00:00.000Z",
+  "director": [
+   "Ken Loach"
+  ],
+  "writer": [
+   "Paul Laverty"
+  ],
+  "cast": [
+   "Dave Johns",
+   "Hayley Squires",
+   "Sharon Percy"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt5168192/img",
+  "description": "Captures austerity as an interface. A Newcastle joiner with a heart condition is declared fit for work and enters a benefits system of online forms he cannot use, phone queues, scripted assessments and sanctions — alongside a single mother the same system is grinding down. Loach's argument is that the cruelty is not sadism but design: a procedure that never has to meet the person it processes.\n\nAfter surviving a heart-attack, a 59-year-old carpenter must fight bureaucratic forces to receive Employment and Support Allowance.",
+  "country": "United Kingdom, France, Belgium",
+  "awards": "Won 1 BAFTA Award. 30 wins & 37 nominations total",
+  "dvdRelease": "2017-08-15T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt5168192/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5168192/img",
+  "slug": "movie/i-daniel-blake-5168192",
+  "popularity": 0.14764333333333332,
+  "id": "tt5168192",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "I, Daniel Blake",
+    "ytId": "tWaZFvdW7Pc"
+   },
+   {
+    "title": "I, Daniel Blake",
+    "ytId": "ahWgxw9E_h4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5168192"
+   },
+   {
+    "name": "I, Daniel Blake",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/i-daniel-blake-5168192"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Dave Johns",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dave%20Johns"
+   },
+   {
+    "name": "Hayley Squires",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hayley%20Squires"
+   },
+   {
+    "name": "Sharon Percy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sharon%20Percy"
+   },
+   {
+    "name": "Paul Laverty",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paul%20Laverty"
+   },
+   {
+    "name": "Ken Loach",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ken%20Loach"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5168192",
+   "hasScheduledVideos": false
+  }
+ }
+}

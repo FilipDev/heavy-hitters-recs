@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "imdb_id": "tt16280912",
+  "name": "Humane",
+  "popularities": {
+   "trakt": 38,
+   "moviedb": 4.6716,
+   "stremio": 0.15572,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "cast": [
+   "Jay Baruchel",
+   "Emily Hampshire",
+   "Peter Gallagher"
+  ],
+  "country": "Canada",
+  "description": "Captures Plan 75's programme transplanted to an Ontario mansion. Facing ecological collapse, the government asks citizens to enlist for euthanasia to cut the population by twenty percent, with a payment to the family; a wealthy patriarch announces at dinner that he and his wife have signed up, and the evening becomes the policy's real content — inheritance, guilt and persuasion administered as a family argument. Polite recruiters included.\n\nIn the wake of an environmental collapse that is forcing humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry.",
+  "director": [
+   "Caitlin Cronenberg"
+  ],
+  "genre": [
+   "Horror",
+   "Thriller"
+  ],
+  "imdbRating": "5.5",
+  "released": "2024-07-26T00:00:00.000Z",
+  "slug": "movie/humane-16280912",
+  "writer": [
+   "Michael Sparaga"
+  ],
+  "year": "2024",
+  "moviedb_id": 914215,
+  "poster": "https://images.metahub.space/poster/small/tt16280912/img",
+  "runtime": "93 min",
+  "trailers": [
+   {
+    "source": "V4b-OMLNWE0",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt16280912/img",
+  "logo": "https://images.metahub.space/logo/medium/tt16280912/img",
+  "awards": "5 nominations total",
+  "popularity": 0.15572,
+  "id": "tt16280912",
+  "genres": [
+   "Horror",
+   "Thriller"
+  ],
+  "releaseInfo": "2024",
+  "trailerStreams": [
+   {
+    "title": "Humane",
+    "ytId": "V4b-OMLNWE0"
+   }
+  ],
+  "links": [
+   {
+    "name": "5.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt16280912"
+   },
+   {
+    "name": "Humane",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/humane-16280912"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Jay Baruchel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jay%20Baruchel"
+   },
+   {
+    "name": "Emily Hampshire",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emily%20Hampshire"
+   },
+   {
+    "name": "Peter Gallagher",
+    "category": "Cast",
+    "url": "stremio:///search?search=Peter%20Gallagher"
+   },
+   {
+    "name": "Michael Sparaga",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Sparaga"
+   },
+   {
+    "name": "Caitlin Cronenberg",
+    "category": "Directors",
+    "url": "stremio:///search?search=Caitlin%20Cronenberg"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt16280912",
+   "hasScheduledVideos": false
+  }
+ }
+}

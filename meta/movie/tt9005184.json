@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "imdb_id": "tt9005184",
+  "name": "Dual",
+  "awards": "2 wins & 6 nominations total",
+  "cast": [
+   "Karen Gillan",
+   "Aaron Paul",
+   "Beulah Koale"
+  ],
+  "country": "United States, Finland, Canada, United Kingdom",
+  "description": "Captures cloning as a consumer service with terms and conditions. Told she is dying, a woman purchases a double to take over her life — trained, delivered, hers — then recovers, and learns the contract's other clause: one of them must be removed, in a court-ordered duel a year later. Stearns shoots every step as a transaction handled by calm professionals; the deadpan is the critique.\n\nA woman opts for a cloning procedure after she receives a terminal diagnosis but when she recovers her attempts to have her clone decommissioned fail, leading to a court-mandated duel to the death.",
+  "director": [
+   "Riley Stearns"
+  ],
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "imdbRating": "5.8",
+  "poster": "https://images.metahub.space/poster/small/tt9005184/img",
+  "released": "2022-05-20T00:00:00.000Z",
+  "runtime": "95 min",
+  "slug": "movie/dual-9005184",
+  "type": "movie",
+  "writer": [
+   "Riley Stearns"
+  ],
+  "year": "2022",
+  "moviedb_id": 698128,
+  "popularities": {
+   "moviedb": 5.4686,
+   "stremio": 0.18228666666666668,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "OX7L8pFWO0k",
+    "type": "Trailer"
+   },
+   {
+    "source": "uPzyA1gMNsM",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt9005184/img",
+  "logo": "https://images.metahub.space/logo/medium/tt9005184/img",
+  "dvdRelease": "2022-05-20T00:00:00.000Z",
+  "popularity": 0.18228666666666668,
+  "id": "tt9005184",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Dual",
+    "ytId": "OX7L8pFWO0k"
+   },
+   {
+    "title": "Dual",
+    "ytId": "uPzyA1gMNsM"
+   }
+  ],
+  "links": [
+   {
+    "name": "5.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt9005184"
+   },
+   {
+    "name": "Dual",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/dual-9005184"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Karen Gillan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Karen%20Gillan"
+   },
+   {
+    "name": "Aaron Paul",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aaron%20Paul"
+   },
+   {
+    "name": "Beulah Koale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Beulah%20Koale"
+   },
+   {
+    "name": "Riley Stearns",
+    "category": "Writers",
+    "url": "stremio:///search?search=Riley%20Stearns"
+   },
+   {
+    "name": "Riley Stearns",
+    "category": "Directors",
+    "url": "stremio:///search?search=Riley%20Stearns"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt9005184",
+   "hasScheduledVideos": false
+  }
+ }
+}

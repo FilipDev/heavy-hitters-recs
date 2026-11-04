@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "8 wins & 28 nominations total",
+  "cast": [
+   "Keira Knightley",
+   "Carey Mulligan",
+   "Andrew Garfield"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures a monstrous policy absorbed into timetables and good manners. Children cloned to become organ donors are raised at an English boarding school that teaches them to be proud of their purpose; grown, they mostly do not rebel — they apply, through the proper channels, for deferrals. Ishiguro's premise filmed at the temperature of a school story: the foundational text of the administered dystopia, and the quietest film in this batch.\n\nThe lives of three friends, from their early school days into young adulthood, when the reality of the world they live in comes knocking.",
+  "director": [
+   "Mark Romanek"
+  ],
+  "dvdRelease": "2013-02-26T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt1334260",
+  "moviedb_id": 42188,
+  "name": "Never Let Me Go",
+  "popularity": 0.22901999999999997,
+  "poster": "https://images.metahub.space/poster/small/tt1334260/img",
+  "released": "2010-10-15T00:00:00.000Z",
+  "runtime": "104 min",
+  "trailers": [
+   {
+    "source": "sXiRZhDEo8A",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Alex Garland",
+   "Kazuo Ishiguro"
+  ],
+  "year": "2010",
+  "background": "https://images.metahub.space/background/medium/tt1334260/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1334260/img",
+  "popularities": {
+   "moviedb": 6.8706,
+   "stremio": 0.22901999999999997,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/never-let-me-go-1334260",
+  "id": "tt1334260",
+  "genres": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2010",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Never Let Me Go",
+    "ytId": "sXiRZhDEo8A"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1334260"
+   },
+   {
+    "name": "Never Let Me Go",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/never-let-me-go-1334260"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Keira Knightley",
+    "category": "Cast",
+    "url": "stremio:///search?search=Keira%20Knightley"
+   },
+   {
+    "name": "Carey Mulligan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Carey%20Mulligan"
+   },
+   {
+    "name": "Andrew Garfield",
+    "category": "Cast",
+    "url": "stremio:///search?search=Andrew%20Garfield"
+   },
+   {
+    "name": "Alex Garland",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alex%20Garland"
+   },
+   {
+    "name": "Kazuo Ishiguro",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kazuo%20Ishiguro"
+   },
+   {
+    "name": "Mark Romanek",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mark%20Romanek"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1334260",
+   "hasScheduledVideos": false
+  }
+ }
+}

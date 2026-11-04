@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "imdb_id": "tt5688932",
+  "name": "Sorry to Bother You",
+  "year": "2018",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "released": "2018-07-13T00:00:00.000Z",
+  "director": [
+   "Boots Riley"
+  ],
+  "writer": [
+   "Boots Riley"
+  ],
+  "imdbRating": "6.9",
+  "description": "Captures code-switching as survival technology. A broke Oakland telemarketer is taught to use his \"white voice\" and rockets up the company — floor by floor, perk by perk — toward the literal endgame of platform labour, where the worker himself becomes the asset. Boots Riley's satire escalates by following the incentive one step further each time, until the absurdity is just the business model with the lights on.\n\nIn an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success--that propels him into a universe of greed.",
+  "country": "United States",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "XeISaoQDh2g",
+    "type": "Trailer"
+   },
+   {
+    "source": "enH3xA4mYcY",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 424781,
+  "popularities": {
+   "moviedb": 6.0307,
+   "stremio": 0.20102333333333336,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "cast": [
+   "LaKeith Stanfield",
+   "Tessa Thompson",
+   "Jermaine Fowler"
+  ],
+  "runtime": "112 min",
+  "poster": "https://images.metahub.space/poster/small/tt5688932/img",
+  "awards": "20 wins & 56 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt5688932/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5688932/img",
+  "slug": "movie/sorry-to-bother-you-5688932",
+  "dvdRelease": "2018-10-09T00:00:00.000Z",
+  "popularity": 0.20102333333333336,
+  "id": "tt5688932",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Sorry to Bother You",
+    "ytId": "XeISaoQDh2g"
+   },
+   {
+    "title": "Sorry to Bother You",
+    "ytId": "enH3xA4mYcY"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5688932"
+   },
+   {
+    "name": "Sorry to Bother You",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/sorry-to-bother-you-5688932"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "LaKeith Stanfield",
+    "category": "Cast",
+    "url": "stremio:///search?search=LaKeith%20Stanfield"
+   },
+   {
+    "name": "Tessa Thompson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tessa%20Thompson"
+   },
+   {
+    "name": "Jermaine Fowler",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jermaine%20Fowler"
+   },
+   {
+    "name": "Boots Riley",
+    "category": "Writers",
+    "url": "stremio:///search?search=Boots%20Riley"
+   },
+   {
+    "name": "Boots Riley",
+    "category": "Directors",
+    "url": "stremio:///search?search=Boots%20Riley"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5688932",
+   "hasScheduledVideos": false
+  }
+ }
+}

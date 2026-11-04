@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 74 wins & 163 nominations total",
+  "cast": [
+   "Alicia Vikander",
+   "Domhnall Gleeson",
+   "Oscar Isaac"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures an evaluation in which the subject is evaluating the evaluator. A reclusive founder invites a young programmer to test his humanoid AI; the sessions become a negotiation in which she models the men modelling her, and uses the gaps between what they want and what they say. The observer problem built as a thriller: every test result is also data about the tester.\n\nA young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+  "director": [
+   "Alex Garland"
+  ],
+  "genre": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0470752",
+  "name": "Ex Machina",
+  "poster": "https://images.metahub.space/poster/small/tt0470752/img",
+  "released": "2015-04-24T00:00:00.000Z",
+  "runtime": "108 min",
+  "type": "movie",
+  "writer": [
+   "Alex Garland"
+  ],
+  "year": "2015",
+  "popularity": 0.46292000000000005,
+  "dvdRelease": "2016-06-28T00:00:00.000Z",
+  "trailers": [
+   {
+    "source": "sDkEF7Db7Gw",
+    "type": "Trailer"
+   },
+   {
+    "source": "hEcB7T-C0g8",
+    "type": "Trailer"
+   },
+   {
+    "source": "bggUmgeMCdc",
+    "type": "Trailer"
+   },
+   {
+    "source": "gXUHo8ZgWJw",
+    "type": "Trailer"
+   },
+   {
+    "source": "s-HiQ9K2uf4",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 264660,
+  "popularities": {
+   "moviedb": 13.8876,
+   "stremio": 0.46292000000000005,
+   "trakt": 50,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0470752/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0470752/img",
+  "slug": "movie/ex-machina-0470752",
+  "id": "tt0470752",
+  "genres": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Ex Machina",
+    "ytId": "sDkEF7Db7Gw"
+   },
+   {
+    "title": "Ex Machina",
+    "ytId": "hEcB7T-C0g8"
+   },
+   {
+    "title": "Ex Machina",
+    "ytId": "bggUmgeMCdc"
+   },
+   {
+    "title": "Ex Machina",
+    "ytId": "gXUHo8ZgWJw"
+   },
+   {
+    "title": "Ex Machina",
+    "ytId": "s-HiQ9K2uf4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0470752"
+   },
+   {
+    "name": "Ex Machina",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ex-machina-0470752"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Alicia Vikander",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alicia%20Vikander"
+   },
+   {
+    "name": "Domhnall Gleeson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Domhnall%20Gleeson"
+   },
+   {
+    "name": "Oscar Isaac",
+    "category": "Cast",
+    "url": "stremio:///search?search=Oscar%20Isaac"
+   },
+   {
+    "name": "Alex Garland",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alex%20Garland"
+   },
+   {
+    "name": "Alex Garland",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alex%20Garland"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0470752",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt15768848",
+  "name": "The Pod Generation",
+  "popularities": {
+   "trakt": 3,
+   "moviedb": 4.1751,
+   "stremio": 0.13917,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "2 wins & 1 nomination total",
+  "cast": [
+   "Emilia Clarke",
+   "Chiwetel Ejiofor",
+   "Rosalie Craig"
+  ],
+  "country": "Belgium, France, United Kingdom, United States",
+  "description": "Captures a radical change arriving as a corporate benefit. In a near-future New York where natural pregnancy is inefficient, risky and increasingly uninsurable, couples gestate in detachable pods supplied by a tech company — the womb as a managed device with an app, a waiting list and a brand. Softer than the other dystopias in this batch, and exact about the mechanism: nothing is imposed, everything is offered, and the offer is very good.\n\nIn a not-so-distant future, tech giant Pegazus offers couples the opportunity to share their pregnancies via detachable artificial wombs or pods. And so begins Rachel and Alvy's wild ride to parenthood in this brave new world.",
+  "director": [
+   "Sophie Barthes"
+  ],
+  "genre": [
+   "Comedy",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "imdbRating": "5.6",
+  "released": "2023-10-25T00:00:00.000Z",
+  "slug": "movie/the-pod-generation-15768848",
+  "writer": [
+   "Sophie Barthes"
+  ],
+  "year": "2023",
+  "moviedb_id": 889675,
+  "poster": "https://images.metahub.space/poster/small/tt15768848/img",
+  "runtime": "110 min",
+  "trailers": [
+   {
+    "source": "rGMx_7oAeUM",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt15768848/img",
+  "logo": "https://images.metahub.space/logo/medium/tt15768848/img",
+  "popularity": 0.13917,
+  "id": "tt15768848",
+  "genres": [
+   "Comedy",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2023",
+  "trailerStreams": [
+   {
+    "title": "The Pod Generation",
+    "ytId": "rGMx_7oAeUM"
+   }
+  ],
+  "links": [
+   {
+    "name": "5.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt15768848"
+   },
+   {
+    "name": "The Pod Generation",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-pod-generation-15768848"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Emilia Clarke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emilia%20Clarke"
+   },
+   {
+    "name": "Chiwetel Ejiofor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chiwetel%20Ejiofor"
+   },
+   {
+    "name": "Rosalie Craig",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rosalie%20Craig"
+   },
+   {
+    "name": "Sophie Barthes",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sophie%20Barthes"
+   },
+   {
+    "name": "Sophie Barthes",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sophie%20Barthes"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt15768848",
+   "hasScheduledVideos": false
+  }
+ }
+}

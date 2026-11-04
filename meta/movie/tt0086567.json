@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 Oscars. 4 wins & 15 nominations total",
+  "cast": [
+   "Matthew Broderick",
+   "Ally Sheedy",
+   "John Wood"
+  ],
+  "country": "United States",
+  "description": "Captures automation learning the wrong lesson at full scale. A Seattle teenager hacking around in what he thinks is a games company's computer is actually inside NORAD's war simulator, and the machine — tasked with learning to win a game that cannot be won — keeps playing after he logs off. The hardware is pure 1983; the failure mode, a system optimising past the point where anyone can tell simulation from reality, is the present tense.\n\nA young teen boy finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.",
+  "director": [
+   "John Badham"
+  ],
+  "dvdRelease": "2016-03-29T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0086567",
+  "moviedb_id": 860,
+  "name": "WarGames",
+  "popularity": 0.23814,
+  "poster": "https://images.metahub.space/poster/small/tt0086567/img",
+  "released": "1983-06-03T00:00:00.000Z",
+  "runtime": "114 min",
+  "trailers": [
+   {
+    "source": "-hfz7qDg-Bg",
+    "type": "Trailer"
+   },
+   {
+    "source": "TQUsLAAZuhU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lawrence Lasker",
+   "Walter F. Parkes"
+  ],
+  "year": "1983",
+  "background": "https://images.metahub.space/background/medium/tt0086567/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0086567/img",
+  "popularities": {
+   "moviedb": 7.1442,
+   "stremio": 0.23814,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/wargames-0086567",
+  "id": "tt0086567",
+  "genres": [
+   "Action",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "1983",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "WarGames",
+    "ytId": "-hfz7qDg-Bg"
+   },
+   {
+    "title": "WarGames",
+    "ytId": "TQUsLAAZuhU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0086567"
+   },
+   {
+    "name": "WarGames",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/wargames-0086567"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Matthew Broderick",
+    "category": "Cast",
+    "url": "stremio:///search?search=Matthew%20Broderick"
+   },
+   {
+    "name": "Ally Sheedy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ally%20Sheedy"
+   },
+   {
+    "name": "John Wood",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Wood"
+   },
+   {
+    "name": "Lawrence Lasker",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lawrence%20Lasker"
+   },
+   {
+    "name": "Walter F. Parkes",
+    "category": "Writers",
+    "url": "stremio:///search?search=Walter%20F.%20Parkes"
+   },
+   {
+    "name": "John Badham",
+    "category": "Directors",
+    "url": "stremio:///search?search=John%20Badham"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0086567",
+   "hasScheduledVideos": false
+  }
+ }
+}

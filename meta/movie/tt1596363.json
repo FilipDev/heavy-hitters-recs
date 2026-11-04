@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "imdb_id": "tt1596363",
+  "popularity": 0.5035200000000001,
+  "name": "The Big Short",
+  "year": "2015",
+  "runtime": "131 min",
+  "genre": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "released": "2015-12-23T00:00:00.000Z",
+  "director": [
+   "Adam McKay"
+  ],
+  "writer": [
+   "Charles Randolph",
+   "Adam McKay",
+   "Michael Lewis"
+  ],
+  "cast": [
+   "Christian Bale",
+   "Steve Carell",
+   "Ryan Gosling"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt1596363/img",
+  "description": "Captures a true signal that nobody could afford to believe. A handful of outsiders read the US housing market correctly — the loans were fraudulent, the bonds were poison, the ratings were bought — and discover that being right early looks identical to being wrong, and costs the same. The companion piece to Inside Job: that film shows the machine, this one shows what the machine does to accurate information.\n\nPrior to the 2008 financial crisis, a group of investors bet against the US mortgage market and are stunned by the corruption they uncover through their research.",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 37 wins & 81 nominations total",
+  "dvdRelease": "2016-07-07T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "1kQc3mmtH-o",
+    "type": "Trailer"
+   },
+   {
+    "source": "vgqG3ITMv1Q",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 318846,
+  "popularities": {
+   "moviedb": 15.1056,
+   "stremio": 0.5035200000000001,
+   "trakt": 28,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1596363/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1596363/img",
+  "slug": "movie/the-big-short-1596363",
+  "id": "tt1596363",
+  "genres": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "The Big Short",
+    "ytId": "1kQc3mmtH-o"
+   },
+   {
+    "title": "The Big Short",
+    "ytId": "vgqG3ITMv1Q"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1596363"
+   },
+   {
+    "name": "The Big Short",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-big-short-1596363"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Christian Bale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Christian%20Bale"
+   },
+   {
+    "name": "Steve Carell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Steve%20Carell"
+   },
+   {
+    "name": "Ryan Gosling",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ryan%20Gosling"
+   },
+   {
+    "name": "Charles Randolph",
+    "category": "Writers",
+    "url": "stremio:///search?search=Charles%20Randolph"
+   },
+   {
+    "name": "Adam McKay",
+    "category": "Writers",
+    "url": "stremio:///search?search=Adam%20McKay"
+   },
+   {
+    "name": "Michael Lewis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Lewis"
+   },
+   {
+    "name": "Adam McKay",
+    "category": "Directors",
+    "url": "stremio:///search?search=Adam%20McKay"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1596363",
+   "hasScheduledVideos": false
+  }
+ }
+}

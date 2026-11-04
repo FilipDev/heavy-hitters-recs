@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "imdb_id": "tt10110614",
+  "name": "Apples",
+  "awards": "17 wins & 28 nominations total",
+  "cast": [
+   "Aris Servetalis",
+   "Sofia Georgovassili",
+   "Anna Kalaitzidou"
+  ],
+  "country": "Greece, Poland, Australia, Slovenia",
+  "description": "Captures a self issued by a bureaucracy. An epidemic of sudden, permanent amnesia leaves the unclaimed amnesiacs to a state programme that rebuilds their identities from cassette-tape instructions: ride a bike, eat an apple, jump from a height, record it all on Polaroids. Nikou's deadpan Greek dystopia is about what a person is when their past arrives as a form to complete — memory as paperwork, completed diligently.\n\nAmidst a worldwide pandemic that causes sudden amnesia, middle-aged Aris finds himself enrolled in a recovery program designed to help unclaimed patients build new identities.",
+  "director": [
+   "Christos Nikou"
+  ],
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "imdbRating": "6.8",
+  "poster": "https://images.metahub.space/poster/small/tt10110614/img",
+  "released": "2021-06-03T00:00:00.000Z",
+  "runtime": "91 min",
+  "slug": "movie/apples-10110614",
+  "type": "movie",
+  "writer": [
+   "Christos Nikou",
+   "Stavros Raptis"
+  ],
+  "year": "2021",
+  "moviedb_id": 652156,
+  "popularities": {
+   "moviedb": 1.6888,
+   "stremio": 0.056293333333333334,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "JGhy4xkdAf0",
+    "type": "Trailer"
+   },
+   {
+    "source": "ucBK-mljB4s",
+    "type": "Trailer"
+   },
+   {
+    "source": "EbyVi5DQjBM",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt10110614/img",
+  "logo": "https://images.metahub.space/logo/medium/tt10110614/img",
+  "popularity": 0.056293333333333334,
+  "id": "tt10110614",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "Apples",
+    "ytId": "JGhy4xkdAf0"
+   },
+   {
+    "title": "Apples",
+    "ytId": "ucBK-mljB4s"
+   },
+   {
+    "title": "Apples",
+    "ytId": "EbyVi5DQjBM"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt10110614"
+   },
+   {
+    "name": "Apples",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/apples-10110614"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Aris Servetalis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aris%20Servetalis"
+   },
+   {
+    "name": "Sofia Georgovassili",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sofia%20Georgovassili"
+   },
+   {
+    "name": "Anna Kalaitzidou",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anna%20Kalaitzidou"
+   },
+   {
+    "name": "Christos Nikou",
+    "category": "Writers",
+    "url": "stremio:///search?search=Christos%20Nikou"
+   },
+   {
+    "name": "Stavros Raptis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stavros%20Raptis"
+   },
+   {
+    "name": "Christos Nikou",
+    "category": "Directors",
+    "url": "stremio:///search?search=Christos%20Nikou"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt10110614",
+   "hasScheduledVideos": false
+  }
+ }
+}

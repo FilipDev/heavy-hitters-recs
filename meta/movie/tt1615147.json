@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 8 wins & 24 nominations total",
+  "cast": [
+   "Zachary Quinto",
+   "Stanley Tucci",
+   "Kevin Spacey"
+  ],
+  "country": "United States",
+  "description": "Captures the night a catastrophe gets decided in calm voices. A junior analyst at a Wall Street bank finds the firm's assets are worthless; by dawn the partners have priced their own survival and chosen to sell the poison first, knowing what it will do. No shouting, no villains twirling — just a conference room, a model, and the exact moment self-preservation outranks every other value in the building.\n\nFollows the key people at an investment bank over a 24-hour period during the early stages of the 2008 financial crisis.",
+  "director": [
+   "J.C. Chandor"
+  ],
+  "dvdRelease": "2013-08-06T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt1615147",
+  "moviedb_id": 50839,
+  "name": "Margin Call",
+  "popularity": 0.26100666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt1615147/img",
+  "released": "2011-09-29T00:00:00.000Z",
+  "runtime": "107 min",
+  "trailers": [
+   {
+    "source": "5RIU83i-WMM",
+    "type": "Trailer"
+   },
+   {
+    "source": "GTfUENx6uRs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "J.C. Chandor"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1615147/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1615147/img",
+  "popularities": {
+   "moviedb": 7.8302,
+   "stremio": 0.26100666666666666,
+   "trakt": 30,
+   "stremio_lib": 0
+  },
+  "slug": "movie/margin-call-1615147",
+  "id": "tt1615147",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2011",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Margin Call",
+    "ytId": "5RIU83i-WMM"
+   },
+   {
+    "title": "Margin Call",
+    "ytId": "GTfUENx6uRs"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1615147"
+   },
+   {
+    "name": "Margin Call",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/margin-call-1615147"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Zachary Quinto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zachary%20Quinto"
+   },
+   {
+    "name": "Stanley Tucci",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stanley%20Tucci"
+   },
+   {
+    "name": "Kevin Spacey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kevin%20Spacey"
+   },
+   {
+    "name": "J.C. Chandor",
+    "category": "Writers",
+    "url": "stremio:///search?search=J.C.%20Chandor"
+   },
+   {
+    "name": "J.C. Chandor",
+    "category": "Directors",
+    "url": "stremio:///search?search=J.C.%20Chandor"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1615147",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 2 wins & 23 nominations total",
+  "cast": [
+   "Dustin Hoffman",
+   "Robert De Niro",
+   "Anne Heche"
+  ],
+  "country": "United States",
+  "description": "Captures a war invented as a news product. Days before an election, a spin doctor and a Hollywood producer fabricate a conflict with Albania — studio footage, a theme song, a hero — and the media system amplifies it because it fits the format. Made in 1997 with fax-era technology and exact about every mechanism that matters now: the invented event is cheaper, cleaner and more narratable than the real one.\n\nShortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal.",
+  "director": [
+   "Barry Levinson"
+  ],
+  "dvdRelease": "2008-07-01T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0120885",
+  "moviedb_id": 586,
+  "name": "Wag the Dog",
+  "popularity": 0.15396333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0120885/img",
+  "released": "1998-01-09T00:00:00.000Z",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "steA_PZPkc8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Larry Beinhart",
+   "Hilary Henkin",
+   "David Mamet"
+  ],
+  "year": "1998",
+  "background": "https://images.metahub.space/background/medium/tt0120885/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0120885/img",
+  "popularities": {
+   "moviedb": 4.6189,
+   "stremio": 0.15396333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/wag-the-dog-0120885",
+  "id": "tt0120885",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1998",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Wag the Dog",
+    "ytId": "steA_PZPkc8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0120885"
+   },
+   {
+    "name": "Wag the Dog",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/wag-the-dog-0120885"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Dustin Hoffman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dustin%20Hoffman"
+   },
+   {
+    "name": "Robert De Niro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20De%20Niro"
+   },
+   {
+    "name": "Anne Heche",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anne%20Heche"
+   },
+   {
+    "name": "Larry Beinhart",
+    "category": "Writers",
+    "url": "stremio:///search?search=Larry%20Beinhart"
+   },
+   {
+    "name": "Hilary Henkin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hilary%20Henkin"
+   },
+   {
+    "name": "David Mamet",
+    "category": "Writers",
+    "url": "stremio:///search?search=David%20Mamet"
+   },
+   {
+    "name": "Barry Levinson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Barry%20Levinson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0120885",
+   "hasScheduledVideos": false
+  }
+ }
+}

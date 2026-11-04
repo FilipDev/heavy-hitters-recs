@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "imdb_id": "tt19719904",
+  "name": "Plan 75",
+  "awards": "12 wins & 17 nominations total",
+  "cast": [
+   "Chieko Baisho",
+   "Hayato Isomura",
+   "Stefanie Akashi"
+  ],
+  "country": "Japan, France, Philippines, Qatar",
+  "description": "Captures a state marketing death to the elderly as economic policy. Japan, near future: facing demographic collapse, the government offers over-75s a free, gentle euthanasia service, sold by polite young recruiters with brochures and follow-up calls. A migrant care worker, a recruiter and an old woman who signs up carry the film — the quietest dystopia in the collection, because nothing in it is administered unkindly.\n\nFaced with a rapidly aging population, a Japanese government in the near future rolls out an unsettling agenda.",
+  "director": [
+   "Chie Hayakawa"
+  ],
+  "genre": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "imdbRating": "6.6",
+  "released": "2024-01-01T00:00:00.000Z",
+  "runtime": "113 min",
+  "slug": "movie/plan-75-19719904",
+  "type": "movie",
+  "writer": [
+   "Jason Gray",
+   "Chie Hayakawa"
+  ],
+  "year": "2024",
+  "moviedb_id": 958487,
+  "popularities": {
+   "moviedb": 2.5168,
+   "stremio": 0.08389333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "poster": "https://images.metahub.space/poster/small/tt19719904/img",
+  "trailers": [
+   {
+    "source": "K4VaoNCsj_0",
+    "type": "Trailer"
+   },
+   {
+    "source": "hmsNRmMNtZ8",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt19719904/img",
+  "logo": "https://images.metahub.space/logo/medium/tt19719904/img",
+  "popularity": 0.08389333333333333,
+  "id": "tt19719904",
+  "genres": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2024",
+  "trailerStreams": [
+   {
+    "title": "Plan 75",
+    "ytId": "K4VaoNCsj_0"
+   },
+   {
+    "title": "Plan 75",
+    "ytId": "hmsNRmMNtZ8"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt19719904"
+   },
+   {
+    "name": "Plan 75",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/plan-75-19719904"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Chieko Baisho",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chieko%20Baisho"
+   },
+   {
+    "name": "Hayato Isomura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hayato%20Isomura"
+   },
+   {
+    "name": "Stefanie Akashi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stefanie%20Akashi"
+   },
+   {
+    "name": "Jason Gray",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jason%20Gray"
+   },
+   {
+    "name": "Chie Hayakawa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Chie%20Hayakawa"
+   },
+   {
+    "name": "Chie Hayakawa",
+    "category": "Directors",
+    "url": "stremio:///search?search=Chie%20Hayakawa"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt19719904",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "2 wins & 14 nominations total",
+  "cast": [
+   "Matt Damon",
+   "Kate Winslet",
+   "Jude Law"
+  ],
+  "country": "United Arab Emirates, United States",
+  "description": "Captures a pandemic as a system of vectors. A virus moves through fomites, flights and supply chains while scientists race its R-number and a conspiracy blogger monetises the panic. Soderbergh's procedural is all surfaces touched, meetings held, errors priced — rewatched after 2020 it plays less like a thriller than a rehearsal tape in which every argument of the real event already exists.\n\nHealthcare professionals, government officials and everyday people find themselves in the midst of a pandemic as the CDC works to find a cure.",
+  "director": [
+   "Steven Soderbergh"
+  ],
+  "dvdRelease": "2013-08-06T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "6.8",
+  "imdb_id": "tt1598778",
+  "moviedb_id": 39538,
+  "name": "Contagion",
+  "popularity": 0.28829,
+  "poster": "https://images.metahub.space/poster/small/tt1598778/img",
+  "released": "2011-09-09T00:00:00.000Z",
+  "runtime": "106 min",
+  "trailers": [
+   {
+    "source": "4sYSyuuLk5g",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Scott Z. Burns"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1598778/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1598778/img",
+  "popularities": {
+   "moviedb": 8.6487,
+   "stremio": 0.28829,
+   "trakt": 55,
+   "stremio_lib": 0
+  },
+  "slug": "movie/contagion-1598778",
+  "id": "tt1598778",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2011",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Contagion",
+    "ytId": "4sYSyuuLk5g"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1598778"
+   },
+   {
+    "name": "Contagion",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/contagion-1598778"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Matt Damon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Matt%20Damon"
+   },
+   {
+    "name": "Kate Winslet",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kate%20Winslet"
+   },
+   {
+    "name": "Jude Law",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jude%20Law"
+   },
+   {
+    "name": "Scott Z. Burns",
+    "category": "Writers",
+    "url": "stremio:///search?search=Scott%20Z.%20Burns"
+   },
+   {
+    "name": "Steven Soderbergh",
+    "category": "Directors",
+    "url": "stremio:///search?search=Steven%20Soderbergh"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1598778",
+   "hasScheduledVideos": false
+  }
+ }
+}
