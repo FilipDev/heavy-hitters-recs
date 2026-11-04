@@ -1,0 +1,719 @@
+{
+ "metas": [
+  {
+   "id": "tt13238346",
+   "type": "movie",
+   "name": "Past Lives",
+   "poster": "https://images.metahub.space/poster/medium/tt13238346/img",
+   "background": "https://images.metahub.space/background/medium/tt13238346/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "106 min",
+   "director": "Celine Song",
+   "description": "Captures the life that didn't happen, with nobody in the wrong. Childhood sweethearts from Seoul reconnect in New York 24 years later — she is happily married — and have kind, adult conversations about the road not taken."
+  },
+  {
+   "id": "tt5247022",
+   "type": "movie",
+   "name": "Paterson",
+   "poster": "https://images.metahub.space/poster/medium/tt5247022/img",
+   "background": "https://images.metahub.space/background/medium/tt5247022/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "118 min",
+   "director": "Jim Jarmusch",
+   "description": "Captures a routine life as a work of art. One week with a bus driver named Paterson, in Paterson, who writes poems about matchboxes and waterfalls between shifts."
+  },
+  {
+   "id": "tt5990474",
+   "type": "movie",
+   "name": "Columbus",
+   "poster": "https://images.metahub.space/poster/medium/tt5990474/img",
+   "background": "https://images.metahub.space/background/medium/tt5990474/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "104 min",
+   "director": "Kogonada",
+   "description": "Captures two people keeping each other company inside their own stalled grief. A son stuck in Indiana while his father is in a coma meets a young woman who loves the town's modernist buildings and cannot leave her mother."
+  },
+  {
+   "id": "tt0112471",
+   "type": "movie",
+   "name": "Before Sunrise",
+   "poster": "https://images.metahub.space/poster/medium/tt0112471/img",
+   "background": "https://images.metahub.space/background/medium/tt0112471/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "101 min",
+   "director": "Richard Linklater",
+   "description": "Captures falling for someone through conversation alone. Two strangers on a train spend one night walking and talking in Vienna until a morning flight."
+  },
+  {
+   "id": "tt0118694",
+   "type": "movie",
+   "name": "In the Mood for Love",
+   "poster": "https://images.metahub.space/poster/medium/tt0118694/img",
+   "background": "https://images.metahub.space/background/medium/tt0118694/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "98 min",
+   "director": "Wong Kar-wai",
+   "description": "Captures longing held back on purpose. Two neighbours in 1960s Hong Kong learn their spouses are cheating with each other, fall for each other, and refuse to do the same thing."
+  },
+  {
+   "id": "tt6725014",
+   "type": "movie",
+   "name": "Scenes from a Marriage",
+   "poster": "https://images.metahub.space/poster/medium/tt6725014/img",
+   "background": "https://images.metahub.space/background/medium/tt6725014/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "169 min",
+   "director": "Ingmar Bergman",
+   "description": "Captures a marriage being taken apart in dialogue. A couple first interviewed as 'ideal' are revisited over years of separation, affairs, and still needing each other."
+  },
+  {
+   "id": "tt1120985",
+   "type": "movie",
+   "name": "Blue Valentine",
+   "poster": "https://images.metahub.space/poster/medium/tt1120985/img",
+   "background": "https://images.metahub.space/background/medium/tt1120985/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "112 min",
+   "director": "Derek Cianfrance",
+   "description": "Captures love decaying, cross-cut with it beginning. The same couple early and late, and the late scenes are unbearable precisely because the early ones were real."
+  },
+  {
+   "id": "tt4975722",
+   "type": "movie",
+   "name": "Moonlight",
+   "poster": "https://images.metahub.space/poster/medium/tt4975722/img",
+   "background": "https://images.metahub.space/background/medium/tt4975722/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "111 min",
+   "director": "Barry Jenkins",
+   "description": "Captures a self forming under pressure, in three ages. One boy in Miami at 9, 16 and adult — bullied, desired, armoured — told almost entirely in looks and silences."
+  },
+  {
+   "id": "tt0126886",
+   "type": "movie",
+   "name": "Election",
+   "poster": "https://images.metahub.space/poster/medium/tt0126886/img",
+   "background": "https://images.metahub.space/background/medium/tt0126886/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "103 min",
+   "director": "Alexander Payne",
+   "description": "Captures ambition so pure it becomes frightening, at a high school. A student election, a teacher who decides one candidate must be stopped, and everyone's voiceover giving their self-justifying version."
+  },
+  {
+   "id": "tt0101985",
+   "type": "movie",
+   "name": "A Brighter Summer Day",
+   "poster": "https://images.metahub.space/poster/medium/tt0101985/img",
+   "background": "https://images.metahub.space/background/medium/tt0101985/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1991",
+   "year": 1991,
+   "runtime": "237 min",
+   "director": "Edward Yang",
+   "description": "Captures adolescence inside a whole society holding its breath. Taipei, 1960 — exiled mainland families, street gangs, Elvis, a famous murder case — four hours that build a world rather than a plot."
+  },
+  {
+   "id": "tt0244316",
+   "type": "movie",
+   "name": "Yi Yi",
+   "poster": "https://images.metahub.space/poster/medium/tt0244316/img",
+   "background": "https://images.metahub.space/background/medium/tt0244316/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "173 min",
+   "director": "Edward Yang",
+   "description": "Captures every age of a family seeing only one side of life. Taipei, three hours, a wedding at the start and a funeral at the end — including a little son photographing the backs of people's heads so they can see what they can't."
+  },
+  {
+   "id": "tt1602620",
+   "type": "movie",
+   "name": "Amour",
+   "poster": "https://images.metahub.space/poster/medium/tt1602620/img",
+   "background": "https://images.metahub.space/background/medium/tt1602620/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "127 min",
+   "director": "Michael Haneke",
+   "description": "Captures marriage at the point where love becomes physical care. An elderly Paris couple, a stroke, a promise not to go back to hospital, one apartment — no softening, and tender anyway."
+  },
+  {
+   "id": "tt9660502",
+   "type": "movie",
+   "name": "Close",
+   "poster": "https://images.metahub.space/poster/medium/tt9660502/img",
+   "background": "https://images.metahub.space/background/medium/tt9660502/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "104 min",
+   "director": "Lukas Dhont",
+   "description": "Captures two boys' intimacy being seen, and what being seen does to it. Best friends at 13, inseparable all summer, then school starts and other kids ask what they are."
+  },
+  {
+   "id": "tt8613070",
+   "type": "movie",
+   "name": "Portrait of a Lady on Fire",
+   "poster": "https://images.metahub.space/poster/medium/tt8613070/img",
+   "background": "https://images.metahub.space/background/medium/tt8613070/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "122 min",
+   "director": "Céline Sciamma",
+   "description": "Captures desire as the act of looking carefully. Brittany, 1770: a painter commissioned to paint a bride-to-be in secret, because the woman refuses to sit for the portrait that will be sent to her future husband."
+  },
+  {
+   "id": "tt2402927",
+   "type": "movie",
+   "name": "Carol",
+   "poster": "https://images.metahub.space/poster/medium/tt2402927/img",
+   "background": "https://images.metahub.space/background/medium/tt2402927/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "118 min",
+   "director": "Todd Haynes",
+   "description": "Captures restrained desire in a world with everything to lose. 1950s New York, a shopgirl and an older woman in a custody fight — glances across a toy counter, a road trip, composure in every public room."
+  },
+  {
+   "id": "tt0118845",
+   "type": "movie",
+   "name": "Happy Together",
+   "poster": "https://images.metahub.space/poster/medium/tt0118845/img",
+   "background": "https://images.metahub.space/background/medium/tt0118845/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "96 min",
+   "director": "Wong Kar-wai",
+   "description": "Captures a couple who keep saying 'let's start over' and mean it every time. Two Hong Kong men in Buenos Aires, breaking up and reuniting in cycles, with the Iguazu Falls as the place they never quite reach together."
+  },
+  {
+   "id": "tt5726616",
+   "type": "movie",
+   "name": "Call Me by Your Name",
+   "poster": "https://images.metahub.space/poster/medium/tt5726616/img",
+   "background": "https://images.metahub.space/background/medium/tt5726616/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "132 min",
+   "director": "Luca Guadagnino",
+   "description": "Captures first desire as a summer education of the senses. Italy, 1983 — peaches, swimming, an older grad student in the house — and a father's talk near the end that reframes the whole film."
+  },
+  {
+   "id": "tt0107943",
+   "type": "movie",
+   "name": "The Remains of the Day",
+   "poster": "https://images.metahub.space/poster/medium/tt0107943/img",
+   "background": "https://images.metahub.space/background/medium/tt0107943/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1993",
+   "year": 1993,
+   "runtime": "134 min",
+   "director": "James Ivory",
+   "description": "Captures a life spent not saying the thing. An English butler who gave everything to duty drives after the war to visit the housekeeper he loved, composing each sentence too late."
+  },
+  {
+   "id": "tt0109424",
+   "type": "movie",
+   "name": "Chungking Express",
+   "poster": "https://images.metahub.space/poster/medium/tt0109424/img",
+   "background": "https://images.metahub.space/background/medium/tt0109424/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "102 min",
+   "director": "Wong Kar-wai",
+   "description": "Captures city loneliness at pop speed. Hong Kong, two lovesick cops, expired pineapple cans, and a snack-bar girl breaking into a man's flat to clean it while 'California Dreamin'' loops."
+  },
+  {
+   "id": "tt0245574",
+   "type": "movie",
+   "name": "Y Tu Mamá También",
+   "poster": "https://images.metahub.space/poster/medium/tt0245574/img",
+   "background": "https://images.metahub.space/background/medium/tt0245574/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2001",
+   "year": 2001,
+   "runtime": "106 min",
+   "director": "Alfonso Cuarón",
+   "description": "Captures youth burning brightly over a country it isn't looking at. Two teenage boys and an older woman drive to a beach that may not exist, while the narrator quietly tells you the futures and the roadside Mexico they pass."
+  },
+  {
+   "id": "tt0053604",
+   "type": "movie",
+   "name": "The Apartment",
+   "poster": "https://images.metahub.space/poster/medium/tt0053604/img",
+   "background": "https://images.metahub.space/background/medium/tt0053604/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1960",
+   "year": 1960,
+   "runtime": "125 min",
+   "director": "Billy Wilder",
+   "description": "Captures loneliness in a big company, and kindness as a decision. An insurance clerk lends his flat to executives for their affairs to get promoted, loves the elevator girl from afar, and hits Christmas at the lowest point of both."
+  },
+  {
+   "id": "tt0211915",
+   "type": "movie",
+   "name": "Amélie",
+   "poster": "https://images.metahub.space/poster/medium/tt0211915/img",
+   "background": "https://images.metahub.space/background/medium/tt0211915/img",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "releaseInfo": "2001",
+   "year": 2001,
+   "runtime": "122 min",
+   "director": "Jean-Pierre Jeunet",
+   "description": "Captures a lonely young woman engineering small happinesses for strangers. Montmartre, a tin of childhood treasures returned to its owner, and a heroine who can fix everyone's life except ask for anything in her own."
+  },
+  {
+   "id": "tt0045152",
+   "type": "movie",
+   "name": "Singin' in the Rain",
+   "poster": "https://images.metahub.space/poster/medium/tt0045152/img",
+   "background": "https://images.metahub.space/background/medium/tt0045152/img",
+   "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+   ],
+   "releaseInfo": "1952",
+   "year": 1952,
+   "runtime": "103 min",
+   "director": "Gene Kelly, Stanley Donen",
+   "description": "Captures pure performed joy, inside a story about an industry panicking. Hollywood switching to sound, a star with a terrible voice, and musical numbers that still feel like showing off for the love of it."
+  },
+  {
+   "id": "tt0115678",
+   "type": "movie",
+   "name": "Big Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0115678/img",
+   "background": "https://images.metahub.space/background/medium/tt0115678/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "109 min",
+   "director": "Campbell Scott, Stanley Tucci",
+   "description": "Captures two brothers arguing about whether a meal should be art or business. Italian immigrants, a failing restaurant, one elaborate dinner to save it, and a final wordless scene of one cooking breakfast for the other."
+  },
+  {
+   "id": "tt0128445",
+   "type": "movie",
+   "name": "Rushmore",
+   "poster": "https://images.metahub.space/poster/medium/tt0128445/img",
+   "background": "https://images.metahub.space/background/medium/tt0128445/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "93 min",
+   "director": "Wes Anderson",
+   "description": "Captures a precocious teenager's grandiosity as a grief strategy. A scholarship kid who runs every club and stages huge plays falls for a widowed teacher and goes to war with a sad industrialist who is, emotionally, the same age."
+  },
+  {
+   "id": "tt0070460",
+   "type": "movie",
+   "name": "Day for Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0070460/img",
+   "background": "https://images.metahub.space/background/medium/tt0070460/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "116 min",
+   "director": "François Truffaut",
+   "description": "Captures a film set as a chaotic temporary family. Truffaut plays the director of a mediocre melodrama, keeping affairs, breakdowns, accidents and deadlines moving toward a finished film nobody thinks is great and everybody needs."
+  },
+  {
+   "id": "tt1736633",
+   "type": "movie",
+   "name": "Oslo, August 31st",
+   "poster": "https://images.metahub.space/poster/medium/tt1736633/img",
+   "background": "https://images.metahub.space/background/medium/tt1736633/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "95 min",
+   "director": "Joachim Trier",
+   "description": "Captures a man visiting his own life while on leave from rehab. Job interview, old friends, a party, the family home for sale — Oslo in late summer light, conversations so ordinary they are painful for what he hears in them."
+  },
+  {
+   "id": "tt1714210",
+   "type": "movie",
+   "name": "Weekend",
+   "poster": "https://images.metahub.space/poster/medium/tt1714210/img",
+   "background": "https://images.metahub.space/background/medium/tt1714210/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "97 min",
+   "director": "Andrew Haigh",
+   "description": "Captures intimacy with an expiration date already on it. Two men meet in Nottingham on a Friday, one leaving the country on Sunday, and talk in bed, pubs and trains about sex, coming out, and how much of yourself you perform."
+  },
+  {
+   "id": "tt5635086",
+   "type": "movie",
+   "name": "God's Own Country",
+   "poster": "https://images.metahub.space/poster/medium/tt5635086/img",
+   "background": "https://images.metahub.space/background/medium/tt5635086/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "104 min",
+   "director": "Francis Lee",
+   "description": "Captures a man who can only express feeling through work and drink learning tenderness from lambing. A young Yorkshire farmer, mud and silence, and a Romanian migrant worker hired for the season who is gentle in a way he has no defences for."
+  },
+  {
+   "id": "tt0388795",
+   "type": "movie",
+   "name": "Brokeback Mountain",
+   "poster": "https://images.metahub.space/poster/medium/tt0388795/img",
+   "background": "https://images.metahub.space/background/medium/tt0388795/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Western"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "134 min",
+   "director": "Ang Lee",
+   "description": "Captures a love conducted in a few weeks a year, across twenty years. Wyoming herders, marriages and children in between, and a shirt kept in a closet doing more work than any speech."
+  },
+  {
+   "id": "tt1798709",
+   "type": "movie",
+   "name": "Her",
+   "poster": "https://images.metahub.space/poster/medium/tt1798709/img",
+   "background": "https://images.metahub.space/background/medium/tt1798709/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "126 min",
+   "director": "Spike Jonze",
+   "description": "Captures loneliness in a warm, well-designed future. A divorced man who writes other people's love letters for a living falls for a voice in his ear, and the film takes the relationship seriously enough to let it outgrow him."
+  },
+  {
+   "id": "tt0119177",
+   "type": "movie",
+   "name": "Gattaca",
+   "poster": "https://images.metahub.space/poster/medium/tt0119177/img",
+   "background": "https://images.metahub.space/background/medium/tt0119177/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "106 min",
+   "director": "Andrew Niccol",
+   "description": "Captures a caste system built from a blood sample. A man born without genetic screening borrows another man's blood, urine and identity to reach space, while his 'valid' brother keeps challenging him to swimming races neither should survive."
+  },
+  {
+   "id": "tt0338013",
+   "type": "movie",
+   "name": "Eternal Sunshine of the Spotless Mind",
+   "poster": "https://images.metahub.space/poster/medium/tt0338013/img",
+   "background": "https://images.metahub.space/background/medium/tt0338013/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2004",
+   "year": 2004,
+   "runtime": "108 min",
+   "director": "Michel Gondry",
+   "description": "Captures trying to keep someone while paying to forget them. A couple erase each other after a breakup; inside the procedure, mid-deletion, he changes his mind and hides her in childhood memories the technicians haven't reached."
+  },
+  {
+   "id": "tt0029192",
+   "type": "movie",
+   "name": "Make Way for Tomorrow",
+   "poster": "https://images.metahub.space/poster/medium/tt0029192/img",
+   "background": "https://images.metahub.space/background/medium/tt0029192/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1937",
+   "year": 1937,
+   "runtime": "91 min",
+   "director": "Leo McCarey",
+   "description": "Captures old parents becoming an inconvenience to distribute. In the Depression a couple lose their house and their adult children split them between households 'temporarily' — politeness does the damage, and the farewell scene is unforgettable."
+  },
+  {
+   "id": "tt0042192",
+   "type": "movie",
+   "name": "All About Eve",
+   "poster": "https://images.metahub.space/poster/medium/tt0042192/img",
+   "background": "https://images.metahub.space/background/medium/tt0042192/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1950",
+   "year": 1950,
+   "runtime": "138 min",
+   "director": "Joseph L. Mankiewicz",
+   "description": "Captures ambition wearing perfect manners. A young fan insinuates herself into a Broadway star's life one helpful errand at a time; the dialogue is the sharpest ever written for this, and every adult sees the game a moment too late."
+  },
+  {
+   "id": "tt0038787",
+   "type": "movie",
+   "name": "Notorious",
+   "poster": "https://images.metahub.space/poster/medium/tt0038787/img",
+   "background": "https://images.metahub.space/background/medium/tt0038787/img",
+   "genres": [
+    "Drama",
+    "Film-Noir",
+    "Romance",
+    "Thriller"
+   ],
+   "releaseInfo": "1946",
+   "year": 1946,
+   "runtime": "101 min",
+   "director": "Alfred Hitchcock",
+   "description": "Captures love being used as an intelligence asset. A woman is recruited to marry into a Nazi circle in Rio because of who her father was, by an agent unable to say the one thing that would make it bearable."
+  },
+  {
+   "id": "tt2278871",
+   "type": "movie",
+   "name": "Blue Is the Warmest Colour",
+   "poster": "https://images.metahub.space/poster/medium/tt2278871/img",
+   "background": "https://images.metahub.space/background/medium/tt2278871/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "179 min",
+   "director": "Abdellatif Kechiche",
+   "description": "Captures first love at the resolution of skin, food and class difference. A schoolgirl in Lille and an older art student with blue hair — long scenes of eating, talking and teaching, and a breakup stretched across years of growing into different worlds."
+  },
+  {
+   "id": "tt0274812",
+   "type": "movie",
+   "name": "Secretary",
+   "poster": "https://images.metahub.space/poster/medium/tt0274812/img",
+   "background": "https://images.metahub.space/background/medium/tt0274812/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "107 min",
+   "director": "Steven Shainberg",
+   "description": "Captures kink as, for one specific person, a form of self-knowledge. A young woman fresh out of hospital for self-harm takes a typing job with a demanding lawyer, in a relationship the film treats as tender rather than a diagnosis."
+  },
+  {
+   "id": "tt0808357",
+   "type": "movie",
+   "name": "Lust, Caution",
+   "poster": "https://images.metahub.space/poster/medium/tt0808357/img",
+   "background": "https://images.metahub.space/background/medium/tt0808357/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Thriller",
+    "War"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "157 min",
+   "director": "Ang Lee",
+   "description": "Captures an espionage performance becoming the real feeling it was faking. In occupied Shanghai, a student actress is assigned to seduce a collaborationist official so he can be killed, over years of mahjong games and assignations."
+  },
+  {
+   "id": "tt0074102",
+   "type": "movie",
+   "name": "In the Realm of the Senses",
+   "poster": "https://images.metahub.space/poster/medium/tt0074102/img",
+   "background": "https://images.metahub.space/background/medium/tt0074102/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "releaseInfo": "1976",
+   "year": 1976,
+   "runtime": "109 min",
+   "director": "Nagisa Ōshima",
+   "description": "Captures obsession with the outside world switched off. 1930s Japan, a hotel maid and her employer in a room, in a spiral based on a real case — explicit as claustrophobia, not titillation."
+  },
+  {
+   "id": "tt0070820",
+   "type": "movie",
+   "name": "Touki Bouki",
+   "poster": "https://images.metahub.space/poster/medium/tt0070820/img",
+   "background": "https://images.metahub.space/background/medium/tt0070820/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "85 min",
+   "director": "Djibril Diop Mambéty",
+   "description": "Captures two young people dreaming of Paris so hard the film itself starts hallucinating. Senegal: a cowherd and a student steal and scheme toward a ship, on a motorbike with a skull mounted on it, in editing that jumps like a skipping song."
+  },
+  {
+   "id": "tt2326554",
+   "type": "movie",
+   "name": "A Girl Walks Home Alone at Night",
+   "poster": "https://images.metahub.space/poster/medium/tt2326554/img",
+   "background": "https://images.metahub.space/background/medium/tt2326554/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Romance",
+    "Thriller",
+    "Western"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "101 min",
+   "director": "Ana Lily Amirpour",
+   "description": "Captures a vampire film rebuilt from Iranian, Western and skate-punk parts. A fictional Iranian ghost town, a chador-wearing vampire on a skateboard, a drug dealer and a cat, in long black-and-white silences between bursts of pop."
+  },
+  {
+   "id": "tt10199586",
+   "type": "movie",
+   "name": "Atlantics",
+   "poster": "https://images.metahub.space/poster/medium/tt10199586/img",
+   "background": "https://images.metahub.space/background/medium/tt10199586/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "106 min",
+   "director": "Mati Diop",
+   "description": "Captures young men who leave by sea returning in another form. Dakar construction workers, unpaid for months, take a boat toward Spain; the film stays with the women left behind, the sea at night, and a love story conducted through possession and fever."
+  }
+ ]
+}
