@@ -1,0 +1,228 @@
+{
+ "metas": [
+  {
+   "id": "tt0311113",
+   "type": "movie",
+   "name": "Master and Commander: The Far Side of the World",
+   "poster": "https://images.metahub.space/poster/medium/tt0311113/img",
+   "background": "https://images.metahub.space/background/medium/tt0311113/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "138 min",
+   "director": "Peter Weir",
+   "description": "Captures a ship as a complete working system. During the Napoleonic Wars a British frigate hunts a French ship around South America — seamanship, weather and hierarchy, and a captain whose naturalist friend would rather be cataloguing species in the Galápagos."
+  },
+  {
+   "id": "tt0058946",
+   "type": "movie",
+   "name": "The Battle of Algiers",
+   "poster": "https://images.metahub.space/poster/medium/tt0058946/img",
+   "background": "https://images.metahub.space/background/medium/tt0058946/img",
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "121 min",
+   "director": "Gillo Pontecorvo",
+   "description": "Captures insurgency and counter-insurgency as procedures. Staged like newsreel, with no hero on either side, as Algiers becomes a chessboard of cells, checkpoints and bombs."
+  },
+  {
+   "id": "tt0091251",
+   "type": "movie",
+   "name": "Come and See",
+   "poster": "https://images.metahub.space/poster/medium/tt0091251/img",
+   "background": "https://images.metahub.space/background/medium/tt0091251/img",
+   "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+   ],
+   "releaseInfo": "1985",
+   "year": 1985,
+   "runtime": "142 min",
+   "director": "Elem Klimov",
+   "description": "Captures war as it is done to a child. Belarus, 1943: a boy joins the partisans beaming and ages a lifetime in days; it is not the gore, it is his face."
+  },
+  {
+   "id": "tt0095327",
+   "type": "movie",
+   "name": "Grave of the Fireflies",
+   "poster": "https://images.metahub.space/poster/medium/tt0095327/img",
+   "background": "https://images.metahub.space/background/medium/tt0095327/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "89 min",
+   "director": "Isao Takahata",
+   "description": "Captures war as two children slowly running out of everything. A brother tries to keep his little sister fed and cheerful in Kobe, 1945, making worse decisions out of pride."
+  },
+  {
+   "id": "tt1185616",
+   "type": "movie",
+   "name": "Waltz with Bashir",
+   "poster": "https://images.metahub.space/poster/medium/tt1185616/img",
+   "background": "https://images.metahub.space/background/medium/tt1185616/img",
+   "genres": [
+    "Animation",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "90 min",
+   "director": "Ari Folman",
+   "description": "Captures a soldier's memory with a hole in it. Animated interviews as the director tries to recover what he did in Beirut in 1982, ending with footage that breaks the animation open."
+  },
+  {
+   "id": "tt0057012",
+   "type": "movie",
+   "name": "Dr. Strangelove",
+   "poster": "https://images.metahub.space/poster/medium/tt0057012/img",
+   "background": "https://images.metahub.space/background/medium/tt0057012/img",
+   "genres": [
+    "Comedy",
+    "War"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "95 min",
+   "director": "Stanley Kubrick",
+   "description": "Captures nuclear annihilation as a bureaucratic procedure. Generals, presidents and advisors in rooms — vain, procedural and insane — while the world ends by checklist."
+  },
+  {
+   "id": "tt0072684",
+   "type": "movie",
+   "name": "Barry Lyndon",
+   "poster": "https://images.metahub.space/poster/medium/tt0072684/img",
+   "background": "https://images.metahub.space/background/medium/tt0072684/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "185 min",
+   "director": "Stanley Kubrick",
+   "description": "Captures a rise and fall narrated like fate already happened. An Irish opportunist climbs 18th-century society through duels, war and marriage, shot like paintings, with a narrator who keeps telling you the ending early."
+  },
+  {
+   "id": "tt0056172",
+   "type": "movie",
+   "name": "Lawrence of Arabia",
+   "poster": "https://images.metahub.space/poster/medium/tt0056172/img",
+   "background": "https://images.metahub.space/background/medium/tt0056172/img",
+   "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1962",
+   "year": 1962,
+   "runtime": "218 min",
+   "director": "David Lean",
+   "description": "Captures a man inventing himself at desert scale. Nearly four hours: the landscape is a character, and so is the gap between the legend being built and the person inside it."
+  },
+  {
+   "id": "tt0064040",
+   "type": "movie",
+   "name": "Army of Shadows",
+   "poster": "https://images.metahub.space/poster/medium/tt0064040/img",
+   "background": "https://images.metahub.space/background/medium/tt0064040/img",
+   "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "145 min",
+   "director": "Jean-Pierre Melville",
+   "description": "Captures resistance as cold, lonely procedure. French Resistance, 1942: safe houses, coded phrases, informers executed badly — no glamour and almost no hope, filmed like a heist movie in mourning."
+  },
+  {
+   "id": "tt0050825",
+   "type": "movie",
+   "name": "Paths of Glory",
+   "poster": "https://images.metahub.space/poster/medium/tt0050825/img",
+   "background": "https://images.metahub.space/background/medium/tt0050825/img",
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1957",
+   "year": 1957,
+   "runtime": "88 min",
+   "director": "Stanley Kubrick",
+   "description": "Captures military honour used to cover a command failure. After a suicidal attack fails, three soldiers are chosen to be executed for cowardice to make the point, and their colonel tries law against arithmetic."
+  },
+  {
+   "id": "tt0457430",
+   "type": "movie",
+   "name": "Pan's Labyrinth",
+   "poster": "https://images.metahub.space/poster/medium/tt0457430/img",
+   "background": "https://images.metahub.space/background/medium/tt0457430/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "War"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "118 min",
+   "director": "Guillermo del Toro",
+   "description": "Captures a child's fantasy as the only available resistance. Spain, 1944: a girl with a fascist stepfather descends to a faun's tasks while the adult war continues above ground, and fantasy is never 'just' escape."
+  },
+  {
+   "id": "tt1255953",
+   "type": "movie",
+   "name": "Incendies",
+   "poster": "https://images.metahub.space/poster/medium/tt1255953/img",
+   "background": "https://images.metahub.space/background/medium/tt1255953/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "War"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "131 min",
+   "director": "Denis Villeneuve",
+   "description": "Captures two children learning their mother's life was a war they knew nothing about. Montreal twins, a will, two sealed letters, and a journey into a fictionalised Lebanon their mother never described — it hits like a Greek tragedy."
+  },
+  {
+   "id": "tt0808357",
+   "type": "movie",
+   "name": "Lust, Caution",
+   "poster": "https://images.metahub.space/poster/medium/tt0808357/img",
+   "background": "https://images.metahub.space/background/medium/tt0808357/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Thriller",
+    "War"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "157 min",
+   "director": "Ang Lee",
+   "description": "Captures an espionage performance becoming the real feeling it was faking. In occupied Shanghai, a student actress is assigned to seduce a collaborationist official so he can be killed, over years of mahjong games and assignations."
+  }
+ ]
+}
