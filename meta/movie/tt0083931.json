@@ -1,0 +1,137 @@
+{
+ "meta": {
+  "imdb_id": "tt0083931",
+  "cast": [
+   "György Cserhalmi",
+   "Vera Pap",
+   "Gyula Szabó"
+  ],
+  "country": "Hungary",
+  "description": "Captures a Hungarian folk tale as a full psychedelic cosmology. A hero raised by a white mare descends to the underworld to free three princesses; every frame is saturated folk-art geometry, trees become faces, cities become breasts, colours carry the mythology. The Parajanov lane, in animation.\n\nIn this dreamlike Hungarian folk myth, a horse goddess gives birth to three powerful brothers who set out into the Underworld to save three princesses from three evil dragons and reclaim their ancestors' lost kingdom.",
+  "director": [
+   "Marcell Jankovics"
+  ],
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "name": "Son of the White Mare",
+  "poster": "https://images.metahub.space/poster/small/tt0083931/img",
+  "released": "1983-07-13T00:00:00.000Z",
+  "runtime": "86 min",
+  "slug": "movie/son-of-the-white-mare-0083931",
+  "type": "movie",
+  "writer": [
+   "László György",
+   "Marcell Jankovics"
+  ],
+  "year": "1983",
+  "moviedb_id": 41077,
+  "popularities": {
+   "moviedb": 3.1846,
+   "stremio": 0.10615333333333334,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "nl1MZ3x0sNE",
+    "type": "Trailer"
+   },
+   {
+    "source": "T582YbYubYI",
+    "type": "Trailer"
+   },
+   {
+    "source": "oQpIt3WgDHg",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0083931/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0083931/img",
+  "popularity": 0.10615333333333334,
+  "id": "tt0083931",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "1983",
+  "trailerStreams": [
+   {
+    "title": "Son of the White Mare",
+    "ytId": "nl1MZ3x0sNE"
+   },
+   {
+    "title": "Son of the White Mare",
+    "ytId": "T582YbYubYI"
+   },
+   {
+    "title": "Son of the White Mare",
+    "ytId": "oQpIt3WgDHg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0083931"
+   },
+   {
+    "name": "Son of the White Mare",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/son-of-the-white-mare-0083931"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "György Cserhalmi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gy%C3%B6rgy%20Cserhalmi"
+   },
+   {
+    "name": "Vera Pap",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vera%20Pap"
+   },
+   {
+    "name": "Gyula Szabó",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gyula%20Szab%C3%B3"
+   },
+   {
+    "name": "László György",
+    "category": "Writers",
+    "url": "stremio:///search?search=L%C3%A1szl%C3%B3%20Gy%C3%B6rgy"
+   },
+   {
+    "name": "Marcell Jankovics",
+    "category": "Writers",
+    "url": "stremio:///search?search=Marcell%20Jankovics"
+   },
+   {
+    "name": "Marcell Jankovics",
+    "category": "Directors",
+    "url": "stremio:///search?search=Marcell%20Jankovics"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0083931",
+   "hasScheduledVideos": false
+  }
+ }
+}

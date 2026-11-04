@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "3 wins",
+  "cast": [
+   "Rudolf Hrusínský",
+   "Vlasta Chramostová",
+   "Jana Stehnová"
+  ],
+  "country": "Czechoslovakia",
+  "description": "Captures evil as a smiling civil servant. A Prague crematorium director absorbs Nazi ideology as a career opportunity and a philosophy of hygiene, in Karel Höger's unbearably gentle monotone.\n\nSet in Central Europe during World War II, a demented cremator believes cremation relieves earthly suffering and sets out to save the world.",
+  "director": [
+   "Juraj Herz"
+  ],
+  "dvdRelease": "2020-11-09T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0063633",
+  "moviedb_id": 18352,
+  "name": "The Cremator",
+  "popularity": 0.09397666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0063633/img",
+  "released": "1969-03-14T00:00:00.000Z",
+  "runtime": "101 min",
+  "trailers": [
+   {
+    "source": "yMOT553AyAE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ladislav Fuks",
+   "Juraj Herz"
+  ],
+  "year": "1969",
+  "popularities": {
+   "moviedb": 2.8193,
+   "stremio": 0.09397666666666667,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0063633/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0063633/img",
+  "slug": "movie/the-cremator-0063633",
+  "id": "tt0063633",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1969",
+  "trailerStreams": [
+   {
+    "title": "The Cremator",
+    "ytId": "yMOT553AyAE"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0063633"
+   },
+   {
+    "name": "The Cremator",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-cremator-0063633"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Rudolf Hrusínský",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rudolf%20Hrus%C3%ADnsk%C3%BD"
+   },
+   {
+    "name": "Vlasta Chramostová",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vlasta%20Chramostov%C3%A1"
+   },
+   {
+    "name": "Jana Stehnová",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jana%20Stehnov%C3%A1"
+   },
+   {
+    "name": "Ladislav Fuks",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ladislav%20Fuks"
+   },
+   {
+    "name": "Juraj Herz",
+    "category": "Writers",
+    "url": "stremio:///search?search=Juraj%20Herz"
+   },
+   {
+    "name": "Juraj Herz",
+    "category": "Directors",
+    "url": "stremio:///search?search=Juraj%20Herz"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0063633",
+   "hasScheduledVideos": false
+  }
+ }
+}

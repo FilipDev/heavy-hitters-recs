@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "2 wins total",
+  "cast": [
+   "Joel McCrea",
+   "Veronica Lake",
+   "Robert Warwick"
+  ],
+  "country": "United States",
+  "description": "Captures a comedy director who goes slumming to learn suffering and learns the value of comedy instead. He disguises himself as a tramp to research a serious film, gets the research, and the conclusion lands in a prison screening room full of laughing men.\n\nA Hollywood director sets out to experience life as a homeless person in order to gain relevant life experience for his next movie.",
+  "director": [
+   "Preston Sturges"
+  ],
+  "dvdRelease": "2015-05-06T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0034240",
+  "moviedb_id": 16305,
+  "name": "Sullivan's Travels",
+  "popularity": 0.11490666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0034240/img",
+  "released": "1942-02-06T00:00:00.000Z",
+  "runtime": "91 min",
+  "trailers": [
+   {
+    "source": "kIrdtdpPQHY",
+    "type": "Trailer"
+   },
+   {
+    "source": "rh5Jbq2HCO8",
+    "type": "Trailer"
+   },
+   {
+    "source": "HUNHxGDLfIE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Preston Sturges"
+  ],
+  "year": "1942",
+  "background": "https://images.metahub.space/background/medium/tt0034240/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0034240/img",
+  "popularities": {
+   "moviedb": 3.4472,
+   "stremio": 0.11490666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/sullivans-travels-0034240",
+  "id": "tt0034240",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1942",
+  "trailerStreams": [
+   {
+    "title": "Sullivan's Travels",
+    "ytId": "kIrdtdpPQHY"
+   },
+   {
+    "title": "Sullivan's Travels",
+    "ytId": "rh5Jbq2HCO8"
+   },
+   {
+    "title": "Sullivan's Travels",
+    "ytId": "HUNHxGDLfIE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0034240"
+   },
+   {
+    "name": "Sullivan's Travels",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/sullivans-travels-0034240"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Joel McCrea",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joel%20McCrea"
+   },
+   {
+    "name": "Veronica Lake",
+    "category": "Cast",
+    "url": "stremio:///search?search=Veronica%20Lake"
+   },
+   {
+    "name": "Robert Warwick",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20Warwick"
+   },
+   {
+    "name": "Preston Sturges",
+    "category": "Writers",
+    "url": "stremio:///search?search=Preston%20Sturges"
+   },
+   {
+    "name": "Preston Sturges",
+    "category": "Directors",
+    "url": "stremio:///search?search=Preston%20Sturges"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0034240",
+   "hasScheduledVideos": false
+  }
+ }
+}

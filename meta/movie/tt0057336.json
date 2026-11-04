@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "3 wins & 3 nominations total",
+  "cast": [
+   "Delphine Seyrig",
+   "Jean-Pierre Kérien",
+   "Nita Klein"
+  ],
+  "country": "France, Italy",
+  "description": "Captures a country editing out its war in real time. In Boulogne, a widow and her stepson — back from Algeria, unable to say what happened to a girl named Muriel — circle each other in conversations cut a half-second too early, like memory flinching.\n\nIn the seaside town of Boulogne, no one seems to be able to cope with their past, least of all Hélène, an antique furniture saleswoman, her stepson Bernard, and her former lover Alphonse.",
+  "director": [
+   "Alain Resnais"
+  ],
+  "dvdRelease": "2007-03-20T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.0",
+  "imdb_id": "tt0057336",
+  "moviedb_id": 54563,
+  "name": "Muriel, or The Time of Return",
+  "popularity": 0.08195,
+  "poster": "https://images.metahub.space/poster/small/tt0057336/img",
+  "released": "2007-03-13T00:00:00.000Z",
+  "runtime": "115 min",
+  "trailers": [
+   {
+    "source": "Mps49Z9hap8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jean Cayrol"
+  ],
+  "year": "1963",
+  "popularities": {
+   "moviedb": 2.4585,
+   "stremio": 0.08195,
+   "stremio_lib": 0
+  },
+  "slug": "movie/muriel-0057336",
+  "background": "https://images.metahub.space/background/medium/tt0057336/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0057336/img",
+  "id": "tt0057336",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1963",
+  "trailerStreams": [
+   {
+    "title": "Muriel",
+    "ytId": "Mps49Z9hap8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0057336"
+   },
+   {
+    "name": "Muriel",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/muriel-0057336"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Delphine Seyrig",
+    "category": "Cast",
+    "url": "stremio:///search?search=Delphine%20Seyrig"
+   },
+   {
+    "name": "Jean-Pierre Kérien",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Pierre%20K%C3%A9rien"
+   },
+   {
+    "name": "Nita Klein",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nita%20Klein"
+   },
+   {
+    "name": "Jean Cayrol",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean%20Cayrol"
+   },
+   {
+    "name": "Alain Resnais",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alain%20Resnais"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0057336",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "id": "tt0081055",
+  "imdb_id": "tt0081055",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0081055/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0081055/img",
+  "background": "https://live.metahub.space/background/medium/tt0081055/img",
+  "moviedb_id": 42156,
+  "name": "Lightning Over Water",
+  "description": "Captures two directors filming a death, one of them the dying man. Ray, terminal with cancer, co-directs his own ending — rehearsals, hospital corridors, arguments about whether the camera should be there at all. The complicit-camera question, asked by the subject himself.\n\nDirector 'Nicholas Ray' is eager to complete a final film before his imminent death from cancer. Wim Wenders is working on his own film Hammett (1983) in Hollywood, but flies to New York to help Ray realize his final wish. Ray's original intent is to make a fiction film about a dying painter who sails to China to find a cure for his disease. He and Wenders discuss this idea, but it is obviously unrealistic given Ray's state of health.",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1980",
+  "runtime": "91 min",
+  "trailers": [],
+  "cast": [
+   "Wim Wenders",
+   "Nicholas Ray",
+   "Susan Ray"
+  ],
+  "credits_cast": [
+   {
+    "character": "Self",
+    "name": "Wim Wenders",
+    "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+    "id": 2303
+   },
+   {
+    "character": "Self",
+    "name": "Nicholas Ray",
+    "profile_path": "/xnbQQUI6pwelsfHGnw5A9yGu5tK.jpg",
+    "id": 2765
+   },
+   {
+    "character": "Self",
+    "name": "Susan Ray",
+    "profile_path": null,
+    "id": 1040068
+   },
+   {
+    "character": "Self",
+    "name": "Tom Farrell",
+    "profile_path": "/6Y81HXnxgolbnzXmjHdMX5By5aT.jpg",
+    "id": 32461
+   },
+   {
+    "character": "Self",
+    "name": "Ronee Blakley",
+    "profile_path": "/fLdnGFUv9bpT0Tk1iqKBV1k1TH0.jpg",
+    "id": 13652
+   },
+   {
+    "character": "Self",
+    "name": "Gerry Bamman",
+    "profile_path": "/hiMgT6OYvmdgz758vbw4y9iEAns.jpg",
+    "id": 11517
+   },
+   {
+    "character": "Self",
+    "name": "Pierre Cottrell",
+    "profile_path": null,
+    "id": 28752
+   },
+   {
+    "character": "Self",
+    "name": "Stefan Czapsky",
+    "profile_path": "/gThptqMLOBUkea1x8BhenwIXGlJ.jpg",
+    "id": 1919
+   },
+   {
+    "character": "Self",
+    "name": "Mitch Dubin",
+    "profile_path": null,
+    "id": 1395463
+   },
+   {
+    "character": "Self",
+    "name": "Becky Johnston",
+    "profile_path": null,
+    "id": 14588
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Nicholas Ray",
+    "profile_path": "/xnbQQUI6pwelsfHGnw5A9yGu5tK.jpg",
+    "id": 2765
+   },
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Wim Wenders",
+    "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+    "id": 2303
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Wim Wenders",
+    "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+    "id": 2303
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Pierre Cottrell",
+    "profile_path": null,
+    "id": 28752
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Chris Sievernich",
+    "profile_path": "/6ooUl8VseHvDnvvs6puNTXgPvBv.jpg",
+    "id": 9884
+   }
+  ],
+  "director": [
+   "Nicholas Ray",
+   "Wim Wenders"
+  ],
+  "imdbRating": "6.6",
+  "slug": "movie/lightning-over-water-0081055",
+  "behaviorHints": {
+   "defaultVideoId": "tt0081055",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "1 win & 4 nominations total",
+  "cast": [
+   "Mireille Darc",
+   "Jean Yanne",
+   "Jean-Pierre Kalfon"
+  ],
+  "country": "France, Italy",
+  "description": "Captures a civilisation ending as a traffic jam. A bourgeois couple drives to collect an inheritance and the road fills with wrecks, corpses, cannibals and literary ghosts. Not the 2011 Weekend already at #145 — this is the other one, and it's feral.\n\nA surreal tale of a married couple going on a road trip to visit the wife's parents with the intention of killing them for the inheritance.",
+  "director": [
+   "Jean-Luc Godard"
+  ],
+  "dvdRelease": "2020-10-15T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "6.9",
+  "imdb_id": "tt0062480",
+  "moviedb_id": 8075,
+  "name": "Weekend",
+  "popularity": 0.08370000000000001,
+  "poster": "https://images.metahub.space/poster/small/tt0062480/img",
+  "released": "1968-09-27T00:00:00.000Z",
+  "runtime": "104 min",
+  "trailers": [
+   {
+    "source": "dFJLuhVvBPM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Julio Cortázar",
+   "Jean-Luc Godard"
+  ],
+  "year": "1967",
+  "popularities": {
+   "moviedb": 2.511,
+   "stremio": 0.08370000000000001,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0062480/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0062480/img",
+  "slug": "movie/weekend-0062480",
+  "id": "tt0062480",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1967",
+  "trailerStreams": [
+   {
+    "title": "Weekend",
+    "ytId": "dFJLuhVvBPM"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0062480"
+   },
+   {
+    "name": "Weekend",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/weekend-0062480"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mireille Darc",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mireille%20Darc"
+   },
+   {
+    "name": "Jean Yanne",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean%20Yanne"
+   },
+   {
+    "name": "Jean-Pierre Kalfon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Pierre%20Kalfon"
+   },
+   {
+    "name": "Julio Cortázar",
+    "category": "Writers",
+    "url": "stremio:///search?search=Julio%20Cort%C3%A1zar"
+   },
+   {
+    "name": "Jean-Luc Godard",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean-Luc%20Godard"
+   },
+   {
+    "name": "Jean-Luc Godard",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean-Luc%20Godard"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0062480",
+   "hasScheduledVideos": false
+  }
+ }
+}

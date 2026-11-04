@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt0069687",
+  "type": "movie",
+  "name": "Alice in the Cities",
+  "year": "1974",
+  "runtime": "110 min",
+  "genre": [
+   "Drama"
+  ],
+  "released": "1974-05-17T00:00:00.000Z",
+  "director": [
+   "Wim Wenders"
+  ],
+  "writer": [
+   "Wim Wenders",
+   "Veith von Fürstenberg"
+  ],
+  "cast": [
+   "Yella Rottländer",
+   "Rüdiger Vogler",
+   "Lisa Kreuzer"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt0069687/img",
+  "description": "Captures two stranded people adopting each other temporarily. A blocked German writer and a nine-year-old girl abandoned at an airport cross America and then the Ruhr looking for a grandmother who may not exist at the address anyone remembers.\n\nA German journalist is saddled with a nine-year-old girl after encountering her mother at a New York airport.",
+  "country": "West Germany",
+  "awards": "1 win & 1 nomination total",
+  "trailers": [
+   {
+    "source": "p-G_5eOVvw8",
+    "type": "Trailer"
+   },
+   {
+    "source": "s6KYAJZeuEA",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 2204,
+  "popularities": {
+   "moviedb": 2.8408,
+   "stremio": 0.09469333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/alice-in-the-cities-0069687",
+  "dvdRelease": "2016-05-31T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt0069687/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0069687/img",
+  "popularity": 0.09469333333333334,
+  "id": "tt0069687",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1974",
+  "trailerStreams": [
+   {
+    "title": "Alice in the Cities",
+    "ytId": "p-G_5eOVvw8"
+   },
+   {
+    "title": "Alice in the Cities",
+    "ytId": "s6KYAJZeuEA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0069687"
+   },
+   {
+    "name": "Alice in the Cities",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/alice-in-the-cities-0069687"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Yella Rottländer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yella%20Rottl%C3%A4nder"
+   },
+   {
+    "name": "Rüdiger Vogler",
+    "category": "Cast",
+    "url": "stremio:///search?search=R%C3%BCdiger%20Vogler"
+   },
+   {
+    "name": "Lisa Kreuzer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lisa%20Kreuzer"
+   },
+   {
+    "name": "Wim Wenders",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wim%20Wenders"
+   },
+   {
+    "name": "Veith von Fürstenberg",
+    "category": "Writers",
+    "url": "stremio:///search?search=Veith%20von%20F%C3%BCrstenberg"
+   },
+   {
+    "name": "Wim Wenders",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wim%20Wenders"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0069687",
+   "hasScheduledVideos": false
+  }
+ }
+}

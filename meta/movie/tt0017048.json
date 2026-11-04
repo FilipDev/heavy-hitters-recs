@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "imdb_id": "tt0017048",
+  "type": "movie",
+  "awards": null,
+  "country": "Japan",
+  "description": "Captures madness from inside the asylum walls, in 1926, with no intertitles. A janitor works at the institution holding his wife; the editing itself loses its grip — closer to a panic attack than a silent film.\n\nA man takes a job at an asylum with hopes of freeing his imprisoned wife.",
+  "poster": "https://images.metahub.space/poster/small/tt0017048/img",
+  "imdbRating": "7.7",
+  "cast": [
+   "Masuo Inoue",
+   "Ayako Iijima",
+   "Yoshie Nakagawa",
+   "Hiroshi Nemoto"
+  ],
+  "writer": [
+   "Yasunari Kawabata (short story)",
+   "Yasunari Kawabata (adaptation)",
+   "Teinosuke Kinugasa (adaptation)",
+   "Minoru Inuzuka (adaptation)",
+   "Bank� Sawada (adaptation)"
+  ],
+  "director": [
+   "Teinosuke Kinugasa"
+  ],
+  "released": "1975-01-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Horror"
+  ],
+  "runtime": "70 min",
+  "year": "1926",
+  "name": "A Page of Madness",
+  "logo": "https://images.metahub.space/logo/medium/tt0017048/img",
+  "background": "https://images.metahub.space/background/medium/tt0017048/img",
+  "id": "tt0017048",
+  "genres": [
+   "Drama",
+   "Horror"
+  ],
+  "releaseInfo": "1926",
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0017048"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Masuo Inoue",
+    "category": "Cast",
+    "url": "stremio:///search?search=Masuo%20Inoue"
+   },
+   {
+    "name": "Ayako Iijima",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ayako%20Iijima"
+   },
+   {
+    "name": "Yoshie Nakagawa",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yoshie%20Nakagawa"
+   },
+   {
+    "name": "Hiroshi Nemoto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hiroshi%20Nemoto"
+   },
+   {
+    "name": "Yasunari Kawabata (short story)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yasunari%20Kawabata%20(short%20story)"
+   },
+   {
+    "name": "Yasunari Kawabata (adaptation)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yasunari%20Kawabata%20(adaptation)"
+   },
+   {
+    "name": "Teinosuke Kinugasa (adaptation)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Teinosuke%20Kinugasa%20(adaptation)"
+   },
+   {
+    "name": "Minoru Inuzuka (adaptation)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Minoru%20Inuzuka%20(adaptation)"
+   },
+   {
+    "name": "Bank� Sawada (adaptation)",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bank%EF%BF%BD%20Sawada%20(adaptation)"
+   },
+   {
+    "name": "Teinosuke Kinugasa",
+    "category": "Directors",
+    "url": "stremio:///search?search=Teinosuke%20Kinugasa"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0017048",
+   "hasScheduledVideos": false
+  }
+ }
+}

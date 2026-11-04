@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "1 win total",
+  "cast": [
+   "Mayumi Tanaka",
+   "Chika Sakamoto",
+   "Junko Hori"
+  ],
+  "country": "Japan",
+  "description": "Captures two cat schoolboys riding a train through the Milky Way, visiting the dead. Kenji Miyazawa's novel rendered in slow, starlit melancholy; the stops along the line are all the ways people leave. The quietest cosmology in this batch.\n\nTwo kittens go on a metaphysical journey on a magical railroad train.",
+  "director": [
+   "Gisaburô Sugii"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "7.0",
+  "imdb_id": "tt0089206",
+  "moviedb_id": 37585,
+  "name": "Night on the Galactic Railroad",
+  "popularity": 0.18325,
+  "poster": "https://images.metahub.space/poster/small/tt0089206/img",
+  "released": "1986-02-07T00:00:00.000Z",
+  "runtime": "108 min",
+  "trailers": [
+   {
+    "source": "QpNrSr92mCk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kenji Miyazawa",
+   "Hiroshi Masumura",
+   "Minoru Betsuyaku"
+  ],
+  "year": "1985",
+  "popularities": {
+   "moviedb": 5.4975,
+   "stremio": 0.18325,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/kenji-miyazawas-night-on-the-galactic-railroad-0089206",
+  "background": "https://images.metahub.space/background/medium/tt0089206/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0089206/img",
+  "id": "tt0089206",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "1985",
+  "trailerStreams": [
+   {
+    "title": "Kenji Miyazawa's Night on the Galactic Railroad",
+    "ytId": "QpNrSr92mCk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0089206"
+   },
+   {
+    "name": "Kenji Miyazawa's Night on the Galactic Railroad",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/kenji-miyazawas-night-on-the-galactic-railroad-0089206"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mayumi Tanaka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mayumi%20Tanaka"
+   },
+   {
+    "name": "Chika Sakamoto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chika%20Sakamoto"
+   },
+   {
+    "name": "Junko Hori",
+    "category": "Cast",
+    "url": "stremio:///search?search=Junko%20Hori"
+   },
+   {
+    "name": "Kenji Miyazawa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kenji%20Miyazawa"
+   },
+   {
+    "name": "Hiroshi Masumura",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hiroshi%20Masumura"
+   },
+   {
+    "name": "Minoru Betsuyaku",
+    "category": "Writers",
+    "url": "stremio:///search?search=Minoru%20Betsuyaku"
+   },
+   {
+    "name": "Gisaburô Sugii",
+    "category": "Directors",
+    "url": "stremio:///search?search=Gisabur%C3%B4%20Sugii"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0089206",
+   "hasScheduledVideos": false
+  }
+ }
+}

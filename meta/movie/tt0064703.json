@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "imdb_id": "tt0064703",
+  "name": "The Night of Counting the Years",
+  "year": "1969",
+  "runtime": "102 min",
+  "genre": [
+   "Drama"
+  ],
+  "released": "1975-01-27T00:00:00.000Z",
+  "director": [
+   "Chadi Abdel Salam"
+  ],
+  "writer": [
+   "Chadi Abdel Salam"
+  ],
+  "cast": [
+   "Ahmed Marei",
+   "Ahmad Hegazi",
+   "Nadia Lutfi"
+  ],
+  "imdbRating": "7.7",
+  "poster": "https://images.metahub.space/poster/small/tt0064703/img",
+  "description": "Captures a civilisation arguing with its own dead. A tribal elder's son learns his family survives by robbing the pharaohs' tombs they're sworn to guard; shot like a fresco, dialogue like scripture, nothing else looks or sounds like it.\n\nAn Upper-Egyptian clan robs a cache of mummies and sells the artifacts on the illicit antiquities black market. After a conflict within the clan, one of its members goes to the police, helping the Antiquities Service find the cache.",
+  "country": "Egypt",
+  "awards": "2 nominations",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "h6zaGTIyfwE",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 46707,
+  "popularities": {
+   "moviedb": 1.2765,
+   "stremio": 0.04255,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-mummy-0064703",
+  "background": "https://images.metahub.space/background/medium/tt0064703/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0064703/img",
+  "popularity": 0.04255,
+  "id": "tt0064703",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1969",
+  "trailerStreams": [
+   {
+    "title": "The Mummy",
+    "ytId": "h6zaGTIyfwE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0064703"
+   },
+   {
+    "name": "The Mummy",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-mummy-0064703"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Ahmed Marei",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ahmed%20Marei"
+   },
+   {
+    "name": "Ahmad Hegazi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ahmad%20Hegazi"
+   },
+   {
+    "name": "Nadia Lutfi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nadia%20Lutfi"
+   },
+   {
+    "name": "Chadi Abdel Salam",
+    "category": "Writers",
+    "url": "stremio:///search?search=Chadi%20Abdel%20Salam"
+   },
+   {
+    "name": "Chadi Abdel Salam",
+    "category": "Directors",
+    "url": "stremio:///search?search=Chadi%20Abdel%20Salam"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0064703",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "imdb_id": "tt0061065",
+  "name": "The Face of Another",
+  "popularities": {
+   "moviedb": 3.1883,
+   "stremio": 0.10627666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "HiS4sOMiRh0",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 29452,
+  "year": "1967",
+  "runtime": "122 min",
+  "genre": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "released": "1967-06-09T00:00:00.000Z",
+  "director": [
+   "Hiroshi Teshigahara"
+  ],
+  "writer": [
+   "Kôbô Abe"
+  ],
+  "cast": [
+   "Tatsuya Nakadai",
+   "Mikijirô Hira",
+   "Kyôko Kishida"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt0061065/img",
+  "description": "Captures identity as a mask you can take off. A disfigured businessman is fitted with a lifelike prosthetic face and discovers the new face has its own appetites. From the director of Woman in the Dunes — which you have as #176.\n\nA businessman with a disfigured face obtains a lifelike mask from his doctor, but the mask starts altering his personality.",
+  "country": "Japan",
+  "awards": "2 wins total",
+  "dvdRelease": "2014-04-01T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt0061065/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0061065/img",
+  "slug": "movie/the-face-of-another-0061065",
+  "popularity": 0.10627666666666666,
+  "id": "tt0061065",
+  "genres": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "releaseInfo": "1967",
+  "trailerStreams": [
+   {
+    "title": "The Face of Another",
+    "ytId": "HiS4sOMiRh0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0061065"
+   },
+   {
+    "name": "The Face of Another",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-face-of-another-0061065"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Tatsuya Nakadai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tatsuya%20Nakadai"
+   },
+   {
+    "name": "Mikijirô Hira",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mikijir%C3%B4%20Hira"
+   },
+   {
+    "name": "Kyôko Kishida",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ky%C3%B4ko%20Kishida"
+   },
+   {
+    "name": "Kôbô Abe",
+    "category": "Writers",
+    "url": "stremio:///search?search=K%C3%B4b%C3%B4%20Abe"
+   },
+   {
+    "name": "Hiroshi Teshigahara",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hiroshi%20Teshigahara"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0061065",
+   "hasScheduledVideos": false
+  }
+ }
+}

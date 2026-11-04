@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Leonid Kuravlyov",
+   "Natalya Varley",
+   "Aleksey Glazyrin"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures a folk tale told at full demonic strength. A seminarian must pray three nights over a witch's corpse in a village church; Soviet special effects, a Gogol story, and a final night that still startles.\n\nA young priest is ordered to preside over the wake of witch in a small old wooden church of a remote village. This means spending three nights alone with the corpse with only his faith to protect him.",
+  "director": [
+   "Konstantin Ershov",
+   "Georgiy Kropachyov",
+   "Aleksandr Ptushko"
+  ],
+  "dvdRelease": "2020-04-06T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0062453",
+  "moviedb_id": 57230,
+  "name": "Viy",
+  "popularity": 0.14892666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0062453/img",
+  "released": "1967-11-27T00:00:00.000Z",
+  "runtime": "76 min",
+  "trailers": [
+   {
+    "source": "keuYSRXwcVg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Aleksandr Ptushko",
+   "Konstantin Ershov",
+   "Georgiy Kropachyov"
+  ],
+  "year": "1967",
+  "popularities": {
+   "moviedb": 4.4678,
+   "stremio": 0.14892666666666668,
+   "stremio_lib": 0
+  },
+  "slug": "movie/viy-0062453",
+  "background": "https://images.metahub.space/background/medium/tt0062453/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0062453/img",
+  "id": "tt0062453",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "releaseInfo": "1967",
+  "trailerStreams": [
+   {
+    "title": "Viy",
+    "ytId": "keuYSRXwcVg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0062453"
+   },
+   {
+    "name": "Viy",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/viy-0062453"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Leonid Kuravlyov",
+    "category": "Cast",
+    "url": "stremio:///search?search=Leonid%20Kuravlyov"
+   },
+   {
+    "name": "Natalya Varley",
+    "category": "Cast",
+    "url": "stremio:///search?search=Natalya%20Varley"
+   },
+   {
+    "name": "Aleksey Glazyrin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aleksey%20Glazyrin"
+   },
+   {
+    "name": "Aleksandr Ptushko",
+    "category": "Writers",
+    "url": "stremio:///search?search=Aleksandr%20Ptushko"
+   },
+   {
+    "name": "Konstantin Ershov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Konstantin%20Ershov"
+   },
+   {
+    "name": "Georgiy Kropachyov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Georgiy%20Kropachyov"
+   },
+   {
+    "name": "Konstantin Ershov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Konstantin%20Ershov"
+   },
+   {
+    "name": "Georgiy Kropachyov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Georgiy%20Kropachyov"
+   },
+   {
+    "name": "Aleksandr Ptushko",
+    "category": "Directors",
+    "url": "stremio:///search?search=Aleksandr%20Ptushko"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0062453",
+   "hasScheduledVideos": false
+  }
+ }
+}

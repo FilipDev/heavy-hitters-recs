@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "awards": "1 win & 1 nomination",
+  "cast": [
+   "Fini Straubinger",
+   "M. Baaske",
+   "Elsa Fehrer"
+  ],
+  "country": "West Germany",
+  "description": "Captures communication at its minimum viable bandwidth. Fini Straubinger, deaf and blind, guides Herzog through a community touching hands to speak; one man was found at 30 having never learned any language at all.\n\nThrough examining Fini Straubinger, an old woman who has been deaf and blind since adolescence, and her work on behalf of other deaf and blind people, this film shows how the deaf and blind struggle to understand and accept a worl...",
+  "director": [
+   "Werner Herzog"
+  ],
+  "dvdRelease": "2016-03-15T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0067324",
+  "moviedb_id": 62437,
+  "name": "Land of Silence and Darkness",
+  "popularity": 0.07378,
+  "poster": "https://images.metahub.space/poster/small/tt0067324/img",
+  "released": "1980-03-19T00:00:00.000Z",
+  "runtime": "85 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Werner Herzog"
+  ],
+  "year": "1971",
+  "popularities": {
+   "moviedb": 2.2134,
+   "stremio": 0.07378,
+   "stremio_lib": 0
+  },
+  "slug": "movie/land-of-silence-and-darkness-0067324",
+  "background": "https://images.metahub.space/background/medium/tt0067324/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0067324/img",
+  "id": "tt0067324",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1971",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0067324"
+   },
+   {
+    "name": "Land of Silence and Darkness",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/land-of-silence-and-darkness-0067324"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Fini Straubinger",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fini%20Straubinger"
+   },
+   {
+    "name": "M. Baaske",
+    "category": "Cast",
+    "url": "stremio:///search?search=M.%20Baaske"
+   },
+   {
+    "name": "Elsa Fehrer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Elsa%20Fehrer"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Writers",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Directors",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0067324",
+   "hasScheduledVideos": false
+  }
+ }
+}

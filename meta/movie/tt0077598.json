@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "awards": "1 win",
+  "cast": [
+   "Lucille Billingsley",
+   "Zella Graham",
+   "Cal Harberts"
+  ],
+  "country": "United States",
+  "description": "Captures two pet cemeteries — one failed, one thriving — and the people who can explain everything except themselves. Morris points the camera, asks almost nothing, and owners, renderers and salesmen deliver monologues that keep slipping from pets into the meaning of a life. His first film; it made Herzog eat a shoe.\n\nA documentary about a pet cemetery in California, and the people who have pets buried there.",
+  "director": [
+   "Errol Morris"
+  ],
+  "dvdRelease": "2017-01-15T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0077598",
+  "moviedb_id": 24998,
+  "name": "Gates of Heaven",
+  "popularity": 0.0483,
+  "poster": "https://images.metahub.space/poster/small/tt0077598/img",
+  "released": "1978-10-01T00:00:00.000Z",
+  "runtime": "83 min",
+  "trailers": [
+   {
+    "source": "amwICex2pR4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1978",
+  "popularities": {
+   "moviedb": 1.449,
+   "stremio": 0.0483,
+   "stremio_lib": 0
+  },
+  "slug": "movie/gates-of-heaven-0077598",
+  "background": "https://images.metahub.space/background/medium/tt0077598/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0077598/img",
+  "id": "tt0077598",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1978",
+  "trailerStreams": [
+   {
+    "title": "Gates of Heaven",
+    "ytId": "amwICex2pR4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0077598"
+   },
+   {
+    "name": "Gates of Heaven",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/gates-of-heaven-0077598"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Lucille Billingsley",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lucille%20Billingsley"
+   },
+   {
+    "name": "Zella Graham",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zella%20Graham"
+   },
+   {
+    "name": "Cal Harberts",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cal%20Harberts"
+   },
+   {
+    "name": "Errol Morris",
+    "category": "Directors",
+    "url": "stremio:///search?search=Errol%20Morris"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0077598",
+   "hasScheduledVideos": false
+  }
+ }
+}

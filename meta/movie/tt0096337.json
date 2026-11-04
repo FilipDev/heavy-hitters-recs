@@ -1,0 +1,99 @@
+{
+ "meta": {
+  "awards": "2 wins",
+  "cast": [
+   "Joris Ivens",
+   "Henxiang Han",
+   "Zhuang Liu"
+  ],
+  "country": "France, United Kingdom, West Germany, Netherlands",
+  "description": "Captures an 89-year-old filmmaker chasing the one subject that can't be framed. Ivens, making films since 1928 and asthmatic all his life, travels to China to film the wind — waiting with desert nomads, schoolchildren and a terracotta army for the invisible to move something visible. His last film; the hidden structure is weather.\n\nAn elderly, asthmatic filmmaker travels to China, hoping to film the wind.",
+  "director": [
+   "Joris Ivens"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.8",
+  "imdb_id": "tt0096337",
+  "moviedb_id": 97035,
+  "name": "A Tale of the Wind",
+  "popularity": 0.03746333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0096337/img",
+  "released": "1989-03-19T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Joris Ivens",
+   "Marceline Loridan Ivens"
+  ],
+  "year": "1988",
+  "popularities": {
+   "moviedb": 1.1239,
+   "stremio": 0.03746333333333333,
+   "stremio_lib": 0
+  },
+  "slug": "movie/a-tale-of-the-wind-0096337",
+  "background": "https://images.metahub.space/background/medium/tt0096337/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0096337/img",
+  "id": "tt0096337",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1988",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0096337"
+   },
+   {
+    "name": "A Tale of the Wind",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-tale-of-the-wind-0096337"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Joris Ivens",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joris%20Ivens"
+   },
+   {
+    "name": "Henxiang Han",
+    "category": "Cast",
+    "url": "stremio:///search?search=Henxiang%20Han"
+   },
+   {
+    "name": "Zhuang Liu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zhuang%20Liu"
+   },
+   {
+    "name": "Joris Ivens",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joris%20Ivens"
+   },
+   {
+    "name": "Marceline Loridan Ivens",
+    "category": "Writers",
+    "url": "stremio:///search?search=Marceline%20Loridan%20Ivens"
+   },
+   {
+    "name": "Joris Ivens",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joris%20Ivens"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0096337",
+   "hasScheduledVideos": false
+  }
+ }
+}

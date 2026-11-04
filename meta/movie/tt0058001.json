@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "imdb_id": "tt0058001",
+  "awards": "1 win total",
+  "cast": [
+   "Ladislav Jánsky",
+   "Antonín Kumbera",
+   "Ilse Bischofova"
+  ],
+  "country": "Czechoslovakia",
+  "description": "Captures survival at the level of hallucination. Two boys escape a death-camp transport and run; the film cuts between forest, memory and bread-fixated fantasy until you can't tell what's keeping them alive.\n\nTwo Jewish boys escape from a train transporting them from one concentration camp to another. The film goes beyond the themes of war and anti-Nazism and concerns itself with man's struggle to preserve human dignity.",
+  "director": [
+   "Jan Nemec"
+  ],
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "7.3",
+  "name": "Diamonds of the Night",
+  "poster": "https://images.metahub.space/poster/small/tt0058001/img",
+  "released": "1968-03-14T00:00:00.000Z",
+  "runtime": "67 min",
+  "slug": "movie/diamonds-of-the-night-0058001",
+  "type": "movie",
+  "writer": [
+   "Arnost Lustig",
+   "Jan Nemec"
+  ],
+  "year": "1964",
+  "moviedb_id": 100589,
+  "popularities": {
+   "moviedb": 1.1155,
+   "stremio": 0.03718333333333333,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "6c7bOSyEup4",
+    "type": "Trailer"
+   }
+  ],
+  "dvdRelease": "2019-04-25T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt0058001/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0058001/img",
+  "popularity": 0.03718333333333333,
+  "id": "tt0058001",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1964",
+  "trailerStreams": [
+   {
+    "title": "Diamonds of the Night",
+    "ytId": "6c7bOSyEup4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0058001"
+   },
+   {
+    "name": "Diamonds of the Night",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/diamonds-of-the-night-0058001"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Ladislav Jánsky",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ladislav%20J%C3%A1nsky"
+   },
+   {
+    "name": "Antonín Kumbera",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anton%C3%ADn%20Kumbera"
+   },
+   {
+    "name": "Ilse Bischofova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ilse%20Bischofova"
+   },
+   {
+    "name": "Arnost Lustig",
+    "category": "Writers",
+    "url": "stremio:///search?search=Arnost%20Lustig"
+   },
+   {
+    "name": "Jan Nemec",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jan%20Nemec"
+   },
+   {
+    "name": "Jan Nemec",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jan%20Nemec"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0058001",
+   "hasScheduledVideos": false
+  }
+ }
+}

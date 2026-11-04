@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 15 wins & 20 nominations total",
+  "cast": [
+   "Mia Farrow",
+   "Jeff Daniels",
+   "Danny Aiello"
+  ],
+  "country": "United States",
+  "description": "Captures a film character noticing he's being watched, and stepping out. A Depression-era waitress goes to the same romance every day until its hero leaves the screen for her — and the other characters, stuck mid-plot, have to improvise without him.\n\nDuring the Depression in 1935 New Jersey, a lonely waitress with an abusive husband who takes comfort from the movies is stunned when a movie character walks off the screen and into the real world, offering her the hope of a happi...",
+  "director": [
+   "Woody Allen"
+  ],
+  "dvdRelease": "2012-07-25T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Fantasy",
+   "Romance"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0089853",
+  "moviedb_id": 10849,
+  "name": "The Purple Rose of Cairo",
+  "popularity": 0.16002666666666665,
+  "poster": "https://images.metahub.space/poster/small/tt0089853/img",
+  "released": "1985-04-19T00:00:00.000Z",
+  "runtime": "82 min",
+  "trailers": [
+   {
+    "source": "u9qate1rGAg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Woody Allen"
+  ],
+  "year": "1985",
+  "popularities": {
+   "moviedb": 4.8008,
+   "stremio": 0.16002666666666665,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0089853/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0089853/img",
+  "slug": "movie/the-purple-rose-of-cairo-0089853",
+  "id": "tt0089853",
+  "genres": [
+   "Comedy",
+   "Fantasy",
+   "Romance"
+  ],
+  "releaseInfo": "1985",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Purple Rose of Cairo",
+    "ytId": "u9qate1rGAg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0089853"
+   },
+   {
+    "name": "The Purple Rose of Cairo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-purple-rose-of-cairo-0089853"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Mia Farrow",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mia%20Farrow"
+   },
+   {
+    "name": "Jeff Daniels",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeff%20Daniels"
+   },
+   {
+    "name": "Danny Aiello",
+    "category": "Cast",
+    "url": "stremio:///search?search=Danny%20Aiello"
+   },
+   {
+    "name": "Woody Allen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Woody%20Allen"
+   },
+   {
+    "name": "Woody Allen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Woody%20Allen"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0089853",
+   "hasScheduledVideos": false
+  }
+ }
+}

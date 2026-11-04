@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Pîtâ",
+   "Osamu Ogasawara",
+   "Yoshimi Jô"
+  ],
+  "country": "Japan",
+  "description": "Captures Tokyo's underground filming itself. Trans hostesses, Oedipus, street protests and the camera interviewing its own actors — the film that allegedly put the roses in A Clockwork Orange's milk bar.\n\nThe trials and tribulations of Eddie and other transvestites in Japan.",
+  "director": [
+   "Toshio Matsumoto"
+  ],
+  "dvdRelease": "2017-11-14T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0064068",
+  "moviedb_id": 1556,
+  "name": "Funeral Parade of Roses",
+  "popularity": 0.10644666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0064068/img",
+  "released": "1970-10-29T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "u7c-Lanw1I8",
+    "type": "Trailer"
+   },
+   {
+    "source": "EteaHqdX6hU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Toshio Matsumoto"
+  ],
+  "year": "1969",
+  "popularities": {
+   "moviedb": 3.1934,
+   "stremio": 0.10644666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/funeral-parade-of-roses-0064068",
+  "background": "https://images.metahub.space/background/medium/tt0064068/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0064068/img",
+  "id": "tt0064068",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1969",
+  "trailerStreams": [
+   {
+    "title": "Funeral Parade of Roses",
+    "ytId": "u7c-Lanw1I8"
+   },
+   {
+    "title": "Funeral Parade of Roses",
+    "ytId": "EteaHqdX6hU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0064068"
+   },
+   {
+    "name": "Funeral Parade of Roses",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/funeral-parade-of-roses-0064068"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Pîtâ",
+    "category": "Cast",
+    "url": "stremio:///search?search=P%C3%AEt%C3%A2"
+   },
+   {
+    "name": "Osamu Ogasawara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Osamu%20Ogasawara"
+   },
+   {
+    "name": "Yoshimi Jô",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yoshimi%20J%C3%B4"
+   },
+   {
+    "name": "Toshio Matsumoto",
+    "category": "Writers",
+    "url": "stremio:///search?search=Toshio%20Matsumoto"
+   },
+   {
+    "name": "Toshio Matsumoto",
+    "category": "Directors",
+    "url": "stremio:///search?search=Toshio%20Matsumoto"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0064068",
+   "hasScheduledVideos": false
+  }
+ }
+}

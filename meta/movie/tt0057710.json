@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "imdb_id": "tt0057710",
+  "awards": "1 win",
+  "cast": [
+   "Kazuo Hasegawa",
+   "Fujiko Yamamoto",
+   "Ayako Wakao"
+  ],
+  "country": "Japan",
+  "description": "Captures kabuki artifice turned into a weapon. An onnagata — a male actor who plays women — hunts the three men who destroyed his parents, never leaving character onstage or off; Ichikawa shoots it in widescreen tableaux where the theatrical sets and the \"real\" streets obey the same painted logic. Maximalism with a revenge plot for a spine.\n\nYukinojo, a Kabuki actor, seeks revenge by destroying the three men who caused the deaths of his parents. Also involved are the daughter of one of Yukinojo's targets, two master thieves, and a swordsman who himself is out to kill ...",
+  "director": [
+   "Kon Ichikawa"
+  ],
+  "dvdRelease": "2018-02-21T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "name": "An Actor's Revenge",
+  "poster": "https://images.metahub.space/poster/small/tt0057710/img",
+  "released": "1971-06-16T00:00:00.000Z",
+  "runtime": "114 min",
+  "slug": "movie/an-actors-revenge-0057710",
+  "type": "movie",
+  "writer": [
+   "Kon Ichikawa",
+   "Hiroaki Fujii",
+   "Tomio Takamori"
+  ],
+  "year": "1963",
+  "moviedb_id": 27197,
+  "popularities": {
+   "moviedb": 2.2433,
+   "stremio": 0.07477666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "ZpWmkGdfgWA",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0057710/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0057710/img",
+  "popularity": 0.07477666666666667,
+  "id": "tt0057710",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1963",
+  "trailerStreams": [
+   {
+    "title": "An Actor's Revenge",
+    "ytId": "ZpWmkGdfgWA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0057710"
+   },
+   {
+    "name": "An Actor's Revenge",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/an-actors-revenge-0057710"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Kazuo Hasegawa",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kazuo%20Hasegawa"
+   },
+   {
+    "name": "Fujiko Yamamoto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fujiko%20Yamamoto"
+   },
+   {
+    "name": "Ayako Wakao",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ayako%20Wakao"
+   },
+   {
+    "name": "Kon Ichikawa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kon%20Ichikawa"
+   },
+   {
+    "name": "Hiroaki Fujii",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hiroaki%20Fujii"
+   },
+   {
+    "name": "Tomio Takamori",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tomio%20Takamori"
+   },
+   {
+    "name": "Kon Ichikawa",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kon%20Ichikawa"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0057710",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "cast": [
+   "Rock Hudson",
+   "Frank Campanella",
+   "John Randolph"
+  ],
+  "country": "United States",
+  "description": "Captures a man who buys a new body and finds the old one included. A bored banker fakes his death, gets a younger face (Rock Hudson) and a ready-made artist's life from a courteous corporation — and discovers the self isn't a component that swaps. The most paranoid American film of its decade, and its camera tilts like the ground is unreliable.\n\nA sinister company transforms a plain client.",
+  "director": [
+   "John Frankenheimer"
+  ],
+  "dvdRelease": "2017-01-01T00:00:00.000Z",
+  "genre": [
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0060955",
+  "moviedb_id": 20620,
+  "name": "Seconds",
+  "popularity": 0.15601,
+  "poster": "https://images.metahub.space/poster/small/tt0060955/img",
+  "released": "1966-10-02T00:00:00.000Z",
+  "runtime": "107 min",
+  "trailers": [
+   {
+    "source": "65OnfXgxvXU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lewis John Carlino",
+   "David Ely"
+  ],
+  "year": "1966",
+  "popularities": {
+   "moviedb": 4.6803,
+   "stremio": 0.15601,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0060955/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0060955/img",
+  "slug": "movie/seconds-0060955",
+  "id": "tt0060955",
+  "genres": [
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "releaseInfo": "1966",
+  "trailerStreams": [
+   {
+    "title": "Seconds",
+    "ytId": "65OnfXgxvXU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0060955"
+   },
+   {
+    "name": "Seconds",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/seconds-0060955"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Rock Hudson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rock%20Hudson"
+   },
+   {
+    "name": "Frank Campanella",
+    "category": "Cast",
+    "url": "stremio:///search?search=Frank%20Campanella"
+   },
+   {
+    "name": "John Randolph",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Randolph"
+   },
+   {
+    "name": "Lewis John Carlino",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lewis%20John%20Carlino"
+   },
+   {
+    "name": "David Ely",
+    "category": "Writers",
+    "url": "stremio:///search?search=David%20Ely"
+   },
+   {
+    "name": "John Frankenheimer",
+    "category": "Directors",
+    "url": "stremio:///search?search=John%20Frankenheimer"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0060955",
+   "hasScheduledVideos": false
+  }
+ }
+}

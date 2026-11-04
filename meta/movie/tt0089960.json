@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "imdb_id": "tt0089960",
+  "awards": "8 wins & 7 nominations total",
+  "cast": [
+   "Sandrine Bonnaire",
+   "Macha Méril",
+   "Stéphane Freiss"
+  ],
+  "country": "France, United Kingdom",
+  "description": "Captures a woman who refused every available life, reconstructed from witnesses. A young drifter is found frozen in a ditch in the first shot; the film interviews everyone who met her and none of them, including the film, gets to keep her.\n\nA young woman's body is found frozen in a ditch. Through flashbacks and interviews, we see the events that led to her inevitable death.",
+  "director": [
+   "Agnès Varda"
+  ],
+  "dvdRelease": "2004-05-11T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "name": "Vagabond",
+  "poster": "https://images.metahub.space/poster/small/tt0089960/img",
+  "released": "1986-05-16T00:00:00.000Z",
+  "runtime": "106 min",
+  "slug": "movie/vagabond-0089960",
+  "type": "movie",
+  "writer": [
+   "Agnès Varda"
+  ],
+  "year": "1986",
+  "moviedb_id": 44018,
+  "popularities": {
+   "moviedb": 3.9513,
+   "stremio": 0.13171,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "i9pD323U_Hc",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0089960/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0089960/img",
+  "popularity": 0.13171,
+  "id": "tt0089960",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1986",
+  "trailerStreams": [
+   {
+    "title": "Vagabond",
+    "ytId": "i9pD323U_Hc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0089960"
+   },
+   {
+    "name": "Vagabond",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/vagabond-0089960"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sandrine Bonnaire",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sandrine%20Bonnaire"
+   },
+   {
+    "name": "Macha Méril",
+    "category": "Cast",
+    "url": "stremio:///search?search=Macha%20M%C3%A9ril"
+   },
+   {
+    "name": "Stéphane Freiss",
+    "category": "Cast",
+    "url": "stremio:///search?search=St%C3%A9phane%20Freiss"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0089960",
+   "hasScheduledVideos": false
+  }
+ }
+}

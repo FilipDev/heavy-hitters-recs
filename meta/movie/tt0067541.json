@@ -1,0 +1,163 @@
+{
+ "meta": {
+  "awards": "1 nomination total",
+  "cast": [
+   "Donald Pleasence",
+   "Gary Bond",
+   "Chips Rafferty"
+  ],
+  "country": "Australia, United States, United Kingdom",
+  "description": "Captures the outback as a drinking contest you can't leave. A schoolteacher loses his money in a two-up game and descends through beer, hospitality and a kangaroo hunt that is genuinely not faked. Australia banned it from its own memory for decades.\n\nAfter a bad gambling bet, a schoolteacher is marooned in a town full of crazy, drunk, violent men who threaten to make him just as crazy, drunk, and violent.",
+  "director": [
+   "Ted Kotcheff"
+  ],
+  "dvdRelease": "2017-03-11T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0067541",
+  "moviedb_id": 26405,
+  "name": "Wake in Fright",
+  "popularity": 0.10801666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0067541/img",
+  "released": "1971-10-09T00:00:00.000Z",
+  "runtime": "109 min",
+  "trailers": [
+   {
+    "source": "yqwDmHioWcE",
+    "type": "Trailer"
+   },
+   {
+    "source": "2A3b9H0-yFY",
+    "type": "Trailer"
+   },
+   {
+    "source": "7Cv75ZDOVx8",
+    "type": "Trailer"
+   },
+   {
+    "source": "0mh7qZq0f_w",
+    "type": "Trailer"
+   },
+   {
+    "source": "TdwyOra45ao",
+    "type": "Trailer"
+   },
+   {
+    "source": "HKfrUPSnbyk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Evan Jones",
+   "Kenneth Cook",
+   "Ted Kotcheff"
+  ],
+  "year": "1971",
+  "popularities": {
+   "moviedb": 3.2405,
+   "stremio": 0.10801666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0067541/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0067541/img",
+  "slug": "movie/wake-in-fright-0067541",
+  "id": "tt0067541",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "1971",
+  "trailerStreams": [
+   {
+    "title": "Wake in Fright",
+    "ytId": "yqwDmHioWcE"
+   },
+   {
+    "title": "Wake in Fright",
+    "ytId": "2A3b9H0-yFY"
+   },
+   {
+    "title": "Wake in Fright",
+    "ytId": "7Cv75ZDOVx8"
+   },
+   {
+    "title": "Wake in Fright",
+    "ytId": "0mh7qZq0f_w"
+   },
+   {
+    "title": "Wake in Fright",
+    "ytId": "TdwyOra45ao"
+   },
+   {
+    "title": "Wake in Fright",
+    "ytId": "HKfrUPSnbyk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0067541"
+   },
+   {
+    "name": "Wake in Fright",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/wake-in-fright-0067541"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Donald Pleasence",
+    "category": "Cast",
+    "url": "stremio:///search?search=Donald%20Pleasence"
+   },
+   {
+    "name": "Gary Bond",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gary%20Bond"
+   },
+   {
+    "name": "Chips Rafferty",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chips%20Rafferty"
+   },
+   {
+    "name": "Evan Jones",
+    "category": "Writers",
+    "url": "stremio:///search?search=Evan%20Jones"
+   },
+   {
+    "name": "Kenneth Cook",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kenneth%20Cook"
+   },
+   {
+    "name": "Ted Kotcheff",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ted%20Kotcheff"
+   },
+   {
+    "name": "Ted Kotcheff",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ted%20Kotcheff"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0067541",
+   "hasScheduledVideos": false
+  }
+ }
+}

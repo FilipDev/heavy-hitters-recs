@@ -1,0 +1,92 @@
+{
+ "meta": {
+  "imdb_id": "tt0051942",
+  "awards": "2 wins",
+  "cast": [
+   "Oumarou Ganda",
+   "Gambi",
+   "Petit Touré"
+  ],
+  "country": "France",
+  "description": "Captures colonised men narrating themselves as movie stars. Young Nigerien migrants in Abidjan play themselves but dub their own lives in the voices of Edward G. Robinson and Lemmy Caution; documentary subjects seizing the projection and re-authoring what it shows. Ethnography turned inside out, decades before that was a method.\n\nA life of Nigerien immigrants in Abidjan, Ivory Coast within a week.",
+  "director": [
+   "Jean Rouch"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "name": "Moi, un noir",
+  "poster": "https://images.metahub.space/poster/small/tt0051942/img",
+  "released": "1973-02-16T00:00:00.000Z",
+  "runtime": "70 min",
+  "slug": "movie/moi-un-noir-0051942",
+  "type": "movie",
+  "writer": [
+   "Jean Rouch"
+  ],
+  "year": "1958",
+  "moviedb_id": 64299,
+  "popularities": {
+   "moviedb": 1.0919,
+   "stremio": 0.03639666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [],
+  "background": "https://images.metahub.space/background/medium/tt0051942/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0051942/img",
+  "popularity": 0.03639666666666667,
+  "id": "tt0051942",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1958",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0051942"
+   },
+   {
+    "name": "Moi, un noir",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/moi-un-noir-0051942"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Oumarou Ganda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Oumarou%20Ganda"
+   },
+   {
+    "name": "Gambi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gambi"
+   },
+   {
+    "name": "Petit Touré",
+    "category": "Cast",
+    "url": "stremio:///search?search=Petit%20Tour%C3%A9"
+   },
+   {
+    "name": "Jean Rouch",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean%20Rouch"
+   },
+   {
+    "name": "Jean Rouch",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean%20Rouch"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0051942",
+   "hasScheduledVideos": false
+  }
+ }
+}

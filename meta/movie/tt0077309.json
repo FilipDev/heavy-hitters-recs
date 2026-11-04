@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "id": "tt0077309",
+  "imdb_id": "tt0077309",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0077309/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0077309/img",
+  "background": "https://live.metahub.space/background/medium/tt0077309/img",
+  "moviedb_id": 97029,
+  "name": "Ceddo",
+  "description": "Captures colonisation arriving as religion. A Senegalese village kidnaps its own princess rather than surrender her to forced conversion, and the film stages the debate — Islam, Christianity, tradition — as open political theatre. Banned in Senegal for its spelling, of all things.\n\nThe Ceddo people try to preserve their traditional African culture against the onslaught of Islam, Christianity, and the slave trade. When King Demba War sides with the Muslims, the Ceddo kidnap his daughter, Princess Dior Yacine, to protest their forcible conversion to Islam.",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1978",
+  "runtime": "117 min",
+  "trailers": [],
+  "cast": [
+   "Mamadou Dioumé",
+   "Tabata Ndiaye",
+   "Moustapha Yade"
+  ],
+  "credits_cast": [
+   {
+    "character": "Prince Biram Ngone Thioub",
+    "name": "Mamadou Dioumé",
+    "profile_path": "/vaRBhqftuGFtYLxWFDh5NT6JVFO.jpg",
+    "id": 586260
+   },
+   {
+    "character": "Princess Dior Yacine",
+    "name": "Tabata Ndiaye",
+    "profile_path": null,
+    "id": 1200623
+   },
+   {
+    "character": "Madir Fatim Fall",
+    "name": "Moustapha Yade",
+    "profile_path": null,
+    "id": 1200624
+   },
+   {
+    "character": "Ceddo Kidnapper",
+    "name": "Ismaila Diagne",
+    "profile_path": null,
+    "id": 1720065
+   },
+   {
+    "character": "King",
+    "name": "Matoura Dia",
+    "profile_path": null,
+    "id": 1720066
+   },
+   {
+    "character": "Jaraaf the King's Mediator",
+    "name": "Omar Gueye",
+    "profile_path": null,
+    "id": 1720067
+   },
+   {
+    "character": "Mugis / Saxewar the Warrior",
+    "name": "Nar Modou",
+    "profile_path": null,
+    "id": 1720068
+   },
+   {
+    "character": "Fara Diogomay the Elder Ceddo / Ousmane",
+    "name": "Ousmane Camara",
+    "profile_path": null,
+    "id": 1720069
+   },
+   {
+    "character": "Fall the Seed of the Dynasty",
+    "name": "Alioune Fall",
+    "profile_path": null,
+    "id": 2510084
+   },
+   {
+    "character": "King Demba War Thioub",
+    "name": "Makhouredia Gueye",
+    "profile_path": "/7gwwakANwSOmIgs2BcB4TV1JECm.jpg",
+    "id": 1200619
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Ousmane Sembène",
+    "profile_path": "/v5QkPWoui6zLgD8ROo8VfjFum6l.jpg",
+    "id": 557134
+   }
+  ],
+  "director": [
+   "Ousmane Sembène"
+  ],
+  "imdbRating": "6.6",
+  "language": "Wolof, Arabic, English, Dyula",
+  "country": "Senegal, France",
+  "awards": "1 win & 1 nomination",
+  "slug": "movie/ceddo-0077309",
+  "behaviorHints": {
+   "defaultVideoId": "tt0077309",
+   "hasScheduledVideos": false
+  }
+ }
+}

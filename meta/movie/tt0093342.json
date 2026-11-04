@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "5 wins & 4 nominations total",
+  "cast": [
+   "Babek Ahmedpoor",
+   "Ahmed Ahmedpoor",
+   "Khodabakhsh Defaei"
+  ],
+  "country": "Iran",
+  "description": "Captures a child's errand at the scale of an epic. A boy takes the wrong notebook home from school and walks to the next village to return it before his friend is expelled; every adult is a locked door. The simplest film on this list and maybe the most suspenseful — proof of your own criterion, that simplicity captures as hard as complexity.\n\nEight-year-old Ahmed has mistakenly taken his friend Mohammad's notebook. He wants to return it, or else his friend will be expelled from school. The boy determinedly sets out to find Mohammad's home in the neighbouring village.",
+  "director": [
+   "Abbas Kiarostami"
+  ],
+  "dvdRelease": "1996-09-25T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Family"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0093342",
+  "moviedb_id": 49964,
+  "name": "Where Is the Friend's House?",
+  "popularity": 0.13992333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0093342/img",
+  "released": "1990-03-21T00:00:00.000Z",
+  "runtime": "83 min",
+  "trailers": [
+   {
+    "source": "run-u_2zAdA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Abbas Kiarostami"
+  ],
+  "year": "1987",
+  "popularities": {
+   "moviedb": 4.1977,
+   "stremio": 0.13992333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/where-is-the-friends-house-0093342",
+  "background": "https://images.metahub.space/background/medium/tt0093342/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0093342/img",
+  "id": "tt0093342",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Family"
+  ],
+  "releaseInfo": "1987",
+  "trailerStreams": [
+   {
+    "title": "Where Is the Friend's House?",
+    "ytId": "run-u_2zAdA"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0093342"
+   },
+   {
+    "name": "Where Is the Friend's House?",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/where-is-the-friends-house-0093342"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Babek Ahmedpoor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Babek%20Ahmedpoor"
+   },
+   {
+    "name": "Ahmed Ahmedpoor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ahmed%20Ahmedpoor"
+   },
+   {
+    "name": "Khodabakhsh Defaei",
+    "category": "Cast",
+    "url": "stremio:///search?search=Khodabakhsh%20Defaei"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Directors",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0093342",
+   "hasScheduledVideos": false
+  }
+ }
+}

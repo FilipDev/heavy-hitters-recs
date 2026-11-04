@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "2 wins total",
+  "cast": [
+   "Buster Keaton",
+   "Kathryn McGuire",
+   "Joe Keaton"
+  ],
+  "country": "United States",
+  "description": "Captures a projectionist climbing into the screen to fix the plot from inside. A century old and still the cleanest film ever made about wanting to live in the observed layer instead of the real one; the montage where the scenery changes around him mid-step has never been topped.\n\nA film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+  "director": [
+   "Buster Keaton"
+  ],
+  "dvdRelease": "2019-07-09T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Comedy",
+   "Romance"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0015324",
+  "moviedb_id": 992,
+  "name": "Sherlock Jr.",
+  "popularity": 0.12543333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0015324/img",
+  "released": "1924-05-11T00:00:00.000Z",
+  "runtime": "45 min",
+  "trailers": [
+   {
+    "source": "JSEK1NUPrGA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jean C. Havez",
+   "Joseph A. Mitchell",
+   "Clyde Bruckman"
+  ],
+  "year": "1924",
+  "popularities": {
+   "moviedb": 3.763,
+   "stremio": 0.12543333333333334,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0015324/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0015324/img",
+  "slug": "movie/sherlock-jr-0015324",
+  "id": "tt0015324",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Romance"
+  ],
+  "releaseInfo": "1924",
+  "trailerStreams": [
+   {
+    "title": "Sherlock Jr.",
+    "ytId": "JSEK1NUPrGA"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0015324"
+   },
+   {
+    "name": "Sherlock Jr.",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/sherlock-jr-0015324"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Buster Keaton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Buster%20Keaton"
+   },
+   {
+    "name": "Kathryn McGuire",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kathryn%20McGuire"
+   },
+   {
+    "name": "Joe Keaton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joe%20Keaton"
+   },
+   {
+    "name": "Jean C. Havez",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean%20C.%20Havez"
+   },
+   {
+    "name": "Joseph A. Mitchell",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joseph%20A.%20Mitchell"
+   },
+   {
+    "name": "Clyde Bruckman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Clyde%20Bruckman"
+   },
+   {
+    "name": "Buster Keaton",
+    "category": "Directors",
+    "url": "stremio:///search?search=Buster%20Keaton"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0015324",
+   "hasScheduledVideos": false
+  }
+ }
+}

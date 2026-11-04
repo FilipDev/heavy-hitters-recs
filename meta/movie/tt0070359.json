@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination total",
+  "cast": [
+   "Bernadette Lafont",
+   "Jean-Pierre Léaud",
+   "Françoise Lebrun"
+  ],
+  "country": "France",
+  "description": "Captures talk as a form of slow self-destruction. Three people in post-'68 Paris apartments and cafés, monologuing for nearly four hours about love, sex and revolution until the words themselves become the event. Shot in the director's own rooms, with his own furniture and nearly his own life.\n\nThe chauvinist Alexandre balances relationships with several women in the post-1968 intellectual scene of Paris.",
+  "director": [
+   "Jean Eustache"
+  ],
+  "dvdRelease": "1999-04-13T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0070359",
+  "moviedb_id": 48693,
+  "name": "The Mother and the Whore",
+  "popularity": 0.09303666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0070359/img",
+  "released": "1973-05-17T00:00:00.000Z",
+  "runtime": "219 min",
+  "trailers": [
+   {
+    "source": "4taaEWrw-IY",
+    "type": "Trailer"
+   },
+   {
+    "source": "AsMcDpOp_5Q",
+    "type": "Trailer"
+   },
+   {
+    "source": "XGjs5HJ09UY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jean Eustache"
+  ],
+  "year": "1973",
+  "popularities": {
+   "moviedb": 2.7911,
+   "stremio": 0.09303666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-mother-and-the-whore-0070359",
+  "background": "https://images.metahub.space/background/medium/tt0070359/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0070359/img",
+  "id": "tt0070359",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1973",
+  "trailerStreams": [
+   {
+    "title": "The Mother and the Whore",
+    "ytId": "4taaEWrw-IY"
+   },
+   {
+    "title": "The Mother and the Whore",
+    "ytId": "AsMcDpOp_5Q"
+   },
+   {
+    "title": "The Mother and the Whore",
+    "ytId": "XGjs5HJ09UY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0070359"
+   },
+   {
+    "name": "The Mother and the Whore",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-mother-and-the-whore-0070359"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Bernadette Lafont",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bernadette%20Lafont"
+   },
+   {
+    "name": "Jean-Pierre Léaud",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Pierre%20L%C3%A9aud"
+   },
+   {
+    "name": "Françoise Lebrun",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fran%C3%A7oise%20Lebrun"
+   },
+   {
+    "name": "Jean Eustache",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean%20Eustache"
+   },
+   {
+    "name": "Jean Eustache",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean%20Eustache"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0070359",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -23,10 +23,10 @@
   "name": "Salesman",
   "poster": "https://images.metahub.space/poster/small/tt0064921/img",
   "released": "2021-12-11T00:00:00.000Z",
-  "runtime": "90 min",
+  "runtime": "91 min",
   "slug": "movie/salesman-0064921",
   "type": "movie",
-  "year": "2021",
+  "year": "1969",
   "moviedb_id": 27375,
   "popularities": {
    "moviedb": 1.7859,
@@ -48,7 +48,7 @@
    "Documentary",
    "Drama"
   ],
-  "releaseInfo": "2021",
+  "releaseInfo": "1969",
   "trailerStreams": [
    {
     "title": "Salesman",

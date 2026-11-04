@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 5 wins & 1 nomination total",
+  "cast": [
+   "Nobuko Otowa",
+   "Taiji Tonoyama",
+   "Shinji Tanaka"
+  ],
+  "country": "Japan",
+  "description": "Captures a family's whole existence as hauling water uphill. On a barren Seto Inland Sea island with no fresh water, parents row to the mainland and carry buckets up the slope, plant by plant, in near-total silence. Endurance, yes — but filmed as choreography, not punishment; it plays like a folk song about labour.\n\nA family of four are the sole inhabitants of a small island where they struggle each day to irrigate their crops.",
+  "director": [
+   "Kaneto Shindo"
+  ],
+  "dvdRelease": "2016-05-17T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0056049",
+  "moviedb_id": 3764,
+  "name": "The Naked Island",
+  "popularity": 0.06141666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0056049/img",
+  "released": "1962-09-10T00:00:00.000Z",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "3GrLWObrHkA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kaneto Shindo"
+  ],
+  "year": "1962",
+  "popularities": {
+   "moviedb": 1.8425,
+   "stremio": 0.06141666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-naked-island-0056049",
+  "background": "https://images.metahub.space/background/medium/tt0056049/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0056049/img",
+  "id": "tt0056049",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1962",
+  "trailerStreams": [
+   {
+    "title": "The Naked Island",
+    "ytId": "3GrLWObrHkA"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0056049"
+   },
+   {
+    "name": "The Naked Island",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-naked-island-0056049"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Nobuko Otowa",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nobuko%20Otowa"
+   },
+   {
+    "name": "Taiji Tonoyama",
+    "category": "Cast",
+    "url": "stremio:///search?search=Taiji%20Tonoyama"
+   },
+   {
+    "name": "Shinji Tanaka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shinji%20Tanaka"
+   },
+   {
+    "name": "Kaneto Shindo",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kaneto%20Shindo"
+   },
+   {
+    "name": "Kaneto Shindo",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kaneto%20Shindo"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0056049",
+   "hasScheduledVideos": false
+  }
+ }
+}

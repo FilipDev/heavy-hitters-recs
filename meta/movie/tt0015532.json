@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": null,
+  "country": "Germany",
+  "description": "Captures the Arabian Nights in cut-paper silhouettes, made frame by frame over three years. The oldest animated feature that survives, and it still moves like a shadow-play dream — flying horses, shape-shifting battles, a witch duel in mid-air.\n\nA handsome prince rides a flying horse to faraway lands and embarks on magical adventures, which include befriending a witch, meeting Aladdin, battling demons and falling in love with a princess.",
+  "director": [
+   "Lotte Reiniger",
+   "Carl Koch"
+  ],
+  "dvdRelease": "2002-12-03T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0015532",
+  "moviedb_id": 19354,
+  "name": "The Adventures of Prince Achmed",
+  "popularity": 0.07593666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0015532/img",
+  "released": "1929-06-20T00:00:00.000Z",
+  "runtime": "66 min",
+  "trailers": [
+   {
+    "source": "DkK6ELJeDx0",
+    "type": "Trailer"
+   },
+   {
+    "source": "iT5kDJdz4tQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lotte Reiniger"
+  ],
+  "year": "1926",
+  "popularities": {
+   "moviedb": 2.2781,
+   "stremio": 0.07593666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-adventures-of-prince-achmed-0015532",
+  "background": "https://images.metahub.space/background/medium/tt0015532/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0015532/img",
+  "id": "tt0015532",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "1926",
+  "trailerStreams": [
+   {
+    "title": "The Adventures of Prince Achmed",
+    "ytId": "DkK6ELJeDx0"
+   },
+   {
+    "title": "The Adventures of Prince Achmed",
+    "ytId": "iT5kDJdz4tQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0015532"
+   },
+   {
+    "name": "The Adventures of Prince Achmed",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-adventures-of-prince-achmed-0015532"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Lotte Reiniger",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lotte%20Reiniger"
+   },
+   {
+    "name": "Lotte Reiniger",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lotte%20Reiniger"
+   },
+   {
+    "name": "Carl Koch",
+    "category": "Directors",
+    "url": "stremio:///search?search=Carl%20Koch"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0015532",
+   "hasScheduledVideos": false
+  }
+ }
+}

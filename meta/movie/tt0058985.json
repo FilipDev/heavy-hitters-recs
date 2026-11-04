@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "3 wins & 3 nominations total",
+  "cast": [
+   "Jean-Claude Drouot",
+   "Claire Drouot",
+   "Olivier Drouot"
+  ],
+  "country": "France",
+  "description": "Captures happiness as the most frightening special effect. A carpenter with a wife, lover and two children, photographed in sunlit Renoir colours, narrating his contentment — and the prettier it gets, the more quietly monstrous the arithmetic becomes.\n\nFrançois, a young carpenter, lives a happy, uncomplicated life with his wife Thérèse and their two small children. One day he meets Emilie, a clerk in the local post office.",
+  "director": [
+   "Agnès Varda"
+  ],
+  "dvdRelease": "2014-04-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0058985",
+  "moviedb_id": 53023,
+  "name": "Le Bonheur",
+  "popularity": 0.26394666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0058985/img",
+  "released": "1997-05-16T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [
+   {
+    "source": "H_apt9n4y88",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Agnès Varda"
+  ],
+  "year": "1965",
+  "popularities": {
+   "moviedb": 7.9184,
+   "stremio": 0.26394666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/happiness-0058985",
+  "background": "https://images.metahub.space/background/medium/tt0058985/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0058985/img",
+  "id": "tt0058985",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1965",
+  "trailerStreams": [
+   {
+    "title": "Happiness",
+    "ytId": "H_apt9n4y88"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0058985"
+   },
+   {
+    "name": "Happiness",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/happiness-0058985"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jean-Claude Drouot",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Claude%20Drouot"
+   },
+   {
+    "name": "Claire Drouot",
+    "category": "Cast",
+    "url": "stremio:///search?search=Claire%20Drouot"
+   },
+   {
+    "name": "Olivier Drouot",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olivier%20Drouot"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0058985",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt0088196",
+  "name": "Streetwise",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 2.0945,
+   "stremio": 0.06981666666666667,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "Nominated for 1 Oscar. 2 wins & 3 nominations total",
+  "cast": [
+   "Annie",
+   "Eddie",
+   "Antoine"
+  ],
+  "country": "United States",
+  "description": "Captures kids raising themselves in public. Seattle street teenagers — panhandling, hustling, checking on each other — filmed with a patience that never once turns them into a lesson. The girl called Tiny will stay with you.\n\nGritty documentary that looks at the lives of teenagers living on the streets of Seattle.",
+  "director": [
+   "Martin Bell"
+  ],
+  "dvdRelease": "2019-01-16T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "poster": "https://images.metahub.space/poster/small/tt0088196/img",
+  "released": "1984-10-26T00:00:00.000Z",
+  "runtime": "91 min",
+  "slug": "movie/streetwise-0088196",
+  "writer": [
+   "Cheryl McCall"
+  ],
+  "year": "1984",
+  "moviedb_id": 42098,
+  "trailers": [
+   {
+    "source": "MWhExsCeoqI",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0088196/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0088196/img",
+  "popularity": 0.06981666666666667,
+  "id": "tt0088196",
+  "genres": [
+   "Documentary",
+   "Drama"
+  ],
+  "releaseInfo": "1984",
+  "trailerStreams": [
+   {
+    "title": "Streetwise",
+    "ytId": "MWhExsCeoqI"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0088196"
+   },
+   {
+    "name": "Streetwise",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/streetwise-0088196"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Annie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Annie"
+   },
+   {
+    "name": "Eddie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eddie"
+   },
+   {
+    "name": "Antoine",
+    "category": "Cast",
+    "url": "stremio:///search?search=Antoine"
+   },
+   {
+    "name": "Cheryl McCall",
+    "category": "Writers",
+    "url": "stremio:///search?search=Cheryl%20McCall"
+   },
+   {
+    "name": "Martin Bell",
+    "category": "Directors",
+    "url": "stremio:///search?search=Martin%20Bell"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0088196",
+   "hasScheduledVideos": false
+  }
+ }
+}

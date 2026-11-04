@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 7 wins & 19 nominations total",
+  "cast": [
+   "Woody Allen",
+   "Mia Farrow",
+   "Patrick Horgan"
+  ],
+  "country": "United States",
+  "description": "Captures a man whose personality is whoever is standing nearest. A mockumentary about a 1920s \"human chameleon\" who becomes a boxer beside boxers and a rabbi beside rabbis, assembled from fake newsreels and real historians playing along — conformity as a superpower and a diagnosis.\n\n\"Documentary\" about a man who can look and act like whoever he's around, and meets various famous people.",
+  "director": [
+   "Woody Allen"
+  ],
+  "dvdRelease": "2016-11-30T00:00:00.000Z",
+  "genre": [
+   "Comedy"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0086637",
+  "moviedb_id": 11030,
+  "name": "Zelig",
+  "popularity": 0.09386333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0086637/img",
+  "released": "1983-08-25T00:00:00.000Z",
+  "runtime": "79 min",
+  "trailers": [
+   {
+    "source": "-ih7lQxrtds",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Woody Allen"
+  ],
+  "year": "1983",
+  "popularities": {
+   "moviedb": 2.8159,
+   "stremio": 0.09386333333333334,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0086637/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0086637/img",
+  "slug": "movie/zelig-0086637",
+  "id": "tt0086637",
+  "genres": [
+   "Comedy"
+  ],
+  "releaseInfo": "1983",
+  "trailerStreams": [
+   {
+    "title": "Zelig",
+    "ytId": "-ih7lQxrtds"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0086637"
+   },
+   {
+    "name": "Zelig",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/zelig-0086637"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Woody Allen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Woody%20Allen"
+   },
+   {
+    "name": "Mia Farrow",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mia%20Farrow"
+   },
+   {
+    "name": "Patrick Horgan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Patrick%20Horgan"
+   },
+   {
+    "name": "Woody Allen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Woody%20Allen"
+   },
+   {
+    "name": "Woody Allen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Woody%20Allen"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0086637",
+   "hasScheduledVideos": false
+  }
+ }
+}

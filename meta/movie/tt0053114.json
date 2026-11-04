@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "awards": "5 wins & 1 nomination total",
+  "cast": [
+   "Tatsuya Nakadai",
+   "Michiyo Aratama",
+   "Chikage Awashima"
+  ],
+  "country": "Japan",
+  "description": "Captures a pacifist being processed by an empire. Nine and a half hours, three films: a humanist supervisor in a Manchurian labour camp tries to stay decent inside a system engineered to make decency indistinguishable from complicity. The marathon as moral instrument.\n\nA Japanese pacifist, unable to face the dire consequences of conscientious objection, is transformed by his attempts to compromise with the demands of war-time Japan.",
+  "director": [
+   "Masaki Kobayashi"
+  ],
+  "dvdRelease": "2009-09-08T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History",
+   "War"
+  ],
+  "imdbRating": "8.5",
+  "imdb_id": "tt0053114",
+  "moviedb_id": 31217,
+  "name": "The Human Condition",
+  "popularity": 0.22227666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0053114/img",
+  "released": "1959-12-14T00:00:00.000Z",
+  "runtime": "579 min",
+  "trailers": [
+   {
+    "source": "p4qufXQSfzY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Zenzo Matsuyama",
+   "Masaki Kobayashi",
+   "Jumpei Gomikawa"
+  ],
+  "year": "1959",
+  "popularities": {
+   "moviedb": 6.6683,
+   "stremio": 0.22227666666666668,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-human-condition-i-no-greater-love-0053114",
+  "background": "https://images.metahub.space/background/medium/tt0053114/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0053114/img",
+  "id": "tt0053114",
+  "genres": [
+   "Drama",
+   "History",
+   "War"
+  ],
+  "releaseInfo": "1959",
+  "trailerStreams": [
+   {
+    "title": "The Human Condition I: No Greater Love",
+    "ytId": "p4qufXQSfzY"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0053114"
+   },
+   {
+    "name": "The Human Condition I: No Greater Love",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-human-condition-i-no-greater-love-0053114"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Tatsuya Nakadai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tatsuya%20Nakadai"
+   },
+   {
+    "name": "Michiyo Aratama",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michiyo%20Aratama"
+   },
+   {
+    "name": "Chikage Awashima",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chikage%20Awashima"
+   },
+   {
+    "name": "Zenzo Matsuyama",
+    "category": "Writers",
+    "url": "stremio:///search?search=Zenzo%20Matsuyama"
+   },
+   {
+    "name": "Masaki Kobayashi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Masaki%20Kobayashi"
+   },
+   {
+    "name": "Jumpei Gomikawa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jumpei%20Gomikawa"
+   },
+   {
+    "name": "Masaki Kobayashi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Masaki%20Kobayashi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0053114",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "awards": "1 win",
+  "cast": [
+   "Juliet Berto",
+   "Dominique Labourier",
+   "Bulle Ogier"
+  ],
+  "country": "France",
+  "description": "Captures two women hacking a melodrama from the audience seats. A librarian and a magician find a haunted house where the same Victorian drama replays daily; they enter it, swap places with its characters and start stealing the plot with the help of magic sweets.\n\nA mysteriously linked pair of young women find their daily lives preempted by a strange boudoir melodrama that plays itself out in a hallucinatory parallel reality.",
+  "director": [
+   "Jacques Rivette"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0071381",
+  "moviedb_id": 27019,
+  "name": "Céline and Julie Go Boating",
+  "popularity": 0.08979000000000001,
+  "poster": "https://images.metahub.space/poster/small/tt0071381/img",
+  "released": "1974-09-18T00:00:00.000Z",
+  "runtime": "194 min",
+  "trailers": [
+   {
+    "source": "CcVuBjWpIEI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Juliet Berto",
+   "Dominique Labourier",
+   "Bulle Ogier"
+  ],
+  "year": "1974",
+  "popularities": {
+   "moviedb": 2.6937,
+   "stremio": 0.08979000000000001,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0071381/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0071381/img",
+  "slug": "movie/celine-and-julie-go-boating-0071381",
+  "id": "tt0071381",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1974",
+  "trailerStreams": [
+   {
+    "title": "Celine and Julie Go Boating",
+    "ytId": "CcVuBjWpIEI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0071381"
+   },
+   {
+    "name": "Celine and Julie Go Boating",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/celine-and-julie-go-boating-0071381"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Juliet Berto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Juliet%20Berto"
+   },
+   {
+    "name": "Dominique Labourier",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dominique%20Labourier"
+   },
+   {
+    "name": "Bulle Ogier",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bulle%20Ogier"
+   },
+   {
+    "name": "Juliet Berto",
+    "category": "Writers",
+    "url": "stremio:///search?search=Juliet%20Berto"
+   },
+   {
+    "name": "Dominique Labourier",
+    "category": "Writers",
+    "url": "stremio:///search?search=Dominique%20Labourier"
+   },
+   {
+    "name": "Bulle Ogier",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bulle%20Ogier"
+   },
+   {
+    "name": "Jacques Rivette",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jacques%20Rivette"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0071381",
+   "hasScheduledVideos": false
+  }
+ }
+}
