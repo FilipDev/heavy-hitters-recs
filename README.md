@@ -1,11 +1,12 @@
 # 192 Movie Recommendations — static Stremio catalog addon
 
 A purely static Stremio addon (no server code) that publishes the 192-film
-recommendation list as three Stremio catalogs:
-
-- **All 192 Recommendations** (`recommendations-192`)
-- **List A — First Picks (18)** (`recommendations-a`)
-- **The Numbered List (174)** (`recommendations-b`)
+recommendation list as ONE catalog, **192 Movie Recommendations**
+(`recommendations-192`). The manifest declares a `genre` extra with all
+22 genres in the list, so Stremio's Discover page offers a genre selector
+for the catalog; each genre view is a pre-generated static file
+(`catalog/movie/recommendations-192/genre=<Genre>.json`, plus
+`genre=Drama&skip=100.json` for Drama's second page).
 
 Every entry carries its verified IMDb ID, poster/backdrop (via
 images.metahub.space), year, genres, runtime, director and the

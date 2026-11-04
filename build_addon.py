@@ -3,15 +3,22 @@
 
 Source of truth: the FILMS array embedded in the dashboard source
 (~/workspace/ts-spaces/movie-recommendations-dashboard/index.html),
-which carries the verified IMDb IDs. Output: a purely static addon
-(manifest.json + catalog JSON files paginated at 100/page, the way
-Stremio's core requests them) that any static HTTPS host can serve.
+which carries the verified IMDb IDs.
+
+Design (v1.1.0, per Filip 2026-11-04): ONE catalog, not split into
+List A / List B. The manifest declares a `genre` extra with all
+genres present in the list, so Stremio's Discover page offers a genre
+selector for the catalog. Stremio requests a genre view as
+/catalog/movie/recommendations-192/genre=<Genre>.json (plus
+genre=<Genre>&skip=100.json for pagination past 100), so those files
+are pre-generated statically for every genre.
 """
-import json, os, shutil
+import json, os, shutil, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DASH = os.path.expanduser('~/workspace/ts-spaces/movie-recommendations-dashboard/index.html')
 PAGE = 100
+CID = 'recommendations-192'
 
 s = open(DASH).read()
 i = s.find('var FILMS = ') + len('var FILMS = ')
@@ -35,46 +42,54 @@ def meta(f):
         'description': f['desc'],
     }
 
-def write_catalog(cid, items):
-    base = os.path.join(HERE, 'catalog', 'movie')
-    os.makedirs(base, exist_ok=True)
-    pages = [items[k:k + PAGE] for k in range(0, len(items), PAGE)] or [[]]
-    with open(os.path.join(base, f'{cid}.json'), 'w') as fh:
-        json.dump({'metas': pages[0]}, fh, ensure_ascii=False, indent=1)
-    for pno, page_items in enumerate(pages[1:], start=1):
-        d = os.path.join(base, cid)
-        os.makedirs(d, exist_ok=True)
-        with open(os.path.join(d, f'skip={pno * PAGE}.json'), 'w') as fh:
-            json.dump({'metas': page_items}, fh, ensure_ascii=False, indent=1)
-    return len(pages)
+genres = sorted({g for f in films for g in f['g']})
+
+def dump(path, metas):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'w') as fh:
+        json.dump({'metas': metas}, fh, ensure_ascii=False, indent=1)
+
+base = os.path.join(HERE, 'catalog', 'movie')
+sub = os.path.join(base, CID)
+shutil.rmtree(os.path.join(HERE, 'catalog'), ignore_errors=True)
+os.makedirs(sub, exist_ok=True)
 
 allm = [meta(f) for f in films]
-am = [meta(f) for f in films if f['list'] == 'A']
-bm = [meta(f) for f in films if f['list'] == 'B']
-assert len(am) == 18 and len(bm) == 174
 
-# Clean previous catalog output so stale pages cannot linger
-shutil.rmtree(os.path.join(HERE, 'catalog'), ignore_errors=True)
-p_all = write_catalog('recommendations-192', allm)
-p_a = write_catalog('recommendations-a', am)
-p_b = write_catalog('recommendations-b', bm)
+# Main catalog: page 1 at <CID>.json, page 2 at <CID>/skip=100.json
+dump(os.path.join(base, f'{CID}.json'), allm[:PAGE])
+if len(allm) > PAGE:
+    dump(os.path.join(sub, f'skip={PAGE}.json'), allm[PAGE:])
+
+# One static file per genre view (+ a &skip= page when a genre tops 100)
+genre_counts = {}
+for g in genres:
+    gm = [meta(f) for f in films if g in f['g']]
+    genre_counts[g] = len(gm)
+    dump(os.path.join(sub, f'genre={g}.json'), gm[:PAGE])
+    if len(gm) > PAGE:
+        dump(os.path.join(sub, f'genre={g}&skip={PAGE}.json'), gm[PAGE:])
 
 manifest = {
     'id': 'community.recommendations192',
-    'version': '1.0.0',
+    'version': '1.1.0',
     'name': '192 Movie Recommendations',
-    'description': 'A personally curated list of 192 films — diverse plots and emotional intensities, each one chosen because it powerfully captures something specific. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
+    'description': 'A personally curated list of 192 films — diverse plots and emotional intensities, each one chosen because it powerfully captures something specific. One catalog, browsable by genre in Stremio\'s Discover. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
     'resources': ['catalog'],
     'types': ['movie'],
     'idPrefixes': ['tt'],
     'catalogs': [
-        {'type': 'movie', 'id': 'recommendations-192', 'name': 'All 192 Recommendations'},
-        {'type': 'movie', 'id': 'recommendations-a', 'name': 'List A — First Picks (18)'},
-        {'type': 'movie', 'id': 'recommendations-b', 'name': 'The Numbered List (174)'},
+        {
+            'type': 'movie',
+            'id': CID,
+            'name': '192 Movie Recommendations',
+            'extra': [{'name': 'genre', 'options': genres, 'isRequired': False}],
+        },
     ],
     'behaviorHints': {'adult': False, 'p2p': False, 'configurable': False, 'configurationRequired': False},
 }
 with open(os.path.join(HERE, 'manifest.json'), 'w') as fh:
     json.dump(manifest, fh, ensure_ascii=False, indent=1)
 
-print(f'films=192 A={len(am)} B={len(bm)} pages: all={p_all} a={p_a} b={p_b}')
+print(f'films=192 genres={len(genres)}')
+print('genre counts:', json.dumps(genre_counts, ensure_ascii=False))
