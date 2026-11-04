@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "imdb_id": "tt4613272",
+  "awards": "21 wins & 21 nominations total",
+  "cast": [
+   "Yongzhong Chen",
+   "Feiyang Luo",
+   "Lixun Xie"
+  ],
+  "country": "China",
+  "description": "Captures a town where past, present and dream share one road. A country doctor rides to find his nephew; halfway in, the film becomes a single 41-minute take through a village where time has stopped behaving — and nobody comments on it.\n\nWhile travelling the countryside to locate his nephew, a small town doctor finds himself interacting with people from his past and future.",
+  "director": [
+   "Bi Gan"
+  ],
+  "genre": [
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "7.3",
+  "name": "Kaili Blues",
+  "poster": "https://images.metahub.space/poster/small/tt4613272/img",
+  "released": "2016-07-15T00:00:00.000Z",
+  "runtime": "113 min",
+  "slug": "movie/kaili-blues-4613272",
+  "type": "movie",
+  "writer": [
+   "Bi Gan"
+  ],
+  "year": "2016",
+  "moviedb_id": 362178,
+  "popularities": {
+   "moviedb": 1.696,
+   "stremio": 0.05653333333333333,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "5ZVFtE10aK4",
+    "type": "Trailer"
+   }
+  ],
+  "dvdRelease": "2017-04-10T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt4613272/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4613272/img",
+  "popularity": 0.05653333333333333,
+  "id": "tt4613272",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Kaili Blues",
+    "ytId": "5ZVFtE10aK4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4613272"
+   },
+   {
+    "name": "Kaili Blues",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/kaili-blues-4613272"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Yongzhong Chen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yongzhong%20Chen"
+   },
+   {
+    "name": "Feiyang Luo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Feiyang%20Luo"
+   },
+   {
+    "name": "Lixun Xie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lixun%20Xie"
+   },
+   {
+    "name": "Bi Gan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bi%20Gan"
+   },
+   {
+    "name": "Bi Gan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bi%20Gan"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4613272",
+   "hasScheduledVideos": false
+  }
+ }
+}

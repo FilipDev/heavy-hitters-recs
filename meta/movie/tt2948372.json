@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "awards": "Won 2 Oscars. 125 wins & 91 nominations total",
+  "cast": [
+   "Jamie Foxx",
+   "Tina Fey",
+   "Graham Norton"
+  ],
+  "country": "United States, Japan",
+  "description": "Captures a jazz pianist who dies on the day of his break and has to argue his way out of the afterlife's intake office. The Great Before assigns personalities like case files; Joe's file keeps insisting the meaning was in the ordinary takes. Pixar's most explicit film about what a life is for, hidden inside its most musical one.\n\nJoe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz. But when he travels to another realm to help someone find their passion, he soon discovers what it means to have soul.",
+  "director": [
+   "Pete Docter",
+   "Kemp Powers"
+  ],
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt2948372",
+  "name": "Soul",
+  "poster": "https://images.metahub.space/poster/small/tt2948372/img",
+  "released": "2020-12-25T00:00:00.000Z",
+  "runtime": "101 min",
+  "type": "movie",
+  "writer": [
+   "Pete Docter",
+   "Mike Jones",
+   "Kemp Powers"
+  ],
+  "year": "2020",
+  "popularities": {
+   "trakt": 86,
+   "stremio": 0.7039000000000001,
+   "stremio_lib": 0,
+   "moviedb": 21.117
+  },
+  "dvdRelease": "2020-12-25T00:00:00.000Z",
+  "slug": "movie/soul-2948372",
+  "moviedb_id": 508442,
+  "trailers": [
+   {
+    "source": "Gs--6c7Hn_A",
+    "type": "Trailer"
+   },
+   {
+    "source": "xOsLIiBStEs",
+    "type": "Trailer"
+   },
+   {
+    "source": "4TojlZYqPUo",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt2948372/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2948372/img",
+  "popularity": 0.7039000000000001,
+  "id": "tt2948372",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "releaseInfo": "2020",
+  "trailerStreams": [
+   {
+    "title": "Soul",
+    "ytId": "Gs--6c7Hn_A"
+   },
+   {
+    "title": "Soul",
+    "ytId": "xOsLIiBStEs"
+   },
+   {
+    "title": "Soul",
+    "ytId": "4TojlZYqPUo"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2948372"
+   },
+   {
+    "name": "Soul",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/soul-2948372"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Jamie Foxx",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jamie%20Foxx"
+   },
+   {
+    "name": "Tina Fey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tina%20Fey"
+   },
+   {
+    "name": "Graham Norton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Graham%20Norton"
+   },
+   {
+    "name": "Pete Docter",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pete%20Docter"
+   },
+   {
+    "name": "Mike Jones",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mike%20Jones"
+   },
+   {
+    "name": "Kemp Powers",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kemp%20Powers"
+   },
+   {
+    "name": "Pete Docter",
+    "category": "Directors",
+    "url": "stremio:///search?search=Pete%20Docter"
+   },
+   {
+    "name": "Kemp Powers",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kemp%20Powers"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2948372",
+   "hasScheduledVideos": false
+  }
+ }
+}

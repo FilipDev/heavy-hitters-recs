@@ -1,0 +1,109 @@
+{
+ "meta": {
+  "imdb_id": "tt3962828",
+  "awards": "3 nominations total",
+  "cast": [
+   "Fritz Lang",
+   "Alfreda Klebinger",
+   "Manfred Ellinger"
+  ],
+  "country": "Austria, Germany",
+  "description": "Captures what Austrians keep under the house. A documentary of suburban basements — Nazi memorabilia shrines, shooting ranges, doll collections, dungeons — each owner proudly giving the tour, each room arranged like a still life.\n\nA documentary that reveals what its subjects do in their respective basements.",
+  "director": [
+   "Ulrich Seidl"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.7",
+  "name": "In the Basement",
+  "poster": "https://images.metahub.space/poster/small/tt3962828/img",
+  "released": "2014-09-26T00:00:00.000Z",
+  "runtime": "81 min",
+  "slug": "movie/in-the-basement-3962828",
+  "type": "movie",
+  "writer": [
+   "Veronika Franz",
+   "Ulrich Seidl"
+  ],
+  "year": "2014",
+  "moviedb_id": 288708,
+  "popularities": {
+   "moviedb": 1.3368,
+   "stremio": 0.04456,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "Xv413MSYX8g",
+    "type": "Trailer"
+   }
+  ],
+  "dvdRelease": "2016-04-12T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt3962828/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3962828/img",
+  "popularity": 0.04456,
+  "id": "tt3962828",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "In the Basement",
+    "ytId": "Xv413MSYX8g"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3962828"
+   },
+   {
+    "name": "In the Basement",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/in-the-basement-3962828"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Fritz Lang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fritz%20Lang"
+   },
+   {
+    "name": "Alfreda Klebinger",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alfreda%20Klebinger"
+   },
+   {
+    "name": "Manfred Ellinger",
+    "category": "Cast",
+    "url": "stremio:///search?search=Manfred%20Ellinger"
+   },
+   {
+    "name": "Veronika Franz",
+    "category": "Writers",
+    "url": "stremio:///search?search=Veronika%20Franz"
+   },
+   {
+    "name": "Ulrich Seidl",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ulrich%20Seidl"
+   },
+   {
+    "name": "Ulrich Seidl",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ulrich%20Seidl"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3962828",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "imdb_id": "tt11394298",
+  "name": "The Mole Agent",
+  "awards": "Nominated for 1 Oscar. 17 wins & 24 nominations total",
+  "country": "Chile, United States, Germany, Netherlands, Spain",
+  "description": "Captures an 83-year-old widower hired to infiltrate a nursing home as a spy, who keeps forgetting to spy because the residents need a friend. A detective kit, a private investigator, hidden-camera glasses — all of it slowly repurposed into an undercover operation against loneliness.\n\nA private investigator in Chile hires someone to work as a mole at a retirement home where a client of his suspects the caretakers of elder abuse.",
+  "director": [
+   "Maite Alberdi"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.5",
+  "poster": "https://images.metahub.space/poster/small/tt11394298/img",
+  "released": "2020-09-01T00:00:00.000Z",
+  "runtime": "90 min",
+  "slug": "movie/the-mole-agent-11394298",
+  "type": "movie",
+  "writer": [
+   "Maite Alberdi"
+  ],
+  "year": "2020",
+  "moviedb_id": 653756,
+  "popularities": {
+   "moviedb": 2.5197,
+   "stremio": 0.08399,
+   "stremio_lib": 0,
+   "trakt": 5
+  },
+  "trailers": [
+   {
+    "source": "9EhCLah6P-w",
+    "type": "Trailer"
+   },
+   {
+    "source": "5Z1hPH3b5RA",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Sergio Chamy",
+   "Romulo Aitken",
+   "Marta Olivares"
+  ],
+  "dvdRelease": "2020-09-01T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt11394298/img",
+  "logo": "https://images.metahub.space/logo/medium/tt11394298/img",
+  "popularity": 0.08399,
+  "id": "tt11394298",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2020",
+  "trailerStreams": [
+   {
+    "title": "The Mole Agent",
+    "ytId": "9EhCLah6P-w"
+   },
+   {
+    "title": "The Mole Agent",
+    "ytId": "5Z1hPH3b5RA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt11394298"
+   },
+   {
+    "name": "The Mole Agent",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-mole-agent-11394298"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Sergio Chamy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sergio%20Chamy"
+   },
+   {
+    "name": "Romulo Aitken",
+    "category": "Cast",
+    "url": "stremio:///search?search=Romulo%20Aitken"
+   },
+   {
+    "name": "Marta Olivares",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marta%20Olivares"
+   },
+   {
+    "name": "Maite Alberdi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Maite%20Alberdi"
+   },
+   {
+    "name": "Maite Alberdi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Maite%20Alberdi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt11394298",
+   "hasScheduledVideos": false
+  }
+ }
+}

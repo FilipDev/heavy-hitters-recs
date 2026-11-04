@@ -1,0 +1,137 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 15 wins & 15 nominations total",
+  "cast": [
+   "Lambert Wilson",
+   "Pauline Brunner",
+   "Anne-Marie Loop"
+  ],
+  "country": "France, Belgium, Luxembourg",
+  "description": "Captures a bear and a mouse outlawed by both their societies for the friendship. Bears live above, mice below, each raised on horror stories about the other; a watercolor heist and a double trial later, the film has made its whole case with a pencil line and a piano.\n\nThe story of an unlikely friendship between a bear, Ernest, and a young mouse named Celestine.",
+  "director": [
+   "Stéphane Aubier",
+   "Vincent Patar",
+   "Benjamin Renner"
+  ],
+  "dvdRelease": "2017-03-07T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt1816518",
+  "moviedb_id": 126319,
+  "name": "Ernest & Celestine",
+  "popularity": 0.12197666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt1816518/img",
+  "released": "2014-02-28T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [
+   {
+    "source": "UJ1rmOYLr2U",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Daniel Pennac",
+   "Gabrielle Vincent"
+  ],
+  "year": "2014",
+  "popularities": {
+   "moviedb": 3.6593,
+   "stremio": 0.12197666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1816518/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1816518/img",
+  "slug": "movie/ernest-celestine-1816518",
+  "id": "tt1816518",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "releaseInfo": "2014",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Ernest & Celestine",
+    "ytId": "UJ1rmOYLr2U"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1816518"
+   },
+   {
+    "name": "Ernest & Celestine",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ernest-celestine-1816518"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Lambert Wilson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lambert%20Wilson"
+   },
+   {
+    "name": "Pauline Brunner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Pauline%20Brunner"
+   },
+   {
+    "name": "Anne-Marie Loop",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anne-Marie%20Loop"
+   },
+   {
+    "name": "Daniel Pennac",
+    "category": "Writers",
+    "url": "stremio:///search?search=Daniel%20Pennac"
+   },
+   {
+    "name": "Gabrielle Vincent",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gabrielle%20Vincent"
+   },
+   {
+    "name": "Stéphane Aubier",
+    "category": "Directors",
+    "url": "stremio:///search?search=St%C3%A9phane%20Aubier"
+   },
+   {
+    "name": "Vincent Patar",
+    "category": "Directors",
+    "url": "stremio:///search?search=Vincent%20Patar"
+   },
+   {
+    "name": "Benjamin Renner",
+    "category": "Directors",
+    "url": "stremio:///search?search=Benjamin%20Renner"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1816518",
+   "hasScheduledVideos": false
+  }
+ }
+}

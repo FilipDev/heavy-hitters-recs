@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 35 wins & 84 nominations total",
+  "cast": [
+   "Colin Farrell",
+   "Rachel Weisz",
+   "Jessica Barden"
+  ],
+  "country": "Ireland, United Kingdom, Greece, France, Netherlands, Belgium, United States",
+  "description": "Captures a dating regime with a deadline and a species change. Single people get 45 days in a hotel to find a partner or be transformed into an animal of their choice; everyone speaks like a form being filled in, and the flatness is the romance and the horror at once.\n\nIn a dystopian near future, according to the laws of The City, single people are taken to The Hotel, where they are obliged to find a romantic partner in 45 days or they're transformed into beasts and sent off into The Woods.",
+  "director": [
+   "Yorgos Lanthimos"
+  ],
+  "genre": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt3464902",
+  "name": "The Lobster",
+  "poster": "https://images.metahub.space/poster/small/tt3464902/img",
+  "released": "2015-10-16T00:00:00.000Z",
+  "runtime": "119 min",
+  "type": "movie",
+  "writer": [
+   "Yorgos Lanthimos",
+   "Efthimis Filippou"
+  ],
+  "year": "2015",
+  "popularity": 0.28584000000000004,
+  "popularities": {
+   "moviedb": 8.5752,
+   "stremio": 0.28584000000000004,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "LTNZmOJxuAc",
+    "type": "Trailer"
+   },
+   {
+    "source": "fpt0tn1-54k",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 254320,
+  "dvdRelease": "2016-07-27T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt3464902/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3464902/img",
+  "slug": "movie/the-lobster-3464902",
+  "id": "tt3464902",
+  "genres": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "The Lobster",
+    "ytId": "LTNZmOJxuAc"
+   },
+   {
+    "title": "The Lobster",
+    "ytId": "fpt0tn1-54k"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3464902"
+   },
+   {
+    "name": "The Lobster",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-lobster-3464902"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Colin Farrell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Colin%20Farrell"
+   },
+   {
+    "name": "Rachel Weisz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rachel%20Weisz"
+   },
+   {
+    "name": "Jessica Barden",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jessica%20Barden"
+   },
+   {
+    "name": "Yorgos Lanthimos",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yorgos%20Lanthimos"
+   },
+   {
+    "name": "Efthimis Filippou",
+    "category": "Writers",
+    "url": "stremio:///search?search=Efthimis%20Filippou"
+   },
+   {
+    "name": "Yorgos Lanthimos",
+    "category": "Directors",
+    "url": "stremio:///search?search=Yorgos%20Lanthimos"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3464902",
+   "hasScheduledVideos": false
+  }
+ }
+}

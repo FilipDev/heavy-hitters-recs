@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "id": "tt19783948",
+  "imdb_id": "tt19783948",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt19783948/img",
+  "logo": "https://live.metahub.space/logo/medium/tt19783948/img",
+  "background": "https://live.metahub.space/background/medium/tt19783948/img",
+  "moviedb_id": 721232,
+  "name": "De Humani Corporis Fabrica",
+  "description": "Captures the body as an unexplored continent. Surgical cameras inside eyes, arteries and skulls in Paris hospitals — from the Leviathan team; medicine becomes pure landscape, and the doctors' small talk becomes the soundtrack.\n\nAn extraordinary adventure through the interior of the human body; or the discovery of an alien landscape of unprecedented beauty.",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2023",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "KsmJiQ-JvTo",
+    "type": "Trailer"
+   },
+   {
+    "source": "wBu0Dh8wy0U",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [],
+  "credits_cast": [],
+  "credits_crew": [
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Charles Gillibert",
+    "profile_path": "/gss7U39JPmEC6eRl0EiiKIilSYs.jpg",
+    "id": 54318
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Pauline Gygax",
+    "profile_path": "/p5PFSITtFumzDKP4N3PRXzAWHl6.jpg",
+    "id": 1817865
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Max Karli",
+    "profile_path": "/yVh5jgBw6mOR69la0hmDsHbQuFQ.jpg",
+    "id": 1601476
+   },
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Véréna Paravel",
+    "profile_path": "/tqLPqwoZswXjvdBjX2L1XOK9pxR.jpg",
+    "id": 1081448
+   },
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Lucien Castaing-Taylor",
+    "profile_path": "/bzT1XTej07ZVXtW8PGfZXQFrA9f.jpg",
+    "id": 1079579
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Valentina Novati",
+    "profile_path": null,
+    "id": 1690545
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Véréna Paravel",
+    "profile_path": "/tqLPqwoZswXjvdBjX2L1XOK9pxR.jpg",
+    "id": 1081448
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Lucien Castaing-Taylor",
+    "profile_path": "/bzT1XTej07ZVXtW8PGfZXQFrA9f.jpg",
+    "id": 1079579
+   }
+  ],
+  "director": [
+   "Véréna Paravel",
+   "Lucien Castaing-Taylor"
+  ],
+  "imdbRating": "7.1",
+  "language": "French",
+  "country": "France, Switzerland, United States",
+  "awards": "2 wins & 14 nominations",
+  "slug": "movie/de-humani-corporis-fabrica-19783948",
+  "behaviorHints": {
+   "defaultVideoId": "tt19783948",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "meta": {
+  "imdb_id": "tt4772188",
+  "name": "Flow",
+  "type": "movie",
+  "popularities": {
+   "trakt": 27,
+   "moviedb": 19.7521,
+   "stremio": 0.6584033333333333,
+   "stremio_lib": 0
+  },
+  "awards": "Won 1 Oscar. 63 wins & 79 nominations total",
+  "country": "Latvia, Belgium, France",
+  "description": "Captures animals cooperating after the humans vanish, with no speech and no villain. A cat that fears water survives a flood aboard a drifting boat shared with a capybara, a lemur, a secretary bird and a dog; made in Blender by a tiny Latvian team, and the water alone justifies it.\n\nCat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
+  "director": [
+   "Gints Zilbalodis"
+  ],
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Family"
+  ],
+  "imdbRating": "7.8",
+  "released": "2025-02-14T00:00:00.000Z",
+  "slug": "movie/flow-4772188",
+  "writer": [
+   "Gints Zilbalodis",
+   "Matiss Kaza",
+   "Ron Dyens"
+  ],
+  "year": "2025",
+  "moviedb_id": 823219,
+  "poster": "https://images.metahub.space/poster/small/tt4772188/img",
+  "runtime": "85 min",
+  "trailers": [
+   {
+    "source": "shsVQvHUTxw",
+    "type": "Trailer"
+   },
+   {
+    "source": "ZgZccxuj2RY",
+    "type": "Trailer"
+   },
+   {
+    "source": "82WW9dVbglI",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Gints Zilbalodis",
+   "Thomas Oldman",
+   "Alexander David Bobson"
+  ],
+  "background": "https://images.metahub.space/background/medium/tt4772188/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4772188/img",
+  "popularity": 0.6584033333333333,
+  "id": "tt4772188",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Family"
+  ],
+  "releaseInfo": "2025",
+  "trailerStreams": [
+   {
+    "title": "Flow",
+    "ytId": "shsVQvHUTxw"
+   },
+   {
+    "title": "Flow",
+    "ytId": "ZgZccxuj2RY"
+   },
+   {
+    "title": "Flow",
+    "ytId": "82WW9dVbglI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4772188"
+   },
+   {
+    "name": "Flow",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/flow-4772188"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Gints Zilbalodis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gints%20Zilbalodis"
+   },
+   {
+    "name": "Thomas Oldman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Thomas%20Oldman"
+   },
+   {
+    "name": "Alexander David Bobson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alexander%20David%20Bobson"
+   },
+   {
+    "name": "Gints Zilbalodis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gints%20Zilbalodis"
+   },
+   {
+    "name": "Matiss Kaza",
+    "category": "Writers",
+    "url": "stremio:///search?search=Matiss%20Kaza"
+   },
+   {
+    "name": "Ron Dyens",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ron%20Dyens"
+   },
+   {
+    "name": "Gints Zilbalodis",
+    "category": "Directors",
+    "url": "stremio:///search?search=Gints%20Zilbalodis"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4772188",
+   "hasScheduledVideos": false
+  }
+ }
+}

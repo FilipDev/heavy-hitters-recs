@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "imdb_id": "tt10849514",
+  "name": "This Is Not a Burial, It's a Resurrection",
+  "cast": [
+   "Mary Twala",
+   "Jerry Mofokeng",
+   "Makhaola Ndebele"
+  ],
+  "country": "South Africa, Italy, United States, Lesotho",
+  "director": [
+   "Lemohang Jeremiah Mosese"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt10849514/img",
+  "released": "2021-04-02T00:00:00.000Z",
+  "runtime": "120 min",
+  "slug": "movie/this-is-not-a-burial-its-a-resurrection-10849514",
+  "type": "movie",
+  "year": "2019",
+  "moviedb_id": 618208,
+  "popularities": {
+   "moviedb": 1.613,
+   "stremio": 0.053766666666666664,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "IZcr2T-eNPE",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [
+   "Lemohang Jeremiah Mosese"
+  ],
+  "awards": "31 wins & 12 nominations",
+  "description": "Captures an 80-year-old widow preparing to die on schedule, then deciding to fight a dam instead. Lesotho mountains, a church organ, and grief that converts into resistance without ever raising its voice.\n\nWhen her village is threatened with forced resettlement due to reservoir construction, an 80-year-old widow finds a new will to live and ignites the spirit of resilience within her community.",
+  "background": "https://images.metahub.space/background/medium/tt10849514/img",
+  "logo": "https://images.metahub.space/logo/medium/tt10849514/img",
+  "popularity": 0.053766666666666664,
+  "id": "tt10849514",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "This Is Not a Burial, It's a Resurrection",
+    "ytId": "IZcr2T-eNPE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt10849514"
+   },
+   {
+    "name": "This Is Not a Burial, It's a Resurrection",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/this-is-not-a-burial-its-a-resurrection-10849514"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mary Twala",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mary%20Twala"
+   },
+   {
+    "name": "Jerry Mofokeng",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jerry%20Mofokeng"
+   },
+   {
+    "name": "Makhaola Ndebele",
+    "category": "Cast",
+    "url": "stremio:///search?search=Makhaola%20Ndebele"
+   },
+   {
+    "name": "Lemohang Jeremiah Mosese",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lemohang%20Jeremiah%20Mosese"
+   },
+   {
+    "name": "Lemohang Jeremiah Mosese",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lemohang%20Jeremiah%20Mosese"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt10849514",
+   "hasScheduledVideos": false
+  }
+ }
+}

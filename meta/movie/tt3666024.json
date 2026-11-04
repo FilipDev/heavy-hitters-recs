@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "imdb_id": "tt3666024",
+  "name": "The Red Turtle",
+  "popularities": {
+   "moviedb": 4.6658,
+   "stremio": 0.15552666666666667,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "9Wf57f5F09c",
+    "type": "Trailer"
+   },
+   {
+    "source": "4lwrzNqEUOM",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 337703,
+  "year": "2017",
+  "runtime": "81 min",
+  "genre": [
+   "Animation",
+   "Drama",
+   "Family"
+  ],
+  "released": "2017-01-20T00:00:00.000Z",
+  "director": [
+   "Michael Dudok de Wit"
+  ],
+  "writer": [
+   "Michael Dudok de Wit",
+   "Pascale Ferran"
+  ],
+  "cast": [
+   "Emmanuel Garijo",
+   "Tom Hudson",
+   "Baptiste Goy"
+  ],
+  "imdbRating": "7.5",
+  "poster": "https://images.metahub.space/poster/small/tt3666024/img",
+  "description": "Captures a castaway's whole life on one island, without a word of dialogue. A man, a giant red turtle that keeps wrecking his rafts, and then a transformation the film simply places before you like weather. Ghibli co-produced; the water is drawn the way Parajanov drew cloth.\n\nA man is shipwrecked on a deserted island and encounters a big red turtle, which changes his life.",
+  "country": "France, Belgium, Japan, United States",
+  "awards": "Nominated for 1 Oscar. 13 wins & 34 nominations total",
+  "dvdRelease": "2017-05-02T00:00:00.000Z",
+  "affiliates": {
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheredturtle_194795%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123",
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheredturtle_194795%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.8/ImageRenderer/111/168/images/no_image_111x168.jpg/194795/images/masterrepository/fandango/194795/theredturtle.jpg\" alt=\"The Red Turtle\" title=\"The Red Turtle\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheredturtle_194795%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2ftheredturtle-trailer%2f194795%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheredturtle_194795%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.8//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>"
+  },
+  "background": "https://images.metahub.space/background/medium/tt3666024/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3666024/img",
+  "slug": "movie/the-red-turtle-3666024",
+  "popularity": 0.15552666666666667,
+  "id": "tt3666024",
+  "genres": [
+   "Animation",
+   "Drama",
+   "Family"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "The Red Turtle",
+    "ytId": "9Wf57f5F09c"
+   },
+   {
+    "title": "The Red Turtle",
+    "ytId": "4lwrzNqEUOM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3666024"
+   },
+   {
+    "name": "The Red Turtle",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-red-turtle-3666024"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Emmanuel Garijo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emmanuel%20Garijo"
+   },
+   {
+    "name": "Tom Hudson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tom%20Hudson"
+   },
+   {
+    "name": "Baptiste Goy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Baptiste%20Goy"
+   },
+   {
+    "name": "Michael Dudok de Wit",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Dudok%20de%20Wit"
+   },
+   {
+    "name": "Pascale Ferran",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pascale%20Ferran"
+   },
+   {
+    "name": "Michael Dudok de Wit",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Dudok%20de%20Wit"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3666024",
+   "hasScheduledVideos": false
+  }
+ }
+}

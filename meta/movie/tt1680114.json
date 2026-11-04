@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "awards": "23 wins & 23 nominations total",
+  "cast": [
+   "Lucas Pittaway",
+   "Daniel Henshall",
+   "Louise Harris"
+  ],
+  "country": "Australia",
+  "description": "Captures radicalisation as a domestic process. In Adelaide's poorest suburbs, a charismatic man absorbs a vulnerable teenager into his \"clean-up\" campaign; true story, almost no on-screen violence, dread in every kitchen scene.\n\nBased on true events, 16-year-old Jamie falls in with his mother's new boyfriend and his crowd of self-appointed neighborhood watchmen, a relationship that leads to a spree of torture and murder.",
+  "director": [
+   "Justin Kurzel"
+  ],
+  "dvdRelease": "2016-09-01T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "6.5",
+  "imdb_id": "tt1680114",
+  "moviedb_id": 67748,
+  "name": "Snowtown",
+  "popularity": 0.14326999999999998,
+  "poster": "https://images.metahub.space/poster/small/tt1680114/img",
+  "released": "2011-05-19T00:00:00.000Z",
+  "runtime": "120 min",
+  "trailers": [
+   {
+    "source": "WQQG2zJN7PM",
+    "type": "Trailer"
+   },
+   {
+    "source": "kBez725Tguc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Shaun Grant",
+   "Justin Kurzel",
+   "Debi Marshall"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1680114/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1680114/img",
+  "popularities": {
+   "moviedb": 4.2981,
+   "stremio": 0.14326999999999998,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/snowtown-1680114",
+  "id": "tt1680114",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "Snowtown",
+    "ytId": "WQQG2zJN7PM"
+   },
+   {
+    "title": "Snowtown",
+    "ytId": "kBez725Tguc"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1680114"
+   },
+   {
+    "name": "Snowtown",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/snowtown-1680114"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Lucas Pittaway",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lucas%20Pittaway"
+   },
+   {
+    "name": "Daniel Henshall",
+    "category": "Cast",
+    "url": "stremio:///search?search=Daniel%20Henshall"
+   },
+   {
+    "name": "Louise Harris",
+    "category": "Cast",
+    "url": "stremio:///search?search=Louise%20Harris"
+   },
+   {
+    "name": "Shaun Grant",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shaun%20Grant"
+   },
+   {
+    "name": "Justin Kurzel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Justin%20Kurzel"
+   },
+   {
+    "name": "Debi Marshall",
+    "category": "Writers",
+    "url": "stremio:///search?search=Debi%20Marshall"
+   },
+   {
+    "name": "Justin Kurzel",
+    "category": "Directors",
+    "url": "stremio:///search?search=Justin%20Kurzel"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1680114",
+   "hasScheduledVideos": false
+  }
+ }
+}

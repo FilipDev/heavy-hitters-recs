@@ -1,0 +1,109 @@
+{
+ "meta": {
+  "imdb_id": "tt1667905",
+  "awards": "10 wins & 14 nominations",
+  "cast": [
+   "Jafar Panahi",
+   "Igi",
+   "Mrs. Gheirat"
+  ],
+  "country": "Iran",
+  "description": "Captures a banned director staging the film he's forbidden to make, in his living room, with tape marks on the carpet for sets. Smuggled out of Iran on a USB stick hidden in a cake; the title is the legal defence and the joke.\n\nIt's been months since Jafar Panahi, stuck in jail, has been awaiting a verdict by the appeals court. By depicting a day in his life, Panahi and Mojtaba Mirtahmasb try to portray the deprivations looming in contemporary Iranian ci...",
+  "director": [
+   "Mojtaba Mirtahmasb",
+   "Jafar Panahi"
+  ],
+  "dvdRelease": "2013-02-26T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.4",
+  "name": "This Is Not a Film",
+  "poster": "https://images.metahub.space/poster/small/tt1667905/img",
+  "released": "2012-02-29T00:00:00.000Z",
+  "runtime": "78 min",
+  "slug": "movie/this-is-not-a-film-1667905",
+  "type": "movie",
+  "writer": [
+   "Jafar Panahi"
+  ],
+  "year": "2011",
+  "moviedb_id": 83552,
+  "popularities": {
+   "moviedb": 1.2871,
+   "stremio": 0.04290333333333333,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "AgZy00svH08",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt1667905/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1667905/img",
+  "popularity": 0.04290333333333333,
+  "id": "tt1667905",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "This Is Not a Film",
+    "ytId": "AgZy00svH08"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1667905"
+   },
+   {
+    "name": "This Is Not a Film",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/this-is-not-a-film-1667905"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   },
+   {
+    "name": "Igi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Igi"
+   },
+   {
+    "name": "Mrs. Gheirat",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mrs.%20Gheirat"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   },
+   {
+    "name": "Mojtaba Mirtahmasb",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mojtaba%20Mirtahmasb"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1667905",
+   "hasScheduledVideos": false
+  }
+ }
+}

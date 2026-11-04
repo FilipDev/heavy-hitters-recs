@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "19 wins & 13 nominations total",
+  "cast": [
+   "Wu Jiang",
+   "Baoqiang Wang",
+   "Tao Zhao"
+  ],
+  "country": "China, Japan, France",
+  "description": "Captures a country where every humiliation eventually finds a weapon. Four true-crime stories from four provinces — a miner, a migrant, a sauna receptionist, a factory boy — woven until they feel like one long fuse.\n\nFour independent stories set in modern China about random acts of violence.",
+  "director": [
+   "Zhangke Jia"
+  ],
+  "dvdRelease": "2015-04-09T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt2852400",
+  "moviedb_id": 187022,
+  "name": "A Touch of Sin",
+  "popularity": 0.13416,
+  "poster": "https://images.metahub.space/poster/small/tt2852400/img",
+  "released": "2013-12-11T00:00:00.000Z",
+  "runtime": "131 min",
+  "trailers": [
+   {
+    "source": "VUJt_kf7uKQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Zhangke Jia"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2852400/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2852400/img",
+  "popularities": {
+   "moviedb": 4.0248,
+   "stremio": 0.13416,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/a-touch-of-sin-2852400",
+  "id": "tt2852400",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "A Touch of Sin",
+    "ytId": "VUJt_kf7uKQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2852400"
+   },
+   {
+    "name": "A Touch of Sin",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-touch-of-sin-2852400"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Wu Jiang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Wu%20Jiang"
+   },
+   {
+    "name": "Baoqiang Wang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Baoqiang%20Wang"
+   },
+   {
+    "name": "Tao Zhao",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tao%20Zhao"
+   },
+   {
+    "name": "Zhangke Jia",
+    "category": "Writers",
+    "url": "stremio:///search?search=Zhangke%20Jia"
+   },
+   {
+    "name": "Zhangke Jia",
+    "category": "Directors",
+    "url": "stremio:///search?search=Zhangke%20Jia"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2852400",
+   "hasScheduledVideos": false
+  }
+ }
+}

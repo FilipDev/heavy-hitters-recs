@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "awards": "3 nominations total",
+  "cast": [
+   "Michael Apted",
+   "Bruce Balden",
+   "Jacqueline Bassett"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures time as the special effect. The same British children filmed every seven years from 1964, now 56: the class predictions of the first episode meeting five decades of actual lives. You can feel the series itself ageing.\n\nDirector Michael Apted revisits the same group of British-born adults after a seven-year wait. The subjects are interviewed as to the changes that have occurred in their lives during the last seven years.",
+  "director": [
+   "Paul Almond",
+   "Michael Apted"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt2147134",
+  "moviedb_id": 116167,
+  "name": "56 Up",
+  "popularity": 0.10826666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt2147134/img",
+  "released": "2012-05-14T00:00:00.000Z",
+  "runtime": "144 min",
+  "trailers": [
+   {
+    "source": "f-U6RfKVzCs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "2012",
+  "popularities": {
+   "moviedb": 3.248,
+   "stremio": 0.10826666666666668,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/56-up-2147134",
+  "status": "Ended",
+  "tvdb_id": 259851,
+  "background": "https://images.metahub.space/background/medium/tt2147134/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2147134/img",
+  "id": "tt2147134",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "2012",
+  "videos": [
+   {
+    "name": "Episode 1",
+    "season": 1,
+    "number": 1,
+    "firstAired": "2012-05-14T20:00:00.000Z",
+    "tvdb_id": 4341921,
+    "rating": "0",
+    "overview": "Three-part documentary continuing the acclaimed Seven Up! series. It is nearly 50 years since the programme first began, and now the remaining participants are 56 years old.",
+    "thumbnail": "https://episodes.metahub.space/tt2147134/1/1/w780.jpg",
+    "id": "tt2147134:1:1",
+    "released": "2012-05-14T20:00:00.000Z",
+    "episode": 1,
+    "description": "Three-part documentary continuing the acclaimed Seven Up! series. It is nearly 50 years since the programme first began, and now the remaining participants are 56 years old."
+   },
+   {
+    "name": "Episode 2",
+    "season": 1,
+    "number": 2,
+    "firstAired": "2012-05-21T20:00:00.000Z",
+    "tvdb_id": 4341922,
+    "rating": "0",
+    "overview": "Second of a three-part documentary continuing the acclaimed Seven Up! series. It is nearly 50 years since the programme first began following a group of seven-year-old children.",
+    "thumbnail": "https://episodes.metahub.space/tt2147134/1/2/w780.jpg",
+    "id": "tt2147134:1:2",
+    "released": "2012-05-21T20:00:00.000Z",
+    "episode": 2,
+    "description": "Second of a three-part documentary continuing the acclaimed Seven Up! series. It is nearly 50 years since the programme first began following a group of seven-year-old children."
+   },
+   {
+    "name": "Episode 3",
+    "season": 1,
+    "number": 3,
+    "firstAired": "2012-05-28T20:00:00.000Z",
+    "tvdb_id": 4341923,
+    "rating": "0",
+    "overview": "Final part of the documentary continuing the acclaimed Seven Up! series. It is nearly 50 years since the programme first began following a group of seven-year-old children.",
+    "thumbnail": "https://episodes.metahub.space/tt2147134/1/3/w780.jpg",
+    "id": "tt2147134:1:3",
+    "released": "2012-05-28T20:00:00.000Z",
+    "episode": 3,
+    "description": "Final part of the documentary continuing the acclaimed Seven Up! series. It is nearly 50 years since the programme first began following a group of seven-year-old children."
+   }
+  ],
+  "trailerStreams": [
+   {
+    "title": "56 Up",
+    "ytId": "f-U6RfKVzCs"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2147134"
+   },
+   {
+    "name": "56 Up",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/56-up-2147134"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Michael Apted",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Apted"
+   },
+   {
+    "name": "Bruce Balden",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bruce%20Balden"
+   },
+   {
+    "name": "Jacqueline Bassett",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacqueline%20Bassett"
+   },
+   {
+    "name": "Paul Almond",
+    "category": "Directors",
+    "url": "stremio:///search?search=Paul%20Almond"
+   },
+   {
+    "name": "Michael Apted",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Apted"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2147134",
+   "hasScheduledVideos": false
+  }
+ }
+}

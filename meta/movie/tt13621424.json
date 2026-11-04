@@ -1,0 +1,92 @@
+{
+ "meta": {
+  "imdb_id": "tt13621424",
+  "name": "Taming the Garden",
+  "awards": "7 wins & 17 nominations",
+  "country": "Switzerland, Germany, Georgia, Netherlands",
+  "description": "Captures wealth moving a landscape by force. Georgia's richest man buys century-old trees from coastal villages and has them dug up, trucked and ferried upright across the sea to his private garden. No commentary; the image of a tree sailing is the whole argument.\n\nDocumentary follows trees that are transported, at great expense and inconvenience, from the coast of the Republic of Georgia to the private garden of that country's former prime minister.",
+  "director": [
+   "Salomé Jashi"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.9",
+  "poster": "https://images.metahub.space/poster/small/tt13621424/img",
+  "released": "2022-01-19T00:00:00.000Z",
+  "runtime": "92 min",
+  "slug": "movie/taming-the-garden-13621424",
+  "type": "movie",
+  "writer": [
+   "Salomé Jashi"
+  ],
+  "year": "2021",
+  "moviedb_id": 776556,
+  "popularities": {
+   "moviedb": 1.5099,
+   "stremio": 0.05033,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "QombIwKQf0M",
+    "type": "Trailer"
+   },
+   {
+    "source": "yFui2xhkNaY",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [],
+  "dvdRelease": "2022-01-19T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt13621424/img",
+  "logo": "https://images.metahub.space/logo/medium/tt13621424/img",
+  "popularity": 0.05033,
+  "id": "tt13621424",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "Taming the Garden",
+    "ytId": "QombIwKQf0M"
+   },
+   {
+    "title": "Taming the Garden",
+    "ytId": "yFui2xhkNaY"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt13621424"
+   },
+   {
+    "name": "Taming the Garden",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/taming-the-garden-13621424"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Salomé Jashi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Salom%C3%A9%20Jashi"
+   },
+   {
+    "name": "Salomé Jashi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Salom%C3%A9%20Jashi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt13621424",
+   "hasScheduledVideos": false
+  }
+ }
+}

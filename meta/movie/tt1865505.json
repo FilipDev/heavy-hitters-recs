@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 12 wins & 26 nominations total",
+  "cast": [
+   "David Rawle",
+   "Brendan Gleeson",
+   "Lisa Hannigan"
+  ],
+  "country": "Ireland, Denmark, Belgium, France, Luxembourg",
+  "description": "Captures a selkie myth drawn the way the sea draws on rock. A mute little girl is the last seal-child; her brother resents her for their mother's death, and the rescue journey is rendered in spirals, knots and watercolour geometry from the studio behind The Secret of Kells lineage.\n\nBen, a young Irish boy and his little sister, Saoirse, a girl who can turn into a seal, go on an adventure to free the fairies and save the spirit world.",
+  "director": [
+   "Tomm Moore"
+  ],
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt1865505",
+  "name": "Song of the Sea",
+  "poster": "https://images.metahub.space/poster/small/tt1865505/img",
+  "released": "2015-11-20T00:00:00.000Z",
+  "runtime": "94 min",
+  "type": "movie",
+  "writer": [
+   "Will Collins",
+   "Tomm Moore"
+  ],
+  "year": "2015",
+  "popularity": 0.26869333333333334,
+  "trailers": [
+   {
+    "source": "VrhoOzW8oF8",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 110416,
+  "dvdRelease": "2015-03-16T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt1865505/img",
+  "popularities": {
+   "moviedb": 8.0608,
+   "stremio": 0.26869333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt1865505/img",
+  "slug": "movie/song-of-the-sea-1865505",
+  "id": "tt1865505",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Song of the Sea",
+    "ytId": "VrhoOzW8oF8"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1865505"
+   },
+   {
+    "name": "Song of the Sea",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/song-of-the-sea-1865505"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "David Rawle",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Rawle"
+   },
+   {
+    "name": "Brendan Gleeson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brendan%20Gleeson"
+   },
+   {
+    "name": "Lisa Hannigan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lisa%20Hannigan"
+   },
+   {
+    "name": "Will Collins",
+    "category": "Writers",
+    "url": "stremio:///search?search=Will%20Collins"
+   },
+   {
+    "name": "Tomm Moore",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tomm%20Moore"
+   },
+   {
+    "name": "Tomm Moore",
+    "category": "Directors",
+    "url": "stremio:///search?search=Tomm%20Moore"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1865505",
+   "hasScheduledVideos": false
+  }
+ }
+}

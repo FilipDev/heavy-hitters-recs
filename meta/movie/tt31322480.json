@@ -1,0 +1,56 @@
+{
+ "meta": {
+  "id": "tt31322480",
+  "imdb_id": "tt31322480",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt31322480/img",
+  "logo": "https://live.metahub.space/logo/medium/tt31322480/img",
+  "background": "https://live.metahub.space/background/medium/tt31322480/img",
+  "moviedb_id": 1223194,
+  "name": "Me",
+  "description": "Captures a musical about a self absorbing everything it touches, in twenty-two nearly wordless minutes. His newest: a round character rolls through a hand-drawn world converting people, places and finally the film itself into more of himself. After thirty years of drawing other people's inner lives, this is the one about the ego as a closed system — a transducer with the output looped to the input.\n\nA musical odyssey about generational trauma and the retreat of humanity into itself.",
+  "genres": [
+   "Animation",
+   "Drama",
+   "Science Fiction",
+   "Music"
+  ],
+  "releaseInfo": "2024",
+  "runtime": "22 min",
+  "trailers": [
+   {
+    "source": "CUx83jsAD9E",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [],
+  "credits_cast": [],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Don Hertzfeldt",
+    "profile_path": "/6DwlGgVtZ9tAo7xZH2dfduS8VTw.jpg",
+    "id": 109314
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Don Hertzfeldt",
+    "profile_path": "/6DwlGgVtZ9tAo7xZH2dfduS8VTw.jpg",
+    "id": 109314
+   }
+  ],
+  "director": [
+   "Don Hertzfeldt"
+  ],
+  "imdbRating": "7.1",
+  "language": "English",
+  "country": "United States",
+  "slug": "movie/me-31322480",
+  "behaviorHints": {
+   "defaultVideoId": "tt31322480",
+   "hasScheduledVideos": false
+  }
+ }
+}

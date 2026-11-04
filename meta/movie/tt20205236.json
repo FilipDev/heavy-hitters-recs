@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "imdb_id": "tt20205236",
+  "name": "No Bears",
+  "awards": "4 wins & 8 nominations",
+  "cast": [
+   "Jafar Panahi",
+   "Vahid Mobasseri",
+   "Bakhtiyar Panjeei"
+  ],
+  "country": "Iran",
+  "description": "Captures a director directing by laptop from exile inside his own country. Panahi, banned from filming and travel, rents a room near the Turkish border and shoots remotely — until the village's own drama reaches through the screen. He was arrested before it premiered; the film knows something like that is coming.\n\nTwo parallel love stories in which the partners are thwarted by hidden, inevitable obstacles, the force of superstition, and the mechanics of power.",
+  "director": [
+   "Jafar Panahi"
+  ],
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.3",
+  "released": "2022-10-06T00:00:00.000Z",
+  "runtime": "107 min",
+  "slug": "movie/no-bears-20205236",
+  "type": "movie",
+  "writer": [
+   "Jafar Panahi"
+  ],
+  "year": "2022",
+  "moviedb_id": 974521,
+  "popularities": {
+   "moviedb": 3.2417,
+   "stremio": 0.10805666666666666,
+   "stremio_lib": 0
+  },
+  "poster": "https://images.metahub.space/poster/small/tt20205236/img",
+  "trailers": [
+   {
+    "source": "oTJBVrxLfRs",
+    "type": "Trailer"
+   },
+   {
+    "source": "RO2jHyNpwWw",
+    "type": "Trailer"
+   },
+   {
+    "source": "dhG-weLK_-A",
+    "type": "Trailer"
+   },
+   {
+    "source": "ET9JtKgN3AA",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt20205236/img",
+  "logo": "https://images.metahub.space/logo/medium/tt20205236/img",
+  "popularity": 0.10805666666666666,
+  "id": "tt20205236",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "No Bears",
+    "ytId": "oTJBVrxLfRs"
+   },
+   {
+    "title": "No Bears",
+    "ytId": "RO2jHyNpwWw"
+   },
+   {
+    "title": "No Bears",
+    "ytId": "dhG-weLK_-A"
+   },
+   {
+    "title": "No Bears",
+    "ytId": "ET9JtKgN3AA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt20205236"
+   },
+   {
+    "name": "No Bears",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/no-bears-20205236"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   },
+   {
+    "name": "Vahid Mobasseri",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vahid%20Mobasseri"
+   },
+   {
+    "name": "Bakhtiyar Panjeei",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bakhtiyar%20Panjeei"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt20205236",
+   "hasScheduledVideos": false
+  }
+ }
+}

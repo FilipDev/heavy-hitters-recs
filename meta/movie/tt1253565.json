@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "awards": "3 wins",
+  "cast": [
+   "Erik D. Demaine",
+   "Martin L. Demaine",
+   "Vincent Floderer"
+  ],
+  "country": "United States",
+  "description": "Captures origami where it stops being a craft: physicists folding proteins and deployable space lenses, a man who folds a single sheet into a full orchestra, theorems proved with creases. Ten paper artists and scientists, one shared conviction that a fold is a way of thinking.\n\nDepicts a cast of fine artists and eccentric scientists (from MIT and NASA) who have devoted their lives to the unlikely medium of modern origami. Through their determination to reinterpret the world in paper, they arouse a fascin...",
+  "director": [
+   "Vanessa Gould"
+  ],
+  "dvdRelease": "2016-12-18T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt1253565",
+  "moviedb_id": 24792,
+  "name": "Between the Folds",
+  "popularity": 0.01722,
+  "poster": "https://images.metahub.space/poster/small/tt1253565/img",
+  "released": "2008-05-31T00:00:00.000Z",
+  "runtime": "56 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Vanessa Gould"
+  ],
+  "year": "2008",
+  "popularities": {
+   "moviedb": 0.5166,
+   "stremio": 0.01722,
+   "stremio_lib": 0
+  },
+  "slug": "movie/between-the-folds-1253565",
+  "background": "https://images.metahub.space/background/medium/tt1253565/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1253565/img",
+  "id": "tt1253565",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2008",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1253565"
+   },
+   {
+    "name": "Between the Folds",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/between-the-folds-1253565"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Erik D. Demaine",
+    "category": "Cast",
+    "url": "stremio:///search?search=Erik%20D.%20Demaine"
+   },
+   {
+    "name": "Martin L. Demaine",
+    "category": "Cast",
+    "url": "stremio:///search?search=Martin%20L.%20Demaine"
+   },
+   {
+    "name": "Vincent Floderer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vincent%20Floderer"
+   },
+   {
+    "name": "Vanessa Gould",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vanessa%20Gould"
+   },
+   {
+    "name": "Vanessa Gould",
+    "category": "Directors",
+    "url": "stremio:///search?search=Vanessa%20Gould"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1253565",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "imdb_id": "tt4034354",
+  "popularities": {
+   "moviedb": 4.8581,
+   "stremio": 0.16193666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "popularity": 0.16193666666666667,
+  "type": "movie",
+  "name": "Swiss Army Man",
+  "trailers": [
+   {
+    "source": "4v92gXetGqA",
+    "type": "Trailer"
+   },
+   {
+    "source": "yrK1f4TsQfM",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 347031,
+  "year": "2016",
+  "runtime": "97 min",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "released": "2016-07-01T00:00:00.000Z",
+  "director": [
+   "Daniel Kwan",
+   "Daniel Scheinert"
+  ],
+  "writer": [
+   "Daniel Scheinert",
+   "Daniel Kwan"
+  ],
+  "cast": [
+   "Paul Dano",
+   "Daniel Radcliffe",
+   "Mary Elizabeth Winstead"
+  ],
+  "imdbRating": "6.9",
+  "poster": "https://images.metahub.space/poster/small/tt4034354/img",
+  "description": "Captures a friendship with a corpse who is also a toolkit. A castaway rides a flatulent body to shore and teaches it how to be a person — jet-ski farts, earnest puppet dioramas of ordinary life, and a sincerity that sneaks up on the gross-out premise.\n\nA hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.",
+  "country": "United States, Swaziland",
+  "awards": "8 wins & 32 nominations total",
+  "dvdRelease": "2016-09-23T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt4034354/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4034354/img",
+  "slug": "movie/swiss-army-man-4034354",
+  "id": "tt4034354",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Swiss Army Man",
+    "ytId": "4v92gXetGqA"
+   },
+   {
+    "title": "Swiss Army Man",
+    "ytId": "yrK1f4TsQfM"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4034354"
+   },
+   {
+    "name": "Swiss Army Man",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/swiss-army-man-4034354"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Paul Dano",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Dano"
+   },
+   {
+    "name": "Daniel Radcliffe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Daniel%20Radcliffe"
+   },
+   {
+    "name": "Mary Elizabeth Winstead",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mary%20Elizabeth%20Winstead"
+   },
+   {
+    "name": "Daniel Scheinert",
+    "category": "Writers",
+    "url": "stremio:///search?search=Daniel%20Scheinert"
+   },
+   {
+    "name": "Daniel Kwan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Daniel%20Kwan"
+   },
+   {
+    "name": "Daniel Kwan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Daniel%20Kwan"
+   },
+   {
+    "name": "Daniel Scheinert",
+    "category": "Directors",
+    "url": "stremio:///search?search=Daniel%20Scheinert"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4034354",
+   "hasScheduledVideos": false
+  }
+ }
+}

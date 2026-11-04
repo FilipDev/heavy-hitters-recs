@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt13429870",
+  "name": "Robot Dreams",
+  "type": "movie",
+  "awards": "Nominated for 1 Oscar. 29 wins & 49 nominations total",
+  "cast": [
+   "Ivan Labanda"
+  ],
+  "country": "Spain, France",
+  "description": "Captures a friendship conducted entirely without dialogue, in 1980s New York, between a dog and a mail-order robot. They dance to Earth, Wind & Fire on roller skates; a beach closing separates them; the film then does the bravest thing a family film can do with its ending. Wordless, and it earns tears honestly.\n\nThe adventures and misfortunes of Dog and Robot in New York City during the 1980s.",
+  "director": [
+   "Pablo Berger"
+  ],
+  "genre": [
+   "Animation",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "released": "2024-06-07T00:00:00.000Z",
+  "slug": "movie/robot-dreams-13429870",
+  "writer": [
+   "Pablo Berger",
+   "Sara Varon"
+  ],
+  "year": "2024",
+  "moviedb_id": 838240,
+  "popularities": {
+   "moviedb": 8.1895,
+   "stremio": 0.27298333333333336,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "poster": "https://images.metahub.space/poster/small/tt13429870/img",
+  "runtime": "102 min",
+  "trailers": [
+   {
+    "source": "DD4WBGptMSw",
+    "type": "Trailer"
+   },
+   {
+    "source": "0CHV_ZDlhrA",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt13429870/img",
+  "logo": "https://images.metahub.space/logo/medium/tt13429870/img",
+  "popularity": 0.27298333333333336,
+  "id": "tt13429870",
+  "genres": [
+   "Animation",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2024",
+  "trailerStreams": [
+   {
+    "title": "Robot Dreams",
+    "ytId": "DD4WBGptMSw"
+   },
+   {
+    "title": "Robot Dreams",
+    "ytId": "0CHV_ZDlhrA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt13429870"
+   },
+   {
+    "name": "Robot Dreams",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/robot-dreams-13429870"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Ivan Labanda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ivan%20Labanda"
+   },
+   {
+    "name": "Pablo Berger",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pablo%20Berger"
+   },
+   {
+    "name": "Sara Varon",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sara%20Varon"
+   },
+   {
+    "name": "Pablo Berger",
+    "category": "Directors",
+    "url": "stremio:///search?search=Pablo%20Berger"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt13429870",
+   "hasScheduledVideos": false
+  }
+ }
+}

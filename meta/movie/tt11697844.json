@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt11697844",
+  "name": "There Is No Evil",
+  "awards": "18 wins & 10 nominations",
+  "cast": [
+   "Baran Rasoulof",
+   "Zhila Shahi",
+   "Mahtab Servati"
+  ],
+  "country": "Iran, Czech Republic, Germany",
+  "description": "Captures capital punishment as an ordinary job with four shifts. Four stories about men ordered to pull the lever in Iran — a family man, a conscript, a soldier on leave, a doctor with a past — each segment quietly redefining what refusal costs. Filmed in secret; won Berlin's Golden Bear.\n\nThe four stories that are variations on the crucial themes of moral strength and the death penalty that ask to what extent individual freedom can be expressed under a despotic regime and its seemingly inescapable threats.",
+  "director": [
+   "Mohammad Rasoulof"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "poster": "https://images.metahub.space/poster/small/tt11697844/img",
+  "released": "2021-05-14T00:00:00.000Z",
+  "runtime": "151 min",
+  "slug": "movie/there-is-no-evil-11697844",
+  "type": "movie",
+  "writer": [
+   "Mohammad Rasoulof"
+  ],
+  "year": "2020",
+  "moviedb_id": 667935,
+  "popularities": {
+   "moviedb": 2.5859,
+   "stremio": 0.08619666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "gsubr4aiVHY",
+    "type": "Trailer"
+   },
+   {
+    "source": "HgyisKVoFzY",
+    "type": "Trailer"
+   },
+   {
+    "source": "tu-WUq_emxU",
+    "type": "Trailer"
+   }
+  ],
+  "dvdRelease": "2021-07-13T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt11697844/img",
+  "logo": "https://images.metahub.space/logo/medium/tt11697844/img",
+  "popularity": 0.08619666666666667,
+  "id": "tt11697844",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2020",
+  "trailerStreams": [
+   {
+    "title": "There Is No Evil",
+    "ytId": "gsubr4aiVHY"
+   },
+   {
+    "title": "There Is No Evil",
+    "ytId": "HgyisKVoFzY"
+   },
+   {
+    "title": "There Is No Evil",
+    "ytId": "tu-WUq_emxU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt11697844"
+   },
+   {
+    "name": "There Is No Evil",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/there-is-no-evil-11697844"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Baran Rasoulof",
+    "category": "Cast",
+    "url": "stremio:///search?search=Baran%20Rasoulof"
+   },
+   {
+    "name": "Zhila Shahi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Zhila%20Shahi"
+   },
+   {
+    "name": "Mahtab Servati",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mahtab%20Servati"
+   },
+   {
+    "name": "Mohammad Rasoulof",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mohammad%20Rasoulof"
+   },
+   {
+    "name": "Mohammad Rasoulof",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mohammad%20Rasoulof"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt11697844",
+   "hasScheduledVideos": false
+  }
+ }
+}

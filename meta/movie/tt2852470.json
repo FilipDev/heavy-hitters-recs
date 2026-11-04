@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 12 wins & 16 nominations total",
+  "cast": [
+   "Randal Douc",
+   "Jean-Baptiste Phou"
+  ],
+  "country": "Cambodia, France",
+  "description": "Captures a genocide whose footage doesn't exist, rebuilt in clay. Panh's family died under the Khmer Rouge; the propaganda reels show smiling peasants, so he carves little clay figures and dioramas to stand where the record is missing. The observed archive versus the unrecorded real — the most literal film ever made about your framework, and it's a documentary.\n\nRithy Panh uses clay figures, archival footage, and his narration to recreate the atrocities Cambodia's Khmer Rouge committed between 1975 and 1979.",
+  "director": [
+   "Rithy Panh"
+  ],
+  "dvdRelease": "2014-09-09T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt2852470",
+  "moviedb_id": 186997,
+  "name": "The Missing Picture",
+  "popularity": 0.05443666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt2852470/img",
+  "released": "2014-03-19T00:00:00.000Z",
+  "runtime": "95 min",
+  "trailers": [
+   {
+    "source": "k71OoT7wlY0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Rithy Panh",
+   "Christophe Bataille"
+  ],
+  "year": "2013",
+  "popularities": {
+   "moviedb": 1.6331,
+   "stremio": 0.05443666666666667,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt2852470/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2852470/img",
+  "slug": "movie/the-missing-picture-2852470",
+  "id": "tt2852470",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "The Missing Picture",
+    "ytId": "k71OoT7wlY0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2852470"
+   },
+   {
+    "name": "The Missing Picture",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-missing-picture-2852470"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Randal Douc",
+    "category": "Cast",
+    "url": "stremio:///search?search=Randal%20Douc"
+   },
+   {
+    "name": "Jean-Baptiste Phou",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Baptiste%20Phou"
+   },
+   {
+    "name": "Rithy Panh",
+    "category": "Writers",
+    "url": "stremio:///search?search=Rithy%20Panh"
+   },
+   {
+    "name": "Christophe Bataille",
+    "category": "Writers",
+    "url": "stremio:///search?search=Christophe%20Bataille"
+   },
+   {
+    "name": "Rithy Panh",
+    "category": "Directors",
+    "url": "stremio:///search?search=Rithy%20Panh"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2852470",
+   "hasScheduledVideos": false
+  }
+ }
+}

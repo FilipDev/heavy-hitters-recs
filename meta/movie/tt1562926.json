@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "id": "tt1562926",
+  "imdb_id": "tt1562926",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt1562926/img",
+  "logo": "https://live.metahub.space/logo/medium/tt1562926/img",
+  "background": "https://live.metahub.space/background/medium/tt1562926/img",
+  "moviedb_id": 153599,
+  "name": "Wisdom Teeth",
+  "description": "Captures a man having a wisdom tooth pulled, and his friend asking to pull the stitches. Five minutes, one dental thread, escalating commitment to a single bad idea. The palate cleanser of the catalogue, placed here as programmed.\n\nNigel does his best to help with his friend's simple request.",
+  "genres": [
+   "Comedy",
+   "Animation"
+  ],
+  "releaseInfo": "2010",
+  "runtime": "6 min",
+  "trailers": [],
+  "cast": [
+   "Don Hertzfeldt",
+   "Roxanna Hibdon"
+  ],
+  "credits_cast": [
+   {
+    "character": "Stanilus (voice)",
+    "name": "Don Hertzfeldt",
+    "profile_path": "/6DwlGgVtZ9tAo7xZH2dfduS8VTw.jpg",
+    "id": 109314
+   },
+   {
+    "character": "Woman (voice)",
+    "name": "Roxanna Hibdon",
+    "profile_path": null,
+    "id": 1734773
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Don Hertzfeldt",
+    "profile_path": "/6DwlGgVtZ9tAo7xZH2dfduS8VTw.jpg",
+    "id": 109314
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Don Hertzfeldt",
+    "profile_path": "/6DwlGgVtZ9tAo7xZH2dfduS8VTw.jpg",
+    "id": 109314
+   }
+  ],
+  "director": [
+   "Don Hertzfeldt"
+  ],
+  "imdbRating": "6.7",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "slug": "movie/wisdom-teeth-1562926",
+  "behaviorHints": {
+   "defaultVideoId": "tt1562926",
+   "hasScheduledVideos": false
+  }
+ }
+}

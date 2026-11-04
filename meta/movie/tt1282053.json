@@ -1,0 +1,87 @@
+{
+ "meta": {
+  "awards": "15 wins.",
+  "cast": [
+   "Don Hertzfeldt"
+  ],
+  "country": "USA",
+  "description": "Captures Bill's family history told as a hereditary weather system: a mother, a man split into two by a train, a cousin in a rocket, the same darkness handed down like furniture. Part two of the trilogy, and the one where his prose — because by now the narration is prose — peaks.",
+  "director": [
+   "Don Hertzfeldt"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Animation",
+   "Short",
+   "Comedy"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt1282053",
+  "moviedb_id": 32534,
+  "name": "I Am So Proud of You",
+  "poster": "https://images.metahub.space/poster/small/tt1282053/img",
+  "released": "2009-03-06T22:00:00.000Z",
+  "runtime": "22 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Don Hertzfeldt"
+  ],
+  "year": "2008",
+  "popularities": {
+   "moviedb": 0.00071431769535546
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt1282053/img",
+  "background": "https://images.metahub.space/background/medium/tt1282053/img",
+  "id": "tt1282053",
+  "genres": [
+   "Animation",
+   "Short",
+   "Comedy"
+  ],
+  "releaseInfo": "2008",
+  "videos": [],
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1282053"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Short",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Short"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Don Hertzfeldt",
+    "category": "Cast",
+    "url": "stremio:///search?search=Don%20Hertzfeldt"
+   },
+   {
+    "name": "Don Hertzfeldt",
+    "category": "Writers",
+    "url": "stremio:///search?search=Don%20Hertzfeldt"
+   },
+   {
+    "name": "Don Hertzfeldt",
+    "category": "Directors",
+    "url": "stremio:///search?search=Don%20Hertzfeldt"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1282053",
+   "hasScheduledVideos": false
+  }
+ }
+}

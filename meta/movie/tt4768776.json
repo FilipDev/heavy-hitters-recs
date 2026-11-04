@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt4768776",
+  "name": "Right Now, Wrong Then",
+  "popularities": {
+   "moviedb": 2.6486,
+   "stremio": 0.08828666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "CVZyqZZVGAA",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 354275,
+  "year": "2015",
+  "runtime": "121 min",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "released": "2015-09-24T00:00:00.000Z",
+  "director": [
+   "Hong Sang-soo"
+  ],
+  "writer": [
+   "Hong Sang-soo"
+  ],
+  "cast": [
+   "Jeong Jae-yeong",
+   "Kim Min-hee",
+   "Youn Yuh-jung"
+  ],
+  "imdbRating": "7.1",
+  "poster": "https://images.metahub.space/poster/small/tt4768776/img",
+  "description": "Captures the same day told twice, with the pronouns changed. A director visits a town, meets a painter, drinks, flatters, fumbles; then the film restarts and plays it again with small shifts of honesty — a controlled experiment in how little has to change for everything to.\n\nA married film director falls for a young painter - twice.",
+  "country": "South Korea",
+  "awards": "15 wins & 12 nominations total",
+  "dvdRelease": "2017-03-29T00:00:00.000Z",
+  "slug": "movie/right-now-wrong-then-4768776",
+  "background": "https://images.metahub.space/background/medium/tt4768776/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4768776/img",
+  "popularity": 0.08828666666666667,
+  "id": "tt4768776",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Right Now, Wrong Then",
+    "ytId": "CVZyqZZVGAA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4768776"
+   },
+   {
+    "name": "Right Now, Wrong Then",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/right-now-wrong-then-4768776"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jeong Jae-yeong",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeong%20Jae-yeong"
+   },
+   {
+    "name": "Kim Min-hee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kim%20Min-hee"
+   },
+   {
+    "name": "Youn Yuh-jung",
+    "category": "Cast",
+    "url": "stremio:///search?search=Youn%20Yuh-jung"
+   },
+   {
+    "name": "Hong Sang-soo",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hong%20Sang-soo"
+   },
+   {
+    "name": "Hong Sang-soo",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hong%20Sang-soo"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4768776",
+   "hasScheduledVideos": false
+  }
+ }
+}

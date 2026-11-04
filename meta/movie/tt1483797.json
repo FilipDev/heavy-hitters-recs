@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "1 win & 3 nominations total",
+  "cast": [
+   "Takuya Kimura",
+   "Yû Aoi",
+   "Takeshi Aono"
+  ],
+  "country": "Japan",
+  "description": "Captures the most dangerous race in the galaxy, drawn by hand over seven years. A pompadoured driver, a fascist robot planet, cars that deform like taffy at speed; there is no CGI sheen anywhere, just 100,000 drawings insisting that velocity is a drawing problem.\n\nA story about the most popular racing event in the galaxy, the Redline, and the various racers who compete in it.",
+  "director": [
+   "Takeshi Koike"
+  ],
+  "dvdRelease": "2012-01-17T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Action",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt1483797",
+  "moviedb_id": 71883,
+  "name": "Redline",
+  "popularity": 0.16216,
+  "poster": "https://images.metahub.space/poster/small/tt1483797/img",
+  "released": "2010-10-09T00:00:00.000Z",
+  "runtime": "102 min",
+  "trailers": [
+   {
+    "source": "R2H_FsmxWzc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Katsuhito Ishii",
+   "Yôji Enokido",
+   "Yoshiki Sakurai"
+  ],
+  "year": "2010",
+  "background": "https://images.metahub.space/background/medium/tt1483797/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1483797/img",
+  "popularities": {
+   "moviedb": 4.8648,
+   "stremio": 0.16216,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/redline-1483797",
+  "id": "tt1483797",
+  "genres": [
+   "Animation",
+   "Action",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2010",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Redline",
+    "ytId": "R2H_FsmxWzc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1483797"
+   },
+   {
+    "name": "Redline",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/redline-1483797"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Takuya Kimura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Takuya%20Kimura"
+   },
+   {
+    "name": "Yû Aoi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Y%C3%BB%20Aoi"
+   },
+   {
+    "name": "Takeshi Aono",
+    "category": "Cast",
+    "url": "stremio:///search?search=Takeshi%20Aono"
+   },
+   {
+    "name": "Katsuhito Ishii",
+    "category": "Writers",
+    "url": "stremio:///search?search=Katsuhito%20Ishii"
+   },
+   {
+    "name": "Yôji Enokido",
+    "category": "Writers",
+    "url": "stremio:///search?search=Y%C3%B4ji%20Enokido"
+   },
+   {
+    "name": "Yoshiki Sakurai",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yoshiki%20Sakurai"
+   },
+   {
+    "name": "Takeshi Koike",
+    "category": "Directors",
+    "url": "stremio:///search?search=Takeshi%20Koike"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1483797",
+   "hasScheduledVideos": false
+  }
+ }
+}

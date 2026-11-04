@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "awards": "1 win & 11 nominations total",
+  "cast": [
+   "Jesse Eisenberg",
+   "Mia Wasikowska",
+   "Wallace Shawn"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures a man replaced by the version of himself with better settings. A clerk nobody notices meets his double, who is identical and effortlessly everything he isn't; Dostoevsky rebuilt as a clanking bureaucratic nightmare with Jesse Eisenberg against himself.\n\nThe unenviable life of a government-agency clerk takes a horrific turn with the arrival of a new co-worker who is both his exact physical double and his opposite otherwise--he's a confident, charismatic ladies' man.",
+  "director": [
+   "Richard Ayoade"
+  ],
+  "dvdRelease": "2015-05-09T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "6.4",
+  "imdb_id": "tt1825157",
+  "moviedb_id": 146015,
+  "name": "The Double",
+  "popularity": 0.12767333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt1825157/img",
+  "released": "2014-04-04T00:00:00.000Z",
+  "runtime": "93 min",
+  "trailers": [
+   {
+    "source": "mzw0wEcsfxE",
+    "type": "Trailer"
+   },
+   {
+    "source": "_klCoDTHKGg",
+    "type": "Trailer"
+   },
+   {
+    "source": "xWhikLYeSQ0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Fyodor Dostoevsky",
+   "Richard Ayoade",
+   "Avi Korine"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt1825157/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1825157/img",
+  "popularities": {
+   "moviedb": 3.8302,
+   "stremio": 0.12767333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-double-1825157",
+  "id": "tt1825157",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2014",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Double",
+    "ytId": "mzw0wEcsfxE"
+   },
+   {
+    "title": "The Double",
+    "ytId": "_klCoDTHKGg"
+   },
+   {
+    "title": "The Double",
+    "ytId": "xWhikLYeSQ0"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1825157"
+   },
+   {
+    "name": "The Double",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-double-1825157"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Jesse Eisenberg",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jesse%20Eisenberg"
+   },
+   {
+    "name": "Mia Wasikowska",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mia%20Wasikowska"
+   },
+   {
+    "name": "Wallace Shawn",
+    "category": "Cast",
+    "url": "stremio:///search?search=Wallace%20Shawn"
+   },
+   {
+    "name": "Fyodor Dostoevsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Fyodor%20Dostoevsky"
+   },
+   {
+    "name": "Richard Ayoade",
+    "category": "Writers",
+    "url": "stremio:///search?search=Richard%20Ayoade"
+   },
+   {
+    "name": "Avi Korine",
+    "category": "Writers",
+    "url": "stremio:///search?search=Avi%20Korine"
+   },
+   {
+    "name": "Richard Ayoade",
+    "category": "Directors",
+    "url": "stremio:///search?search=Richard%20Ayoade"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1825157",
+   "hasScheduledVideos": false
+  }
+ }
+}

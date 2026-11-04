@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "imdb_id": "tt11394290",
+  "name": "The Earth Is Blue as an Orange",
+  "awards": "19 wins & 17 nominations",
+  "cast": [
+   "Danylo Dydenko",
+   "Ganna Gladka",
+   "Olena Gladka"
+  ],
+  "country": "Ukraine, Lithuania",
+  "description": "Captures a family directing its own war movie inside a real war. In the Donbas front-line town of Krasnohorivka, a mother and her kids shoot a fiction film about their lives between shelling — the camera as the household's way of staying sane, years before 2022 made the footage prophetic.\n\nTo cope with the daily trauma of living in a war-zone, Anna and her children are making a film together about their life in the most surreal surroundings.",
+  "director": [
+   "Iryna Tsilyk"
+  ],
+  "genre": [
+   "Documentary",
+   "War"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt11394290/img",
+  "released": "2020-10-26T00:00:00.000Z",
+  "runtime": "74 min",
+  "slug": "movie/the-earth-is-blue-as-an-orange-11394290",
+  "type": "movie",
+  "writer": [
+   "Iryna Tsilyk"
+  ],
+  "year": "2020",
+  "moviedb_id": 653753,
+  "popularities": {
+   "moviedb": 1.1016,
+   "stremio": 0.036719999999999996,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "6zaSaum2VRM",
+    "type": "Trailer"
+   },
+   {
+    "source": "JctQqiT1eYQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "wGILh9uVXi4",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt11394290/img",
+  "logo": "https://images.metahub.space/logo/medium/tt11394290/img",
+  "popularity": 0.036719999999999996,
+  "id": "tt11394290",
+  "genres": [
+   "Documentary",
+   "War"
+  ],
+  "releaseInfo": "2020",
+  "trailerStreams": [
+   {
+    "title": "The Earth Is Blue as an Orange",
+    "ytId": "6zaSaum2VRM"
+   },
+   {
+    "title": "The Earth Is Blue as an Orange",
+    "ytId": "JctQqiT1eYQ"
+   },
+   {
+    "title": "The Earth Is Blue as an Orange",
+    "ytId": "wGILh9uVXi4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt11394290"
+   },
+   {
+    "name": "The Earth Is Blue as an Orange",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-earth-is-blue-as-an-orange-11394290"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Danylo Dydenko",
+    "category": "Cast",
+    "url": "stremio:///search?search=Danylo%20Dydenko"
+   },
+   {
+    "name": "Ganna Gladka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ganna%20Gladka"
+   },
+   {
+    "name": "Olena Gladka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olena%20Gladka"
+   },
+   {
+    "name": "Iryna Tsilyk",
+    "category": "Writers",
+    "url": "stremio:///search?search=Iryna%20Tsilyk"
+   },
+   {
+    "name": "Iryna Tsilyk",
+    "category": "Directors",
+    "url": "stremio:///search?search=Iryna%20Tsilyk"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt11394290",
+   "hasScheduledVideos": false
+  }
+ }
+}
