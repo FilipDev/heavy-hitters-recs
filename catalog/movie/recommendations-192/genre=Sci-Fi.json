@@ -1,0 +1,279 @@
+{
+ "metas": [
+  {
+   "id": "tt2866360",
+   "type": "movie",
+   "name": "Coherence",
+   "poster": "https://images.metahub.space/poster/medium/tt2866360/img",
+   "background": "https://images.metahub.space/background/medium/tt2866360/img",
+   "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "89 min",
+   "director": "James Ward Byrkit",
+   "description": "Captures an inversion problem in film form: eight people at a dinner party during a comet find other houses holding the same eight people, and try to tell the worlds apart with numbered photos, dice and glow sticks — markers that keep getting copied or lost."
+  },
+  {
+   "id": "tt0390384",
+   "type": "movie",
+   "name": "Primer",
+   "poster": "https://images.metahub.space/poster/medium/tt0390384/img",
+   "background": "https://images.metahub.space/background/medium/tt0390384/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2004",
+   "year": 2004,
+   "runtime": "77 min",
+   "director": "Shane Carruth",
+   "description": "Captures nested causal chains in parallel. Two engineers build a time machine in a garage, copies of the same people multiply across loops, and who is observing whom keeps flipping depending on which loop you are in."
+  },
+  {
+   "id": "tt2397535",
+   "type": "movie",
+   "name": "Predestination",
+   "poster": "https://images.metahub.space/poster/medium/tt2397535/img",
+   "background": "https://images.metahub.space/background/medium/tt2397535/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "97 min",
+   "director": "Michael Spierig, Peter Spierig",
+   "description": "Captures a closed loop where a self is its own cause. A time-travelling agent on one last assignment is caught in a cycle that lands on the autonomy paradox: if the self seeking freedom was produced by the structure, what would escaping be for that self?"
+  },
+  {
+   "id": "tt2798920",
+   "type": "movie",
+   "name": "Annihilation",
+   "poster": "https://images.metahub.space/poster/medium/tt2798920/img",
+   "background": "https://images.metahub.space/background/medium/tt2798920/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "115 min",
+   "director": "Alex Garland",
+   "description": "Captures a zone that refracts everything that passes through it. A team enters the Shimmer, where light, radio, DNA and memory are mixed across channels like a signal through a prism — plants shaped like people, animals carrying other species' traits."
+  },
+  {
+   "id": "tt0206634",
+   "type": "movie",
+   "name": "Children of Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0206634/img",
+   "background": "https://images.metahub.space/background/medium/tt0206634/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "109 min",
+   "director": "Alfonso Cuarón",
+   "description": "Captures a society coming apart at street level. In 2027, after 18 years of human infertility, a burned-out bureaucrat must get one pregnant woman across a collapsing Britain of refugee camps and long-take ambushes."
+  },
+  {
+   "id": "tt1392190",
+   "type": "movie",
+   "name": "Mad Max: Fury Road",
+   "poster": "https://images.metahub.space/poster/medium/tt1392190/img",
+   "background": "https://images.metahub.space/background/medium/tt1392190/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "120 min",
+   "director": "George Miller",
+   "description": "Captures momentum as a physical state. Almost no dialogue, one chase out and one chase back — speed, heat and desperation, with a war-rig as a whole society in miniature."
+  },
+  {
+   "id": "tt0079944",
+   "type": "movie",
+   "name": "Stalker",
+   "poster": "https://images.metahub.space/poster/medium/tt0079944/img",
+   "background": "https://images.metahub.space/background/medium/tt0079944/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1979",
+   "year": 1979,
+   "runtime": "162 min",
+   "director": "Andrei Tarkovsky",
+   "description": "Captures wanting something you are afraid to actually receive. A guide leads a writer and a scientist into a forbidden Zone toward a room said to grant your innermost wish; very slow, and the slowness is the point."
+  },
+  {
+   "id": "tt4633694",
+   "type": "movie",
+   "name": "Spider-Man: Into the Spider-Verse",
+   "poster": "https://images.metahub.space/poster/medium/tt4633694/img",
+   "background": "https://images.metahub.space/background/medium/tt4633694/img",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "117 min",
+   "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+   "description": "Captures what a comic book actually feels like to read, in motion. Also a genuinely good story about a kid learning that anyone can wear the mask, by failing at it a lot."
+  },
+  {
+   "id": "tt1441395",
+   "type": "movie",
+   "name": "Under the Skin",
+   "poster": "https://images.metahub.space/poster/medium/tt1441395/img",
+   "background": "https://images.metahub.space/background/medium/tt1441395/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "108 min",
+   "director": "Jonathan Glazer",
+   "description": "Captures human beings seen from outside the species. A woman drives a van around Glasgow picking up men, in real streets with hidden cameras and non-actors, and something in the routine begins to fail — images that lodge permanently."
+  },
+  {
+   "id": "tt1798709",
+   "type": "movie",
+   "name": "Her",
+   "poster": "https://images.metahub.space/poster/medium/tt1798709/img",
+   "background": "https://images.metahub.space/background/medium/tt1798709/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "126 min",
+   "director": "Spike Jonze",
+   "description": "Captures loneliness in a warm, well-designed future. A divorced man who writes other people's love letters for a living falls for a voice in his ear, and the film takes the relationship seriously enough to let it outgrow him."
+  },
+  {
+   "id": "tt0119177",
+   "type": "movie",
+   "name": "Gattaca",
+   "poster": "https://images.metahub.space/poster/medium/tt0119177/img",
+   "background": "https://images.metahub.space/background/medium/tt0119177/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "106 min",
+   "director": "Andrew Niccol",
+   "description": "Captures a caste system built from a blood sample. A man born without genetic screening borrows another man's blood, urine and identity to reach space, while his 'valid' brother keeps challenging him to swimming races neither should survive."
+  },
+  {
+   "id": "tt0120382",
+   "type": "movie",
+   "name": "The Truman Show",
+   "poster": "https://images.metahub.space/poster/medium/tt0120382/img",
+   "background": "https://images.metahub.space/background/medium/tt0120382/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "103 min",
+   "director": "Peter Weir",
+   "description": "Captures a paranoia that turns out to be an accurate description. An insurance salesman in a seaside town so pleasant it feels laminated, a sky that malfunctions, and a dawning suspicion about everyone who loves him."
+  },
+  {
+   "id": "tt0338013",
+   "type": "movie",
+   "name": "Eternal Sunshine of the Spotless Mind",
+   "poster": "https://images.metahub.space/poster/medium/tt0338013/img",
+   "background": "https://images.metahub.space/background/medium/tt0338013/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2004",
+   "year": 2004,
+   "runtime": "108 min",
+   "director": "Michel Gondry",
+   "description": "Captures trying to keep someone while paying to forget them. A couple erase each other after a breakup; inside the procedure, mid-deletion, he changes his mind and hides her in childhood memories the technicians haven't reached."
+  },
+  {
+   "id": "tt0069293",
+   "type": "movie",
+   "name": "Solaris",
+   "poster": "https://images.metahub.space/poster/medium/tt0069293/img",
+   "background": "https://images.metahub.space/background/medium/tt0069293/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1972",
+   "year": 1972,
+   "runtime": "167 min",
+   "director": "Andrei Tarkovsky",
+   "description": "Captures grief arriving in physical form, in orbit. A psychologist on a space station finds the crew haunted by visitors the planet below has made from their memories — including his dead wife, who knows she isn't her."
+  },
+  {
+   "id": "tt0086541",
+   "type": "movie",
+   "name": "Videodrome",
+   "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
+   "background": "https://images.metahub.space/background/medium/tt0086541/img",
+   "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "87 min",
+   "director": "David Cronenberg",
+   "description": "Captures a TV signal getting inside a body. A sleazy Toronto cable programmer finds a pirate broadcast of torture, becomes obsessed, and his perception and flesh start reorganising around it."
+  },
+  {
+   "id": "tt0138704",
+   "type": "movie",
+   "name": "Pi",
+   "poster": "https://images.metahub.space/poster/medium/tt0138704/img",
+   "background": "https://images.metahub.space/background/medium/tt0138704/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "84 min",
+   "director": "Darren Aronofsky",
+   "description": "Captures obsession with a pattern, filmed on grain. A mathematician in a tiny New York apartment with computers made of junk, a number that Wall Street and a Hasidic sect both want, and migraines rendered as drill sounds."
+  }
+ ]
+}

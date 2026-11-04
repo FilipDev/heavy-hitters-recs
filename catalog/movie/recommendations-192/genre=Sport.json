@@ -1,0 +1,103 @@
+{
+ "metas": [
+  {
+   "id": "tt0110057",
+   "type": "movie",
+   "name": "Hoop Dreams",
+   "poster": "https://images.metahub.space/poster/medium/tt0110057/img",
+   "background": "https://images.metahub.space/background/medium/tt0110057/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "170 min",
+   "director": "Steve James",
+   "description": "Captures the American dream as a system that uses kids up. Two Chicago teenagers filmed over five years chasing basketball as a way out, as school, family, money and injury keep intervening."
+  },
+  {
+   "id": "tt1424432",
+   "type": "movie",
+   "name": "Senna",
+   "poster": "https://images.metahub.space/poster/medium/tt1424432/img",
+   "background": "https://images.metahub.space/background/medium/tt1424432/img",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Sport"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "104 min",
+   "director": "Asif Kapadia",
+   "description": "Captures speed, faith and charisma, entirely from archive. Ayrton Senna's career built only from period footage and voices — rivalry with Prost, Brazil on his helmet, in-car laps that feel like prayer at 300 km/h."
+  },
+  {
+   "id": "tt7775622",
+   "type": "movie",
+   "name": "Free Solo",
+   "poster": "https://images.metahub.space/poster/medium/tt7775622/img",
+   "background": "https://images.metahub.space/background/medium/tt7775622/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "100 min",
+   "director": "Jimmy Chin, Elizabeth Chai Vasarhelyi",
+   "description": "Captures a man whose relationship to fear is simply different from yours. Alex Honnold prepares to climb El Capitan without ropes while the filmmakers — his friends — argue on camera about whether filming changes the odds."
+  },
+  {
+   "id": "tt0118147",
+   "type": "movie",
+   "name": "When We Were Kings",
+   "poster": "https://images.metahub.space/poster/medium/tt0118147/img",
+   "background": "https://images.metahub.space/background/medium/tt0118147/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Sport"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "88 min",
+   "director": "Leon Gast",
+   "description": "Captures Ali as a political and verbal artist at his peak. The Rumble in the Jungle, Zaire 1974: training footage, a music festival, Mobutu's stadium, and Ali talking everyone, including himself, into belief."
+  },
+  {
+   "id": "tt1125849",
+   "type": "movie",
+   "name": "The Wrestler",
+   "poster": "https://images.metahub.space/poster/medium/tt1125849/img",
+   "background": "https://images.metahub.space/background/medium/tt1125849/img",
+   "genres": [
+    "Drama",
+    "Sport"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "109 min",
+   "director": "Darren Aronofsky",
+   "description": "Captures a body that only has value inside the ring. An ageing, hearing-damaged wrestler on supermarket shifts, trying with his daughter, and finding the crowd is the one place the world still makes sense to him."
+  },
+  {
+   "id": "tt0081398",
+   "type": "movie",
+   "name": "Raging Bull",
+   "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
+   "background": "https://images.metahub.space/background/medium/tt0081398/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+   ],
+   "releaseInfo": "1980",
+   "year": 1980,
+   "runtime": "129 min",
+   "director": "Martin Scorsese",
+   "description": "Captures self-destruction in a family kitchen as much as a ring. Jake LaMotta's jealousy and violence at home filmed with the same intensity as the fights; he can take any punch except accountability."
+  }
+ ]
+}
