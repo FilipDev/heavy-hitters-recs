@@ -1,0 +1,167 @@
+{
+ "metas": [
+  {
+   "id": "tt2582802",
+   "type": "movie",
+   "name": "Whiplash",
+   "poster": "https://images.metahub.space/poster/medium/tt2582802/img",
+   "background": "https://images.metahub.space/background/medium/tt2582802/img",
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "106 min",
+   "director": "Damien Chazelle",
+   "description": "Captures ambition as a kind of self-violence. A jazz drummer practises until his hands bleed under a teacher who terrorises him, and the final scene shows the exact moment he chooses greatness anyway, without resolving whether it was worth it."
+  },
+  {
+   "id": "tt0088178",
+   "type": "movie",
+   "name": "Stop Making Sense",
+   "poster": "https://images.metahub.space/poster/medium/tt0088178/img",
+   "background": "https://images.metahub.space/background/medium/tt0088178/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "88 min",
+   "director": "Jonathan Demme",
+   "description": "Captures a band building joy in real time. A Talking Heads concert that starts with David Byrne alone with a boombox and adds one musician per song until the stage is full — and his suit keeps getting bigger."
+  },
+  {
+   "id": "tt4935462",
+   "type": "movie",
+   "name": "Amazing Grace",
+   "poster": "https://images.metahub.space/poster/medium/tt4935462/img",
+   "background": "https://images.metahub.space/background/medium/tt4935462/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "89 min",
+   "director": "Sydney Pollack, Alan Elliott",
+   "description": "Captures singing as spiritual labour. Aretha Franklin recording a live gospel album in a Los Angeles church in 1972, over two nights, in a performance that visibly costs her something."
+  },
+  {
+   "id": "tt7378922",
+   "type": "movie",
+   "name": "Summer of Soul",
+   "poster": "https://images.metahub.space/poster/medium/tt7378922/img",
+   "background": "https://images.metahub.space/background/medium/tt7378922/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "118 min",
+   "director": "Questlove",
+   "description": "Captures a community's archive left in a basement for 50 years. The 1969 Harlem Cultural Festival — Stevie Wonder, Nina Simone, Mahalia Jackson, Sly Stone — in footage almost nobody saw."
+  },
+  {
+   "id": "tt0077838",
+   "type": "movie",
+   "name": "The Last Waltz",
+   "poster": "https://images.metahub.space/poster/medium/tt0077838/img",
+   "background": "https://images.metahub.space/background/medium/tt0077838/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1978",
+   "year": 1978,
+   "runtime": "117 min",
+   "director": "Martin Scorsese",
+   "description": "Captures a musical era ending on stage, politely. The Band's farewell concert with everyone they came up with as guests, and backstage interviews with men who sound relieved and bereaved at once."
+  },
+  {
+   "id": "tt0186508",
+   "type": "movie",
+   "name": "Buena Vista Social Club",
+   "poster": "https://images.metahub.space/poster/medium/tt0186508/img",
+   "background": "https://images.metahub.space/background/medium/tt0186508/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "105 min",
+   "director": "Wim Wenders",
+   "description": "Captures old musicians being found again. Elderly Cuban son musicians, some retired to shining shoes, recording and touring — the pleasure is in their faces and Havana's streets."
+  },
+  {
+   "id": "tt2396566",
+   "type": "movie",
+   "name": "20 Feet from Stardom",
+   "poster": "https://images.metahub.space/poster/medium/tt2396566/img",
+   "background": "https://images.metahub.space/background/medium/tt2396566/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "91 min",
+   "director": "Morgan Neville",
+   "description": "Captures the voices you know best belonging to people you can't name. Backup singers for the Stones, Springsteen and Sting — huge talent, a career spent three steps behind someone else."
+  },
+  {
+   "id": "tt0085809",
+   "type": "movie",
+   "name": "Koyaanisqatsi",
+   "poster": "https://images.metahub.space/poster/medium/tt0085809/img",
+   "background": "https://images.metahub.space/background/medium/tt0085809/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1982",
+   "year": 1982,
+   "runtime": "86 min",
+   "director": "Godfrey Reggio",
+   "description": "Captures civilisation as pattern. No dialogue or characters: time-lapse clouds, highways, factories, demolition and crowds cut to Philip Glass, until modern life starts to look like weather."
+  },
+  {
+   "id": "tt0045152",
+   "type": "movie",
+   "name": "Singin' in the Rain",
+   "poster": "https://images.metahub.space/poster/medium/tt0045152/img",
+   "background": "https://images.metahub.space/background/medium/tt0045152/img",
+   "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+   ],
+   "releaseInfo": "1952",
+   "year": 1952,
+   "runtime": "103 min",
+   "director": "Gene Kelly, Stanley Donen",
+   "description": "Captures pure performed joy, inside a story about an industry panicking. Hollywood switching to sound, a star with a terrible voice, and musical numbers that still feel like showing off for the love of it."
+  },
+  {
+   "id": "tt14444726",
+   "type": "movie",
+   "name": "Tár",
+   "poster": "https://images.metahub.space/poster/medium/tt14444726/img",
+   "background": "https://images.metahub.space/background/medium/tt14444726/img",
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "158 min",
+   "director": "Todd Field",
+   "description": "Captures prestige as a system one woman believes she controls. A conductor at the top of classical music — Berlin, Mahler, acolytes — and a slow accumulation of recordings, edits and allegations, filmed with the cold precision its subject would admire."
+  }
+ ]
+}

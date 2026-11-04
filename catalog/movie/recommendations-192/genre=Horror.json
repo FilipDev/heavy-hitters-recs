@@ -1,0 +1,249 @@
+{
+ "metas": [
+  {
+   "id": "tt2798920",
+   "type": "movie",
+   "name": "Annihilation",
+   "poster": "https://images.metahub.space/poster/medium/tt2798920/img",
+   "background": "https://images.metahub.space/background/medium/tt2798920/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "115 min",
+   "director": "Alex Garland",
+   "description": "Captures a zone that refracts everything that passes through it. A team enters the Shimmer, where light, radio, DNA and memory are mixed across channels like a signal through a prism — plants shaped like people, animals carrying other species' traits."
+  },
+  {
+   "id": "tt0082933",
+   "type": "movie",
+   "name": "Possession",
+   "poster": "https://images.metahub.space/poster/medium/tt0082933/img",
+   "background": "https://images.metahub.space/background/medium/tt0082933/img",
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "releaseInfo": "1981",
+   "year": 1981,
+   "runtime": "124 min",
+   "director": "Andrzej Żuławski",
+   "description": "Captures a marriage breaking down as literal hysteria. A couple in Berlin tearing each other apart, in Isabelle Adjani's unhinged performance — domestic, then completely not."
+  },
+  {
+   "id": "tt0156887",
+   "type": "movie",
+   "name": "Perfect Blue",
+   "poster": "https://images.metahub.space/poster/medium/tt0156887/img",
+   "background": "https://images.metahub.space/background/medium/tt0156887/img",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "81 min",
+   "director": "Satoshi Kon",
+   "description": "Captures fame eating a person's grip on which self is hers. A pop idol turned actress, a stalker, and a fan site narrating her life in first person — the animated form is what makes the slippage work."
+  },
+  {
+   "id": "tt0123948",
+   "type": "movie",
+   "name": "Cure",
+   "poster": "https://images.metahub.space/poster/medium/tt0123948/img",
+   "background": "https://images.metahub.space/background/medium/tt0123948/img",
+   "genres": [
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "111 min",
+   "director": "Kiyoshi Kurosawa",
+   "description": "Captures emptiness spreading from person to person. A Tokyo detective investigates murders where each killer is different, calm, and cannot explain themselves — hypnotic and grey rather than jumpy."
+  },
+  {
+   "id": "tt4263482",
+   "type": "movie",
+   "name": "The Witch",
+   "poster": "https://images.metahub.space/poster/medium/tt4263482/img",
+   "background": "https://images.metahub.space/background/medium/tt4263482/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "92 min",
+   "director": "Robert Eggers",
+   "description": "Captures religious paranoia eating a family from inside its own beliefs. Puritan settlers exiled to a forest's edge: a crop fails, a baby vanishes, and their theology gives them only one interpretation."
+  },
+  {
+   "id": "tt0816556",
+   "type": "movie",
+   "name": "Lake Mungo",
+   "poster": "https://images.metahub.space/poster/medium/tt0816556/img",
+   "background": "https://images.metahub.space/background/medium/tt0816556/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "87 min",
+   "director": "Joel Anderson",
+   "description": "Captures grief in the form of a family documentary. Found footage, but the subject is not the ghost — it is parents and a brother in interviews, months after a drowning, still looking for anything."
+  },
+  {
+   "id": "tt0114323",
+   "type": "movie",
+   "name": "Safe",
+   "poster": "https://images.metahub.space/poster/medium/tt0114323/img",
+   "background": "https://images.metahub.space/background/medium/tt0114323/img",
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "119 min",
+   "director": "Todd Haynes",
+   "description": "Captures a suburban life so empty a woman becomes allergic to modernity itself. In perfect pastel houses, symptoms no doctor can find, and a drift toward a desert self-help commune."
+  },
+  {
+   "id": "tt7784604",
+   "type": "movie",
+   "name": "Hereditary",
+   "poster": "https://images.metahub.space/poster/medium/tt7784604/img",
+   "background": "https://images.metahub.space/background/medium/tt7784604/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "127 min",
+   "director": "Ari Aster",
+   "description": "Captures a family where grief and resentment were already there before anything supernatural. A grandmother dies, a mother builds miniature scenes of her life, and a dinner-table argument is the scariest sequence."
+  },
+  {
+   "id": "tt2332522",
+   "type": "movie",
+   "name": "Leviathan",
+   "poster": "https://images.metahub.space/poster/medium/tt2332522/img",
+   "background": "https://images.metahub.space/background/medium/tt2332522/img",
+   "genres": [
+    "Documentary",
+    "Horror"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "87 min",
+   "director": "Lucien Castaing-Taylor, Véréna Paravel",
+   "description": "Captures commercial fishing as a sensory ordeal. Cameras strapped to nets, chains, helmets and the hull of a North Atlantic trawler — fish heads, gulls, diesel, men half-asleep at 3 a.m., no explanation offered."
+  },
+  {
+   "id": "tt1441395",
+   "type": "movie",
+   "name": "Under the Skin",
+   "poster": "https://images.metahub.space/poster/medium/tt1441395/img",
+   "background": "https://images.metahub.space/background/medium/tt1441395/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "108 min",
+   "director": "Jonathan Glazer",
+   "description": "Captures human beings seen from outside the species. A woman drives a van around Glasgow picking up men, in real streets with hidden cameras and non-actors, and something in the routine begins to fail — images that lodge permanently."
+  },
+  {
+   "id": "tt0119167",
+   "type": "movie",
+   "name": "Funny Games",
+   "poster": "https://images.metahub.space/poster/medium/tt0119167/img",
+   "background": "https://images.metahub.space/background/medium/tt0119167/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "111 min",
+   "director": "Michael Haneke",
+   "description": "Captures the audience's appetite, by refusing to feed it the usual way. Two polite young men hold a family at their holiday house; violence happens off-screen or gets rewound, and the film keeps asking why you're still watching."
+  },
+  {
+   "id": "tt0086541",
+   "type": "movie",
+   "name": "Videodrome",
+   "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
+   "background": "https://images.metahub.space/background/medium/tt0086541/img",
+   "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "87 min",
+   "director": "David Cronenberg",
+   "description": "Captures a TV signal getting inside a body. A sleazy Toronto cable programmer finds a pirate broadcast of torture, becomes obsessed, and his perception and flesh start reorganising around it."
+  },
+  {
+   "id": "tt2326554",
+   "type": "movie",
+   "name": "A Girl Walks Home Alone at Night",
+   "poster": "https://images.metahub.space/poster/medium/tt2326554/img",
+   "background": "https://images.metahub.space/background/medium/tt2326554/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Romance",
+    "Thriller",
+    "Western"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "101 min",
+   "director": "Ana Lily Amirpour",
+   "description": "Captures a vampire film rebuilt from Iranian, Western and skate-punk parts. A fictional Iranian ghost town, a chador-wearing vampire on a skateboard, a drug dealer and a cat, in long black-and-white silences between bursts of pop."
+  },
+  {
+   "id": "tt0138704",
+   "type": "movie",
+   "name": "Pi",
+   "poster": "https://images.metahub.space/poster/medium/tt0138704/img",
+   "background": "https://images.metahub.space/background/medium/tt0138704/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "84 min",
+   "director": "Darren Aronofsky",
+   "description": "Captures obsession with a pattern, filmed on grain. A mathematician in a tiny New York apartment with computers made of junk, a number that Wall Street and a Hasidic sect both want, and migraines rendered as drill sounds."
+  }
+ ]
+}

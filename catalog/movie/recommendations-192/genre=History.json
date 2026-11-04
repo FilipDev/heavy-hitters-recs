@@ -1,0 +1,251 @@
+{
+ "metas": [
+  {
+   "id": "tt2375605",
+   "type": "movie",
+   "name": "The Act of Killing",
+   "poster": "https://images.metahub.space/poster/medium/tt2375605/img",
+   "background": "https://images.metahub.space/background/medium/tt2375605/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "115 min",
+   "director": "Joshua Oppenheimer",
+   "description": "Captures impunity as performance. Indonesian mass killers, never punished and locally celebrated, gleefully re-stage their killings as Hollywood genres, until one man's body reacts before his conscience does."
+  },
+  {
+   "id": "tt1185616",
+   "type": "movie",
+   "name": "Waltz with Bashir",
+   "poster": "https://images.metahub.space/poster/medium/tt1185616/img",
+   "background": "https://images.metahub.space/background/medium/tt1185616/img",
+   "genres": [
+    "Animation",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "90 min",
+   "director": "Ari Folman",
+   "description": "Captures a soldier's memory with a hole in it. Animated interviews as the director tries to recover what he did in Beirut in 1982, ending with footage that breaks the animation open."
+  },
+  {
+   "id": "tt4686844",
+   "type": "movie",
+   "name": "The Death of Stalin",
+   "poster": "https://images.metahub.space/poster/medium/tt4686844/img",
+   "background": "https://images.metahub.space/background/medium/tt4686844/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "107 min",
+   "director": "Armando Iannucci",
+   "description": "Captures absolute power as petty, terrified men improvising. Stalin drops dead and his inner circle plot, flatter and panic in the same breath — very funny, and people keep being shot between jokes."
+  },
+  {
+   "id": "tt0056172",
+   "type": "movie",
+   "name": "Lawrence of Arabia",
+   "poster": "https://images.metahub.space/poster/medium/tt0056172/img",
+   "background": "https://images.metahub.space/background/medium/tt0056172/img",
+   "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1962",
+   "year": 1962,
+   "runtime": "218 min",
+   "director": "David Lean",
+   "description": "Captures a man inventing himself at desert scale. Nearly four hours: the landscape is a character, and so is the gap between the legend being built and the person inside it."
+  },
+  {
+   "id": "tt7378922",
+   "type": "movie",
+   "name": "Summer of Soul",
+   "poster": "https://images.metahub.space/poster/medium/tt7378922/img",
+   "background": "https://images.metahub.space/background/medium/tt7378922/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "118 min",
+   "director": "Questlove",
+   "description": "Captures a community's archive left in a basement for 50 years. The 1969 Harlem Cultural Festival — Stevie Wonder, Nina Simone, Mahalia Jackson, Sly Stone — in footage almost nobody saw."
+  },
+  {
+   "id": "tt2396566",
+   "type": "movie",
+   "name": "20 Feet from Stardom",
+   "poster": "https://images.metahub.space/poster/medium/tt2396566/img",
+   "background": "https://images.metahub.space/background/medium/tt2396566/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "91 min",
+   "director": "Morgan Neville",
+   "description": "Captures the voices you know best belonging to people you can't name. Backup singers for the Stones, Springsteen and Sting — huge talent, a career spent three steps behind someone else."
+  },
+  {
+   "id": "tt0443680",
+   "type": "movie",
+   "name": "The Assassination of Jesse James by the Coward Robert Ford",
+   "poster": "https://images.metahub.space/poster/medium/tt0443680/img",
+   "background": "https://images.metahub.space/background/medium/tt0443680/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History",
+    "Western"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "160 min",
+   "director": "Andrew Dominik",
+   "description": "Captures celebrity worship in 1882. A famous outlaw ageing and paranoid, and a young admirer who memorised his life from dime novels and moves into his orbit — slow, golden, narrated like a history book."
+  },
+  {
+   "id": "tt0112384",
+   "type": "movie",
+   "name": "Apollo 13",
+   "poster": "https://images.metahub.space/poster/medium/tt0112384/img",
+   "background": "https://images.metahub.space/background/medium/tt0112384/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "140 min",
+   "director": "Ron Howard",
+   "description": "Captures competence under constraint. An explosion in space, and the film becomes people in rooms with slide rules solving the next physical problem before the air runs out — the opposite of lone-hero cinema."
+  },
+  {
+   "id": "tt1213641",
+   "type": "movie",
+   "name": "First Man",
+   "poster": "https://images.metahub.space/poster/medium/tt1213641/img",
+   "background": "https://images.metahub.space/background/medium/tt1213641/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "141 min",
+   "director": "Damien Chazelle",
+   "description": "Captures the Moon landing from inside a grieving, taciturn man. Armstrong as an engineer who can land anything except in his own family's pain; the flights are rattling, cramped and procedural."
+  },
+  {
+   "id": "tt0118147",
+   "type": "movie",
+   "name": "When We Were Kings",
+   "poster": "https://images.metahub.space/poster/medium/tt0118147/img",
+   "background": "https://images.metahub.space/background/medium/tt0118147/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Sport"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "88 min",
+   "director": "Leon Gast",
+   "description": "Captures Ali as a political and verbal artist at his peak. The Rumble in the Jungle, Zaire 1974: training footage, a music festival, Mobutu's stadium, and Ali talking everyone, including himself, into belief."
+  },
+  {
+   "id": "tt0074119",
+   "type": "movie",
+   "name": "All the President's Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0074119/img",
+   "background": "https://images.metahub.space/background/medium/tt0074119/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "releaseInfo": "1976",
+   "year": 1976,
+   "runtime": "138 min",
+   "director": "Alan J. Pakula",
+   "description": "Captures journalism as shoe leather. Watergate as phone calls, parking garages, notebooks and editors asking 'what else do you have?' — verification repeated until a presidency moves."
+  },
+  {
+   "id": "tt1895587",
+   "type": "movie",
+   "name": "Spotlight",
+   "poster": "https://images.metahub.space/poster/medium/tt1895587/img",
+   "background": "https://images.metahub.space/background/medium/tt1895587/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "129 min",
+   "director": "Tom McCarthy",
+   "description": "Captures an investigation as a team slowly realising the size of the room they're in. Boston Globe reporters, church abuse, sealed records, survivors telling it plainly — no heroics beyond persistence."
+  },
+  {
+   "id": "tt0443706",
+   "type": "movie",
+   "name": "Zodiac",
+   "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
+   "background": "https://images.metahub.space/background/medium/tt0443706/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "History",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "157 min",
+   "director": "David Fincher",
+   "description": "Captures obsession with a case that will not close. San Francisco, years of codes, files, basements and false certainties; the killer fades and the men who chased him are what's left damaged."
+  },
+  {
+   "id": "tt0490215",
+   "type": "movie",
+   "name": "Silence",
+   "poster": "https://images.metahub.space/poster/medium/tt0490215/img",
+   "background": "https://images.metahub.space/background/medium/tt0490215/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "161 min",
+   "director": "Martin Scorsese",
+   "description": "Captures faith tested by other people's suffering, not your own. Jesuit priests in 17th-century Japan, where Christians are tortured to make them apostatise and God does not answer — Scorsese's quietest, most unresolved film."
+  }
+ ]
+}
