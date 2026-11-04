@@ -23,8 +23,8 @@ CID = 'recommendations-192'
 s = open(DASH).read()
 i = s.find('var FILMS = ') + len('var FILMS = ')
 films, _ = json.JSONDecoder().raw_decode(s[i:])
-assert len(films) == 192, len(films)
-assert len({f['imdb'] for f in films}) == 192
+assert len(films) == 363, len(films)
+assert len({f['imdb'] for f in films}) == 363
 
 def meta(f):
     tt = f['imdb']
@@ -56,25 +56,31 @@ os.makedirs(sub, exist_ok=True)
 
 allm = [meta(f) for f in films]
 
-# Main catalog: page 1 at <CID>.json, page 2 at <CID>/skip=100.json
-dump(os.path.join(base, f'{CID}.json'), allm[:PAGE])
-if len(allm) > PAGE:
-    dump(os.path.join(sub, f'skip={PAGE}.json'), allm[PAGE:])
+# Main catalog: page 1 at <CID>.json, further pages at <CID>/skip=<n>.json
+for start in range(0, len(allm), PAGE):
+    page = allm[start:start + PAGE]
+    if start == 0:
+        dump(os.path.join(base, f'{CID}.json'), page)
+    else:
+        dump(os.path.join(sub, f'skip={start}.json'), page)
 
-# One static file per genre view (+ a &skip= page when a genre tops 100)
+# One static file per genre view (+ &skip= pages when a genre tops 100)
 genre_counts = {}
 for g in genres:
     gm = [meta(f) for f in films if g in f['g']]
     genre_counts[g] = len(gm)
-    dump(os.path.join(sub, f'genre={g}.json'), gm[:PAGE])
-    if len(gm) > PAGE:
-        dump(os.path.join(sub, f'genre={g}&skip={PAGE}.json'), gm[PAGE:])
+    for start in range(0, len(gm), PAGE):
+        page = gm[start:start + PAGE]
+        if start == 0:
+            dump(os.path.join(sub, f'genre={g}.json'), page)
+        else:
+            dump(os.path.join(sub, f'genre={g}&skip={start}.json'), page)
 
 manifest = {
     'id': 'community.recommendations192',
-    'version': '1.1.0',
-    'name': '192 Movie Recommendations',
-    'description': 'A personally curated list of 192 films — diverse plots and emotional intensities, each one chosen because it powerfully captures something specific. One catalog, browsable by genre in Stremio\'s Discover. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
+    'version': '1.2.0',
+    'name': 'Heavy Hitters',
+    'description': 'Heavy Hitters: a personally curated list of 363 films — diverse plots and emotional intensities, each one chosen because it powerfully captures something specific. One catalog, browsable by genre in Stremio\'s Discover. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
     'resources': ['catalog'],
     'types': ['movie'],
     'idPrefixes': ['tt'],
@@ -82,7 +88,7 @@ manifest = {
         {
             'type': 'movie',
             'id': CID,
-            'name': '192 Movie Recommendations',
+            'name': 'Heavy Hitters',
             'extra': [{'name': 'genre', 'options': genres, 'isRequired': False}],
         },
     ],
@@ -91,5 +97,5 @@ manifest = {
 with open(os.path.join(HERE, 'manifest.json'), 'w') as fh:
     json.dump(manifest, fh, ensure_ascii=False, indent=1)
 
-print(f'films=192 genres={len(genres)}')
+print(f'films=363 genres={len(genres)}')
 print('genre counts:', json.dumps(genre_counts, ensure_ascii=False))
