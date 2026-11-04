@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "1 win & 4 nominations total",
+  "cast": [
+   "Frederick Singer",
+   "Naomi Oreskes",
+   "Jamy Ian Swiss"
+  ],
+  "country": "United States",
+  "description": "The same consultants, institutes and phrases — 'the science isn't settled,' 'more research is needed' — are traced from tobacco defence through climate denial to flame retardants. It names the playbook for manufacturing uncertainty as a professional service. Once the technique is visible across decades, it becomes recognisable in any contested field.\n\nA documentary that looks at pundits-for-hire who present themselves as scientific authorities as they speak about topics like toxic chemicals, pharmaceuticals and climate change.",
+  "director": [
+   "Robert Kenner"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt3675568",
+  "moviedb_id": 288789,
+  "name": "Merchants of Doubt",
+  "popularity": 0.030600000000000002,
+  "poster": "https://images.metahub.space/poster/small/tt3675568/img",
+  "released": "2014-12-12T00:00:00.000Z",
+  "runtime": "96 min",
+  "trailers": [
+   {
+    "source": "j8ii9zGFDtc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Erik M. Conway",
+   "Robert Kenner",
+   "Naomi Oreskes"
+  ],
+  "year": "2014",
+  "popularities": {
+   "moviedb": 0.918,
+   "stremio": 0.030600000000000002,
+   "stremio_lib": 0
+  },
+  "slug": "movie/merchants-of-doubt-3675568",
+  "background": "https://images.metahub.space/background/medium/tt3675568/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3675568/img",
+  "id": "tt3675568",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2014",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Merchants of Doubt",
+    "ytId": "j8ii9zGFDtc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3675568"
+   },
+   {
+    "name": "Merchants of Doubt",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/merchants-of-doubt-3675568"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Frederick Singer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Frederick%20Singer"
+   },
+   {
+    "name": "Naomi Oreskes",
+    "category": "Cast",
+    "url": "stremio:///search?search=Naomi%20Oreskes"
+   },
+   {
+    "name": "Jamy Ian Swiss",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jamy%20Ian%20Swiss"
+   },
+   {
+    "name": "Erik M. Conway",
+    "category": "Writers",
+    "url": "stremio:///search?search=Erik%20M.%20Conway"
+   },
+   {
+    "name": "Robert Kenner",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robert%20Kenner"
+   },
+   {
+    "name": "Naomi Oreskes",
+    "category": "Writers",
+    "url": "stremio:///search?search=Naomi%20Oreskes"
+   },
+   {
+    "name": "Robert Kenner",
+    "category": "Directors",
+    "url": "stremio:///search?search=Robert%20Kenner"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3675568",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "Won 4 BAFTA Awards. 4 wins & 4 nominations total",
+  "cast": [
+   "Karen Meagher",
+   "Reece Dinsdale",
+   "David Brierly"
+  ],
+  "country": "United Kingdom, Australia",
+  "description": "Nuclear war is followed here as the slow unspooling of ordinary systems — food, medicine, money, language, government — in one English city across more than a decade. Made for the BBC with scientific advisers and documentary grammar, with no heroes and no recovery arc. It remains the reference point for filming civilisational fragility honestly.\n\nThe effects of a nuclear holocaust on the working class city of Sheffield, England and the eventual long-term effects of nuclear war on civilization.",
+  "director": [
+   "Mick Jackson"
+  ],
+  "dvdRelease": "2018-02-10T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0090163",
+  "moviedb_id": 17835,
+  "name": "Threads",
+  "popularity": 0.13515333333333332,
+  "poster": "https://images.metahub.space/poster/small/tt0090163/img",
+  "released": "1984-09-23T00:00:00.000Z",
+  "runtime": "117 min",
+  "trailers": [
+   {
+    "source": "4v0lMqJlkBQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "2-jrwwCNCxE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Barry Hines"
+  ],
+  "year": "1984",
+  "popularities": {
+   "moviedb": 4.0546,
+   "stremio": 0.13515333333333332,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/threads-0090163",
+  "background": "https://images.metahub.space/background/medium/tt0090163/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0090163/img",
+  "id": "tt0090163",
+  "genres": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "releaseInfo": "1984",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Threads",
+    "ytId": "4v0lMqJlkBQ"
+   },
+   {
+    "title": "Threads",
+    "ytId": "2-jrwwCNCxE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0090163"
+   },
+   {
+    "name": "Threads",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/threads-0090163"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Karen Meagher",
+    "category": "Cast",
+    "url": "stremio:///search?search=Karen%20Meagher"
+   },
+   {
+    "name": "Reece Dinsdale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Reece%20Dinsdale"
+   },
+   {
+    "name": "David Brierly",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Brierly"
+   },
+   {
+    "name": "Barry Hines",
+    "category": "Writers",
+    "url": "stremio:///search?search=Barry%20Hines"
+   },
+   {
+    "name": "Mick Jackson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mick%20Jackson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0090163",
+   "hasScheduledVideos": false
+  }
+ }
+}

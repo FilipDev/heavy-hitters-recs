@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "imdb_id": "tt9351980",
+  "country": "United States",
+  "description": "A Chinese billionaire reopens a shuttered Ohio auto plant, and two management cultures meet on one factory floor: American workers, Chinese production discipline, union organisers, surveillance, and automation waiting at the edge of every conversation. No narrator and no verdict — the systems argue with each other directly.\n\nIn post-industrial Ohio, a Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class...",
+  "director": [
+   "Steven Bognar",
+   "Julia Reichert"
+  ],
+  "imdbRating": "7.4",
+  "name": "American Factory",
+  "released": "2019-08-21T00:00:00.000Z",
+  "slug": "movie/american-factory-9351980",
+  "type": "movie",
+  "year": "2019",
+  "moviedb_id": 565716,
+  "popularities": {
+   "moviedb": 2.3972,
+   "stremio": 0.07990666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "m36QeKOJ2Fc",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Junming &apos;Jimmy&apos; Wang",
+   "Robert Allen",
+   "Sherrod Brown"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "writer": [],
+  "dvdRelease": "2019-08-21T00:00:00.000Z",
+  "poster": "https://images.metahub.space/poster/small/tt9351980/img",
+  "runtime": "110 min",
+  "background": "https://images.metahub.space/background/medium/tt9351980/img",
+  "logo": "https://images.metahub.space/logo/medium/tt9351980/img",
+  "awards": "Won 1 Oscar. 19 wins & 49 nominations total",
+  "popularity": 0.07990666666666667,
+  "id": "tt9351980",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "American Factory",
+    "ytId": "m36QeKOJ2Fc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt9351980"
+   },
+   {
+    "name": "American Factory",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/american-factory-9351980"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Junming &apos;Jimmy&apos; Wang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Junming%20%26apos%3BJimmy%26apos%3B%20Wang"
+   },
+   {
+    "name": "Robert Allen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20Allen"
+   },
+   {
+    "name": "Sherrod Brown",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sherrod%20Brown"
+   },
+   {
+    "name": "Steven Bognar",
+    "category": "Directors",
+    "url": "stremio:///search?search=Steven%20Bognar"
+   },
+   {
+    "name": "Julia Reichert",
+    "category": "Directors",
+    "url": "stremio:///search?search=Julia%20Reichert"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt9351980",
+   "hasScheduledVideos": false
+  }
+ }
+}

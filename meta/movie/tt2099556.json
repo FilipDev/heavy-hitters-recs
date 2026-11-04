@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "6 wins & 12 nominations total",
+  "cast": [
+   "Caleb Landry Jones",
+   "Lisa Berry",
+   "Sarah Gadon"
+  ],
+  "country": "Canada, France",
+  "description": "A clinic sells fans infections harvested from celebrities, so they can share their idol's illness; a technician smuggles pathogens out inside his own body. Brandon Cronenberg made it before influencer economies and bio-hacking went mainstream, and it now reads like market research: intimacy with the famous, packaged as a consumable with side effects.\n\nIn a blackly satirical near future, a thriving industry sells celebrity illnesses to their obsessed fans. Employee Syd March's attempts to exploit the system backfire when they involve him in a potentially deadly mystery.",
+  "director": [
+   "Brandon Cronenberg"
+  ],
+  "dvdRelease": "2017-03-29T00:00:00.000Z",
+  "genre": [
+   "Horror",
+   "Mystery",
+   "Sci-Fi"
+  ],
+  "imdbRating": "5.7",
+  "imdb_id": "tt2099556",
+  "moviedb_id": 125490,
+  "name": "Antiviral",
+  "popularity": 0.09230666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt2099556/img",
+  "released": "2013-02-13T00:00:00.000Z",
+  "runtime": "110 min",
+  "trailers": [
+   {
+    "source": "T5OexqfzXck",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Brandon Cronenberg"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2099556/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2099556/img",
+  "popularities": {
+   "moviedb": 2.7692,
+   "stremio": 0.09230666666666668,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/antiviral-2099556",
+  "id": "tt2099556",
+  "genres": [
+   "Horror",
+   "Mystery",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "Antiviral",
+    "ytId": "T5OexqfzXck"
+   }
+  ],
+  "links": [
+   {
+    "name": "5.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2099556"
+   },
+   {
+    "name": "Antiviral",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/antiviral-2099556"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Caleb Landry Jones",
+    "category": "Cast",
+    "url": "stremio:///search?search=Caleb%20Landry%20Jones"
+   },
+   {
+    "name": "Lisa Berry",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lisa%20Berry"
+   },
+   {
+    "name": "Sarah Gadon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sarah%20Gadon"
+   },
+   {
+    "name": "Brandon Cronenberg",
+    "category": "Writers",
+    "url": "stremio:///search?search=Brandon%20Cronenberg"
+   },
+   {
+    "name": "Brandon Cronenberg",
+    "category": "Directors",
+    "url": "stremio:///search?search=Brandon%20Cronenberg"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2099556",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "1 nomination total",
+  "cast": [
+   "Luke Wilson",
+   "Maya Rudolph",
+   "Dax Shepard"
+  ],
+  "country": "United States",
+  "description": "An ordinary man wakes five hundred years into a future where anti-intellectualism has compounded for generations: crops are watered with sports drink because 'it's what plants crave,' and public language has eroded to slogans. Mike Judge's comedy of drift — an exaggeration whose individual jokes keep quietly coming true.\n\nCorporal Joe Bauers, a decidedly average American, is selected for a top-secret hibernation program but is forgotten and left to awaken to a future so incredibly moronic that he's easily the most intelligent person alive.",
+  "director": [
+   "Mike Judge"
+  ],
+  "dvdRelease": "2015-08-01T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Sci-Fi"
+  ],
+  "imdbRating": "6.5",
+  "imdb_id": "tt0387808",
+  "moviedb_id": 7512,
+  "name": "Idiocracy",
+  "popularity": 0.37076,
+  "poster": "https://images.metahub.space/poster/small/tt0387808/img",
+  "released": "2007-01-25T00:00:00.000Z",
+  "runtime": "85 min",
+  "trailers": [
+   {
+    "source": "clYwX8Z43zg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Mike Judge",
+   "Etan Cohen"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0387808/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0387808/img",
+  "popularities": {
+   "moviedb": 11.1228,
+   "stremio": 0.37076,
+   "trakt": 57,
+   "stremio_lib": 0
+  },
+  "slug": "movie/idiocracy-0387808",
+  "id": "tt0387808",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Idiocracy",
+    "ytId": "clYwX8Z43zg"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0387808"
+   },
+   {
+    "name": "Idiocracy",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/idiocracy-0387808"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Luke Wilson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Luke%20Wilson"
+   },
+   {
+    "name": "Maya Rudolph",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maya%20Rudolph"
+   },
+   {
+    "name": "Dax Shepard",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dax%20Shepard"
+   },
+   {
+    "name": "Mike Judge",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mike%20Judge"
+   },
+   {
+    "name": "Etan Cohen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Etan%20Cohen"
+   },
+   {
+    "name": "Mike Judge",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mike%20Judge"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0387808",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "4 wins & 5 nominations total",
+  "cast": [
+   "Aaron Swartz",
+   "Tim Berners-Lee",
+   "Cindy Cohn"
+  ],
+  "country": "United States",
+  "description": "Aaron Swartz — who helped build RSS and Reddit and was federally prosecuted for downloading academic journals — becomes the test case for whether access to knowledge is a public good or a licensed product. His family, collaborators and own writings tell it. The argument the film starts has only grown since.\n\nThe story of programming prodigy and information activist Aaron Swartz, who took his own life at the age of 26.",
+  "director": [
+   "Brian Knappenberger"
+  ],
+  "dvdRelease": "2016-01-26T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt3268458",
+  "moviedb_id": 250658,
+  "name": "The Internet's Own Boy: The Story of Aaron Swartz",
+  "popularity": 0.08821,
+  "poster": "https://images.metahub.space/poster/small/tt3268458/img",
+  "released": "2014-06-27T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "o-PT1AZSdHQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Brian Knappenberger"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt3268458/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3268458/img",
+  "popularities": {
+   "moviedb": 2.6463,
+   "stremio": 0.08821,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-internets-own-boy-the-story-of-aaron-swartz-3268458",
+  "id": "tt3268458",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "The Internet's Own Boy: The Story of Aaron Swartz",
+    "ytId": "o-PT1AZSdHQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3268458"
+   },
+   {
+    "name": "The Internet's Own Boy: The Story of Aaron Swartz",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-internets-own-boy-the-story-of-aaron-swartz-3268458"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Aaron Swartz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aaron%20Swartz"
+   },
+   {
+    "name": "Tim Berners-Lee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tim%20Berners-Lee"
+   },
+   {
+    "name": "Cindy Cohn",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cindy%20Cohn"
+   },
+   {
+    "name": "Brian Knappenberger",
+    "category": "Writers",
+    "url": "stremio:///search?search=Brian%20Knappenberger"
+   },
+   {
+    "name": "Brian Knappenberger",
+    "category": "Directors",
+    "url": "stremio:///search?search=Brian%20Knappenberger"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3268458",
+   "hasScheduledVideos": false
+  }
+ }
+}

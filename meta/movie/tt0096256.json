@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "awards": "4 nominations total",
+  "cast": [
+   "Roddy Piper",
+   "Keith David",
+   "Meg Foster"
+  ],
+  "country": "United States, Netherlands",
+  "description": "A drifter finds sunglasses that strip advertising, money and official speech down to bare commands — OBEY, CONSUME, STAY ASLEEP — broadcast by a ruling class hiding inside the ordinary population. John Carpenter's pulp premise is structurally exact: power as a signal carried by everyday media, invisible until something makes its content legible.\n\nThey influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live.",
+  "director": [
+   "John Carpenter"
+  ],
+  "dvdRelease": "2016-01-05T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Horror",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0096256",
+  "moviedb_id": 8337,
+  "name": "They Live",
+  "popularity": 0.3884533333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0096256/img",
+  "released": "1988-11-04T00:00:00.000Z",
+  "runtime": "93 min",
+  "trailers": [
+   {
+    "source": "PeB3vdxF_jM",
+    "type": "Trailer"
+   },
+   {
+    "source": "vSVQ975eTBI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ray Nelson",
+   "John Carpenter"
+  ],
+  "year": "1988",
+  "background": "https://images.metahub.space/background/medium/tt0096256/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0096256/img",
+  "popularities": {
+   "moviedb": 11.6536,
+   "stremio": 0.3884533333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/they-live-0096256",
+  "id": "tt0096256",
+  "genres": [
+   "Action",
+   "Horror",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "1988",
+  "trailerStreams": [
+   {
+    "title": "They Live",
+    "ytId": "PeB3vdxF_jM"
+   },
+   {
+    "title": "They Live",
+    "ytId": "vSVQ975eTBI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0096256"
+   },
+   {
+    "name": "They Live",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/they-live-0096256"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Roddy Piper",
+    "category": "Cast",
+    "url": "stremio:///search?search=Roddy%20Piper"
+   },
+   {
+    "name": "Keith David",
+    "category": "Cast",
+    "url": "stremio:///search?search=Keith%20David"
+   },
+   {
+    "name": "Meg Foster",
+    "category": "Cast",
+    "url": "stremio:///search?search=Meg%20Foster"
+   },
+   {
+    "name": "Ray Nelson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ray%20Nelson"
+   },
+   {
+    "name": "John Carpenter",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20Carpenter"
+   },
+   {
+    "name": "John Carpenter",
+    "category": "Directors",
+    "url": "stremio:///search?search=John%20Carpenter"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0096256",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "imdb_id": "tt5129818",
+  "popularities": {
+   "moviedb": 3.1722,
+   "stremio": 0.10574,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "name": "Under the Sun",
+  "year": "2016",
+  "runtime": "110 min",
+  "genre": [
+   "Documentary"
+  ],
+  "released": "2016-04-12T00:00:00.000Z",
+  "director": [
+   "Vitaliy Manskiy"
+  ],
+  "writer": [
+   "Vitaliy Manskiy"
+  ],
+  "cast": [
+   "Lee Zin-Mi",
+   "Yu-Yong",
+   "Hye-Yong"
+  ],
+  "imdbRating": "7.4",
+  "poster": "https://images.metahub.space/poster/small/tt5129818/img",
+  "description": "A Russian crew is hired to film a scripted portrait of a model North Korean family, and keeps the cameras rolling between takes. Officials adjust smiles, stage ordinary mornings, and retake a factory speech until it sounds spontaneous. The result shows a state manufacturing everyday reality, with the manufacturing left visible in the frame.\n\nA propaganda documentary about North Korea that reveals a few hidden facts because the director continues filming between the scripted scenes.",
+  "country": "Russia, Germany, Czech Republic, Latvia",
+  "awards": "12 wins & 10 nominations total",
+  "dvdRelease": "2016-09-20T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "8QRFx5pXb_M",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 369769,
+  "slug": "movie/under-the-sun-5129818",
+  "background": "https://images.metahub.space/background/medium/tt5129818/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5129818/img",
+  "popularity": 0.10574,
+  "id": "tt5129818",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Under the Sun",
+    "ytId": "8QRFx5pXb_M"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5129818"
+   },
+   {
+    "name": "Under the Sun",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/under-the-sun-5129818"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Lee Zin-Mi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lee%20Zin-Mi"
+   },
+   {
+    "name": "Yu-Yong",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yu-Yong"
+   },
+   {
+    "name": "Hye-Yong",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hye-Yong"
+   },
+   {
+    "name": "Vitaliy Manskiy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vitaliy%20Manskiy"
+   },
+   {
+    "name": "Vitaliy Manskiy",
+    "category": "Directors",
+    "url": "stremio:///search?search=Vitaliy%20Manskiy"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5129818",
+   "hasScheduledVideos": false
+  }
+ }
+}

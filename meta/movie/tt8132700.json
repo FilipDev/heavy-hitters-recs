@@ -1,0 +1,97 @@
+{
+ "meta": {
+  "imdb_id": "tt8132700",
+  "country": "United States",
+  "director": [
+   "Daniel J. Clark"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.5",
+  "name": "Behind the Curve",
+  "poster": "https://images.metahub.space/poster/small/tt8132700/img",
+  "released": "2018-11-15T00:00:00.000Z",
+  "runtime": "96 min",
+  "slug": "movie/behind-the-curve-8132700",
+  "type": "movie",
+  "year": "2018",
+  "moviedb_id": 520777,
+  "popularities": {
+   "moviedb": 6.2969,
+   "stremio": 0.20989666666666668,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "Gnsm81gjo1E",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Mark K. Sargent",
+   "Patti Sargent",
+   "Hannalore Gerling-Dunsmore"
+  ],
+  "writer": [],
+  "description": "Flat-earthers run genuinely careful experiments whose results refute their own theory — then explain the results away on camera. The film stays inside the community without contempt, interested in the machinery that keeps a refuted model alive: conferences, status, loyalty, expulsion. Its real subject is much larger than flat earth.\n\nMeet real Flat Earthers, a small but growing contingent of people who firmly believe in a conspiracy to suppress the truth that the Earth is flat.",
+  "awards": "1 win & 1 nomination total",
+  "dvdRelease": "2018-11-20T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt8132700/img",
+  "logo": "https://images.metahub.space/logo/medium/tt8132700/img",
+  "popularity": 0.20989666666666668,
+  "id": "tt8132700",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Behind the Curve",
+    "ytId": "Gnsm81gjo1E"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt8132700"
+   },
+   {
+    "name": "Behind the Curve",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/behind-the-curve-8132700"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Mark K. Sargent",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%20K.%20Sargent"
+   },
+   {
+    "name": "Patti Sargent",
+    "category": "Cast",
+    "url": "stremio:///search?search=Patti%20Sargent"
+   },
+   {
+    "name": "Hannalore Gerling-Dunsmore",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hannalore%20Gerling-Dunsmore"
+   },
+   {
+    "name": "Daniel J. Clark",
+    "category": "Directors",
+    "url": "stremio:///search?search=Daniel%20J.%20Clark"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt8132700",
+   "hasScheduledVideos": false
+  }
+ }
+}

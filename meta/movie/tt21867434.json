@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "imdb_id": "tt21867434",
+  "name": "BlackBerry",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 6.4092,
+   "stremio": 0.21364,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "28 wins & 31 nominations total",
+  "cast": [
+   "Jay Baruchel",
+   "Glenn Howerton",
+   "Matt Johnson"
+  ],
+  "country": "Canada, Finland",
+  "description": "A Canadian startup invents the smartphone era from Waterloo — then loses it to a competitor who understood consumers rather than engineers. Shot like a heist film about keyboards, bandwidth and carrier deals. The useful part is the timing: watching technical superiority stop mattering, quarter by quarter, in real time.\n\nThe story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+  "director": [
+   "Matt Johnson"
+  ],
+  "genre": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "released": "2023-11-13T00:00:00.000Z",
+  "slug": "movie/blackberry-21867434",
+  "writer": [
+   "Jacquie McNish",
+   "Sean Silcoff",
+   "Matt Johnson"
+  ],
+  "year": "2023",
+  "moviedb_id": 1016084,
+  "poster": "https://images.metahub.space/poster/small/tt21867434/img",
+  "runtime": "119 min",
+  "trailers": [
+   {
+    "source": "cXL_HDzBQsM",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt21867434/img",
+  "logo": "https://images.metahub.space/logo/medium/tt21867434/img",
+  "dvdRelease": "2023-06-02T00:00:00.000Z",
+  "popularity": 0.21364,
+  "id": "tt21867434",
+  "genres": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2023",
+  "trailerStreams": [
+   {
+    "title": "BlackBerry",
+    "ytId": "cXL_HDzBQsM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt21867434"
+   },
+   {
+    "name": "BlackBerry",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/blackberry-21867434"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Jay Baruchel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jay%20Baruchel"
+   },
+   {
+    "name": "Glenn Howerton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Glenn%20Howerton"
+   },
+   {
+    "name": "Matt Johnson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Matt%20Johnson"
+   },
+   {
+    "name": "Jacquie McNish",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacquie%20McNish"
+   },
+   {
+    "name": "Sean Silcoff",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sean%20Silcoff"
+   },
+   {
+    "name": "Matt Johnson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Matt%20Johnson"
+   },
+   {
+    "name": "Matt Johnson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Matt%20Johnson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt21867434",
+   "hasScheduledVideos": false
+  }
+ }
+}

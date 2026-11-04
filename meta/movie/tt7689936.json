@@ -1,0 +1,121 @@
+{
+ "meta": {
+  "imdb_id": "tt7689936",
+  "type": "movie",
+  "name": "The Cleaners",
+  "year": "2018",
+  "runtime": "85 min",
+  "genre": [
+   "Documentary"
+  ],
+  "released": "2018-05-17T00:00:00.000Z",
+  "director": [
+   "Hans Block",
+   "Moritz Riesewieck"
+  ],
+  "writer": [
+   "Hans Block",
+   "Moritz Riesewieck",
+   "Georg Tschurtschenthaler"
+  ],
+  "imdbRating": "7.1",
+  "description": "The people inside 'the algorithm moderates it' are contractors in Manila, deleting or sparing the internet's worst material at industrial speed so feeds elsewhere stay clean. The film follows several of them home, and the work follows too. It is the hidden labour layer of every platform, and a record of what absorbing that much poison does to a person.\n\nA look at the shadowy underworld of the Internet where questionable content is removed.",
+  "country": "Germany, Brazil, Netherlands, Italy, United States, Japan, United Kingdom, Sweden, Austria, Switzerland, Denmark, Canada",
+  "awards": "8 wins & 10 nominations total",
+  "trailers": [
+   {
+    "source": "iGCGhD8i-o4",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 492994,
+  "popularities": {
+   "moviedb": 1.3481,
+   "stremio": 0.044936666666666666,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "cast": [
+   "Mark Zuckerberg",
+   "Donald Trump",
+   "Nicole Wong"
+  ],
+  "slug": "movie/the-cleaners-7689936",
+  "poster": "https://images.metahub.space/poster/small/tt7689936/img",
+  "background": "https://images.metahub.space/background/medium/tt7689936/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7689936/img",
+  "popularity": 0.044936666666666666,
+  "id": "tt7689936",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "The Cleaners",
+    "ytId": "iGCGhD8i-o4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7689936"
+   },
+   {
+    "name": "The Cleaners",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-cleaners-7689936"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Mark Zuckerberg",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%20Zuckerberg"
+   },
+   {
+    "name": "Donald Trump",
+    "category": "Cast",
+    "url": "stremio:///search?search=Donald%20Trump"
+   },
+   {
+    "name": "Nicole Wong",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nicole%20Wong"
+   },
+   {
+    "name": "Hans Block",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hans%20Block"
+   },
+   {
+    "name": "Moritz Riesewieck",
+    "category": "Writers",
+    "url": "stremio:///search?search=Moritz%20Riesewieck"
+   },
+   {
+    "name": "Georg Tschurtschenthaler",
+    "category": "Writers",
+    "url": "stremio:///search?search=Georg%20Tschurtschenthaler"
+   },
+   {
+    "name": "Hans Block",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hans%20Block"
+   },
+   {
+    "name": "Moritz Riesewieck",
+    "category": "Directors",
+    "url": "stremio:///search?search=Moritz%20Riesewieck"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7689936",
+   "hasScheduledVideos": false
+  }
+ }
+}

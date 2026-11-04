@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "imdb_id": "tt7478112",
+  "country": "China",
+  "description": "China's livestream economy appears here as a complete social order: hosts performing intimacy on schedule, superfans buying rank with virtual gifts, agencies and wealthy patrons gaming the charts. Loneliness, class and money meet inside one interface. It was filmed in China, but the template now runs anywhere attention is sold.\n\nTwo live streamers seek fame, fortune and human connection in China's digital idol-making universe, ultimately finding the same promises and perils online as in their real lives. Winner of Grand Jury Award (Documentary) at 2018 SXSW.",
+  "director": [
+   "Hao Wu"
+  ],
+  "dvdRelease": "2018-12-31T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.8",
+  "name": "People's Republic of Desire",
+  "poster": "https://images.metahub.space/poster/small/tt7478112/img",
+  "released": "2018-11-30T00:00:00.000Z",
+  "runtime": "95 min",
+  "slug": "movie/peoples-republic-of-desire-7478112",
+  "type": "movie",
+  "year": "2018",
+  "moviedb_id": 502132,
+  "popularities": {
+   "moviedb": 0.9255,
+   "stremio": 0.03085,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "D_tQ44NOmXA",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [],
+  "writer": [],
+  "awards": "5 wins & 7 nominations",
+  "background": "https://images.metahub.space/background/medium/tt7478112/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7478112/img",
+  "popularity": 0.03085,
+  "id": "tt7478112",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "People's Republic of Desire",
+    "ytId": "D_tQ44NOmXA"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7478112"
+   },
+   {
+    "name": "People's Republic of Desire",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/peoples-republic-of-desire-7478112"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Hao Wu",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hao%20Wu"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7478112",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "imdb_id": "tt18816518",
+  "name": "Sick of Myself",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 3.261,
+   "stremio": 0.1087,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "7 wins & 10 nominations",
+  "cast": [
+   "Kristine Kujath Thorp",
+   "Eirik Sæther",
+   "Fanny Vaager"
+  ],
+  "country": "Norway, Sweden, Denmark, France",
+  "description": "A woman eclipsed by her artist boyfriend takes black-market medication that visibly destroys her face — and converts the damage into fame. The film treats attention as a priced market working exactly as designed: the pathology is not vanity but the exchange rate. A relationship drama with a horror film's logic.\n\nIncreasingly overshadowed by her boyfriend's recent rise to fame as a contemporary artist creating sculptures from stolen furniture, Signe hatches a vicious plan to reclaim her rightfully deserved attention within the milieu of Os...",
+  "director": [
+   "Kristoffer Borgli"
+  ],
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Horror"
+  ],
+  "imdbRating": "7.1",
+  "released": "2022-09-09T00:00:00.000Z",
+  "slug": "movie/sick-of-myself-18816518",
+  "writer": [
+   "Kristoffer Borgli"
+  ],
+  "year": "2022",
+  "moviedb_id": 788734,
+  "poster": "https://images.metahub.space/poster/small/tt18816518/img",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "v_bomXt64MU",
+    "type": "Trailer"
+   },
+   {
+    "source": "B9YYTs2HBBc",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt18816518/img",
+  "logo": "https://images.metahub.space/logo/medium/tt18816518/img",
+  "popularity": 0.1087,
+  "id": "tt18816518",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Horror"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Sick of Myself",
+    "ytId": "v_bomXt64MU"
+   },
+   {
+    "title": "Sick of Myself",
+    "ytId": "B9YYTs2HBBc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt18816518"
+   },
+   {
+    "name": "Sick of Myself",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/sick-of-myself-18816518"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Kristine Kujath Thorp",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kristine%20Kujath%20Thorp"
+   },
+   {
+    "name": "Eirik Sæther",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eirik%20S%C3%A6ther"
+   },
+   {
+    "name": "Fanny Vaager",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fanny%20Vaager"
+   },
+   {
+    "name": "Kristoffer Borgli",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kristoffer%20Borgli"
+   },
+   {
+    "name": "Kristoffer Borgli",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kristoffer%20Borgli"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt18816518",
+   "hasScheduledVideos": false
+  }
+ }
+}
