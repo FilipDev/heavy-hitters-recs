@@ -1,0 +1,75 @@
+{
+ "metas": [
+  {
+   "id": "tt0119698",
+   "type": "movie",
+   "name": "Princess Mononoke",
+   "poster": "https://images.metahub.space/poster/medium/tt0119698/img",
+   "background": "https://images.metahub.space/background/medium/tt0119698/img",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "134 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures an ecological war with no pure side. Iron Town needs the forest cut to survive; the forest gods need the humans gone; a prince cursed by a dying god tries to see with unclouded eyes."
+  },
+  {
+   "id": "tt0457430",
+   "type": "movie",
+   "name": "Pan's Labyrinth",
+   "poster": "https://images.metahub.space/poster/medium/tt0457430/img",
+   "background": "https://images.metahub.space/background/medium/tt0457430/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "War"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "118 min",
+   "director": "Guillermo del Toro",
+   "description": "Captures a child's fantasy as the only available resistance. Spain, 1944: a girl with a fascist stepfather descends to a faun's tasks while the adult war continues above ground, and fantasy is never 'just' escape."
+  },
+  {
+   "id": "tt4468740",
+   "type": "movie",
+   "name": "Paddington 2",
+   "poster": "https://images.metahub.space/poster/medium/tt4468740/img",
+   "background": "https://images.metahub.space/background/medium/tt4468740/img",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "103 min",
+   "director": "Paul King",
+   "description": "Captures decency as something contagious. A bear framed for stealing the pop-up book he wanted to buy his aunt, sent to prison — and the prison improves because he is in it."
+  },
+  {
+   "id": "tt0094349",
+   "type": "movie",
+   "name": "Yeelen",
+   "poster": "https://images.metahub.space/poster/medium/tt0094349/img",
+   "background": "https://images.metahub.space/background/medium/tt0094349/img",
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1987",
+   "year": 1987,
+   "runtime": "105 min",
+   "director": "Souleymane Cissé",
+   "description": "Captures a myth from inside its own cosmology. Mali, Bambara legend: a son fleeing his sorcerer father across desert and village, carrying stolen sacred objects, toward a confrontation filmed as light itself."
+  }
+ ]
+}

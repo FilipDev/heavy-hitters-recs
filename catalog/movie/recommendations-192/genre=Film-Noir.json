@@ -1,0 +1,93 @@
+{
+ "metas": [
+  {
+   "id": "tt0048424",
+   "type": "movie",
+   "name": "The Night of the Hunter",
+   "poster": "https://images.metahub.space/poster/medium/tt0048424/img",
+   "background": "https://images.metahub.space/background/medium/tt0048424/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+   ],
+   "releaseInfo": "1955",
+   "year": 1955,
+   "runtime": "92 min",
+   "director": "Charles Laughton",
+   "description": "Captures childhood danger as a fairy tale. A preacher with LOVE and HATE tattooed on his knuckles hunts two children down a river for hidden money; they flee by boat through a dreamlike, animal-watched night."
+  },
+  {
+   "id": "tt0041959",
+   "type": "movie",
+   "name": "The Third Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0041959/img",
+   "background": "https://images.metahub.space/background/medium/tt0041959/img",
+   "genres": [
+    "Film-Noir",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1949",
+   "year": 1949,
+   "runtime": "104 min",
+   "director": "Carol Reed",
+   "description": "Captures friendship curdling in a ruined, divided city. Postwar Vienna: a pulp writer arrives to find his friend dead and getting saintlier the less sense the story makes — zither music, sewers, and the ferris wheel speech."
+  },
+  {
+   "id": "tt0038787",
+   "type": "movie",
+   "name": "Notorious",
+   "poster": "https://images.metahub.space/poster/medium/tt0038787/img",
+   "background": "https://images.metahub.space/background/medium/tt0038787/img",
+   "genres": [
+    "Drama",
+    "Film-Noir",
+    "Romance",
+    "Thriller"
+   ],
+   "releaseInfo": "1946",
+   "year": 1946,
+   "runtime": "101 min",
+   "director": "Alfred Hitchcock",
+   "description": "Captures love being used as an intelligence asset. A woman is recruited to marry into a Nazi circle in Rio because of who her father was, by an agent unable to say the one thing that would make it bearable."
+  },
+  {
+   "id": "tt0048021",
+   "type": "movie",
+   "name": "Rififi",
+   "poster": "https://images.metahub.space/poster/medium/tt0048021/img",
+   "background": "https://images.metahub.space/background/medium/tt0048021/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+   ],
+   "releaseInfo": "1955",
+   "year": 1955,
+   "runtime": "118 min",
+   "director": "Jules Dassin",
+   "description": "Captures a robbery as manual labour. A Paris jewel heist whose centrepiece is roughly half an hour with no dialogue and no score — umbrellas, drills, plaster dust, men breathing — that every heist film since is quoting."
+  },
+  {
+   "id": "tt0049406",
+   "type": "movie",
+   "name": "The Killing",
+   "poster": "https://images.metahub.space/poster/medium/tt0049406/img",
+   "background": "https://images.metahub.space/background/medium/tt0049406/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+   ],
+   "releaseInfo": "1956",
+   "year": 1956,
+   "runtime": "84 min",
+   "director": "Stanley Kubrick",
+   "description": "Captures a perfect plan told in pieces that don't line up in time. A racetrack robbery replayed from each participant's angle, a suitcase of money, and an airport finale involving a small dog."
+  }
+ ]
+}
