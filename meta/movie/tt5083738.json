@@ -1,0 +1,128 @@
+{
+ "meta": {
+  "imdb_id": "tt5083738",
+  "name": "The Favourite",
+  "year": "2018",
+  "released": "2018-12-21T00:00:00.000Z",
+  "director": [
+   "Yorgos Lanthimos"
+  ],
+  "writer": [
+   "Deborah Davis",
+   "Tony McNamara"
+  ],
+  "cast": [
+   "Olivia Colman",
+   "Emma Stone",
+   "Rachel Weisz"
+  ],
+  "imdbRating": "7.5",
+  "description": "Captures court power as intimate warfare. Two women compete to be Queen Anne's favourite — her bed, her ear, her rabbits — through fisheye candlelit corridors, with a lonely, raging queen at the centre.\n\nIn early 18th-century England, the status quo at the court is upset when a new servant arrives and endears herself to a frail Queen Anne.",
+  "country": "Ireland, United Kingdom, United States",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "SYb-wkehT1g",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 375262,
+  "popularities": {
+   "moviedb": 9.404,
+   "stremio": 0.31346666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "genre": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "slug": "movie/the-favourite-5083738",
+  "poster": "https://images.metahub.space/poster/small/tt5083738/img",
+  "background": "https://images.metahub.space/background/medium/tt5083738/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5083738/img",
+  "runtime": "120 min",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthefavourite_212924%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.590/ImageRenderer/111/168/images/no_image_111x168.jpg/212924/images/masterrepository/fandango/212924/thefavourite2018.jpg\" alt=\"The Favourite\" title=\"The Favourite\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthefavourite_212924%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fthefavourite-trailer%2f212924%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthefavourite_212924%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.590//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthefavourite_212924%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "dvdRelease": "2019-02-12T00:00:00.000Z",
+  "awards": "Won 1 Oscar. 188 wins & 352 nominations total",
+  "popularity": 0.31346666666666667,
+  "id": "tt5083738",
+  "genres": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "The Favourite",
+    "ytId": "SYb-wkehT1g"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5083738"
+   },
+   {
+    "name": "The Favourite",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-favourite-5083738"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Olivia Colman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olivia%20Colman"
+   },
+   {
+    "name": "Emma Stone",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emma%20Stone"
+   },
+   {
+    "name": "Rachel Weisz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rachel%20Weisz"
+   },
+   {
+    "name": "Deborah Davis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Deborah%20Davis"
+   },
+   {
+    "name": "Tony McNamara",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tony%20McNamara"
+   },
+   {
+    "name": "Yorgos Lanthimos",
+    "category": "Directors",
+    "url": "stremio:///search?search=Yorgos%20Lanthimos"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5083738",
+   "hasScheduledVideos": false
+  }
+ }
+}

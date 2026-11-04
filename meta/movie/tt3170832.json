@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "imdb_id": "tt3170832",
+  "popularities": {
+   "moviedb": 8.0135,
+   "stremio": 0.26711666666666667,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "name": "Room",
+  "year": "2016",
+  "runtime": "118 min",
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "released": "2016-01-22T00:00:00.000Z",
+  "director": [
+   "Lenny Abrahamson"
+  ],
+  "writer": [
+   "Emma Donoghue"
+  ],
+  "cast": [
+   "Brie Larson",
+   "Jacob Tremblay",
+   "Sean Bridgers"
+  ],
+  "imdbRating": "8.1",
+  "poster": "https://images.metahub.space/poster/small/tt3170832/img",
+  "description": "Captures a child's entire world being eleven feet wide, and then it not being. A mother makes a complete, loving universe for her five-year-old inside the shed where they're held; the second half, outside, is the harder adjustment for both.\n\nA little boy is held captive in a room with his mother since his birth, so he has never known the world outside.",
+  "country": "Ireland, Canada, United Kingdom, United States",
+  "awards": "Won 1 Oscar. 108 wins & 143 nominations total",
+  "dvdRelease": "2016-05-22T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "yfBdUPAjiVQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "E_Ci-pAL4eE",
+    "type": "Trailer"
+   },
+   {
+    "source": "6C6fZ-fwDws",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 264644,
+  "popularity": 0.26711666666666667,
+  "background": "https://images.metahub.space/background/medium/tt3170832/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3170832/img",
+  "slug": "movie/room-3170832",
+  "id": "tt3170832",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Room",
+    "ytId": "yfBdUPAjiVQ"
+   },
+   {
+    "title": "Room",
+    "ytId": "E_Ci-pAL4eE"
+   },
+   {
+    "title": "Room",
+    "ytId": "6C6fZ-fwDws"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3170832"
+   },
+   {
+    "name": "Room",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/room-3170832"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Brie Larson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brie%20Larson"
+   },
+   {
+    "name": "Jacob Tremblay",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacob%20Tremblay"
+   },
+   {
+    "name": "Sean Bridgers",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sean%20Bridgers"
+   },
+   {
+    "name": "Emma Donoghue",
+    "category": "Writers",
+    "url": "stremio:///search?search=Emma%20Donoghue"
+   },
+   {
+    "name": "Lenny Abrahamson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lenny%20Abrahamson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3170832",
+   "hasScheduledVideos": false
+  }
+ }
+}

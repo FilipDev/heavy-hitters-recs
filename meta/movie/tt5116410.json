@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "imdb_id": "tt5116410",
+  "name": "Tower",
+  "popularities": {
+   "moviedb": 1.4647,
+   "stremio": 0.04882333333333333,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "GTzNkfgM1vE",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 381028,
+  "year": "2016",
+  "runtime": "82 min",
+  "genre": [
+   "Documentary",
+   "Animation",
+   "Crime"
+  ],
+  "released": "2017-02-03T00:00:00.000Z",
+  "director": [
+   "Keith Maitland"
+  ],
+  "writer": [
+   "Pamela Colloff"
+  ],
+  "cast": [
+   "Monty Muir",
+   "Violett Beane",
+   "Cole Bee Wilson"
+  ],
+  "imdbRating": "7.9",
+  "poster": "https://images.metahub.space/poster/small/tt5116410/img",
+  "description": "Captures how people inside an event remember it — partial, sensory, nothing like the news summary. The 1966 UT Austin sniper massacre retold in rotoscoped animation from survivors' memories, switching to real footage only at the end.\n\nAnimation, testimony, and archival footage combine to relate the events of August 1, 1966 when a gunman opened fire from the University of Texas clock tower, killing 16 people.",
+  "country": "United States",
+  "awards": "18 wins & 30 nominations",
+  "dvdRelease": "2017-01-10T00:00:00.000Z",
+  "slug": "movie/tower-5116410",
+  "background": "https://images.metahub.space/background/medium/tt5116410/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5116410/img",
+  "popularity": 0.04882333333333333,
+  "id": "tt5116410",
+  "genres": [
+   "Documentary",
+   "Animation",
+   "Crime"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Tower",
+    "ytId": "GTzNkfgM1vE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5116410"
+   },
+   {
+    "name": "Tower",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tower-5116410"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Monty Muir",
+    "category": "Cast",
+    "url": "stremio:///search?search=Monty%20Muir"
+   },
+   {
+    "name": "Violett Beane",
+    "category": "Cast",
+    "url": "stremio:///search?search=Violett%20Beane"
+   },
+   {
+    "name": "Cole Bee Wilson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cole%20Bee%20Wilson"
+   },
+   {
+    "name": "Pamela Colloff",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pamela%20Colloff"
+   },
+   {
+    "name": "Keith Maitland",
+    "category": "Directors",
+    "url": "stremio:///search?search=Keith%20Maitland"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5116410",
+   "hasScheduledVideos": false
+  }
+ }
+}

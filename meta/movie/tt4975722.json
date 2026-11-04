@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "imdb_id": "tt4975722",
+  "name": "Moonlight",
+  "popularities": {
+   "moviedb": 11.2406,
+   "stremio": 0.37468666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "9NJj12tJzqc",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 376867,
+  "year": "2016",
+  "runtime": "112 min",
+  "genre": [
+   "Drama"
+  ],
+  "released": "2016-11-18T00:00:00.000Z",
+  "director": [
+   "Barry Jenkins"
+  ],
+  "writer": [
+   "Barry Jenkins",
+   "Tarell Alvin McCraney"
+  ],
+  "cast": [
+   "Mahershala Ali",
+   "Naomie Harris",
+   "Trevante Rhodes"
+  ],
+  "imdbRating": "7.4",
+  "poster": "https://images.metahub.space/poster/small/tt4975722/img",
+  "description": "Captures a self forming under pressure, in three ages. One boy in Miami at 9, 16 and adult — bullied, desired, armoured — told almost entirely in looks and silences.\n\nA young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 237 wins & 315 nominations total",
+  "dvdRelease": "2017-02-21T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt4975722/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4975722/img",
+  "slug": "movie/moonlight-4975722",
+  "popularity": 0.37468666666666667,
+  "id": "tt4975722",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Moonlight",
+    "ytId": "9NJj12tJzqc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4975722"
+   },
+   {
+    "name": "Moonlight",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/moonlight-4975722"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mahershala Ali",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mahershala%20Ali"
+   },
+   {
+    "name": "Naomie Harris",
+    "category": "Cast",
+    "url": "stremio:///search?search=Naomie%20Harris"
+   },
+   {
+    "name": "Trevante Rhodes",
+    "category": "Cast",
+    "url": "stremio:///search?search=Trevante%20Rhodes"
+   },
+   {
+    "name": "Barry Jenkins",
+    "category": "Writers",
+    "url": "stremio:///search?search=Barry%20Jenkins"
+   },
+   {
+    "name": "Tarell Alvin McCraney",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tarell%20Alvin%20McCraney"
+   },
+   {
+    "name": "Barry Jenkins",
+    "category": "Directors",
+    "url": "stremio:///search?search=Barry%20Jenkins"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4975722",
+   "hasScheduledVideos": false
+  }
+ }
+}

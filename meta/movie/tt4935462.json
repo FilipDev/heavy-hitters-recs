@@ -1,0 +1,122 @@
+{
+ "meta": {
+  "imdb_id": "tt4935462",
+  "cast": [
+   "Aretha Franklin",
+   "James Cleveland",
+   "Alexander Hamilton"
+  ],
+  "country": "United States",
+  "description": "Captures singing as spiritual labour. Aretha Franklin recording a live gospel album in a Los Angeles church in 1972, over two nights, in a performance that visibly costs her something.\n\nA documentary presenting Aretha Franklin with choir at the New Bethel Baptist Church in Watts, Los Angeles in January 1972.",
+  "director": [
+   "Alan Elliott",
+   "Sydney Pollack"
+  ],
+  "genre": [
+   "Documentary",
+   "Music"
+  ],
+  "imdbRating": "7.5",
+  "name": "Amazing Grace",
+  "released": "2019-04-05T00:00:00.000Z",
+  "runtime": "87 min",
+  "slug": "movie/amazing-grace-4935462",
+  "type": "movie",
+  "year": "2019",
+  "moviedb_id": 356199,
+  "popularities": {
+   "moviedb": 2.1386,
+   "stremio": 0.07128666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "-zP1sXSAkHs",
+    "type": "Trailer"
+   },
+   {
+    "source": "ypHZbtqSU48",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famazinggrace2019_217163%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.639/ImageRenderer/111/168/images/no_image_111x168.jpg/217163/images/masterrepository/fandango/217163/amazinggrace_poster.jpg\" alt=\"Amazing Grace (2019)\" title=\"Amazing Grace (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famazinggrace2019_217163%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2famazinggrace2019-trailer%2f217163%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famazinggrace2019_217163%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.639//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famazinggrace2019_217163%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "poster": "https://images.metahub.space/poster/small/tt4935462/img",
+  "dvdRelease": "2019-08-06T00:00:00.000Z",
+  "awards": "2 wins & 15 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt4935462/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4935462/img",
+  "popularity": 0.07128666666666666,
+  "id": "tt4935462",
+  "genres": [
+   "Documentary",
+   "Music"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "Amazing Grace",
+    "ytId": "-zP1sXSAkHs"
+   },
+   {
+    "title": "Amazing Grace",
+    "ytId": "ypHZbtqSU48"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4935462"
+   },
+   {
+    "name": "Amazing Grace",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/amazing-grace-4935462"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Aretha Franklin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aretha%20Franklin"
+   },
+   {
+    "name": "James Cleveland",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Cleveland"
+   },
+   {
+    "name": "Alexander Hamilton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alexander%20Hamilton"
+   },
+   {
+    "name": "Alan Elliott",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alan%20Elliott"
+   },
+   {
+    "name": "Sydney Pollack",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sydney%20Pollack"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4935462",
+   "hasScheduledVideos": false
+  }
+ }
+}

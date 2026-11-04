@@ -1,0 +1,148 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 13 wins & 38 nominations total",
+  "cast": [
+   "Aki Asakura",
+   "Kengo Kôra",
+   "Takeo Chii"
+  ],
+  "country": "Japan",
+  "description": "Captures joy being disciplined out of a girl. A bamboo cutter raises a moon princess and watches court life sand down the wild child she was, until the watercolour lines themselves start to run.\n\nKaguya is a beautiful young woman coveted by five nobles. To try to avoid marrying a stranger she doesn't love, she sends her suitors on seemingly impossible tasks. But she will have to face her fate and punishment for her choices.",
+  "director": [
+   "Isao Takahata"
+  ],
+  "dvdRelease": "2019-12-14T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Drama",
+   "Family"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt2576852",
+  "moviedb_id": 149871,
+  "name": "The Tale of the Princess Kaguya",
+  "popularity": 0.27210666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt2576852/img",
+  "released": "2013-11-23T00:00:00.000Z",
+  "runtime": "137 min",
+  "trailers": [
+   {
+    "source": "iPm7HfO3mis",
+    "type": "Trailer"
+   },
+   {
+    "source": "ILVGna1QMkc",
+    "type": "Trailer"
+   },
+   {
+    "source": "PZK2y9NAaNo",
+    "type": "Trailer"
+   },
+   {
+    "source": "W71mtorCZDw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Isao Takahata",
+   "Riko Sakaguchi"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2576852/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2576852/img",
+  "popularities": {
+   "moviedb": 8.1632,
+   "stremio": 0.27210666666666666,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-tale-of-the-princess-kaguya-2576852",
+  "id": "tt2576852",
+  "genres": [
+   "Animation",
+   "Drama",
+   "Family"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "The Tale of The Princess Kaguya",
+    "ytId": "iPm7HfO3mis"
+   },
+   {
+    "title": "The Tale of The Princess Kaguya",
+    "ytId": "ILVGna1QMkc"
+   },
+   {
+    "title": "The Tale of The Princess Kaguya",
+    "ytId": "PZK2y9NAaNo"
+   },
+   {
+    "title": "The Tale of The Princess Kaguya",
+    "ytId": "W71mtorCZDw"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2576852"
+   },
+   {
+    "name": "The Tale of The Princess Kaguya",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-tale-of-the-princess-kaguya-2576852"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Aki Asakura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aki%20Asakura"
+   },
+   {
+    "name": "Kengo Kôra",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kengo%20K%C3%B4ra"
+   },
+   {
+    "name": "Takeo Chii",
+    "category": "Cast",
+    "url": "stremio:///search?search=Takeo%20Chii"
+   },
+   {
+    "name": "Isao Takahata",
+    "category": "Writers",
+    "url": "stremio:///search?search=Isao%20Takahata"
+   },
+   {
+    "name": "Riko Sakaguchi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Riko%20Sakaguchi"
+   },
+   {
+    "name": "Isao Takahata",
+    "category": "Directors",
+    "url": "stremio:///search?search=Isao%20Takahata"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2576852",
+   "hasScheduledVideos": false
+  }
+ }
+}

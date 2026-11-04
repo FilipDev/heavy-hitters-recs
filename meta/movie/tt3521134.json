@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt3521134",
+  "popularity": 0.08219,
+  "name": "The Look of Silence",
+  "year": "2015",
+  "runtime": "100 min",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "released": "2015-07-17T00:00:00.000Z",
+  "director": [
+   "Joshua Oppenheimer"
+  ],
+  "writer": null,
+  "cast": [
+   "Adi Rukun",
+   "M.Y. Basrun",
+   "Volker Hanisch"
+  ],
+  "imdbRating": "8.2",
+  "poster": "https://images.metahub.space/poster/small/tt3521134/img",
+  "description": "Captures confrontation inverted: Adi, whose brother was murdered in Indonesia's 1965 purges, visits the killers under cover of eye exams and asks about the killings to their faces — no shouting, only unbearable quiet where they still hold power.\n\nA family that survived the genocide in Indonesia confronts the men who killed one of their brothers.",
+  "country": "Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",
+  "awards": "Nominated for 1 Oscar. 48 wins & 45 nominations total",
+  "dvdRelease": "2016-03-04T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "iUnMbG0FzdQ",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 267480,
+  "popularities": {
+   "moviedb": 2.4657,
+   "stremio": 0.08219,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt3521134/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3521134/img",
+  "slug": "movie/the-look-of-silence-3521134",
+  "id": "tt3521134",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "releaseInfo": "2015",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Look of Silence",
+    "ytId": "iUnMbG0FzdQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3521134"
+   },
+   {
+    "name": "The Look of Silence",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-look-of-silence-3521134"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Adi Rukun",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adi%20Rukun"
+   },
+   {
+    "name": "M.Y. Basrun",
+    "category": "Cast",
+    "url": "stremio:///search?search=M.Y.%20Basrun"
+   },
+   {
+    "name": "Volker Hanisch",
+    "category": "Cast",
+    "url": "stremio:///search?search=Volker%20Hanisch"
+   },
+   {
+    "name": "Joshua Oppenheimer",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joshua%20Oppenheimer"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3521134",
+   "hasScheduledVideos": false
+  }
+ }
+}

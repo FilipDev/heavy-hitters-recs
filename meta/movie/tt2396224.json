@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt2396224",
+  "popularities": {
+   "moviedb": 1.9999,
+   "stremio": 0.06666333333333334,
+   "stremio_lib": 0
+  },
+  "name": "It's Such a Beautiful Day",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "ecn9YiqqHyw",
+    "type": "Trailer"
+   },
+   {
+    "source": "-e6DHjZ-eRg",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 489412,
+  "year": "2016",
+  "runtime": "62 min",
+  "genre": [
+   "Animation",
+   "Comedy",
+   "Drama"
+  ],
+  "released": "2016-05-21T00:00:00.000Z",
+  "director": [
+   "Don Hertzfeldt"
+  ],
+  "writer": [
+   "Don Hertzfeldt"
+  ],
+  "cast": [
+   "Sara Cushman",
+   "Don Hertzfeldt"
+  ],
+  "imdbRating": "8.2",
+  "poster": "https://images.metahub.space/poster/small/tt2396224/img",
+  "description": "Captures a mind coming apart, drawn with stick figures. Hertzfeldt narrates a man with a failing brain in three chapters — funny, fragmented, and by the end genuinely cosmic.\n\nBill struggles to put together his shattered psyche, in this new feature film version of Don Hertzfeldt's animated short film trilogy.",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "slug": "movie/its-such-a-beautiful-day-2396224",
+  "background": "https://images.metahub.space/background/medium/tt2396224/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2396224/img",
+  "popularity": 0.06666333333333334,
+  "id": "tt2396224",
+  "genres": [
+   "Animation",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "It's Such a Beautiful Day",
+    "ytId": "ecn9YiqqHyw"
+   },
+   {
+    "title": "It's Such a Beautiful Day",
+    "ytId": "-e6DHjZ-eRg"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2396224"
+   },
+   {
+    "name": "It's Such a Beautiful Day",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/its-such-a-beautiful-day-2396224"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sara Cushman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sara%20Cushman"
+   },
+   {
+    "name": "Don Hertzfeldt",
+    "category": "Cast",
+    "url": "stremio:///search?search=Don%20Hertzfeldt"
+   },
+   {
+    "name": "Don Hertzfeldt",
+    "category": "Writers",
+    "url": "stremio:///search?search=Don%20Hertzfeldt"
+   },
+   {
+    "name": "Don Hertzfeldt",
+    "category": "Directors",
+    "url": "stremio:///search?search=Don%20Hertzfeldt"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2396224",
+   "hasScheduledVideos": false
+  }
+ }
+}

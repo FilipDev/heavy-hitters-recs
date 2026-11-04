@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "imdb_id": "tt4908644",
+  "name": "Winter on Fire: Ukraine's Fight for Freedom",
+  "year": "2015",
+  "runtime": "98 min",
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "released": "2015-10-09T00:00:00.000Z",
+  "director": [
+   "Evgeny Afineevsky"
+  ],
+  "writer": [
+   "Den Tolmor"
+  ],
+  "cast": [
+   "His Beatitude Sviatoslav",
+   "Said Ismagilov",
+   "Bishop Agapit"
+  ],
+  "imdbRating": "8.3",
+  "poster": "https://images.metahub.space/poster/small/tt4908644/img",
+  "description": "Captures a protest becoming a revolution in real time, and what it costs the people who refuse to leave. Kyiv's Euromaidan over 93 days, from student demonstration to a government shooting its own citizens, filmed inside the square.\n\nA documentary on the unrest in Ukraine during 2013 and 2014, as student demonstrations supporting European integration grew into a violent revolution calling for the resignation of President Viktor F. Yanukovich.",
+  "country": "United Kingdom, Ukraine, United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 5 nominations total",
+  "dvdRelease": "2017-04-04T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "RibAQHeDia8",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 355020,
+  "popularity": 0.058100000000000006,
+  "popularities": {
+   "moviedb": 1.743,
+   "stremio": 0.058100000000000006,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "background": "https://images.metahub.space/background/medium/tt4908644/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4908644/img",
+  "slug": "movie/winter-on-fire-ukraines-fight-for-freedom-4908644",
+  "id": "tt4908644",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "2015",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Winter on Fire: Ukraine's Fight for Freedom",
+    "ytId": "RibAQHeDia8"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4908644"
+   },
+   {
+    "name": "Winter on Fire: Ukraine's Fight for Freedom",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/winter-on-fire-ukraines-fight-for-freedom-4908644"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "His Beatitude Sviatoslav",
+    "category": "Cast",
+    "url": "stremio:///search?search=His%20Beatitude%20Sviatoslav"
+   },
+   {
+    "name": "Said Ismagilov",
+    "category": "Cast",
+    "url": "stremio:///search?search=Said%20Ismagilov"
+   },
+   {
+    "name": "Bishop Agapit",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bishop%20Agapit"
+   },
+   {
+    "name": "Den Tolmor",
+    "category": "Writers",
+    "url": "stremio:///search?search=Den%20Tolmor"
+   },
+   {
+    "name": "Evgeny Afineevsky",
+    "category": "Directors",
+    "url": "stremio:///search?search=Evgeny%20Afineevsky"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4908644",
+   "hasScheduledVideos": false
+  }
+ }
+}

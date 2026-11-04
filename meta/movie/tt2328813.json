@@ -1,0 +1,122 @@
+{
+ "meta": {
+  "imdb_id": "tt2328813",
+  "popularity": 0.06610333333333333,
+  "name": "Hard to Be a God",
+  "year": "2013",
+  "runtime": "177 min",
+  "genre": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "released": "2014-02-27T00:00:00.000Z",
+  "director": [
+   "Aleksey German"
+  ],
+  "writer": [
+   "Arkadiy Strugatskiy",
+   "Boris Strugatskiy",
+   "Aleksey German"
+  ],
+  "cast": [
+   "Leonid Yarmolnik",
+   "Aleksandr Chutko",
+   "Yuriy Tsurilo"
+  ],
+  "imdbRating": "6.5",
+  "poster": "https://images.metahub.space/poster/small/tt2328813/img",
+  "description": "Captures maximalism as immersion rather than beauty. German's scientist observes a filthy, violent medieval world on another planet, forbidden to intervene, across three hours of black-and-white mud, smoke and faces pressing into the lens — total world-building with every trace of lyricism drowned.\n\nIn the distant future, a space traveler from Earth breaks a special law and interferes with the history of another, Medieval-like planet.",
+  "country": "Russia",
+  "awards": "10 wins & 12 nominations total",
+  "dvdRelease": "2016-06-30T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "11sMDQIgggA",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 110402,
+  "popularities": {
+   "moviedb": 1.9831,
+   "stremio": 0.06610333333333333,
+   "stremio_lib": 0
+  },
+  "slug": "movie/hard-to-be-a-god-2328813",
+  "background": "https://images.metahub.space/background/medium/tt2328813/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2328813/img",
+  "id": "tt2328813",
+  "genres": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "Hard to Be a God",
+    "ytId": "11sMDQIgggA"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2328813"
+   },
+   {
+    "name": "Hard to Be a God",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/hard-to-be-a-god-2328813"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Leonid Yarmolnik",
+    "category": "Cast",
+    "url": "stremio:///search?search=Leonid%20Yarmolnik"
+   },
+   {
+    "name": "Aleksandr Chutko",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aleksandr%20Chutko"
+   },
+   {
+    "name": "Yuriy Tsurilo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yuriy%20Tsurilo"
+   },
+   {
+    "name": "Arkadiy Strugatskiy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Arkadiy%20Strugatskiy"
+   },
+   {
+    "name": "Boris Strugatskiy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Boris%20Strugatskiy"
+   },
+   {
+    "name": "Aleksey German",
+    "category": "Writers",
+    "url": "stremio:///search?search=Aleksey%20German"
+   },
+   {
+    "name": "Aleksey German",
+    "category": "Directors",
+    "url": "stremio:///search?search=Aleksey%20German"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2328813",
+   "hasScheduledVideos": false
+  }
+ }
+}

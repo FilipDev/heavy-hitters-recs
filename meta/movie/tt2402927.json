@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "awards": "Nominated for 6 Oscars. 76 wins & 255 nominations total",
+  "cast": [
+   "Cate Blanchett",
+   "Rooney Mara",
+   "Sarah Paulson"
+  ],
+  "country": "United Kingdom, France, Australia, United States",
+  "description": "Captures restrained desire in a world with everything to lose. 1950s New York, a shopgirl and an older woman in a custody fight — glances across a toy counter, a road trip, composure in every public room.\n\nAn aspiring photographer develops an intimate relationship with an older woman in 1950s New York.",
+  "director": [
+   "Todd Haynes"
+  ],
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt2402927",
+  "name": "Carol",
+  "poster": "https://images.metahub.space/poster/small/tt2402927/img",
+  "released": "2016-01-15T00:00:00.000Z",
+  "runtime": "118 min",
+  "type": "movie",
+  "writer": [
+   "Patricia Highsmith",
+   "Phyllis Nagy"
+  ],
+  "year": "2016",
+  "popularity": 0.24947666666666668,
+  "popularities": {
+   "moviedb": 7.4843,
+   "stremio": 0.24947666666666668,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "Y6ekAV16RIs",
+    "type": "Trailer"
+   },
+   {
+    "source": "qnhLOn3nyH8",
+    "type": "Trailer"
+   },
+   {
+    "source": "EH3zcuRQXNo",
+    "type": "Trailer"
+   },
+   {
+    "source": "0FLIajZa_Y8",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 258480,
+  "dvdRelease": "2016-11-08T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt2402927/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2402927/img",
+  "slug": "movie/carol-2402927",
+  "id": "tt2402927",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Carol",
+    "ytId": "Y6ekAV16RIs"
+   },
+   {
+    "title": "Carol",
+    "ytId": "qnhLOn3nyH8"
+   },
+   {
+    "title": "Carol",
+    "ytId": "EH3zcuRQXNo"
+   },
+   {
+    "title": "Carol",
+    "ytId": "0FLIajZa_Y8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2402927"
+   },
+   {
+    "name": "Carol",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/carol-2402927"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Cate Blanchett",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cate%20Blanchett"
+   },
+   {
+    "name": "Rooney Mara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rooney%20Mara"
+   },
+   {
+    "name": "Sarah Paulson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sarah%20Paulson"
+   },
+   {
+    "name": "Patricia Highsmith",
+    "category": "Writers",
+    "url": "stremio:///search?search=Patricia%20Highsmith"
+   },
+   {
+    "name": "Phyllis Nagy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Phyllis%20Nagy"
+   },
+   {
+    "name": "Todd Haynes",
+    "category": "Directors",
+    "url": "stremio:///search?search=Todd%20Haynes"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2402927",
+   "hasScheduledVideos": false
+  }
+ }
+}

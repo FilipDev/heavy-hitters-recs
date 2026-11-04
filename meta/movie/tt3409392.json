@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 33 wins & 28 nominations total",
+  "cast": [
+   "Ibrahim Ahmed",
+   "Abel Jafri",
+   "Toulou Kiki"
+  ],
+  "country": "Mauritania, France, Qatar",
+  "description": "Captures occupation resisted through music, football and dignity. Jihadists take a Malian town and ban singing and soccer; people comply in public, sing quietly at night, and play a match with an invisible ball.\n\nA cattle herder and his family who reside in the dunes of Timbuktu find their quiet lives -- which are typically free of the Jihadists determined to control their faith -- abruptly disturbed.",
+  "director": [
+   "Abderrahmane Sissako"
+  ],
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt3409392",
+  "name": "Timbuktu",
+  "poster": "https://images.metahub.space/poster/small/tt3409392/img",
+  "released": "2014-12-10T00:00:00.000Z",
+  "runtime": "96 min",
+  "type": "movie",
+  "writer": [
+   "Abderrahmane Sissako",
+   "Kessen Tall"
+  ],
+  "year": "2014",
+  "popularity": 0.07587666666666666,
+  "trailers": [
+   {
+    "source": "k0yFA5qQ5cM",
+    "type": "Trailer"
+   },
+   {
+    "source": "CspcDYQ-SiY",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 265228,
+  "dvdRelease": "2015-05-26T00:00:00.000Z",
+  "popularities": {
+   "moviedb": 2.2763,
+   "stremio": 0.07587666666666666,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt3409392/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3409392/img",
+  "slug": "movie/timbuktu-3409392",
+  "id": "tt3409392",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Timbuktu",
+    "ytId": "k0yFA5qQ5cM"
+   },
+   {
+    "title": "Timbuktu",
+    "ytId": "CspcDYQ-SiY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3409392"
+   },
+   {
+    "name": "Timbuktu",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/timbuktu-3409392"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Ibrahim Ahmed",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ibrahim%20Ahmed"
+   },
+   {
+    "name": "Abel Jafri",
+    "category": "Cast",
+    "url": "stremio:///search?search=Abel%20Jafri"
+   },
+   {
+    "name": "Toulou Kiki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Toulou%20Kiki"
+   },
+   {
+    "name": "Abderrahmane Sissako",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abderrahmane%20Sissako"
+   },
+   {
+    "name": "Kessen Tall",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kessen%20Tall"
+   },
+   {
+    "name": "Abderrahmane Sissako",
+    "category": "Directors",
+    "url": "stremio:///search?search=Abderrahmane%20Sissako"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3409392",
+   "hasScheduledVideos": false
+  }
+ }
+}

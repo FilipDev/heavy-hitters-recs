@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "9 wins & 23 nominations total",
+  "cast": [
+   "Sheila Vand",
+   "Arash Marandi",
+   "Marshall Manesh"
+  ],
+  "country": "United States",
+  "description": "Captures a vampire film rebuilt from Iranian, Western and skate-punk parts. A fictional Iranian ghost town, a chador-wearing vampire on a skateboard, a drug dealer and a cat, in long black-and-white silences between bursts of pop.\n\nIn the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire.",
+  "director": [
+   "Ana Lily Amirpour"
+  ],
+  "genre": [
+   "Drama",
+   "Horror",
+   "Romance"
+  ],
+  "imdbRating": "6.9",
+  "imdb_id": "tt2326554",
+  "name": "A Girl Walks Home Alone at Night",
+  "poster": "https://images.metahub.space/poster/small/tt2326554/img",
+  "released": "2015-04-20T00:00:00.000Z",
+  "runtime": "101 min",
+  "type": "movie",
+  "writer": [
+   "Ana Lily Amirpour"
+  ],
+  "year": "2015",
+  "popularity": 0.14049666666666666,
+  "dvdRelease": "2016-04-21T00:00:00.000Z",
+  "trailers": [
+   {
+    "source": "2zyGQuEkDT8",
+    "type": "Trailer"
+   },
+   {
+    "source": "_YGmTdo3vuY",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 252171,
+  "popularities": {
+   "moviedb": 4.2149,
+   "stremio": 0.14049666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt2326554/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2326554/img",
+  "slug": "movie/a-girl-walks-home-alone-at-night-2326554",
+  "id": "tt2326554",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Romance"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "A Girl Walks Home Alone at Night",
+    "ytId": "2zyGQuEkDT8"
+   },
+   {
+    "title": "A Girl Walks Home Alone at Night",
+    "ytId": "_YGmTdo3vuY"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2326554"
+   },
+   {
+    "name": "A Girl Walks Home Alone at Night",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-girl-walks-home-alone-at-night-2326554"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Sheila Vand",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sheila%20Vand"
+   },
+   {
+    "name": "Arash Marandi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arash%20Marandi"
+   },
+   {
+    "name": "Marshall Manesh",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marshall%20Manesh"
+   },
+   {
+    "name": "Ana Lily Amirpour",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ana%20Lily%20Amirpour"
+   },
+   {
+    "name": "Ana Lily Amirpour",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ana%20Lily%20Amirpour"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2326554",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "awards": "6 wins & 6 nominations total",
+  "cast": [
+   "Emily Baldoni",
+   "Maury Sterling",
+   "Nicholas Brendon"
+  ],
+  "country": "United States, United Kingdom",
+  "description": "Captures an inversion problem in film form: eight people at a dinner party during a comet find other houses holding the same eight people, and try to tell the worlds apart with numbered photos, dice and glow sticks — markers that keep getting copied or lost.\n\nStrange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.",
+  "director": [
+   "James Ward Byrkit"
+  ],
+  "dvdRelease": "2015-11-16T00:00:00.000Z",
+  "genre": [
+   "Mystery",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt2866360",
+  "moviedb_id": 220289,
+  "name": "Coherence",
+  "popularity": 0.2659766666666667,
+  "poster": "https://images.metahub.space/poster/small/tt2866360/img",
+  "released": "2014-08-06T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "YixSld-6PqM",
+    "type": "Trailer"
+   },
+   {
+    "source": "sEceDz1Rodc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "James Ward Byrkit",
+   "Alex Manugian"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt2866360/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2866360/img",
+  "popularities": {
+   "moviedb": 7.9793,
+   "stremio": 0.2659766666666667,
+   "trakt": 27,
+   "stremio_lib": 0
+  },
+  "slug": "movie/coherence-2866360",
+  "id": "tt2866360",
+  "genres": [
+   "Mystery",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Coherence",
+    "ytId": "YixSld-6PqM"
+   },
+   {
+    "title": "Coherence",
+    "ytId": "sEceDz1Rodc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2866360"
+   },
+   {
+    "name": "Coherence",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/coherence-2866360"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Emily Baldoni",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emily%20Baldoni"
+   },
+   {
+    "name": "Maury Sterling",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maury%20Sterling"
+   },
+   {
+    "name": "Nicholas Brendon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nicholas%20Brendon"
+   },
+   {
+    "name": "James Ward Byrkit",
+    "category": "Writers",
+    "url": "stremio:///search?search=James%20Ward%20Byrkit"
+   },
+   {
+    "name": "Alex Manugian",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alex%20Manugian"
+   },
+   {
+    "name": "James Ward Byrkit",
+    "category": "Directors",
+    "url": "stremio:///search?search=James%20Ward%20Byrkit"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2866360",
+   "hasScheduledVideos": false
+  }
+ }
+}

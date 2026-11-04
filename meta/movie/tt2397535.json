@@ -1,0 +1,152 @@
+{
+ "meta": {
+  "awards": "13 wins & 20 nominations total",
+  "cast": [
+   "Ethan Hawke",
+   "Sarah Snook",
+   "Noah Taylor"
+  ],
+  "country": "Australia, United States",
+  "description": "Captures a closed loop where a self is its own cause. A time-travelling agent on one last assignment is caught in a cycle that lands on the autonomy paradox: if the self seeking freedom was produced by the structure, what would escaping be for that self?\n\nAs his last assignment, a temporal agent is tasked to travel back in time and prevent a bomb attack in New York in 1975. The hunt, however, turns out to be beyond the bounds of possibility.",
+  "director": [
+   "Michael Spierig",
+   "Peter Spierig"
+  ],
+  "dvdRelease": "2016-01-02T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt2397535",
+  "moviedb_id": 206487,
+  "name": "Predestination",
+  "popularity": 0.39322,
+  "poster": "https://images.metahub.space/poster/small/tt2397535/img",
+  "released": "2015-01-09T00:00:00.000Z",
+  "runtime": "98 min",
+  "trailers": [
+   {
+    "source": "xxG-YfedrfU",
+    "type": "Trailer"
+   },
+   {
+    "source": "ajwJiex_4i8",
+    "type": "Trailer"
+   },
+   {
+    "source": "Un5pWYYV5Ak",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Spierig",
+   "Peter Spierig",
+   "Robert A. Heinlein"
+  ],
+  "year": "2015",
+  "background": "https://images.metahub.space/background/medium/tt2397535/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2397535/img",
+  "popularities": {
+   "moviedb": 11.7966,
+   "stremio": 0.39322,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/predestination-2397535",
+  "id": "tt2397535",
+  "genres": [
+   "Action",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Predestination",
+    "ytId": "xxG-YfedrfU"
+   },
+   {
+    "title": "Predestination",
+    "ytId": "ajwJiex_4i8"
+   },
+   {
+    "title": "Predestination",
+    "ytId": "Un5pWYYV5Ak"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2397535"
+   },
+   {
+    "name": "Predestination",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/predestination-2397535"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Ethan Hawke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ethan%20Hawke"
+   },
+   {
+    "name": "Sarah Snook",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sarah%20Snook"
+   },
+   {
+    "name": "Noah Taylor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Noah%20Taylor"
+   },
+   {
+    "name": "Michael Spierig",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Spierig"
+   },
+   {
+    "name": "Peter Spierig",
+    "category": "Writers",
+    "url": "stremio:///search?search=Peter%20Spierig"
+   },
+   {
+    "name": "Robert A. Heinlein",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robert%20A.%20Heinlein"
+   },
+   {
+    "name": "Michael Spierig",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Spierig"
+   },
+   {
+    "name": "Peter Spierig",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Spierig"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2397535",
+   "hasScheduledVideos": false
+  }
+ }
+}

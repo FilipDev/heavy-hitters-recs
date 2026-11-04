@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 87 wins & 106 nominations total",
+  "cast": [
+   "Léa Seydoux",
+   "Adèle Exarchopoulos",
+   "Salim Kechiouche"
+  ],
+  "country": "France, Belgium, Spain",
+  "description": "Captures first love at the resolution of skin, food and class difference. A schoolgirl in Lille and an older art student with blue hair — long scenes of eating, talking and teaching, and a breakup stretched across years of growing into different worlds.\n\nAdèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult. In front of others, Adèle grows, seeks herself, loses herself, and ...",
+  "director": [
+   "Abdellatif Kechiche"
+  ],
+  "dvdRelease": "2016-09-14T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt2278871",
+  "moviedb_id": 152584,
+  "name": "Blue Is the Warmest Colour",
+  "popularity": 0.22648000000000001,
+  "poster": "https://images.metahub.space/poster/small/tt2278871/img",
+  "released": "2013-10-09T00:00:00.000Z",
+  "runtime": "180 min",
+  "trailers": [
+   {
+    "source": "J_ekBcdPzIk",
+    "type": "Trailer"
+   },
+   {
+    "source": "qOiug_u7Wns",
+    "type": "Trailer"
+   },
+   {
+    "source": "aQGSlVJgGlI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Abdellatif Kechiche",
+   "Ghalya Lacroix",
+   "Jul Maroh"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2278871/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2278871/img",
+  "popularities": {
+   "moviedb": 6.7944,
+   "stremio": 0.22648000000000001,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/blue-is-the-warmest-colour-2278871",
+  "id": "tt2278871",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "Blue Is the Warmest Colour",
+    "ytId": "J_ekBcdPzIk"
+   },
+   {
+    "title": "Blue Is the Warmest Colour",
+    "ytId": "qOiug_u7Wns"
+   },
+   {
+    "title": "Blue Is the Warmest Colour",
+    "ytId": "aQGSlVJgGlI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2278871"
+   },
+   {
+    "name": "Blue Is the Warmest Colour",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/blue-is-the-warmest-colour-2278871"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Léa Seydoux",
+    "category": "Cast",
+    "url": "stremio:///search?search=L%C3%A9a%20Seydoux"
+   },
+   {
+    "name": "Adèle Exarchopoulos",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ad%C3%A8le%20Exarchopoulos"
+   },
+   {
+    "name": "Salim Kechiouche",
+    "category": "Cast",
+    "url": "stremio:///search?search=Salim%20Kechiouche"
+   },
+   {
+    "name": "Abdellatif Kechiche",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abdellatif%20Kechiche"
+   },
+   {
+    "name": "Ghalya Lacroix",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ghalya%20Lacroix"
+   },
+   {
+    "name": "Jul Maroh",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jul%20Maroh"
+   },
+   {
+    "name": "Abdellatif Kechiche",
+    "category": "Directors",
+    "url": "stremio:///search?search=Abdellatif%20Kechiche"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2278871",
+   "hasScheduledVideos": false
+  }
+ }
+}

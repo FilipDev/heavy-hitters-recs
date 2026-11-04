@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "imdb_id": "tt4633694",
+  "name": "Spider-Man: Into the Spider-Verse",
+  "year": "2018",
+  "genre": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "released": "2018-12-14T00:00:00.000Z",
+  "director": [
+   "Bob Persichetti",
+   "Peter Ramsey",
+   "Rodney Rothman"
+  ],
+  "writer": [
+   "Phil Lord",
+   "Rodney Rothman"
+  ],
+  "cast": [
+   "Shameik Moore",
+   "Jake Johnson",
+   "Hailee Steinfeld"
+  ],
+  "imdbRating": "8.4",
+  "description": "Captures what a comic book actually feels like to read, in motion. Also a genuinely good story about a kid learning that anyone can wear the mask, by failing at it a lot.\n\nTeen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+  "country": "United States",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "tg52up16eq0",
+    "type": "Trailer"
+   },
+   {
+    "source": "g4Hbz2jLxvQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "ii3n7hYQOl4",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 324857,
+  "popularities": {
+   "moviedb": 39.9623,
+   "stremio": 1.3370766666666665,
+   "trakt": 52,
+   "stremio_lib": 0.005
+  },
+  "poster": "https://images.metahub.space/poster/small/tt4633694/img",
+  "background": "https://images.metahub.space/background/medium/tt4633694/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4633694/img",
+  "slug": "movie/spider-man-into-the-spider-verse-4633694",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3aintothespiderverse_208293%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.590/ImageRenderer/111/168/images/no_image_111x168.jpg/208293/images/masterrepository/fandango/208293/spidermanintothespiderverse2018.jpg\" alt=\"Spider-Man: Into the Spider-Verse\" title=\"Spider-Man: Into the Spider-Verse\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3aintothespiderverse_208293%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fspiderman%3aintothespiderverse-trailer%2f208293%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3aintothespiderverse_208293%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.590//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3aintothespiderverse_208293%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "runtime": "117 min",
+  "dvdRelease": "2019-03-07T00:00:00.000Z",
+  "awards": "Won 1 Oscar. 85 wins & 60 nominations total",
+  "popularity": 1.3370766666666665,
+  "id": "tt4633694",
+  "genres": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "ytId": "tg52up16eq0"
+   },
+   {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "ytId": "g4Hbz2jLxvQ"
+   },
+   {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "ytId": "ii3n7hYQOl4"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4633694"
+   },
+   {
+    "name": "Spider-Man: Into the Spider-Verse",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/spider-man-into-the-spider-verse-4633694"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Shameik Moore",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shameik%20Moore"
+   },
+   {
+    "name": "Jake Johnson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jake%20Johnson"
+   },
+   {
+    "name": "Hailee Steinfeld",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hailee%20Steinfeld"
+   },
+   {
+    "name": "Phil Lord",
+    "category": "Writers",
+    "url": "stremio:///search?search=Phil%20Lord"
+   },
+   {
+    "name": "Rodney Rothman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Rodney%20Rothman"
+   },
+   {
+    "name": "Bob Persichetti",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bob%20Persichetti"
+   },
+   {
+    "name": "Peter Ramsey",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Ramsey"
+   },
+   {
+    "name": "Rodney Rothman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Rodney%20Rothman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4633694",
+   "hasScheduledVideos": false
+  }
+ }
+}

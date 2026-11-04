@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt3409848",
+  "name": "Zama",
+  "year": "2017",
+  "genre": [
+   "Drama",
+   "History"
+  ],
+  "released": "2017-09-28T00:00:00.000Z",
+  "director": [
+   "Lucrecia Martel"
+  ],
+  "writer": [
+   "Antonio Di Benedetto",
+   "Lucrecia Martel"
+  ],
+  "cast": [
+   "Daniel Giménez Cacho",
+   "Lola Dueñas",
+   "Matheus Nachtergaele"
+  ],
+  "imdbRating": "6.7",
+  "poster": "https://images.metahub.space/poster/small/tt3409848/img",
+  "description": "Captures empire as a man rotting in a landscape that was never his and barely notices him. Martel strands a Spanish colonial officer in a Paraguayan backwater, waiting years for a transfer that never comes, while insects, water and distant animals become the real film.\n\nDon Diego de Zama is a Spanish officer of the seventeenth century settled in Asunción, who awaits his transfer to Buenos Aires.",
+  "country": "Argentina, Brazil, Spain, Dominican Republic, France, Netherlands, Mexico, Switzerland, United States, Portugal, Lebanon",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "K8dW6YHINAA",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 326382,
+  "popularities": {
+   "moviedb": 3.7126,
+   "stremio": 0.12375333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/zama-3409848",
+  "runtime": "115 min",
+  "awards": "41 wins & 48 nominations total",
+  "dvdRelease": "2018-08-08T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt3409848/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3409848/img",
+  "popularity": 0.12375333333333334,
+  "id": "tt3409848",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "Zama",
+    "ytId": "K8dW6YHINAA"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3409848"
+   },
+   {
+    "name": "Zama",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/zama-3409848"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Daniel Giménez Cacho",
+    "category": "Cast",
+    "url": "stremio:///search?search=Daniel%20Gim%C3%A9nez%20Cacho"
+   },
+   {
+    "name": "Lola Dueñas",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lola%20Due%C3%B1as"
+   },
+   {
+    "name": "Matheus Nachtergaele",
+    "category": "Cast",
+    "url": "stremio:///search?search=Matheus%20Nachtergaele"
+   },
+   {
+    "name": "Antonio Di Benedetto",
+    "category": "Writers",
+    "url": "stremio:///search?search=Antonio%20Di%20Benedetto"
+   },
+   {
+    "name": "Lucrecia Martel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lucrecia%20Martel"
+   },
+   {
+    "name": "Lucrecia Martel",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lucrecia%20Martel"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3409848",
+   "hasScheduledVideos": false
+  }
+ }
+}

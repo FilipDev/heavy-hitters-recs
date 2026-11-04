@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "imdb_id": "tt4034228",
+  "name": "Manchester by the Sea",
+  "popularities": {
+   "moviedb": 11.2439,
+   "stremio": 0.37479666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "NxQmuJnrjxg",
+    "type": "Trailer"
+   },
+   {
+    "source": "obdKk_sYQNI",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 334541,
+  "year": "2016",
+  "runtime": "138 min",
+  "genre": [
+   "Drama"
+  ],
+  "released": "2016-12-16T00:00:00.000Z",
+  "director": [
+   "Kenneth Lonergan"
+  ],
+  "writer": [
+   "Kenneth Lonergan"
+  ],
+  "cast": [
+   "Casey Affleck",
+   "Michelle Williams",
+   "Kyle Chandler"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt4034228/img",
+  "description": "Captures grief without a redemption arc. A janitor who exiled himself after an unforgivable mistake must return home to look after his teenage nephew, and cannot accept the forgiveness he is offered.\n\nA depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 129 wins & 269 nominations total",
+  "dvdRelease": "2017-02-07T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt4034228/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4034228/img",
+  "slug": "movie/manchester-by-the-sea-4034228",
+  "popularity": 0.37479666666666667,
+  "id": "tt4034228",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Manchester by the Sea",
+    "ytId": "NxQmuJnrjxg"
+   },
+   {
+    "title": "Manchester by the Sea",
+    "ytId": "obdKk_sYQNI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4034228"
+   },
+   {
+    "name": "Manchester by the Sea",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/manchester-by-the-sea-4034228"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Casey Affleck",
+    "category": "Cast",
+    "url": "stremio:///search?search=Casey%20Affleck"
+   },
+   {
+    "name": "Michelle Williams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michelle%20Williams"
+   },
+   {
+    "name": "Kyle Chandler",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kyle%20Chandler"
+   },
+   {
+    "name": "Kenneth Lonergan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kenneth%20Lonergan"
+   },
+   {
+    "name": "Kenneth Lonergan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kenneth%20Lonergan"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4034228",
+   "hasScheduledVideos": false
+  }
+ }
+}

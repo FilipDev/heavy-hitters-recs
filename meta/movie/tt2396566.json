@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 22 wins & 27 nominations total",
+  "cast": [
+   "Darlene Love",
+   "Merry Clayton",
+   "Lisa Fischer"
+  ],
+  "country": "United States",
+  "description": "Captures the voices you know best belonging to people you can't name. Backup singers for the Stones, Springsteen and Sting — huge talent, a career spent three steps behind someone else.\n\nBackup singers live in a world that lies just beyond the spotlight. Their voices bring harmony to the biggest bands in popular music, but we've had no idea who these singers are or what lives they lead, until now.",
+  "director": [
+   "Morgan Neville"
+  ],
+  "dvdRelease": "2017-02-14T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt2396566",
+  "moviedb_id": 159014,
+  "name": "20 Feet from Stardom",
+  "popularity": 0.07833,
+  "poster": "https://images.metahub.space/poster/small/tt2396566/img",
+  "released": "2013-07-26T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "2kgRq_pGN2g",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Morgan Neville"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2396566/img",
+  "popularities": {
+   "moviedb": 2.3499,
+   "stremio": 0.07833,
+   "stremio_lib": 0
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt2396566/img",
+  "slug": "movie/20-feet-from-stardom-2396566",
+  "id": "tt2396566",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "20 Feet from Stardom",
+    "ytId": "2kgRq_pGN2g"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2396566"
+   },
+   {
+    "name": "20 Feet from Stardom",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/20-feet-from-stardom-2396566"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Darlene Love",
+    "category": "Cast",
+    "url": "stremio:///search?search=Darlene%20Love"
+   },
+   {
+    "name": "Merry Clayton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Merry%20Clayton"
+   },
+   {
+    "name": "Lisa Fischer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lisa%20Fischer"
+   },
+   {
+    "name": "Morgan Neville",
+    "category": "Writers",
+    "url": "stremio:///search?search=Morgan%20Neville"
+   },
+   {
+    "name": "Morgan Neville",
+    "category": "Directors",
+    "url": "stremio:///search?search=Morgan%20Neville"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2396566",
+   "hasScheduledVideos": false
+  }
+ }
+}

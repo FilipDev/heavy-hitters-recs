@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 55 wins & 46 nominations total",
+  "cast": [
+   "Anwar Congo",
+   "Herman Koto",
+   "Syamsul Arifin"
+  ],
+  "country": "United Kingdom, Denmark, Indonesia, Norway",
+  "description": "Captures impunity as performance. Indonesian mass killers, never punished and locally celebrated, gleefully re-stage their killings as Hollywood genres, until one man's body reacts before his conscience does.\n\nA documentary which challenges former Indonesian death-squad leaders to reenact their mass-killings in whichever cinematic genres they wish, including classic Hollywood crime scenarios and lavish musical numbers.",
+  "director": [
+   "Anonymous",
+   "Christine Cynn",
+   "Joshua Oppenheimer"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt2375605",
+  "moviedb_id": 123678,
+  "name": "The Act of Killing",
+  "popularity": 0.16999999999999998,
+  "poster": "https://images.metahub.space/poster/small/tt2375605/img",
+  "released": "2012-11-01T00:00:00.000Z",
+  "runtime": "159 min",
+  "trailers": [
+   {
+    "source": "cTozJLf-Px0",
+    "type": "Trailer"
+   },
+   {
+    "source": "rcWKf4IQQeQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "2012",
+  "background": "https://images.metahub.space/background/medium/tt2375605/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2375605/img",
+  "popularities": {
+   "moviedb": 5.1,
+   "stremio": 0.16999999999999998,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-act-of-killing-2375605",
+  "id": "tt2375605",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "releaseInfo": "2012",
+  "trailerStreams": [
+   {
+    "title": "The Act of Killing",
+    "ytId": "cTozJLf-Px0"
+   },
+   {
+    "title": "The Act of Killing",
+    "ytId": "rcWKf4IQQeQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2375605"
+   },
+   {
+    "name": "The Act of Killing",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-act-of-killing-2375605"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Anwar Congo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anwar%20Congo"
+   },
+   {
+    "name": "Herman Koto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Herman%20Koto"
+   },
+   {
+    "name": "Syamsul Arifin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Syamsul%20Arifin"
+   },
+   {
+    "name": "Anonymous",
+    "category": "Directors",
+    "url": "stremio:///search?search=Anonymous"
+   },
+   {
+    "name": "Christine Cynn",
+    "category": "Directors",
+    "url": "stremio:///search?search=Christine%20Cynn"
+   },
+   {
+    "name": "Joshua Oppenheimer",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joshua%20Oppenheimer"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2375605",
+   "hasScheduledVideos": false
+  }
+ }
+}

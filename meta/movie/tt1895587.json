@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "imdb_id": "tt1895587",
+  "popularity": 0.39670666666666665,
+  "name": "Spotlight",
+  "year": "2015",
+  "runtime": "129 min",
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "released": "2015-11-20T00:00:00.000Z",
+  "director": [
+   "Tom McCarthy"
+  ],
+  "writer": [
+   "Josh Singer",
+   "Tom McCarthy"
+  ],
+  "cast": [
+   "Mark Ruffalo",
+   "Michael Keaton",
+   "Rachel McAdams"
+  ],
+  "imdbRating": "8.1",
+  "poster": "https://images.metahub.space/poster/small/tt1895587/img",
+  "description": "Captures an investigation as a team slowly realising the size of the room they're in. Boston Globe reporters, church abuse, sealed records, survivors telling it plainly — no heroics beyond persistence.\n\nThe true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 124 wins & 146 nominations total",
+  "dvdRelease": "2016-02-02T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "WgnrwwiIDlI",
+    "type": "Trailer"
+   },
+   {
+    "source": "yXymzwz0V2g",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 314365,
+  "popularities": {
+   "moviedb": 11.9012,
+   "stremio": 0.39670666666666665,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1895587/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1895587/img",
+  "slug": "movie/spotlight-1895587",
+  "id": "tt1895587",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Spotlight",
+    "ytId": "WgnrwwiIDlI"
+   },
+   {
+    "title": "Spotlight",
+    "ytId": "yXymzwz0V2g"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1895587"
+   },
+   {
+    "name": "Spotlight",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/spotlight-1895587"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mark Ruffalo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%20Ruffalo"
+   },
+   {
+    "name": "Michael Keaton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Keaton"
+   },
+   {
+    "name": "Rachel McAdams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rachel%20McAdams"
+   },
+   {
+    "name": "Josh Singer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Josh%20Singer"
+   },
+   {
+    "name": "Tom McCarthy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tom%20McCarthy"
+   },
+   {
+    "name": "Tom McCarthy",
+    "category": "Directors",
+    "url": "stremio:///search?search=Tom%20McCarthy"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1895587",
+   "hasScheduledVideos": false
+  }
+ }
+}

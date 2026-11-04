@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "58 wins & 65 nominations total",
+  "cast": [
+   "Anne Dorval",
+   "Antoine Olivier Pilon",
+   "Suzanne Clément"
+  ],
+  "country": "Canada",
+  "description": "Captures a mother and son whose love is indistinguishable from the emergency. In Quebec, a widow, her volatile teenage son and a shy neighbour across the street — shot in a square frame that literally widens in the one scene where life briefly works.\n\nA widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household.",
+  "director": [
+   "Xavier Dolan"
+  ],
+  "dvdRelease": "2015-12-06T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt3612616",
+  "moviedb_id": 265177,
+  "name": "Mommy",
+  "popularity": 0.4624466666666667,
+  "poster": "https://images.metahub.space/poster/small/tt3612616/img",
+  "released": "2014-10-08T00:00:00.000Z",
+  "runtime": "138 min",
+  "trailers": [
+   {
+    "source": "PlZB2LLjzZY",
+    "type": "Trailer"
+   },
+   {
+    "source": "FJwtrRdL8UM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Xavier Dolan"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt3612616/img",
+  "popularities": {
+   "moviedb": 13.8734,
+   "stremio": 0.4624466666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt3612616/img",
+  "slug": "movie/mommy-3612616",
+  "id": "tt3612616",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Mommy",
+    "ytId": "PlZB2LLjzZY"
+   },
+   {
+    "title": "Mommy",
+    "ytId": "FJwtrRdL8UM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3612616"
+   },
+   {
+    "name": "Mommy",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/mommy-3612616"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Anne Dorval",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anne%20Dorval"
+   },
+   {
+    "name": "Antoine Olivier Pilon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Antoine%20Olivier%20Pilon"
+   },
+   {
+    "name": "Suzanne Clément",
+    "category": "Cast",
+    "url": "stremio:///search?search=Suzanne%20Cl%C3%A9ment"
+   },
+   {
+    "name": "Xavier Dolan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Xavier%20Dolan"
+   },
+   {
+    "name": "Xavier Dolan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Xavier%20Dolan"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3612616",
+   "hasScheduledVideos": false
+  }
+ }
+}

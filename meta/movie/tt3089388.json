@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 1 win & 6 nominations total",
+  "cast": [
+   "Tim Jenison",
+   "Penn Jillette",
+   "Martin Mull"
+  ],
+  "country": "United States",
+  "description": "Captures obsession as method: an engineering argument settled by actually doing the thing. Inventor Tim Jenison, who can't paint, spends years testing his theory that Vermeer used optical devices — by building the device and painting a Vermeer with it.\n\nInventor Tim Jenison seeks to understand the painting techniques used by Dutch Master Johannes Vermeer.",
+  "director": [
+   "Teller"
+  ],
+  "dvdRelease": "2014-06-10T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt3089388",
+  "moviedb_id": 212063,
+  "name": "Tim's Vermeer",
+  "popularity": 0.044643333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt3089388/img",
+  "released": "2014-01-17T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [
+   {
+    "source": "CS_HUWs9c8c",
+    "type": "Trailer"
+   },
+   {
+    "source": "fMrzKkhIph4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Penn Jillette",
+   "Teller"
+  ],
+  "year": "2014",
+  "popularities": {
+   "moviedb": 1.3393,
+   "stremio": 0.044643333333333333,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "background": "https://images.metahub.space/background/medium/tt3089388/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3089388/img",
+  "slug": "movie/tims-vermeer-3089388",
+  "id": "tt3089388",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Tim's Vermeer",
+    "ytId": "CS_HUWs9c8c"
+   },
+   {
+    "title": "Tim's Vermeer",
+    "ytId": "fMrzKkhIph4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3089388"
+   },
+   {
+    "name": "Tim's Vermeer",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tims-vermeer-3089388"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Tim Jenison",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tim%20Jenison"
+   },
+   {
+    "name": "Penn Jillette",
+    "category": "Cast",
+    "url": "stremio:///search?search=Penn%20Jillette"
+   },
+   {
+    "name": "Martin Mull",
+    "category": "Cast",
+    "url": "stremio:///search?search=Martin%20Mull"
+   },
+   {
+    "name": "Penn Jillette",
+    "category": "Writers",
+    "url": "stremio:///search?search=Penn%20Jillette"
+   },
+   {
+    "name": "Teller",
+    "category": "Writers",
+    "url": "stremio:///search?search=Teller"
+   },
+   {
+    "name": "Teller",
+    "category": "Directors",
+    "url": "stremio:///search?search=Teller"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3089388",
+   "hasScheduledVideos": false
+  }
+ }
+}

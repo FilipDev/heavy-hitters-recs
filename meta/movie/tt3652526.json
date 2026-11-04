@@ -1,0 +1,109 @@
+{
+ "meta": {
+  "imdb_id": "tt3652526",
+  "popularities": {
+   "moviedb": 1.802,
+   "stremio": 0.06006666666666667,
+   "stremio_lib": 0
+  },
+  "name": "Fire at Sea",
+  "year": "2016",
+  "runtime": "114 min",
+  "genre": [
+   "Documentary"
+  ],
+  "released": "2016-02-18T00:00:00.000Z",
+  "director": [
+   "Gianfranco Rosi"
+  ],
+  "writer": [
+   "Gianfranco Rosi",
+   "Carla Cattani"
+  ],
+  "cast": [
+   "Samuele Pucillo",
+   "Mattias Cucina",
+   "Samuele Caruana"
+  ],
+  "imdbRating": "6.7",
+  "poster": "https://images.metahub.space/poster/small/tt3652526/img",
+  "description": "Captures the surreal normality of living next door to catastrophe. Lampedusa, where Europe's refugee crisis washes ashore, filmed alongside the utterly ordinary life of a local boy slingshotting cacti and listening to the radio.\n\nCapturing life on the Italian island of Lampedusa, a frontline in the European migrant crisis.",
+  "country": "Italy, France",
+  "awards": "Nominated for 1 Oscar. 16 wins & 28 nominations total",
+  "dvdRelease": "2017-02-14T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "qR5l9XDaxK0",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 377151,
+  "background": "https://images.metahub.space/background/medium/tt3652526/img",
+  "logo": "https://images.metahub.space/logo/medium/tt3652526/img",
+  "slug": "movie/fire-at-sea-3652526",
+  "popularity": 0.06006666666666667,
+  "id": "tt3652526",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Fire at Sea",
+    "ytId": "qR5l9XDaxK0"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt3652526"
+   },
+   {
+    "name": "Fire at Sea",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/fire-at-sea-3652526"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Samuele Pucillo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Samuele%20Pucillo"
+   },
+   {
+    "name": "Mattias Cucina",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mattias%20Cucina"
+   },
+   {
+    "name": "Samuele Caruana",
+    "category": "Cast",
+    "url": "stremio:///search?search=Samuele%20Caruana"
+   },
+   {
+    "name": "Gianfranco Rosi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gianfranco%20Rosi"
+   },
+   {
+    "name": "Carla Cattani",
+    "category": "Writers",
+    "url": "stremio:///search?search=Carla%20Cattani"
+   },
+   {
+    "name": "Gianfranco Rosi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Gianfranco%20Rosi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt3652526",
+   "hasScheduledVideos": false
+  }
+ }
+}

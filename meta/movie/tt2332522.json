@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "awards": "14 wins & 22 nominations total",
+  "cast": [
+   "Brian Jannelle",
+   "Adrian Guillette",
+   "Arthur Smith"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures commercial fishing as a sensory ordeal. Cameras strapped to nets, chains, helmets and the hull of a North Atlantic trawler — fish heads, gulls, diesel, men half-asleep at 3 a.m., no explanation offered.\n\nA documentary shot in the North Atlantic and focused on the commercial fishing industry.",
+  "director": [
+   "Lucien Castaing-Taylor",
+   "Verena Paravel"
+  ],
+  "dvdRelease": "2014-05-05T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.5",
+  "imdb_id": "tt2332522",
+  "moviedb_id": 127962,
+  "name": "Leviathan",
+  "popularity": 0.043603333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt2332522/img",
+  "released": "2013-11-29T00:00:00.000Z",
+  "runtime": "87 min",
+  "trailers": [
+   {
+    "source": "vntC7OPDHs8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lucien Castaing-Taylor",
+   "Verena Paravel"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2332522/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2332522/img",
+  "popularities": {
+   "moviedb": 1.3081,
+   "stremio": 0.043603333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/leviathan-2332522",
+  "id": "tt2332522",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "Leviathan",
+    "ytId": "vntC7OPDHs8"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2332522"
+   },
+   {
+    "name": "Leviathan",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/leviathan-2332522"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Brian Jannelle",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brian%20Jannelle"
+   },
+   {
+    "name": "Adrian Guillette",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adrian%20Guillette"
+   },
+   {
+    "name": "Arthur Smith",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arthur%20Smith"
+   },
+   {
+    "name": "Lucien Castaing-Taylor",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lucien%20Castaing-Taylor"
+   },
+   {
+    "name": "Verena Paravel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Verena%20Paravel"
+   },
+   {
+    "name": "Lucien Castaing-Taylor",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lucien%20Castaing-Taylor"
+   },
+   {
+    "name": "Verena Paravel",
+    "category": "Directors",
+    "url": "stremio:///search?search=Verena%20Paravel"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2332522",
+   "hasScheduledVideos": false
+  }
+ }
+}

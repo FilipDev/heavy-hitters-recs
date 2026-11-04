@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt4048272",
+  "popularities": {
+   "moviedb": 3.7536,
+   "stremio": 0.12512,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "name": "Toni Erdmann",
+  "year": "2016",
+  "runtime": "162 min",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "released": "2016-12-25T00:00:00.000Z",
+  "director": [
+   "Maren Ade"
+  ],
+  "writer": [
+   "Maren Ade"
+  ],
+  "cast": [
+   "Sandra Hüller",
+   "Peter Simonischek",
+   "Michael Wittenborn"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt4048272/img",
+  "description": "Captures a father trying to joke his daughter back to life. A prankster dad with false teeth infiltrates his consultant daughter's sterile Bucharest existence — a comedy that keeps tipping into grief and back.\n\nA practical joking father tries to reconnect with his hard working daughter by creating an outrageous alter ego and posing as her CEO's life coach.",
+  "country": "Germany, Austria, Monaco, Romania, France, Switzerland, Belgium",
+  "awards": "Nominated for 1 Oscar. 60 wins & 85 nominations total",
+  "dvdRelease": "2017-04-11T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "Ym8ZpHhxcl8",
+    "type": "Trailer"
+   },
+   {
+    "source": "j0uwi5EPnpA",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 374475,
+  "background": "https://images.metahub.space/background/medium/tt4048272/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4048272/img",
+  "slug": "movie/toni-erdmann-4048272",
+  "popularity": 0.12512,
+  "id": "tt4048272",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Toni Erdmann",
+    "ytId": "Ym8ZpHhxcl8"
+   },
+   {
+    "title": "Toni Erdmann",
+    "ytId": "j0uwi5EPnpA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4048272"
+   },
+   {
+    "name": "Toni Erdmann",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/toni-erdmann-4048272"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sandra Hüller",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sandra%20H%C3%BCller"
+   },
+   {
+    "name": "Peter Simonischek",
+    "category": "Cast",
+    "url": "stremio:///search?search=Peter%20Simonischek"
+   },
+   {
+    "name": "Michael Wittenborn",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Wittenborn"
+   },
+   {
+    "name": "Maren Ade",
+    "category": "Writers",
+    "url": "stremio:///search?search=Maren%20Ade"
+   },
+   {
+    "name": "Maren Ade",
+    "category": "Directors",
+    "url": "stremio:///search?search=Maren%20Ade"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4048272",
+   "hasScheduledVideos": false
+  }
+ }
+}

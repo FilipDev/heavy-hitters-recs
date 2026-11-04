@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "imdb_id": "tt2798920",
+  "name": "Annihilation",
+  "year": "2018",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Horror"
+  ],
+  "released": "2018-02-23T00:00:00.000Z",
+  "director": [
+   "Alex Garland"
+  ],
+  "writer": [
+   "Alex Garland",
+   "Jeff VanderMeer"
+  ],
+  "cast": [
+   "Natalie Portman",
+   "Jennifer Jason Leigh",
+   "Tessa Thompson"
+  ],
+  "imdbRating": "6.8",
+  "poster": "https://images.metahub.space/poster/small/tt2798920/img",
+  "description": "Captures a zone that refracts everything that passes through it. A team enters the Shimmer, where light, radio, DNA and memory are mixed across channels like a signal through a prism — plants shaped like people, animals carrying other species' traits.\n\nA biologist signs up for a dangerous, secret expedition in which the laws of nature don't apply.",
+  "country": "United Kingdom, United States",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "89OP78l9oF0",
+    "type": "Trailer"
+   },
+   {
+    "source": "ufaDurSCKOk",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 300668,
+  "popularities": {
+   "moviedb": 14.688,
+   "stremio": 0.48960000000000004,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "affiliates": {
+   "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fannihilation_206084%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fannihilation_206084%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.794/ImageRenderer/111/168/images/no_image_111x168.jpg/206084/images/masterrepository/fandango/206084/ann_dom_online_unrated_vert.jpg\" alt=\"Annihilation\" title=\"Annihilation\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fannihilation_206084%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.794//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fannihilation-trailer%2f206084%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+  },
+  "runtime": "115 min",
+  "background": "https://images.metahub.space/background/medium/tt2798920/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2798920/img",
+  "slug": "movie/annihilation-2798920",
+  "dvdRelease": "2018-04-22T00:00:00.000Z",
+  "awards": "17 wins & 63 nominations total",
+  "popularity": 0.48960000000000004,
+  "id": "tt2798920",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Horror"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Annihilation",
+    "ytId": "89OP78l9oF0"
+   },
+   {
+    "title": "Annihilation",
+    "ytId": "ufaDurSCKOk"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2798920"
+   },
+   {
+    "name": "Annihilation",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/annihilation-2798920"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Natalie Portman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Natalie%20Portman"
+   },
+   {
+    "name": "Jennifer Jason Leigh",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jennifer%20Jason%20Leigh"
+   },
+   {
+    "name": "Tessa Thompson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tessa%20Thompson"
+   },
+   {
+    "name": "Alex Garland",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alex%20Garland"
+   },
+   {
+    "name": "Jeff VanderMeer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jeff%20VanderMeer"
+   },
+   {
+    "name": "Alex Garland",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alex%20Garland"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2798920",
+   "hasScheduledVideos": false
+  }
+ }
+}

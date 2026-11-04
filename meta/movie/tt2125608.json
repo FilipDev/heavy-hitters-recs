@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 44 wins & 33 nominations total",
+  "cast": [
+   "Rodriguez",
+   "Stephen &apos;Sugar&apos; Segerman",
+   "Dennis Coffey"
+  ],
+  "country": "Sweden, United Kingdom, Finland",
+  "description": "Captures fame existing in full, in a place the famous person never knew about. Detroit singer Rodriguez, a flop at home in the 1970s and rumoured dead, was bigger than Elvis in apartheid South Africa. The most joyful film in its batch.\n\nTwo South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock n roller, Rodriguez.",
+  "director": [
+   "Malik Bendjelloul"
+  ],
+  "dvdRelease": "2014-10-01T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Music"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt2125608",
+  "moviedb_id": 84334,
+  "name": "Searching for Sugar Man",
+  "popularity": 0.08853333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt2125608/img",
+  "released": "2012-07-26T00:00:00.000Z",
+  "runtime": "85 min",
+  "trailers": [
+   {
+    "source": "tDw7OqVBT-w",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Malik Bendjelloul",
+   "Stephen &apos;Sugar&apos; Segerman",
+   "Craig Bartholomew Strydom"
+  ],
+  "year": "2012",
+  "background": "https://images.metahub.space/background/medium/tt2125608/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2125608/img",
+  "popularities": {
+   "moviedb": 2.656,
+   "stremio": 0.08853333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/searching-for-sugar-man-2125608",
+  "id": "tt2125608",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Music"
+  ],
+  "releaseInfo": "2012",
+  "trailerStreams": [
+   {
+    "title": "Searching for Sugar Man",
+    "ytId": "tDw7OqVBT-w"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2125608"
+   },
+   {
+    "name": "Searching for Sugar Man",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/searching-for-sugar-man-2125608"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Rodriguez",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rodriguez"
+   },
+   {
+    "name": "Stephen &apos;Sugar&apos; Segerman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stephen%20%26apos%3BSugar%26apos%3B%20Segerman"
+   },
+   {
+    "name": "Dennis Coffey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dennis%20Coffey"
+   },
+   {
+    "name": "Malik Bendjelloul",
+    "category": "Writers",
+    "url": "stremio:///search?search=Malik%20Bendjelloul"
+   },
+   {
+    "name": "Stephen &apos;Sugar&apos; Segerman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stephen%20%26apos%3BSugar%26apos%3B%20Segerman"
+   },
+   {
+    "name": "Craig Bartholomew Strydom",
+    "category": "Writers",
+    "url": "stremio:///search?search=Craig%20Bartholomew%20Strydom"
+   },
+   {
+    "name": "Malik Bendjelloul",
+    "category": "Directors",
+    "url": "stremio:///search?search=Malik%20Bendjelloul"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2125608",
+   "hasScheduledVideos": false
+  }
+ }
+}

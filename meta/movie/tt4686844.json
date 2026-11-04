@@ -1,0 +1,146 @@
+{
+ "meta": {
+  "imdb_id": "tt4686844",
+  "name": "The Death of Stalin",
+  "year": "2018",
+  "runtime": "107 min",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "History"
+  ],
+  "released": "2018-03-09T00:00:00.000Z",
+  "director": [
+   "Armando Iannucci"
+  ],
+  "writer": [
+   "Fabien Nury",
+   "Thierry Robin",
+   "Armando Iannucci"
+  ],
+  "cast": [
+   "Steve Buscemi",
+   "Simon Russell Beale",
+   "Jeffrey Tambor"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt4686844/img",
+  "description": "Captures absolute power as petty, terrified men improvising. Stalin drops dead and his inner circle plot, flatter and panic in the same breath — very funny, and people keep being shot between jokes.\n\nMoscow, 1953. After being in power for nearly 30 years, Soviet dictator, Joseph Vissarionovich Stalin, takes ill and quickly dies. Now the members of the Council of Ministers scramble for power.",
+  "country": "France, United Kingdom, Belgium, Canada",
+  "awards": "Nominated for 2 BAFTA Awards. 18 wins & 40 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "LiJ-0cjMD60",
+    "type": "Trailer"
+   },
+   {
+    "source": "DLv3A4T0zU4",
+    "type": "Trailer"
+   },
+   {
+    "source": "ukJ5dMYx2no",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 402897,
+  "popularities": {
+   "moviedb": 7.1786,
+   "stremio": 0.23928666666666668,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt4686844/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4686844/img",
+  "slug": "movie/the-death-of-stalin-4686844",
+  "dvdRelease": "2018-06-11T00:00:00.000Z",
+  "popularity": 0.23928666666666668,
+  "id": "tt4686844",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "The Death of Stalin",
+    "ytId": "LiJ-0cjMD60"
+   },
+   {
+    "title": "The Death of Stalin",
+    "ytId": "DLv3A4T0zU4"
+   },
+   {
+    "title": "The Death of Stalin",
+    "ytId": "ukJ5dMYx2no"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4686844"
+   },
+   {
+    "name": "The Death of Stalin",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-death-of-stalin-4686844"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Steve Buscemi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Steve%20Buscemi"
+   },
+   {
+    "name": "Simon Russell Beale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Simon%20Russell%20Beale"
+   },
+   {
+    "name": "Jeffrey Tambor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeffrey%20Tambor"
+   },
+   {
+    "name": "Fabien Nury",
+    "category": "Writers",
+    "url": "stremio:///search?search=Fabien%20Nury"
+   },
+   {
+    "name": "Thierry Robin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Thierry%20Robin"
+   },
+   {
+    "name": "Armando Iannucci",
+    "category": "Writers",
+    "url": "stremio:///search?search=Armando%20Iannucci"
+   },
+   {
+    "name": "Armando Iannucci",
+    "category": "Directors",
+    "url": "stremio:///search?search=Armando%20Iannucci"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4686844",
+   "hasScheduledVideos": false
+  }
+ }
+}

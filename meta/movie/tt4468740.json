@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "imdb_id": "tt4468740",
+  "name": "Paddington 2",
+  "type": "movie",
+  "year": "2018",
+  "runtime": "104 min",
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Family"
+  ],
+  "released": "2018-01-12T00:00:00.000Z",
+  "director": [
+   "Paul King"
+  ],
+  "writer": [
+   "Paul King",
+   "Simon Farnaby",
+   "Michael Bond"
+  ],
+  "cast": [
+   "Ben Whishaw",
+   "Hugh Grant",
+   "Hugh Bonneville"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt4468740/img",
+  "description": "Captures decency as something contagious. A bear framed for stealing the pop-up book he wanted to buy his aunt, sent to prison — and the prison improves because he is in it.\n\nPaddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.",
+  "country": "United Kingdom, France",
+  "trailers": [
+   {
+    "source": "07Um1PY_P4o",
+    "type": "Trailer"
+   },
+   {
+    "source": "sw7RElt-SvE",
+    "type": "Trailer"
+   },
+   {
+    "source": "52x5HJ9H8DM",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 346648,
+  "popularities": {
+   "moviedb": 10.682,
+   "stremio": 0.3560666666666667,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "affiliates": {
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fpaddington2_202672%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123",
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fpaddington2_202672%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.216/ImageRenderer/111/168/images/no_image_111x168.jpg/202672/images/masterrepository/fandango/202672/paddington2_2017.jpg\" alt=\"Paddington 2\" title=\"Paddington 2\" border=\"0\" /></a> Opens Friday, Jan 12, 2018</p><p>Paddington must find a stolen pop-up book for his Aunt Lucy.</p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fpaddington2_202672%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fpaddington2-trailer%2f202672%3fwssaffid%3d11839%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fpaddington2_202672%2fmovietimes%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.216//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>"
+  },
+  "awards": "Nominated for 3 BAFTA Awards. 15 wins & 50 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt4468740/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4468740/img",
+  "slug": "movie/paddington-2-4468740",
+  "dvdRelease": "2018-03-06T00:00:00.000Z",
+  "popularity": 0.3560666666666667,
+  "id": "tt4468740",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Family"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Paddington 2",
+    "ytId": "07Um1PY_P4o"
+   },
+   {
+    "title": "Paddington 2",
+    "ytId": "sw7RElt-SvE"
+   },
+   {
+    "title": "Paddington 2",
+    "ytId": "52x5HJ9H8DM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4468740"
+   },
+   {
+    "name": "Paddington 2",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/paddington-2-4468740"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Ben Whishaw",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ben%20Whishaw"
+   },
+   {
+    "name": "Hugh Grant",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hugh%20Grant"
+   },
+   {
+    "name": "Hugh Bonneville",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hugh%20Bonneville"
+   },
+   {
+    "name": "Paul King",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paul%20King"
+   },
+   {
+    "name": "Simon Farnaby",
+    "category": "Writers",
+    "url": "stremio:///search?search=Simon%20Farnaby"
+   },
+   {
+    "name": "Michael Bond",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Bond"
+   },
+   {
+    "name": "Paul King",
+    "category": "Directors",
+    "url": "stremio:///search?search=Paul%20King"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4468740",
+   "hasScheduledVideos": false
+  }
+ }
+}

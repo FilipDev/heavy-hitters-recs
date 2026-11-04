@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "imdb_id": "tt27503384",
+  "name": "Perfect Days",
+  "type": "movie",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 16.098,
+   "stremio": 0.5366,
+   "stremio_lib": 0
+  },
+  "awards": "Nominated for 1 Oscar. 14 wins & 51 nominations total",
+  "cast": [
+   "Koji Yakusho",
+   "Tokio Emoto",
+   "Arisa Nakano"
+  ],
+  "country": "Japan, Germany",
+  "description": "Captures a routine life held with complete attention. A Tokyo public-toilet cleaner, his cassette tapes (Lou Reed, Patti Smith, Nina Simone), trees and light — almost nothing happens, and that is the point.\n\nHirayama cleans public toilets in Tokyo, lives his life in simplicity and daily tranquility. Some encounters also lead him to reflect on himself.",
+  "director": [
+   "Wim Wenders"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.9",
+  "released": "2023-12-21T00:00:00.000Z",
+  "slug": "movie/perfect-days-27503384",
+  "writer": [
+   "Wim Wenders",
+   "Takuma Takasaki"
+  ],
+  "year": "2023",
+  "moviedb_id": 976893,
+  "poster": "https://images.metahub.space/poster/small/tt27503384/img",
+  "runtime": "124 min",
+  "trailers": [
+   {
+    "source": "Iv8YO5BXCAQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "QzZBbX5A1FA",
+    "type": "Trailer"
+   },
+   {
+    "source": "HTgWYojq-z8",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt27503384/img",
+  "logo": "https://images.metahub.space/logo/medium/tt27503384/img",
+  "popularity": 0.5366,
+  "id": "tt27503384",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2023",
+  "trailerStreams": [
+   {
+    "title": "Perfect Days",
+    "ytId": "Iv8YO5BXCAQ"
+   },
+   {
+    "title": "Perfect Days",
+    "ytId": "QzZBbX5A1FA"
+   },
+   {
+    "title": "Perfect Days",
+    "ytId": "HTgWYojq-z8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt27503384"
+   },
+   {
+    "name": "Perfect Days",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/perfect-days-27503384"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Koji Yakusho",
+    "category": "Cast",
+    "url": "stremio:///search?search=Koji%20Yakusho"
+   },
+   {
+    "name": "Tokio Emoto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tokio%20Emoto"
+   },
+   {
+    "name": "Arisa Nakano",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arisa%20Nakano"
+   },
+   {
+    "name": "Wim Wenders",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wim%20Wenders"
+   },
+   {
+    "name": "Takuma Takasaki",
+    "category": "Writers",
+    "url": "stremio:///search?search=Takuma%20Takasaki"
+   },
+   {
+    "name": "Wim Wenders",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wim%20Wenders"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt27503384",
+   "hasScheduledVideos": false
+  }
+ }
+}

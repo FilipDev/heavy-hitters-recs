@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 44 wins & 40 nominations total",
+  "cast": [
+   "Edward Snowden",
+   "Glenn Greenwald",
+   "William Binney"
+  ],
+  "country": "United Kingdom, Germany, United States",
+  "description": "Captures history happening at the speed of a man checking over his shoulder. Laura Poitras was already filming when Edward Snowden contacted her, so the leak of the century unfolds in a Hong Kong hotel room in real time.\n\nA documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden.",
+  "director": [
+   "Laura Poitras"
+  ],
+  "dvdRelease": "2016-08-25T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt4044364",
+  "moviedb_id": 293310,
+  "name": "Citizenfour",
+  "popularity": 0.09296333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt4044364/img",
+  "released": "2014-11-28T00:00:00.000Z",
+  "runtime": "113 min",
+  "trailers": [
+   {
+    "source": "PX2uyP9QGjs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Laura Poitras"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt4044364/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4044364/img",
+  "popularities": {
+   "moviedb": 2.7889,
+   "stremio": 0.09296333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/citizenfour-4044364",
+  "id": "tt4044364",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Citizenfour",
+    "ytId": "PX2uyP9QGjs"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4044364"
+   },
+   {
+    "name": "Citizenfour",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/citizenfour-4044364"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Edward Snowden",
+    "category": "Cast",
+    "url": "stremio:///search?search=Edward%20Snowden"
+   },
+   {
+    "name": "Glenn Greenwald",
+    "category": "Cast",
+    "url": "stremio:///search?search=Glenn%20Greenwald"
+   },
+   {
+    "name": "William Binney",
+    "category": "Cast",
+    "url": "stremio:///search?search=William%20Binney"
+   },
+   {
+    "name": "Laura Poitras",
+    "category": "Writers",
+    "url": "stremio:///search?search=Laura%20Poitras"
+   },
+   {
+    "name": "Laura Poitras",
+    "category": "Directors",
+    "url": "stremio:///search?search=Laura%20Poitras"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4044364",
+   "hasScheduledVideos": false
+  }
+ }
+}

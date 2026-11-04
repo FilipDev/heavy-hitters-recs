@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "imdb_id": "tt4925292",
+  "name": "Lady Bird",
+  "year": "2017",
+  "runtime": "94 min",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "released": "2017-12-01T00:00:00.000Z",
+  "director": [
+   "Greta Gerwig"
+  ],
+  "writer": [
+   "Greta Gerwig"
+  ],
+  "cast": [
+   "Saoirse Ronan",
+   "Laurie Metcalf",
+   "Tracy Letts"
+  ],
+  "imdbRating": "7.4",
+  "poster": "https://images.metahub.space/poster/small/tt4925292/img",
+  "description": "Captures a mother and daughter who love each other in a way that keeps missing. Sacramento, a girl desperate to leave for the East Coast, a mother working double shifts, fights in moving cars, and a final voicemail that reframes every argument.\n\nA fiercely independent teenager tries to make her own way in the world while wanting to get out of her hometown of Sacramento, California, and to get away from her complicated mother and recently-unemployed father.",
+  "country": "United States",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "cNi_HC839Wo",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 391713,
+  "popularities": {
+   "moviedb": 9.9076,
+   "stremio": 0.33025333333333334,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "awards": "Nominated for 5 Oscars. 124 wins & 228 nominations total",
+  "affiliates": {
+   "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fladybird_205094%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fladybird_205094%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.323/ImageRenderer/111/168/images/no_image_111x168.jpg/205094/images/masterrepository/fandango/205094/ladybird_fin11_online.jpg\" alt=\"Lady Bird\" title=\"Lady Bird\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fladybird_205094%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.323//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fladybird-trailer%2f205094%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+  },
+  "dvdRelease": "2018-02-13T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt4925292/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4925292/img",
+  "slug": "movie/lady-bird-4925292",
+  "popularity": 0.33025333333333334,
+  "id": "tt4925292",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "Lady Bird",
+    "ytId": "cNi_HC839Wo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4925292"
+   },
+   {
+    "name": "Lady Bird",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/lady-bird-4925292"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Saoirse Ronan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Saoirse%20Ronan"
+   },
+   {
+    "name": "Laurie Metcalf",
+    "category": "Cast",
+    "url": "stremio:///search?search=Laurie%20Metcalf"
+   },
+   {
+    "name": "Tracy Letts",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tracy%20Letts"
+   },
+   {
+    "name": "Greta Gerwig",
+    "category": "Writers",
+    "url": "stremio:///search?search=Greta%20Gerwig"
+   },
+   {
+    "name": "Greta Gerwig",
+    "category": "Directors",
+    "url": "stremio:///search?search=Greta%20Gerwig"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4925292",
+   "hasScheduledVideos": false
+  }
+ }
+}

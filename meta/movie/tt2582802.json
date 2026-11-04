@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "Won 3 Oscars. 100 wins & 144 nominations total",
+  "cast": [
+   "Miles Teller",
+   "J.K. Simmons",
+   "Melissa Benoist"
+  ],
+  "country": "United States",
+  "description": "Captures ambition as a kind of self-violence. A jazz drummer practises until his hands bleed under a teacher who terrorises him, and the final scene shows the exact moment he chooses greatness anyway, without resolving whether it was worth it.\n\nA promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+  "director": [
+   "Damien Chazelle"
+  ],
+  "dvdRelease": "2016-09-08T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Music"
+  ],
+  "imdbRating": "8.5",
+  "imdb_id": "tt2582802",
+  "moviedb_id": 244786,
+  "name": "Whiplash",
+  "popularity": 1.19603,
+  "poster": "https://images.metahub.space/poster/small/tt2582802/img",
+  "released": "2014-10-15T00:00:00.000Z",
+  "runtime": "107 min",
+  "trailers": [
+   {
+    "source": "Q7kZy3T6vRM",
+    "type": "Trailer"
+   },
+   {
+    "source": "JeShKC6Alyk",
+    "type": "Trailer"
+   },
+   {
+    "source": "Df1xkYYbYrY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Damien Chazelle"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt2582802/img",
+  "logo": "https://images.metahub.space/logo/medium/tt2582802/img",
+  "popularities": {
+   "moviedb": 35.8809,
+   "stremio": 1.19603,
+   "trakt": 56,
+   "stremio_lib": 0
+  },
+  "slug": "movie/whiplash-2582802",
+  "id": "tt2582802",
+  "genres": [
+   "Drama",
+   "Music"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Whiplash",
+    "ytId": "Q7kZy3T6vRM"
+   },
+   {
+    "title": "Whiplash",
+    "ytId": "JeShKC6Alyk"
+   },
+   {
+    "title": "Whiplash",
+    "ytId": "Df1xkYYbYrY"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2582802"
+   },
+   {
+    "name": "Whiplash",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/whiplash-2582802"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Miles Teller",
+    "category": "Cast",
+    "url": "stremio:///search?search=Miles%20Teller"
+   },
+   {
+    "name": "J.K. Simmons",
+    "category": "Cast",
+    "url": "stremio:///search?search=J.K.%20Simmons"
+   },
+   {
+    "name": "Melissa Benoist",
+    "category": "Cast",
+    "url": "stremio:///search?search=Melissa%20Benoist"
+   },
+   {
+    "name": "Damien Chazelle",
+    "category": "Writers",
+    "url": "stremio:///search?search=Damien%20Chazelle"
+   },
+   {
+    "name": "Damien Chazelle",
+    "category": "Directors",
+    "url": "stremio:///search?search=Damien%20Chazelle"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2582802",
+   "hasScheduledVideos": false
+  }
+ }
+}

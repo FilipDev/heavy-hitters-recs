@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. Another 48 wins & 39 nominations.",
+  "cast": [
+   "Amy Winehouse",
+   "Lauren Gilbert",
+   "Juliette Ashby",
+   "Nick Shymansky"
+  ],
+  "country": "UK",
+  "description": "Captures the machinery of fame eating a person whose talent is right there on screen the whole time. Amy Winehouse's rise and destruction assembled from home video, voicemails and the tabloid footage that hunted her.\n\nArchival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse.",
+  "director": [
+   "Asif Kapadia"
+  ],
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Music"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt2870648",
+  "name": "Amy",
+  "poster": "https://images.metahub.space/poster/small/tt2870648/img",
+  "released": "2015-07-02T21:00:00.000Z",
+  "runtime": "128 min",
+  "type": "movie",
+  "writer": null,
+  "year": "2015",
+  "popularities": {
+   "moviedb": 1.077787,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "wAoJVQ5qQQA",
+    "type": "Trailer"
+   },
+   {
+    "source": "2H78vCyPKp8",
+    "type": "Featurette"
+   }
+  ],
+  "moviedb_id": 331781,
+  "dvdRelease": "2015-11-30T22:00:00.000Z",
+  "logo": "https://images.metahub.space/logo/medium/tt2870648/img",
+  "background": "https://images.metahub.space/background/medium/tt2870648/img",
+  "id": "tt2870648",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Music"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Amy",
+    "ytId": "wAoJVQ5qQQA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2870648"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Amy Winehouse",
+    "category": "Cast",
+    "url": "stremio:///search?search=Amy%20Winehouse"
+   },
+   {
+    "name": "Lauren Gilbert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lauren%20Gilbert"
+   },
+   {
+    "name": "Juliette Ashby",
+    "category": "Cast",
+    "url": "stremio:///search?search=Juliette%20Ashby"
+   },
+   {
+    "name": "Nick Shymansky",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nick%20Shymansky"
+   },
+   {
+    "name": "Asif Kapadia",
+    "category": "Directors",
+    "url": "stremio:///search?search=Asif%20Kapadia"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2870648",
+   "hasScheduledVideos": false
+  }
+ }
+}

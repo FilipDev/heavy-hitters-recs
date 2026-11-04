@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "imdb_id": "tt4263482",
+  "popularity": 0.5621366666666667,
+  "name": "The Witch",
+  "year": "2016",
+  "runtime": "92 min",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "released": "2016-02-19T00:00:00.000Z",
+  "director": [
+   "Robert Eggers"
+  ],
+  "writer": [
+   "Robert Eggers"
+  ],
+  "cast": [
+   "Anya Taylor-Joy",
+   "Ralph Ineson",
+   "Kate Dickie"
+  ],
+  "imdbRating": "7.0",
+  "poster": "https://images.metahub.space/poster/small/tt4263482/img",
+  "description": "Captures religious paranoia eating a family from inside its own beliefs. Puritan settlers exiled to a forest's edge: a crop fails, a baby vanishes, and their theology gives them only one interpretation.\n\nAn isolated Puritan family in 1630s New England comes unraveled by the forces of witchcraft and possession.",
+  "country": "United Kingdom, Canada, United States",
+  "awards": "43 wins & 72 nominations total",
+  "dvdRelease": "2016-05-17T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "97OQ7MQC5Ck",
+    "type": "Trailer"
+   },
+   {
+    "source": "Bo2OTEbz-jU",
+    "type": "Trailer"
+   },
+   {
+    "source": "iQXmlf3Sefg",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 310131,
+  "popularities": {
+   "moviedb": 16.8641,
+   "stremio": 0.5621366666666667,
+   "trakt": 63,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt4263482/img",
+  "logo": "https://images.metahub.space/logo/medium/tt4263482/img",
+  "slug": "movie/the-witch-4263482",
+  "id": "tt4263482",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "The Witch",
+    "ytId": "97OQ7MQC5Ck"
+   },
+   {
+    "title": "The Witch",
+    "ytId": "Bo2OTEbz-jU"
+   },
+   {
+    "title": "The Witch",
+    "ytId": "iQXmlf3Sefg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt4263482"
+   },
+   {
+    "name": "The Witch",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-witch-4263482"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Anya Taylor-Joy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anya%20Taylor-Joy"
+   },
+   {
+    "name": "Ralph Ineson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ralph%20Ineson"
+   },
+   {
+    "name": "Kate Dickie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kate%20Dickie"
+   },
+   {
+    "name": "Robert Eggers",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robert%20Eggers"
+   },
+   {
+    "name": "Robert Eggers",
+    "category": "Directors",
+    "url": "stremio:///search?search=Robert%20Eggers"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt4263482",
+   "hasScheduledVideos": false
+  }
+ }
+}

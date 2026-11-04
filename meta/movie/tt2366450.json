@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "25 wins & 44 nominations total",
+  "cast": [
+   "Michael Polley",
+   "John Buchan",
+   "Mark Polley"
+  ],
+  "country": "Canada",
+  "description": "Captures a family discovering its central story has an author problem. Sarah Polley interviews her own family about her late mother; the accounts agree on the love and diverge on everything else, then the film shows you its own construction.\n\nA film that excavates layers of myth and memory to find the elusive truth at the core of a family of storytellers.",
+  "director": [
+   "Sarah Polley"
+  ],
+  "dvdRelease": "2015-05-05T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt2366450",
+  "moviedb_id": 128216,
+  "name": "Stories We Tell",
+  "popularity": 0.05805333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt2366450/img",
+  "released": "2013-01-17T00:00:00.000Z",
+  "runtime": "109 min",
+  "trailers": [
+   {
+    "source": "qqssGLqxCew",
+    "type": "Trailer"
+   },
+   {
+    "source": "eTFjYusJHH4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Sarah Polley",
+   "Michael Polley"
+  ],
+  "year": "2013",
+  "background": "https://images.metahub.space/background/medium/tt2366450/img",
+  "popularities": {
+   "moviedb": 1.7416,
+   "stremio": 0.05805333333333333,
+   "stremio_lib": 0
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt2366450/img",
+  "slug": "movie/stories-we-tell-2366450",
+  "id": "tt2366450",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2013",
+  "trailerStreams": [
+   {
+    "title": "Stories We Tell",
+    "ytId": "qqssGLqxCew"
+   },
+   {
+    "title": "Stories We Tell",
+    "ytId": "eTFjYusJHH4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt2366450"
+   },
+   {
+    "name": "Stories We Tell",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/stories-we-tell-2366450"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Michael Polley",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Polley"
+   },
+   {
+    "name": "John Buchan",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Buchan"
+   },
+   {
+    "name": "Mark Polley",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%20Polley"
+   },
+   {
+    "name": "Sarah Polley",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sarah%20Polley"
+   },
+   {
+    "name": "Michael Polley",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Polley"
+   },
+   {
+    "name": "Sarah Polley",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sarah%20Polley"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt2366450",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "imdb_id": "tt24082438",
+  "name": "20 Days in Mariupol",
+  "popularities": {
+   "trakt": 3,
+   "moviedb": 4.0506,
+   "stremio": 0.13502,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "Won 1 Oscar. 34 wins & 51 nominations total",
+  "country": "Ukraine, United States",
+  "description": "Captures the 2022 siege of Mariupol as the people inside it actually experienced its first twenty days. AP journalists trapped in the city keep filming because getting the footage out is the only thing that makes staying mean anything.\n\nAn AP team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting atrocities of the Russian invasion.",
+  "director": [
+   "Mstyslav Chernov"
+  ],
+  "genre": [
+   "Documentary",
+   "War"
+  ],
+  "imdbRating": "8.6",
+  "released": "2023-11-21T00:00:00.000Z",
+  "slug": "movie/20-days-in-mariupol-24082438",
+  "writer": [
+   "Mstyslav Chernov",
+   "Katherine Griwert"
+  ],
+  "year": "2023",
+  "moviedb_id": 1058616,
+  "poster": "https://images.metahub.space/poster/small/tt24082438/img",
+  "runtime": "94 min",
+  "trailers": [
+   {
+    "source": "L3DvHs0GbsY",
+    "type": "Trailer"
+   },
+   {
+    "source": "9H_Fg_5x4ME",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Liudmyla Amelkina",
+   "Mstyslav Chernov",
+   "Roman Golovanov"
+  ],
+  "background": "https://images.metahub.space/background/medium/tt24082438/img",
+  "logo": "https://images.metahub.space/logo/medium/tt24082438/img",
+  "popularity": 0.13502,
+  "id": "tt24082438",
+  "genres": [
+   "Documentary",
+   "War"
+  ],
+  "releaseInfo": "2023",
+  "trailerStreams": [
+   {
+    "title": "20 Days in Mariupol",
+    "ytId": "L3DvHs0GbsY"
+   },
+   {
+    "title": "20 Days in Mariupol",
+    "ytId": "9H_Fg_5x4ME"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt24082438"
+   },
+   {
+    "name": "20 Days in Mariupol",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/20-days-in-mariupol-24082438"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Liudmyla Amelkina",
+    "category": "Cast",
+    "url": "stremio:///search?search=Liudmyla%20Amelkina"
+   },
+   {
+    "name": "Mstyslav Chernov",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mstyslav%20Chernov"
+   },
+   {
+    "name": "Roman Golovanov",
+    "category": "Cast",
+    "url": "stremio:///search?search=Roman%20Golovanov"
+   },
+   {
+    "name": "Mstyslav Chernov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mstyslav%20Chernov"
+   },
+   {
+    "name": "Katherine Griwert",
+    "category": "Writers",
+    "url": "stremio:///search?search=Katherine%20Griwert"
+   },
+   {
+    "name": "Mstyslav Chernov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mstyslav%20Chernov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt24082438",
+   "hasScheduledVideos": false
+  }
+ }
+}

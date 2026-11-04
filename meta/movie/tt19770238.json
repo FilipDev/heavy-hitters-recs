@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "imdb_id": "tt19770238",
+  "name": "Aftersun",
+  "popularities": {
+   "trakt": 2,
+   "stremio": 0.4392166666666667,
+   "stremio_lib": 0,
+   "moviedb": 13.1765
+  },
+  "type": "movie",
+  "awards": "Nominated for 1 Oscar. 98 wins & 182 nominations total",
+  "cast": [
+   "Paul Mescal",
+   "Frankie Corio",
+   "Celia Rowlson-Hall"
+  ],
+  "country": "United Kingdom, United States, Turkey, Philippines, Netherlands",
+  "description": "Captures what a child can only half-see in a parent. An 11-year-old on a cheap package holiday in Turkey with her young dad, partly on wobbly camcorder, intercut with herself at 31 trying to remember it — he is funny and present, and clearly drowning in something.\n\nSophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she d...",
+  "director": [
+   "Charlotte Wells"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "released": "2022-11-18T00:00:00.000Z",
+  "runtime": "101 min",
+  "slug": "movie/aftersun-19770238",
+  "writer": [
+   "Charlotte Wells"
+  ],
+  "year": "2022",
+  "moviedb_id": 965150,
+  "poster": "https://images.metahub.space/poster/small/tt19770238/img",
+  "trailers": [
+   {
+    "source": "4A34B1DIGl8",
+    "type": "Trailer"
+   },
+   {
+    "source": "vXKcWRu8K_U",
+    "type": "Trailer"
+   },
+   {
+    "source": "G9jOaggGPKQ",
+    "type": "Trailer"
+   }
+  ],
+  "dvdRelease": "2022-12-20T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt19770238/img",
+  "logo": "https://images.metahub.space/logo/medium/tt19770238/img",
+  "popularity": 0.4392166666666667,
+  "id": "tt19770238",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Aftersun",
+    "ytId": "4A34B1DIGl8"
+   },
+   {
+    "title": "Aftersun",
+    "ytId": "vXKcWRu8K_U"
+   },
+   {
+    "title": "Aftersun",
+    "ytId": "G9jOaggGPKQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt19770238"
+   },
+   {
+    "name": "Aftersun",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/aftersun-19770238"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Paul Mescal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Mescal"
+   },
+   {
+    "name": "Frankie Corio",
+    "category": "Cast",
+    "url": "stremio:///search?search=Frankie%20Corio"
+   },
+   {
+    "name": "Celia Rowlson-Hall",
+    "category": "Cast",
+    "url": "stremio:///search?search=Celia%20Rowlson-Hall"
+   },
+   {
+    "name": "Charlotte Wells",
+    "category": "Writers",
+    "url": "stremio:///search?search=Charlotte%20Wells"
+   },
+   {
+    "name": "Charlotte Wells",
+    "category": "Directors",
+    "url": "stremio:///search?search=Charlotte%20Wells"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt19770238",
+   "hasScheduledVideos": false
+  }
+ }
+}
