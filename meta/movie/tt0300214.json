@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "10 wins & 17 nominations total",
+  "cast": [
+   "Samantha Morton",
+   "Kathleen McDermott",
+   "Linda McGuire"
+  ],
+  "country": "United Kingdom, Canada",
+  "description": "Captures grief processed through a dead boyfriend's mixtape. A supermarket worker wakes to find he has killed himself, left her his novel's manuscript and a compilation tape; she sends the novel out under her own name and listens her way across Spain. For a man whose taste was mapped through playlists: this is the one where the tape is the character work.\n\nAfter her beloved boyfriend's suicide, a mourning supermarket worker and her best friend hit the road in Scotland, but find that grief is something that you can't run away from forever.",
+  "director": [
+   "Lynne Ramsay"
+  ],
+  "dvdRelease": "2017-08-22T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "6.8",
+  "imdb_id": "tt0300214",
+  "moviedb_id": 18602,
+  "name": "Morvern Callar",
+  "popularity": 0.05542333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0300214/img",
+  "released": "2002-11-01T00:00:00.000Z",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "wg3HsQBFyKQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "oZ-13OskDDg",
+    "type": "Trailer"
+   },
+   {
+    "source": "9iGONDWCnsM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lynne Ramsay",
+   "Liana Dognini",
+   "Alan Warner"
+  ],
+  "year": "2002",
+  "popularities": {
+   "moviedb": 1.6627,
+   "stremio": 0.05542333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/morvern-callar-0300214",
+  "background": "https://images.metahub.space/background/medium/tt0300214/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0300214/img",
+  "id": "tt0300214",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2002",
+  "trailerStreams": [
+   {
+    "title": "Morvern Callar",
+    "ytId": "wg3HsQBFyKQ"
+   },
+   {
+    "title": "Morvern Callar",
+    "ytId": "oZ-13OskDDg"
+   },
+   {
+    "title": "Morvern Callar",
+    "ytId": "9iGONDWCnsM"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0300214"
+   },
+   {
+    "name": "Morvern Callar",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/morvern-callar-0300214"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Samantha Morton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Samantha%20Morton"
+   },
+   {
+    "name": "Kathleen McDermott",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kathleen%20McDermott"
+   },
+   {
+    "name": "Linda McGuire",
+    "category": "Cast",
+    "url": "stremio:///search?search=Linda%20McGuire"
+   },
+   {
+    "name": "Lynne Ramsay",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lynne%20Ramsay"
+   },
+   {
+    "name": "Liana Dognini",
+    "category": "Writers",
+    "url": "stremio:///search?search=Liana%20Dognini"
+   },
+   {
+    "name": "Alan Warner",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alan%20Warner"
+   },
+   {
+    "name": "Lynne Ramsay",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lynne%20Ramsay"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0300214",
+   "hasScheduledVideos": false
+  }
+ }
+}

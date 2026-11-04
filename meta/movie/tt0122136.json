@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "2 wins & 1 nomination total",
+  "cast": [
+   "Kichiemon Nakamura",
+   "Nobuko Otowa",
+   "Kei Sato"
+  ],
+  "country": "Japan",
+  "description": "Captures a ghost story staged like Noh theatre in a bamboo grove. A mother and daughter-in-law, murdered by samurai, return as cat-spirits sworn to drink samurai blood — until one victim is their own son and husband. Mist, wire-work leaps, and vengeance colliding with the vow that powers it.\n\nTwo women are raped and killed by samurai soldiers. Soon they reappear as vengeful ghosts who seduce and brutally murder the passing samurai.",
+  "director": [
+   "Kaneto Shindo"
+  ],
+  "dvdRelease": "2011-10-18T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0122136",
+  "moviedb_id": 40149,
+  "name": "Kuroneko",
+  "popularity": 0.09000000000000001,
+  "poster": "https://images.metahub.space/poster/small/tt0122136/img",
+  "released": "1968-02-24T00:00:00.000Z",
+  "runtime": "100 min",
+  "trailers": [
+   {
+    "source": "cNMUnTkovew",
+    "type": "Trailer"
+   },
+   {
+    "source": "3jRRK-cOdkI",
+    "type": "Trailer"
+   },
+   {
+    "source": "PmNhYzQMQtU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kaneto Shindo"
+  ],
+  "year": "1968",
+  "background": "https://images.metahub.space/background/medium/tt0122136/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0122136/img",
+  "popularities": {
+   "moviedb": 2.7,
+   "stremio": 0.09000000000000001,
+   "stremio_lib": 0
+  },
+  "slug": "movie/black-cat-0122136",
+  "id": "tt0122136",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "releaseInfo": "1968",
+  "trailerStreams": [
+   {
+    "title": "Black Cat",
+    "ytId": "cNMUnTkovew"
+   },
+   {
+    "title": "Black Cat",
+    "ytId": "3jRRK-cOdkI"
+   },
+   {
+    "title": "Black Cat",
+    "ytId": "PmNhYzQMQtU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0122136"
+   },
+   {
+    "name": "Black Cat",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/black-cat-0122136"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Kichiemon Nakamura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kichiemon%20Nakamura"
+   },
+   {
+    "name": "Nobuko Otowa",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nobuko%20Otowa"
+   },
+   {
+    "name": "Kei Sato",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kei%20Sato"
+   },
+   {
+    "name": "Kaneto Shindo",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kaneto%20Shindo"
+   },
+   {
+    "name": "Kaneto Shindo",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kaneto%20Shindo"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0122136",
+   "hasScheduledVideos": false
+  }
+ }
+}

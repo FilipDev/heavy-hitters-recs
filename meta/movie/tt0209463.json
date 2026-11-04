@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "4 wins & 7 nominations",
+  "cast": [
+   "Behzad Dorani",
+   "Noghre Asadi",
+   "Roushan Karam Elmi"
+  ],
+  "country": "France",
+  "description": "Captures a film crew waiting for a death they're too polite to name. Tehran engineers idle in a Kurdish village, officially digging, actually waiting to film an old woman's funeral ritual; almost nothing happens, at the pace of wind over wheat, and it's somehow the fullest film on this list.\n\nIrreverent city engineer Behzad comes to a rural village in Iran to keep vigil for a dying relative. In the meanwhile the film follows his efforts to fit in with the local community and how he changes his own attitudes as a result.",
+  "director": [
+   "Abbas Kiarostami"
+  ],
+  "dvdRelease": "2014-07-22T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt0209463",
+  "moviedb_id": 43423,
+  "name": "The Wind Will Carry Us",
+  "popularity": 0.09798333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0209463/img",
+  "released": "1999-11-24T00:00:00.000Z",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "xq1gXC3119A",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Mahmoud Aiden",
+   "Abbas Kiarostami"
+  ],
+  "year": "1999",
+  "popularities": {
+   "moviedb": 2.9395,
+   "stremio": 0.09798333333333333,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-wind-will-carry-us-0209463",
+  "background": "https://images.metahub.space/background/medium/tt0209463/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0209463/img",
+  "id": "tt0209463",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1999",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Wind Will Carry Us",
+    "ytId": "xq1gXC3119A"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0209463"
+   },
+   {
+    "name": "The Wind Will Carry Us",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-wind-will-carry-us-0209463"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Behzad Dorani",
+    "category": "Cast",
+    "url": "stremio:///search?search=Behzad%20Dorani"
+   },
+   {
+    "name": "Noghre Asadi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Noghre%20Asadi"
+   },
+   {
+    "name": "Roushan Karam Elmi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Roushan%20Karam%20Elmi"
+   },
+   {
+    "name": "Mahmoud Aiden",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mahmoud%20Aiden"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Directors",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0209463",
+   "hasScheduledVideos": false
+  }
+ }
+}

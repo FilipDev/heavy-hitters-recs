@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "6 wins & 8 nominations total",
+  "cast": [
+   "Miyoko Shôji",
+   "Shozo Iizuka",
+   "Mami Koyama"
+  ],
+  "country": "Japan",
+  "description": "Captures a retired actress's memories edited as the films she starred in. Two documentary makers interview her, and each recollection deposits them inside the scene — feudal Japan, wartime, a space launch — while her one lost love stays a frame ahead. Your projection framework as a life story: the observed biography keeps re-rendering the hidden one.\n\nA TV interviewer and his cameraman meet a former actress and travel through her memories and career.",
+  "director": [
+   "Satoshi Kon"
+  ],
+  "dvdRelease": "2019-07-18T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0291350",
+  "moviedb_id": 33320,
+  "name": "Millennium Actress",
+  "popularity": 0.18205,
+  "poster": "https://images.metahub.space/poster/small/tt0291350/img",
+  "released": "2002-09-14T00:00:00.000Z",
+  "runtime": "87 min",
+  "trailers": [
+   {
+    "source": "2u5Ee1_jUCY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Satoshi Kon",
+   "Sadayuki Murai"
+  ],
+  "year": "2002",
+  "popularities": {
+   "moviedb": 5.4615,
+   "stremio": 0.18205,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0291350/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0291350/img",
+  "slug": "movie/millennium-actress-0291350",
+  "id": "tt0291350",
+  "genres": [
+   "Animation",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "2002",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Millennium Actress",
+    "ytId": "2u5Ee1_jUCY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0291350"
+   },
+   {
+    "name": "Millennium Actress",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/millennium-actress-0291350"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Miyoko Shôji",
+    "category": "Cast",
+    "url": "stremio:///search?search=Miyoko%20Sh%C3%B4ji"
+   },
+   {
+    "name": "Shozo Iizuka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shozo%20Iizuka"
+   },
+   {
+    "name": "Mami Koyama",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mami%20Koyama"
+   },
+   {
+    "name": "Satoshi Kon",
+    "category": "Writers",
+    "url": "stremio:///search?search=Satoshi%20Kon"
+   },
+   {
+    "name": "Sadayuki Murai",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sadayuki%20Murai"
+   },
+   {
+    "name": "Satoshi Kon",
+    "category": "Directors",
+    "url": "stremio:///search?search=Satoshi%20Kon"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0291350",
+   "hasScheduledVideos": false
+  }
+ }
+}

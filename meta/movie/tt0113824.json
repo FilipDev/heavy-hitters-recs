@@ -1,0 +1,149 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Yoko Honna",
+   "Issei Takahashi",
+   "Takashi Tachibana"
+  ],
+  "country": "Japan",
+  "description": "Captures a girl reverse-engineering a boy from the checkout cards in library books. Shizuku notices the same name borrowed every book before her, and the hunt becomes a film about deciding to make things — she writes a novel to find out if she can. The gentlest entry here, and the one about your exact activity: building skill into a position.\n\nA love story between a girl who loves reading books and a boy who has previously checked out all of the library books she chooses.",
+  "director": [
+   "Yoshifumi Kondo"
+  ],
+  "dvdRelease": "2019-12-15T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Drama",
+   "Family"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0113824",
+  "moviedb_id": 37797,
+  "name": "Whisper of the Heart",
+  "popularity": 0.46597000000000005,
+  "poster": "https://images.metahub.space/poster/small/tt0113824/img",
+  "released": "1996-12-13T00:00:00.000Z",
+  "runtime": "111 min",
+  "trailers": [
+   {
+    "source": "J4lXUZTPAXg",
+    "type": "Trailer"
+   },
+   {
+    "source": "kyix1XapomE",
+    "type": "Trailer"
+   },
+   {
+    "source": "kZp0fIPq8OI",
+    "type": "Trailer"
+   },
+   {
+    "source": "0pVkiod6V0U",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Aoi Hiiragi",
+   "Hayao Miyazaki"
+  ],
+  "year": "1996",
+  "background": "https://images.metahub.space/background/medium/tt0113824/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0113824/img",
+  "popularities": {
+   "moviedb": 13.9791,
+   "stremio": 0.46597000000000005,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/whisper-of-the-heart-0113824",
+  "id": "tt0113824",
+  "genres": [
+   "Animation",
+   "Drama",
+   "Family"
+  ],
+  "releaseInfo": "1996",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Whisper of the Heart",
+    "ytId": "J4lXUZTPAXg"
+   },
+   {
+    "title": "Whisper of the Heart",
+    "ytId": "kyix1XapomE"
+   },
+   {
+    "title": "Whisper of the Heart",
+    "ytId": "kZp0fIPq8OI"
+   },
+   {
+    "title": "Whisper of the Heart",
+    "ytId": "0pVkiod6V0U"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0113824"
+   },
+   {
+    "name": "Whisper of the Heart",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/whisper-of-the-heart-0113824"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Yoko Honna",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yoko%20Honna"
+   },
+   {
+    "name": "Issei Takahashi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Issei%20Takahashi"
+   },
+   {
+    "name": "Takashi Tachibana",
+    "category": "Cast",
+    "url": "stremio:///search?search=Takashi%20Tachibana"
+   },
+   {
+    "name": "Aoi Hiiragi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Aoi%20Hiiragi"
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hayao%20Miyazaki"
+   },
+   {
+    "name": "Yoshifumi Kondo",
+    "category": "Directors",
+    "url": "stremio:///search?search=Yoshifumi%20Kondo"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0113824",
+   "hasScheduledVideos": false
+  }
+ }
+}

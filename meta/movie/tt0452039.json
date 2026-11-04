@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "imdb_id": "tt0452039",
+  "type": "movie",
+  "name": "Mind Game",
+  "year": "2004",
+  "runtime": "103 min",
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "released": "2021-10-28T00:00:00.000Z",
+  "director": [
+   "Koji Morimoto",
+   "Masaaki Yuasa"
+  ],
+  "writer": [
+   "Robin Nishi",
+   "Masaaki Yuasa"
+  ],
+  "cast": [
+   "Kôji Imada",
+   "Sayaka Maeda",
+   "Takashi Fujii"
+  ],
+  "imdbRating": "7.7",
+  "poster": "https://images.metahub.space/poster/small/tt0452039/img",
+  "description": "Captures a failed manga artist dying, telling God off, and clawing back to life at maximum velocity. The style mutates per scene — rotoscope, crayon, photo-collage — and the finale is a many-minute sprint through every life he hasn't lived yet. The anti-grit entry: pure forward motion.\n\nAfter a deadly encounter with two yakuza, a loser with a crush on his childhood girlfriend goes to heaven and back, embarking on a psychedelic self-discovery experience with her and his friends.",
+  "country": "Japan",
+  "awards": "1 win total",
+  "slug": "movie/mind-game-0452039",
+  "trailers": [
+   {
+    "source": "2fmmCsyK1dY",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 21712,
+  "popularities": {
+   "moviedb": 3.7214,
+   "stremio": 0.12404666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0452039/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0452039/img",
+  "dvdRelease": "2018-08-28T00:00:00.000Z",
+  "popularity": 0.12404666666666667,
+  "id": "tt0452039",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "releaseInfo": "2004",
+  "trailerStreams": [
+   {
+    "title": "Mind Game",
+    "ytId": "2fmmCsyK1dY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0452039"
+   },
+   {
+    "name": "Mind Game",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/mind-game-0452039"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Kôji Imada",
+    "category": "Cast",
+    "url": "stremio:///search?search=K%C3%B4ji%20Imada"
+   },
+   {
+    "name": "Sayaka Maeda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sayaka%20Maeda"
+   },
+   {
+    "name": "Takashi Fujii",
+    "category": "Cast",
+    "url": "stremio:///search?search=Takashi%20Fujii"
+   },
+   {
+    "name": "Robin Nishi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robin%20Nishi"
+   },
+   {
+    "name": "Masaaki Yuasa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Masaaki%20Yuasa"
+   },
+   {
+    "name": "Koji Morimoto",
+    "category": "Directors",
+    "url": "stremio:///search?search=Koji%20Morimoto"
+   },
+   {
+    "name": "Masaaki Yuasa",
+    "category": "Directors",
+    "url": "stremio:///search?search=Masaaki%20Yuasa"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0452039",
+   "hasScheduledVideos": false
+  }
+ }
+}

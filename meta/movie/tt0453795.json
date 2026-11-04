@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "id": "tt0453795",
+  "imdb_id": "tt0453795",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0453795/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0453795/img",
+  "background": "https://live.metahub.space/background/medium/tt0453795/img",
+  "moviedb_id": 163888,
+  "name": "Oxhide",
+  "description": "Captures a family inside 50 square metres and one failing business. The director films her own parents in their Beijing apartment and leather shop, in nine static shots, playing a version of herself; the bag shop is dying and everyone discusses dinner instead.\n\nDirector Liu Jiayin casts her parents and herself as fictionalized members of a Beijing family that has fallen on hard times and ekes out an existence by making bags out of oxhide for sale.",
+  "genres": [
+   "Drama",
+   "Documentary"
+  ],
+  "releaseInfo": "2006",
+  "runtime": "110 min",
+  "trailers": [],
+  "cast": [
+   "Jia Huifen",
+   "Liu Jiayin",
+   "Liu Zaiping"
+  ],
+  "credits_cast": [
+   {
+    "character": "Mother",
+    "name": "Jia Huifen",
+    "profile_path": null,
+    "id": 1071024
+   },
+   {
+    "character": "Daughter",
+    "name": "Liu Jiayin",
+    "profile_path": "/gzXqNXiiu1E9G1jlR0nqUicKHVp.jpg",
+    "id": 1071023
+   },
+   {
+    "character": "Father",
+    "name": "Liu Zaiping",
+    "profile_path": null,
+    "id": 1071025
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Liu Jiayin",
+    "profile_path": "/gzXqNXiiu1E9G1jlR0nqUicKHVp.jpg",
+    "id": 1071023
+   }
+  ],
+  "director": [
+   "Liu Jiayin"
+  ],
+  "imdbRating": "6.8",
+  "slug": "movie/oxhide-0453795",
+  "behaviorHints": {
+   "defaultVideoId": "tt0453795",
+   "hasScheduledVideos": false
+  }
+ }
+}

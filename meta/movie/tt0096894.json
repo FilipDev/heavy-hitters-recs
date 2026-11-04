@@ -1,0 +1,99 @@
+{
+ "meta": {
+  "imdb_id": "tt0096894",
+  "cast": [
+   "Susan Taslimi",
+   "Parviz Poorhosseini",
+   "Adnan Afravian"
+  ],
+  "country": "Iran",
+  "description": "Captures a war orphan adopted across a language barrier. A boy from bombed Khuzestan washes up in a northern rice village where nobody speaks Arabic and the war is a rumour; a widowed farmer takes him in against the whole village's suspicion.\n\nAn Iranian boy is lost after fleeing home for his life; his family has been killed during the Iran-Iraq war. He's saved and trained by a middle-aged woman.",
+  "director": [
+   "Bahram Beyzaie"
+  ],
+  "dvdRelease": "2005-04-26T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.0",
+  "name": "Bashu, the Little Stranger",
+  "poster": "https://images.metahub.space/poster/small/tt0096894/img",
+  "released": "1991-04-03T00:00:00.000Z",
+  "runtime": "120 min",
+  "slug": "movie/bashu-the-little-stranger-0096894",
+  "type": "movie",
+  "writer": [
+   "Bahram Beyzaie"
+  ],
+  "year": "1989",
+  "moviedb_id": 43980,
+  "popularities": {
+   "moviedb": 1.723,
+   "stremio": 0.057433333333333336,
+   "stremio_lib": 0
+  },
+  "trailers": [],
+  "background": "https://images.metahub.space/background/medium/tt0096894/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0096894/img",
+  "popularity": 0.057433333333333336,
+  "id": "tt0096894",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1989",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0096894"
+   },
+   {
+    "name": "Bashu, the Little Stranger",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/bashu-the-little-stranger-0096894"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Susan Taslimi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Susan%20Taslimi"
+   },
+   {
+    "name": "Parviz Poorhosseini",
+    "category": "Cast",
+    "url": "stremio:///search?search=Parviz%20Poorhosseini"
+   },
+   {
+    "name": "Adnan Afravian",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adnan%20Afravian"
+   },
+   {
+    "name": "Bahram Beyzaie",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bahram%20Beyzaie"
+   },
+   {
+    "name": "Bahram Beyzaie",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bahram%20Beyzaie"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0096894",
+   "hasScheduledVideos": false
+  }
+ }
+}

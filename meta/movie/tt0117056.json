@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "imdb_id": "tt0117056",
+  "awards": "4 wins & 1 nomination total",
+  "cast": [
+   "Mina Mohammad Khani",
+   "Mohtaram Shirzad",
+   "Rajab Mojdehi"
+  ],
+  "country": "Iran",
+  "description": "Captures a fiction collapsing into documentary in real time. A child actress, lost in Tehran traffic, quits mid-shot — and the crew keeps filming as she tries to get home for real, the microphone still taped to her.\n\nWhen a young girl becomes lost in the hustle and bustle of Tehran, her journey turns into a dazzling exercise on the nature of film itself.",
+  "director": [
+   "Jafar Panahi"
+  ],
+  "dvdRelease": "2005-04-05T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "name": "The Mirror",
+  "poster": "https://images.metahub.space/poster/small/tt0117056/img",
+  "released": "1998-11-25T00:00:00.000Z",
+  "runtime": "94 min",
+  "slug": "movie/the-mirror-0117056",
+  "type": "movie",
+  "writer": [
+   "Jafar Panahi"
+  ],
+  "year": "1998",
+  "moviedb_id": 40882,
+  "popularities": {
+   "moviedb": 1.0753,
+   "stremio": 0.03584333333333333,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "V7o5r37V2R0",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0117056/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0117056/img",
+  "popularity": 0.03584333333333333,
+  "id": "tt0117056",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1998",
+  "trailerStreams": [
+   {
+    "title": "The Mirror",
+    "ytId": "V7o5r37V2R0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0117056"
+   },
+   {
+    "name": "The Mirror",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-mirror-0117056"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mina Mohammad Khani",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mina%20Mohammad%20Khani"
+   },
+   {
+    "name": "Mohtaram Shirzad",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mohtaram%20Shirzad"
+   },
+   {
+    "name": "Rajab Mojdehi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rajab%20Mojdehi"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0117056",
+   "hasScheduledVideos": false
+  }
+ }
+}

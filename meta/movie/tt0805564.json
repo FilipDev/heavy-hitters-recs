@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 7 wins & 36 nominations total",
+  "cast": [
+   "Ryan Gosling",
+   "Emily Mortimer",
+   "Paul Schneider"
+  ],
+  "country": "Canada, United States",
+  "description": "Captures a town agreeing, as treatment, to believe. A painfully shy man orders a life-size doll and introduces her as his girlfriend; on a doctor's advice the whole town plays along — church seat, volunteer shifts, the works. The premise sounds like a sketch; the execution is a study in communal gentleness.\n\nA delusional young man strikes up an unconventional relationship with a doll he finds on the Internet.",
+  "director": [
+   "Craig Gillespie"
+  ],
+  "dvdRelease": "2016-10-17T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0805564",
+  "moviedb_id": 6615,
+  "name": "Lars and the Real Girl",
+  "popularity": 0.20348666666666665,
+  "poster": "https://images.metahub.space/poster/small/tt0805564/img",
+  "released": "2007-11-02T00:00:00.000Z",
+  "runtime": "107 min",
+  "trailers": [
+   {
+    "source": "tVWXhZz5SAk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Nancy Oliver"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0805564/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0805564/img",
+  "popularities": {
+   "moviedb": 6.1046,
+   "stremio": 0.20348666666666665,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/lars-and-the-real-girl-0805564",
+  "id": "tt0805564",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Lars and the Real Girl",
+    "ytId": "tVWXhZz5SAk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0805564"
+   },
+   {
+    "name": "Lars and the Real Girl",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/lars-and-the-real-girl-0805564"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Ryan Gosling",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ryan%20Gosling"
+   },
+   {
+    "name": "Emily Mortimer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emily%20Mortimer"
+   },
+   {
+    "name": "Paul Schneider",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Schneider"
+   },
+   {
+    "name": "Nancy Oliver",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nancy%20Oliver"
+   },
+   {
+    "name": "Craig Gillespie",
+    "category": "Directors",
+    "url": "stremio:///search?search=Craig%20Gillespie"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0805564",
+   "hasScheduledVideos": false
+  }
+ }
+}

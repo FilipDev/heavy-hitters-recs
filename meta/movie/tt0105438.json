@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "imdb_id": "tt0105438",
+  "awards": "8 wins & 2 nominations",
+  "cast": [
+   "Antonio López",
+   "María Moreno",
+   "Enrique Gran"
+  ],
+  "country": "Spain",
+  "description": "Captures a painter racing light he knows he'll lose. Antonio López sets up his easel before a quince tree each autumn day, marking the fruit's fall with threads and plumb lines while the radio murmurs the world; a film about trying to fix an observable that changes by the hour. Process cinema at its most patient.\n\nThe artist Antonio López tries to capture the sunlight hitting his quince tree all autumn, but the struggle seems futile.",
+  "director": [
+   "Víctor Erice"
+  ],
+  "dvdRelease": "2001-01-16T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "imdbRating": "7.7",
+  "name": "The Quince Tree Sun",
+  "poster": "https://images.metahub.space/poster/small/tt0105438/img",
+  "released": "1993-04-02T00:00:00.000Z",
+  "runtime": "138 min",
+  "slug": "movie/dream-of-light-0105438",
+  "type": "movie",
+  "writer": [
+   "Víctor Erice",
+   "Antonio López"
+  ],
+  "year": "1992",
+  "moviedb_id": 94706,
+  "popularities": {
+   "moviedb": 3.1601,
+   "stremio": 0.10533666666666666,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "N172cmoSsGc",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0105438/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0105438/img",
+  "popularity": 0.10533666666666666,
+  "id": "tt0105438",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "1992",
+  "trailerStreams": [
+   {
+    "title": "Dream of Light",
+    "ytId": "N172cmoSsGc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0105438"
+   },
+   {
+    "name": "Dream of Light",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/dream-of-light-0105438"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Antonio López",
+    "category": "Cast",
+    "url": "stremio:///search?search=Antonio%20L%C3%B3pez"
+   },
+   {
+    "name": "María Moreno",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mar%C3%ADa%20Moreno"
+   },
+   {
+    "name": "Enrique Gran",
+    "category": "Cast",
+    "url": "stremio:///search?search=Enrique%20Gran"
+   },
+   {
+    "name": "Víctor Erice",
+    "category": "Writers",
+    "url": "stremio:///search?search=V%C3%ADctor%20Erice"
+   },
+   {
+    "name": "Antonio López",
+    "category": "Writers",
+    "url": "stremio:///search?search=Antonio%20L%C3%B3pez"
+   },
+   {
+    "name": "Víctor Erice",
+    "category": "Directors",
+    "url": "stremio:///search?search=V%C3%ADctor%20Erice"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0105438",
+   "hasScheduledVideos": false
+  }
+ }
+}

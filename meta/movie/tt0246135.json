@@ -1,0 +1,128 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Michèle Moretti",
+   "Hermine Karagheuz",
+   "Karen Puig"
+  ],
+  "country": "France",
+  "description": "Captures Paris as a conspiracy that may just be theatre people. Nearly thirteen hours: two experimental theatre troupes rehearsing Aeschylus, a drifter intercepting mysterious letters, and a secret society that might be a game everyone agreed to forget. The longest film in this batch by design — it changes your sense of what a film's runtime is for.\n\nFollowing the May 1968 civil unrest in France, a deaf-mute and a con artist simultaneously stumble upon the remnants of a secret society.",
+  "director": [
+   "Jacques Rivette",
+   "Suzanne Schiffman"
+  ],
+  "dvdRelease": "2016-01-12T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0246135",
+  "moviedb_id": 94528,
+  "name": "Out 1",
+  "popularity": 0.06528333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0246135/img",
+  "released": "2015-11-18T00:00:00.000Z",
+  "runtime": "776 min",
+  "trailers": [
+   {
+    "source": "CoLRNavAi_8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jacques Rivette",
+   "Suzanne Schiffman",
+   "Honoré de Balzac"
+  ],
+  "year": "1971",
+  "popularities": {
+   "moviedb": 1.9585,
+   "stremio": 0.06528333333333333,
+   "stremio_lib": 0
+  },
+  "slug": "movie/out-1-0246135",
+  "background": "https://images.metahub.space/background/medium/tt0246135/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0246135/img",
+  "id": "tt0246135",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "1971",
+  "trailerStreams": [
+   {
+    "title": "Out 1",
+    "ytId": "CoLRNavAi_8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0246135"
+   },
+   {
+    "name": "Out 1",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/out-1-0246135"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Michèle Moretti",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mich%C3%A8le%20Moretti"
+   },
+   {
+    "name": "Hermine Karagheuz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hermine%20Karagheuz"
+   },
+   {
+    "name": "Karen Puig",
+    "category": "Cast",
+    "url": "stremio:///search?search=Karen%20Puig"
+   },
+   {
+    "name": "Jacques Rivette",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacques%20Rivette"
+   },
+   {
+    "name": "Suzanne Schiffman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Suzanne%20Schiffman"
+   },
+   {
+    "name": "Honoré de Balzac",
+    "category": "Writers",
+    "url": "stremio:///search?search=Honor%C3%A9%20de%20Balzac"
+   },
+   {
+    "name": "Jacques Rivette",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jacques%20Rivette"
+   },
+   {
+    "name": "Suzanne Schiffman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Suzanne%20Schiffman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0246135",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "30 wins & 12 nominations",
+  "cast": [
+   "Cornelio Wall",
+   "Miriam Toews",
+   "Maria Pankratz"
+  ],
+  "country": "Mexico, France, Netherlands, Germany",
+  "description": "Captures a Dreyer film reincarnated in a Mennonite colony. A married farmer falls in love, in Plautdietsch, bookended by a six-minute sunrise and a six-minute sunset shot as single takes. Adultery as weather.\n\nIn a Mennonite community in Mexico, a father's faith is tested when he falls in love with a new woman.",
+  "director": [
+   "Carlos Reygadas"
+  ],
+  "dvdRelease": "2010-04-20T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0841925",
+  "moviedb_id": 2012,
+  "name": "Silent Light",
+  "popularity": 0.11852,
+  "poster": "https://images.metahub.space/poster/small/tt0841925/img",
+  "released": "2007-10-12T00:00:00.000Z",
+  "runtime": "136 min",
+  "trailers": [
+   {
+    "source": "9mf6CejhaN4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Carlos Reygadas"
+  ],
+  "year": "2007",
+  "popularities": {
+   "moviedb": 3.5556,
+   "stremio": 0.11852,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "background": "https://images.metahub.space/background/medium/tt0841925/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0841925/img",
+  "slug": "movie/silent-light-0841925",
+  "id": "tt0841925",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2007",
+  "trailerStreams": [
+   {
+    "title": "Silent Light",
+    "ytId": "9mf6CejhaN4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0841925"
+   },
+   {
+    "name": "Silent Light",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/silent-light-0841925"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Cornelio Wall",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cornelio%20Wall"
+   },
+   {
+    "name": "Miriam Toews",
+    "category": "Cast",
+    "url": "stremio:///search?search=Miriam%20Toews"
+   },
+   {
+    "name": "Maria Pankratz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maria%20Pankratz"
+   },
+   {
+    "name": "Carlos Reygadas",
+    "category": "Writers",
+    "url": "stremio:///search?search=Carlos%20Reygadas"
+   },
+   {
+    "name": "Carlos Reygadas",
+    "category": "Directors",
+    "url": "stremio:///search?search=Carlos%20Reygadas"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0841925",
+   "hasScheduledVideos": false
+  }
+ }
+}

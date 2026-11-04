@@ -1,0 +1,67 @@
+{
+ "meta": {
+  "id": "tt0123970",
+  "imdb_id": "tt0123970",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0123970/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0123970/img",
+  "background": "https://live.metahub.space/background/medium/tt0123970/img",
+  "moviedb_id": 32535,
+  "name": "Lily and Jim",
+  "description": "Captures a blind date narrated by both daters at once, in split-screen stick figures, each privately misreading the other in real time. Thirteen minutes, made when he was barely out of film school, and the dual-internal-monologue structure is already fully his.\n\nA blind date ends in disaster.",
+  "genres": [
+   "Animation",
+   "Comedy",
+   "Romance"
+  ],
+  "releaseInfo": "1997",
+  "runtime": "13 min",
+  "trailers": [],
+  "cast": [
+   "Robert May",
+   "Karin Anger"
+  ],
+  "credits_cast": [
+   {
+    "character": "Jim (voice)",
+    "name": "Robert May",
+    "profile_path": null,
+    "id": 1599578
+   },
+   {
+    "character": "Lily (voice)",
+    "name": "Karin Anger",
+    "profile_path": null,
+    "id": 109316
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Don Hertzfeldt",
+    "profile_path": "/6DwlGgVtZ9tAo7xZH2dfduS8VTw.jpg",
+    "id": 109314
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Don Hertzfeldt",
+    "profile_path": "/6DwlGgVtZ9tAo7xZH2dfduS8VTw.jpg",
+    "id": 109314
+   }
+  ],
+  "director": [
+   "Don Hertzfeldt"
+  ],
+  "imdbRating": "7.3",
+  "language": "English",
+  "country": "United States",
+  "awards": "22 wins & 4 nominations",
+  "slug": "movie/lily-and-jim-0123970",
+  "behaviorHints": {
+   "defaultVideoId": "tt0123970",
+   "hasScheduledVideos": false
+  }
+ }
+}

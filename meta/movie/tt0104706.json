@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "awards": "1 win total",
+  "cast": [
+   "Werner Herzog"
+  ],
+  "country": "Germany, France, Spain, United Kingdom",
+  "description": "Captures an oil war as an alien planet. Kuwait's burning fields after the Gulf War, narrated by Herzog as if by a visitor who has never seen Earth: fire crews become creatures, oil lakes become geology.\n\nThis film surveys the disaster of the Kuwaiti oil fields in flames, with little narration and scarcely any interviews. Hell on Earth is presented in such transcendent visions and music that one can only be fascinated by it.",
+  "director": [
+   "Werner Herzog"
+  ],
+  "dvdRelease": "2017-03-11T00:00:00.000Z",
+  "genre": [
+   "War"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0104706",
+  "moviedb_id": 53200,
+  "name": "Lessons of Darkness",
+  "popularity": 0.05503333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0104706/img",
+  "released": "2002-10-26T00:00:00.000Z",
+  "runtime": "54 min",
+  "trailers": [
+   {
+    "source": "EPwmsbbcG6Q",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Werner Herzog"
+  ],
+  "year": "1992",
+  "popularities": {
+   "moviedb": 1.651,
+   "stremio": 0.05503333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/lessons-of-darkness-0104706",
+  "background": "https://images.metahub.space/background/medium/tt0104706/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0104706/img",
+  "id": "tt0104706",
+  "genres": [
+   "War"
+  ],
+  "releaseInfo": "1992",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Lessons of Darkness",
+    "ytId": "EPwmsbbcG6Q"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0104706"
+   },
+   {
+    "name": "Lessons of Darkness",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/lessons-of-darkness-0104706"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Cast",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Writers",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Directors",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0104706",
+   "hasScheduledVideos": false
+  }
+ }
+}

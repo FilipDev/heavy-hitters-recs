@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt0360845",
+  "awards": "1 win & 6 nominations total",
+  "cast": [
+   "Sarah Adler",
+   "Nade Dieu",
+   "Rony Kramer"
+  ],
+  "country": "France, Switzerland",
+  "description": "Captures a film arranged as Hell, Purgatory, Heaven. Hell is a montage of war footage; Purgatory is a literary conference in Sarajevo where Godard lectures on text and image while Olga, a young journalist, asks the wrong questions; Heaven is a guarded lakeside garden. The middle panel's lecture — shot and reverse-shot as an ethical problem — is the part written for you.\n\nAn indictment of modern times divided into three \"kingdoms\": \"Enfer\" (\"Hell\"), \"Purgatoire\" (\"Purgatory\") and \"Paradis\" (\"Paradise\").",
+  "director": [
+   "Jean-Luc Godard"
+  ],
+  "dvdRelease": "2005-05-17T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "6.8",
+  "name": "Notre musique",
+  "poster": "https://images.metahub.space/poster/small/tt0360845/img",
+  "released": "2004-05-19T00:00:00.000Z",
+  "runtime": "80 min",
+  "slug": "movie/our-music-0360845",
+  "type": "movie",
+  "writer": [
+   "Jean-Luc Godard"
+  ],
+  "year": "2004",
+  "moviedb_id": 26347,
+  "popularities": {
+   "moviedb": 1.4984,
+   "stremio": 0.04994666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "wl3R-x-fzA4",
+    "type": "Trailer"
+   },
+   {
+    "source": "lNRjo6nr-tc",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0360845/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0360845/img",
+  "popularity": 0.04994666666666667,
+  "id": "tt0360845",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2004",
+  "trailerStreams": [
+   {
+    "title": "Our Music",
+    "ytId": "wl3R-x-fzA4"
+   },
+   {
+    "title": "Our Music",
+    "ytId": "lNRjo6nr-tc"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0360845"
+   },
+   {
+    "name": "Our Music",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/our-music-0360845"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sarah Adler",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sarah%20Adler"
+   },
+   {
+    "name": "Nade Dieu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nade%20Dieu"
+   },
+   {
+    "name": "Rony Kramer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rony%20Kramer"
+   },
+   {
+    "name": "Jean-Luc Godard",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean-Luc%20Godard"
+   },
+   {
+    "name": "Jean-Luc Godard",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jean-Luc%20Godard"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0360845",
+   "hasScheduledVideos": false
+  }
+ }
+}

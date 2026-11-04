@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "7 wins & 9 nominations total",
+  "cast": [
+   "Gael García Bernal",
+   "Charlotte Gainsbourg",
+   "Miou-Miou"
+  ],
+  "country": "France, Italy",
+  "description": "Captures dreams as a handmade TV studio inside a shy man's skull. A Mexican illustrator in Paris can't keep his dream-logic — cardboard cameras, cellophane water, a one-second time machine — from leaking into the courtship he's botching while awake.\n\nA man entranced by his dreams and imagination is love-struck with a French woman and feels he can show her his world.",
+  "director": [
+   "Michel Gondry"
+  ],
+  "dvdRelease": "2008-11-02T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0354899",
+  "moviedb_id": 300,
+  "name": "The Science of Sleep",
+  "popularity": 0.12598666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0354899/img",
+  "released": "2006-09-29T00:00:00.000Z",
+  "runtime": "106 min",
+  "trailers": [
+   {
+    "source": "dHtE0szIip0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michel Gondry"
+  ],
+  "year": "2006",
+  "background": "https://images.metahub.space/background/medium/tt0354899/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0354899/img",
+  "popularities": {
+   "moviedb": 3.7796,
+   "stremio": 0.12598666666666666,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-science-of-sleep-0354899",
+  "id": "tt0354899",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "2006",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Science of Sleep",
+    "ytId": "dHtE0szIip0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0354899"
+   },
+   {
+    "name": "The Science of Sleep",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-science-of-sleep-0354899"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Gael García Bernal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gael%20Garc%C3%ADa%20Bernal"
+   },
+   {
+    "name": "Charlotte Gainsbourg",
+    "category": "Cast",
+    "url": "stremio:///search?search=Charlotte%20Gainsbourg"
+   },
+   {
+    "name": "Miou-Miou",
+    "category": "Cast",
+    "url": "stremio:///search?search=Miou-Miou"
+   },
+   {
+    "name": "Michel Gondry",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michel%20Gondry"
+   },
+   {
+    "name": "Michel Gondry",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michel%20Gondry"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0354899",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "5 wins & 1 nomination total",
+  "cast": [
+   "David Lee Smith",
+   "Tony Todd",
+   "John Billingsley"
+  ],
+  "country": "United States",
+  "description": "Captures an entire science-fiction epic conducted as a conversation. A professor tells his colleagues he's a 14,000-year-old caveman who stopped ageing; nobody leaves the room, no effect is ever shown, and the argument itself becomes the spectacle.\n\nA professor's impromptu retirement party becomes a mysterious interrogation when he reveals to his colleagues that he has a longer and stranger past than they can imagine.",
+  "director": [
+   "Richard Schenkman"
+  ],
+  "dvdRelease": "2016-11-30T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Mystery"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0756683",
+  "moviedb_id": 13363,
+  "name": "The Man from Earth",
+  "popularity": 0.23040333333333332,
+  "poster": "https://images.metahub.space/poster/small/tt0756683/img",
+  "released": "2007-11-13T00:00:00.000Z",
+  "runtime": "87 min",
+  "trailers": [
+   {
+    "source": "w01A_70hifM",
+    "type": "Trailer"
+   },
+   {
+    "source": "9mOIxyRTY5I",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jerome Bixby"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0756683/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0756683/img",
+  "popularities": {
+   "moviedb": 6.9121,
+   "stremio": 0.23040333333333332,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-man-from-earth-0756683",
+  "id": "tt0756683",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Mystery"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Man from Earth",
+    "ytId": "w01A_70hifM"
+   },
+   {
+    "title": "The Man from Earth",
+    "ytId": "9mOIxyRTY5I"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0756683"
+   },
+   {
+    "name": "The Man from Earth",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-man-from-earth-0756683"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "David Lee Smith",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Lee%20Smith"
+   },
+   {
+    "name": "Tony Todd",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tony%20Todd"
+   },
+   {
+    "name": "John Billingsley",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Billingsley"
+   },
+   {
+    "name": "Jerome Bixby",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jerome%20Bixby"
+   },
+   {
+    "name": "Richard Schenkman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Richard%20Schenkman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0756683",
+   "hasScheduledVideos": false
+  }
+ }
+}

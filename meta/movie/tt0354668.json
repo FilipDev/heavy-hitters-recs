@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "22 wins & 8 nominations total",
+  "cast": [
+   "Shin Ha-kyun",
+   "Baek Yoon-shik",
+   "Hwang Jung-min"
+  ],
+  "country": "South Korea",
+  "description": "Captures a conspiracy theorist who might be right, played at full scream. A beekeeper kidnaps a chemicals CEO he believes is an alien prince; comedy, torture chamber, police procedural and apocalypse keep swapping places until the film lands somewhere genuinely sad.\n\nByeong-gu believes that the world is on the verge of an alien invasion, and sets out to save the world.",
+  "director": [
+   "Jang Joon-hwan"
+  ],
+  "dvdRelease": "2005-09-20T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0354668",
+  "moviedb_id": 11297,
+  "name": "Save the Green Planet!",
+  "popularity": 0.09862,
+  "poster": "https://images.metahub.space/poster/small/tt0354668/img",
+  "released": "2003-04-04T00:00:00.000Z",
+  "runtime": "117 min",
+  "trailers": [
+   {
+    "source": "NhM2PSNvArg",
+    "type": "Trailer"
+   },
+   {
+    "source": "pX-JXYL_Cs0",
+    "type": "Trailer"
+   },
+   {
+    "source": "3NLbDgyMusk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jang Joon-hwan"
+  ],
+  "year": "2003",
+  "popularities": {
+   "moviedb": 2.9586,
+   "stremio": 0.09862,
+   "stremio_lib": 0
+  },
+  "slug": "movie/save-the-green-planet-0354668",
+  "background": "https://images.metahub.space/background/medium/tt0354668/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0354668/img",
+  "id": "tt0354668",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2003",
+  "trailerStreams": [
+   {
+    "title": "Save the Green Planet!",
+    "ytId": "NhM2PSNvArg"
+   },
+   {
+    "title": "Save the Green Planet!",
+    "ytId": "pX-JXYL_Cs0"
+   },
+   {
+    "title": "Save the Green Planet!",
+    "ytId": "3NLbDgyMusk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0354668"
+   },
+   {
+    "name": "Save the Green Planet!",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/save-the-green-planet-0354668"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Shin Ha-kyun",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shin%20Ha-kyun"
+   },
+   {
+    "name": "Baek Yoon-shik",
+    "category": "Cast",
+    "url": "stremio:///search?search=Baek%20Yoon-shik"
+   },
+   {
+    "name": "Hwang Jung-min",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hwang%20Jung-min"
+   },
+   {
+    "name": "Jang Joon-hwan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jang%20Joon-hwan"
+   },
+   {
+    "name": "Jang Joon-hwan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jang%20Joon-hwan"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0354668",
+   "hasScheduledVideos": false
+  }
+ }
+}

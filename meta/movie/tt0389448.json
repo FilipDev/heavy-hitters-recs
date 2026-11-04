@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "id": "tt0389448",
+  "imdb_id": "tt0389448",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0389448/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0389448/img",
+  "background": "https://live.metahub.space/background/medium/tt0389448/img",
+  "moviedb_id": 296470,
+  "name": "West of the Tracks",
+  "description": "Captures an industrial civilisation ending in real time. Nine hours inside Shenyang's collapsing factory district: workers showering in the plant, waiting for wages that aren't coming, singing karaoke as the furnaces cool. Shot alone on a DV camera; the scale is the argument.\n\nAn orphaned young woman goes to Paris looking for work and love. Working as an au-pair, she is discovered by a fashion photographer and becomes a model. She falls in love with an architect but leaves him to marry a rich man.",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2003",
+  "runtime": "551 min",
+  "trailers": [],
+  "cast": [
+   "Mireille Darc",
+   "Jacques Charrier",
+   "Daniel Gélin"
+  ],
+  "credits_cast": [
+   {
+    "character": "Eva Ritter",
+    "name": "Mireille Darc",
+    "profile_path": "/bosjtoUKc8jfJROwnXOwB9hmis9.jpg",
+    "id": 39646
+   },
+   {
+    "character": "Jean-Loup Costa",
+    "name": "Jacques Charrier",
+    "profile_path": "/usnUxCQnjlmnJUNc1IQYE05tIb9.jpg",
+    "id": 229382
+   },
+   {
+    "character": "Bernard",
+    "name": "Daniel Gélin",
+    "profile_path": "/ddYYnUvmOZ8huqjS1pv6M41Ym87.jpg",
+    "id": 24814
+   },
+   {
+    "character": "Peter von Kessner",
+    "name": "Peter van Eyck",
+    "profile_path": "/rv26j7mnV32X4mKxFY1pAquvfrX.jpg",
+    "id": 2567
+   },
+   {
+    "character": "Francesco Jimenez",
+    "name": "Paul Hubschmid",
+    "profile_path": "/reCRxjSu42RhyBEdrphLsZtXt8s.jpg",
+    "id": 118861
+   },
+   {
+    "character": "Jean-Loup's Friend",
+    "name": "Helga Lehner",
+    "profile_path": "/iIcymD3Stmt75fBlP8xBKYgEOf9.jpg",
+    "id": 1555902
+   },
+   {
+    "character": "Marie",
+    "name": "Erika Remberg",
+    "profile_path": "/wa42iC1C0gUjwzcId8eKa5sgFi0.jpg",
+    "id": 97674
+   },
+   {
+    "character": "Carol Stevens",
+    "name": "Ilse Steppat",
+    "profile_path": "/i7vozT464DswFdYJJ3bFUacWdLR.jpg",
+    "id": 10170
+   },
+   {
+    "character": "Stella",
+    "name": "Tilda Thamar",
+    "profile_path": "/uURmmH8Yfws7tKLwXJ0qe8TQhbn.jpg",
+    "id": 101935
+   },
+   {
+    "character": "Jaro, the Photographer",
+    "name": "Reinhold Timm",
+    "profile_path": "/aQcDlie2XVvp882iFkLTZK4zEHQ.jpg",
+    "id": 46137
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Pierre Gaspard-Huit",
+    "profile_path": "/eQ8J923bNM2hM80S0CkZpWifbvm.jpg",
+    "id": 39168
+   },
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Pierre Gaspard-Huit",
+    "profile_path": "/eQ8J923bNM2hM80S0CkZpWifbvm.jpg",
+    "id": 39168
+   }
+  ],
+  "director": [
+   "Pierre Gaspard-Huit"
+  ],
+  "imdbRating": "8.2",
+  "language": "Mandarin",
+  "country": "China, Netherlands",
+  "awards": "4 wins & 3 nominations",
+  "slug": "movie/a-belles-dents-0389448",
+  "behaviorHints": {
+   "defaultVideoId": "tt0389448",
+   "hasScheduledVideos": false
+  },
+  "year": "2003"
+ }
+}

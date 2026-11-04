@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Kim Jin-kyu",
+   "Jeung-nyeo Ju",
+   "Eun-shim Lee"
+  ],
+  "country": "South Korea",
+  "description": "Captures a home invaded by its own employee. A composer hires a maid; she takes the house apart floor by floor — piano lessons, rat poison, a staircase that becomes the film's moral geometry. Korean melodrama at fever pitch, restored from near-loss.\n\nA composer and his wife are thrown into turmoil when a housemaid becomes more than they bargained for.",
+  "director": [
+   "Kim Ki-young"
+  ],
+  "dvdRelease": "2016-11-17T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Horror"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0150980",
+  "moviedb_id": 42506,
+  "name": "The Housemaid",
+  "popularity": 0.07636333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0150980/img",
+  "released": "1960-11-03T00:00:00.000Z",
+  "runtime": "112 min",
+  "trailers": [
+   {
+    "source": "WsShIXZrJvA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kim Ki-young"
+  ],
+  "year": "1960",
+  "popularities": {
+   "moviedb": 2.2909,
+   "stremio": 0.07636333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-housemaid-0150980",
+  "background": "https://images.metahub.space/background/medium/tt0150980/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0150980/img",
+  "id": "tt0150980",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Horror"
+  ],
+  "releaseInfo": "1960",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Housemaid",
+    "ytId": "WsShIXZrJvA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0150980"
+   },
+   {
+    "name": "The Housemaid",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-housemaid-0150980"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Kim Jin-kyu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kim%20Jin-kyu"
+   },
+   {
+    "name": "Jeung-nyeo Ju",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeung-nyeo%20Ju"
+   },
+   {
+    "name": "Eun-shim Lee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eun-shim%20Lee"
+   },
+   {
+    "name": "Kim Ki-young",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kim%20Ki-young"
+   },
+   {
+    "name": "Kim Ki-young",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kim%20Ki-young"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0150980",
+   "hasScheduledVideos": false
+  }
+ }
+}

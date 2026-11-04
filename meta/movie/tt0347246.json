@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "6 wins & 8 nominations total",
+  "cast": [
+   "Akio Otsuka",
+   "Atsuko Tanaka",
+   "Tamio Ôki"
+  ],
+  "country": "Japan",
+  "description": "Captures a detective and his mostly-robotic partner investigating murdered dolls that begged to die. Denser and stranger than the first: every character quotes philosophy at each other while the camera orbits ball-jointed gynoids in a festival parade that took a year to animate. The observed/observable problem, with dolls as the transducers.\n\nIn the year 2032, Batô, a cyborg detective for the anti-terrorist unit Public Security Section 9, investigates the case of a female robot--one created solely for sexual pleasure--who slaughtered her owner.",
+  "director": [
+   "Mamoru Oshii"
+  ],
+  "dvdRelease": "2017-02-21T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt0347246",
+  "moviedb_id": 12140,
+  "name": "Ghost in the Shell 2: Innocence",
+  "popularity": 0.22610000000000002,
+  "poster": "https://images.metahub.space/poster/small/tt0347246/img",
+  "released": "2004-09-24T00:00:00.000Z",
+  "runtime": "100 min",
+  "trailers": [
+   {
+    "source": "0XkATpPvqEA",
+    "type": "Trailer"
+   },
+   {
+    "source": "bTaCx14XiH4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Shirow Masamune",
+   "Mamoru Oshii"
+  ],
+  "year": "2004",
+  "background": "https://images.metahub.space/background/medium/tt0347246/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0347246/img",
+  "popularities": {
+   "moviedb": 6.783,
+   "stremio": 0.22610000000000002,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/ghost-in-the-shell-2-innocence-0347246",
+  "id": "tt0347246",
+  "genres": [
+   "Animation",
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2004",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Ghost in the Shell 2: Innocence",
+    "ytId": "0XkATpPvqEA"
+   },
+   {
+    "title": "Ghost in the Shell 2: Innocence",
+    "ytId": "bTaCx14XiH4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0347246"
+   },
+   {
+    "name": "Ghost in the Shell 2: Innocence",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ghost-in-the-shell-2-innocence-0347246"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Akio Otsuka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Akio%20Otsuka"
+   },
+   {
+    "name": "Atsuko Tanaka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Atsuko%20Tanaka"
+   },
+   {
+    "name": "Tamio Ôki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tamio%20%C3%94ki"
+   },
+   {
+    "name": "Shirow Masamune",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shirow%20Masamune"
+   },
+   {
+    "name": "Mamoru Oshii",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mamoru%20Oshii"
+   },
+   {
+    "name": "Mamoru Oshii",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mamoru%20Oshii"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0347246",
+   "hasScheduledVideos": false
+  }
+ }
+}

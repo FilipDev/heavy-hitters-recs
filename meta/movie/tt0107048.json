@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "Won 1 BAFTA Award. 7 wins & 17 nominations total",
+  "cast": [
+   "Bill Murray",
+   "Andie MacDowell",
+   "Chris Elliott"
+  ],
+  "country": "United States",
+  "description": "Captures a loop that turns out to be a curriculum. It wasn't in your 363, which surprised me too. A weatherman relives one day until the day is no longer the constraint — the rare infinitely-referenced film that is also exactly as good as its reputation.\n\nA curmudgeonly weatherman finds himself stuck in a time loop and is forced to relive the same day over and over again.",
+  "director": [
+   "Harold Ramis"
+  ],
+  "dvdRelease": "2012-04-16T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0107048",
+  "moviedb_id": 137,
+  "name": "Groundhog Day",
+  "popularity": 0.39318333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0107048/img",
+  "released": "1993-02-12T00:00:00.000Z",
+  "runtime": "101 min",
+  "trailers": [
+   {
+    "source": "_ADlbEQG_VA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Danny Rubin",
+   "Harold Ramis"
+  ],
+  "year": "1993",
+  "background": "https://images.metahub.space/background/medium/tt0107048/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0107048/img",
+  "popularities": {
+   "moviedb": 11.7955,
+   "stremio": 0.39318333333333333,
+   "trakt": 13,
+   "stremio_lib": 0
+  },
+  "slug": "movie/groundhog-day-0107048",
+  "id": "tt0107048",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1993",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Groundhog Day",
+    "ytId": "_ADlbEQG_VA"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0107048"
+   },
+   {
+    "name": "Groundhog Day",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/groundhog-day-0107048"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Bill Murray",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bill%20Murray"
+   },
+   {
+    "name": "Andie MacDowell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Andie%20MacDowell"
+   },
+   {
+    "name": "Chris Elliott",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chris%20Elliott"
+   },
+   {
+    "name": "Danny Rubin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Danny%20Rubin"
+   },
+   {
+    "name": "Harold Ramis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Harold%20Ramis"
+   },
+   {
+    "name": "Harold Ramis",
+    "category": "Directors",
+    "url": "stremio:///search?search=Harold%20Ramis"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0107048",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": null,
+  "country": "Soviet Union",
+  "description": "Captures an Armenian mountain year as pure rhythm. Shepherds swept downriver clutching sheep, hay sleds flying downhill, a wedding, a flock pouring over a ridge — Pelechian's \"distance montage\" builds meaning between shots that never touch, the way your transducer chains build it between levels. Thirty minutes, no dialogue, elemental.\n\nFilm-essay about shepherds living in the Armenian highlands, about the contradiction and the harmony between man and nature.",
+  "director": [
+   "Artavazd Peleshian"
+  ],
+  "dvdRelease": null,
+  "genre": [
+   "Documentary",
+   "Short"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0298597",
+  "moviedb_id": 44357,
+  "name": "The Seasons",
+  "poster": "https://images.metahub.space/poster/small/tt0298597/img",
+  "released": null,
+  "runtime": "29 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Artavazd Peleshian"
+  ],
+  "year": "1975",
+  "popularities": {
+   "moviedb": 8.69471128797422e-32
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt0298597/img",
+  "background": "https://images.metahub.space/background/medium/tt0298597/img",
+  "id": "tt0298597",
+  "genres": [
+   "Documentary",
+   "Short"
+  ],
+  "releaseInfo": "1975",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0298597"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Short",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Short"
+   },
+   {
+    "name": "Artavazd Peleshian",
+    "category": "Writers",
+    "url": "stremio:///search?search=Artavazd%20Peleshian"
+   },
+   {
+    "name": "Artavazd Peleshian",
+    "category": "Directors",
+    "url": "stremio:///search?search=Artavazd%20Peleshian"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0298597",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "2 wins & 3 nominations total",
+  "cast": [
+   "Arno Frisch",
+   "Angela Winkler",
+   "Ulrich Mühe"
+  ],
+  "country": "Austria, Switzerland",
+  "description": "Captures a murder committed to see how it looks on tape. A video-obsessed teenager films everything, including the act, and his parents' response is the coldest part. The complicit-camera theme, taken to its dead end.\n\nA 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
+  "director": [
+   "Michael Haneke"
+  ],
+  "dvdRelease": "2007-06-11T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0103793",
+  "moviedb_id": 1987,
+  "name": "Benny's Video",
+  "popularity": 0.07147333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0103793/img",
+  "released": "1993-02-11T00:00:00.000Z",
+  "runtime": "110 min",
+  "trailers": [
+   {
+    "source": "18X_kyHW3G0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Haneke"
+  ],
+  "year": "1993",
+  "popularities": {
+   "moviedb": 2.1442,
+   "stremio": 0.07147333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/bennys-video-0103793",
+  "background": "https://images.metahub.space/background/medium/tt0103793/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0103793/img",
+  "id": "tt0103793",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1993",
+  "trailerStreams": [
+   {
+    "title": "Benny's Video",
+    "ytId": "18X_kyHW3G0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0103793"
+   },
+   {
+    "name": "Benny's Video",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/bennys-video-0103793"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Arno Frisch",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arno%20Frisch"
+   },
+   {
+    "name": "Angela Winkler",
+    "category": "Cast",
+    "url": "stremio:///search?search=Angela%20Winkler"
+   },
+   {
+    "name": "Ulrich Mühe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ulrich%20M%C3%BChe"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0103793",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "imdb_id": "tt0409965",
+  "country": "Iran, Japan, France",
+  "description": "Captures the observable with the story removed. Five long static shots of the Caspian shore: waves, ducks, driftwood, a dog, the moon on water. No characters, no plot — just duration and attention, dedicated to the director who taught him both. The purest test in your collection of whether framing alone is enough.\n\nFive sequences : 1) A piece of driftwood on the seashore, carried about by the waves 2) People walking on the seashore. The oldest ones stop by, look at the sea, then go away 3) Blurry shapes on a winter beach. A herd of dogs. A l...",
+  "director": [
+   "Abbas Kiarostami"
+  ],
+  "dvdRelease": "2007-07-24T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.3",
+  "name": "Five Dedicated to Ozu",
+  "poster": "https://images.metahub.space/poster/small/tt0409965/img",
+  "released": "2019-08-10T00:00:00.000Z",
+  "runtime": "74 min",
+  "slug": "movie/five-dedicated-to-ozu-0409965",
+  "type": "movie",
+  "writer": [
+   "Abbas Kiarostami"
+  ],
+  "year": "2003",
+  "moviedb_id": 126004,
+  "popularities": {
+   "moviedb": 0.925,
+   "stremio": 0.030833333333333334,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "AmDz9sQpm_A",
+    "type": "Clip"
+   }
+  ],
+  "cast": [],
+  "background": "https://images.metahub.space/background/medium/tt0409965/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0409965/img",
+  "popularity": 0.030833333333333334,
+  "id": "tt0409965",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2003",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "6.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0409965"
+   },
+   {
+    "name": "Five Dedicated to Ozu",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/five-dedicated-to-ozu-0409965"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Directors",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0409965",
+   "hasScheduledVideos": false
+  }
+ }
+}

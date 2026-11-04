@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "awards": "5 wins & 7 nominations total",
+  "cast": [
+   "Atsuko Tanaka",
+   "Iemasa Kayumi",
+   "Akio Otsuka"
+  ],
+  "country": "Japan, United Kingdom",
+  "description": "Captures a cyborg major hunting a hacker who may be the first digital life-form, in long rain-slick silences between the action. The gap in your collection: the film that made \"what counts as a self when every layer is replaceable\" into mainstream science fiction, and it argues by canal boat and museum tree as much as by dialogue.\n\nA cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+  "director": [
+   "Mamoru Oshii"
+  ],
+  "dvdRelease": "2010-12-15T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Action",
+   "Crime"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0113568",
+  "moviedb_id": 9323,
+  "name": "Ghost in the Shell",
+  "popularity": 0.4862066666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0113568/img",
+  "released": "1996-03-29T00:00:00.000Z",
+  "runtime": "83 min",
+  "trailers": [
+   {
+    "source": "R1K__7QhLaA",
+    "type": "Trailer"
+   },
+   {
+    "source": "8RF09G8Ymqg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Shirow Masamune",
+   "Kazunori Itô"
+  ],
+  "year": "1996",
+  "popularities": {
+   "moviedb": 14.5862,
+   "stremio": 0.4862066666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0113568/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0113568/img",
+  "slug": "movie/ghost-in-the-shell-0113568",
+  "id": "tt0113568",
+  "genres": [
+   "Animation",
+   "Action",
+   "Crime"
+  ],
+  "releaseInfo": "1996",
+  "trailerStreams": [
+   {
+    "title": "Ghost in the Shell",
+    "ytId": "R1K__7QhLaA"
+   },
+   {
+    "title": "Ghost in the Shell",
+    "ytId": "8RF09G8Ymqg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0113568"
+   },
+   {
+    "name": "Ghost in the Shell",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ghost-in-the-shell-0113568"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Atsuko Tanaka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Atsuko%20Tanaka"
+   },
+   {
+    "name": "Iemasa Kayumi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Iemasa%20Kayumi"
+   },
+   {
+    "name": "Akio Otsuka",
+    "category": "Cast",
+    "url": "stremio:///search?search=Akio%20Otsuka"
+   },
+   {
+    "name": "Shirow Masamune",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shirow%20Masamune"
+   },
+   {
+    "name": "Kazunori Itô",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kazunori%20It%C3%B4"
+   },
+   {
+    "name": "Mamoru Oshii",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mamoru%20Oshii"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0113568",
+   "hasScheduledVideos": false
+  }
+ }
+}

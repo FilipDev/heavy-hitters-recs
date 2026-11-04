@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "23 wins & 8 nominations",
+  "cast": [
+   "Soran Ebrahim",
+   "Avaz Latif",
+   "Saddam Hossein Feysal"
+  ],
+  "country": "Iran, France, Iraq",
+  "description": "Captures children running a war economy before the war officially starts. In a Kurdish refugee camp on the Iraq–Turkey border, kids clear minefields for resale and a boy called Satellite installs dishes so the village can watch the invasion coming on TV.\n\nNear the Iraqi-Turkish border on the eve of an American invasion, refugee children, like 13-year-old Kak (Ebrahim), gauge and await their fate.",
+  "director": [
+   "Bahman Ghobadi"
+  ],
+  "dvdRelease": "2017-01-19T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0424227",
+  "moviedb_id": 8340,
+  "name": "Turtles Can Fly",
+  "popularity": 0.09207666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0424227/img",
+  "released": "2005-02-23T00:00:00.000Z",
+  "runtime": "98 min",
+  "trailers": [
+   {
+    "source": "y6K2osE1NJo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Bahman Ghobadi"
+  ],
+  "year": "2004",
+  "popularities": {
+   "moviedb": 2.7623,
+   "stremio": 0.09207666666666667,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0424227/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0424227/img",
+  "slug": "movie/turtles-can-fly-0424227",
+  "id": "tt0424227",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "2004",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Turtles Can Fly",
+    "ytId": "y6K2osE1NJo"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0424227"
+   },
+   {
+    "name": "Turtles Can Fly",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/turtles-can-fly-0424227"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Soran Ebrahim",
+    "category": "Cast",
+    "url": "stremio:///search?search=Soran%20Ebrahim"
+   },
+   {
+    "name": "Avaz Latif",
+    "category": "Cast",
+    "url": "stremio:///search?search=Avaz%20Latif"
+   },
+   {
+    "name": "Saddam Hossein Feysal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Saddam%20Hossein%20Feysal"
+   },
+   {
+    "name": "Bahman Ghobadi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bahman%20Ghobadi"
+   },
+   {
+    "name": "Bahman Ghobadi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bahman%20Ghobadi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0424227",
+   "hasScheduledVideos": false
+  }
+ }
+}

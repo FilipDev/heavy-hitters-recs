@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt0371280",
+  "awards": "4 wins & 2 nominations",
+  "cast": [
+   "Hossain Emadeddin",
+   "Kamyar Sheisi",
+   "Azita Rayeji"
+  ],
+  "country": "Iran",
+  "description": "Captures class humiliation at the pace of a pizza delivery. A Tehran courier, slighted in a jewellery store he could never shop in, returns with a gun; written by Kiarostami from a real case, and the city itself does most of the accusing.\n\nAn Iranian pizza delivery man sees the worst of corruption and social unbalance in his city and is driven to crime.",
+  "director": [
+   "Jafar Panahi"
+  ],
+  "dvdRelease": "2007-03-01T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.4",
+  "name": "Crimson Gold",
+  "poster": "https://images.metahub.space/poster/small/tt0371280/img",
+  "released": "2003-09-12T00:00:00.000Z",
+  "runtime": "96 min",
+  "slug": "movie/crimson-gold-0371280",
+  "type": "movie",
+  "writer": [
+   "Abbas Kiarostami"
+  ],
+  "year": "2003",
+  "moviedb_id": 40427,
+  "popularities": {
+   "moviedb": 2.4565,
+   "stremio": 0.08188333333333334,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "SDADriMrEls",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0371280/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0371280/img",
+  "popularity": 0.08188333333333334,
+  "id": "tt0371280",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2003",
+  "trailerStreams": [
+   {
+    "title": "Crimson Gold",
+    "ytId": "SDADriMrEls"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0371280"
+   },
+   {
+    "name": "Crimson Gold",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/crimson-gold-0371280"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Hossain Emadeddin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hossain%20Emadeddin"
+   },
+   {
+    "name": "Kamyar Sheisi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kamyar%20Sheisi"
+   },
+   {
+    "name": "Azita Rayeji",
+    "category": "Cast",
+    "url": "stremio:///search?search=Azita%20Rayeji"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   },
+   {
+    "name": "Jafar Panahi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jafar%20Panahi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0371280",
+   "hasScheduledVideos": false
+  }
+ }
+}

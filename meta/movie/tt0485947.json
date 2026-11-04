@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "17 wins & 7 nominations total",
+  "cast": [
+   "Jared Leto",
+   "Sarah Polley",
+   "Diane Kruger"
+  ],
+  "country": "Belgium, Germany, Canada, France, United Kingdom, Luxembourg, United States",
+  "description": "Captures a life as the full tree of its branches. The last mortal human, aged 117, tells his biography and keeps contradicting himself, because every childhood coin-flip version happened; the film refuses to prune, and the unpruned version is the portrait.\n\nA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "director": [
+   "Jaco Van Dormael"
+  ],
+  "dvdRelease": "2014-11-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0485947",
+  "moviedb_id": 31011,
+  "name": "Mr. Nobody",
+  "popularity": 0.2927133333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0485947/img",
+  "released": "2013-09-26T00:00:00.000Z",
+  "runtime": "141 min",
+  "trailers": [
+   {
+    "source": "-GzJ1gA6Mg0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jaco Van Dormael"
+  ],
+  "year": "2009",
+  "background": "https://images.metahub.space/background/medium/tt0485947/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0485947/img",
+  "popularities": {
+   "moviedb": 8.7814,
+   "stremio": 0.2927133333333333,
+   "trakt": 5,
+   "stremio_lib": 0
+  },
+  "slug": "movie/mr-nobody-0485947",
+  "id": "tt0485947",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
+  "releaseInfo": "2009",
+  "trailerStreams": [
+   {
+    "title": "Mr. Nobody",
+    "ytId": "-GzJ1gA6Mg0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0485947"
+   },
+   {
+    "name": "Mr. Nobody",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/mr-nobody-0485947"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jared Leto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jared%20Leto"
+   },
+   {
+    "name": "Sarah Polley",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sarah%20Polley"
+   },
+   {
+    "name": "Diane Kruger",
+    "category": "Cast",
+    "url": "stremio:///search?search=Diane%20Kruger"
+   },
+   {
+    "name": "Jaco Van Dormael",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jaco%20Van%20Dormael"
+   },
+   {
+    "name": "Jaco Van Dormael",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jaco%20Van%20Dormael"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0485947",
+   "hasScheduledVideos": false
+  }
+ }
+}

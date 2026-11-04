@@ -1,0 +1,109 @@
+{
+ "meta": {
+  "awards": "2 wins & 1 nomination",
+  "cast": [
+   "Birgit Doll",
+   "Dieter Berner",
+   "Leni Tanzer"
+  ],
+  "country": "Austria",
+  "description": "Captures a family methodically un-existing. An Austrian household destroys its own life item by item — money flushed, fish tank smashed — in flat procedural detail, based on real cases. His first feature, and still maybe his most frightening.\n\nA European family who plan on escaping to Australia seem caught up in their daily routine, only troubled by minor incidents. However, behind their apparent calm and repetitive existence, they are actually planning something sinister.",
+  "director": [
+   "Michael Haneke"
+  ],
+  "dvdRelease": "2006-05-16T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0098327",
+  "moviedb_id": 32761,
+  "name": "The Seventh Continent",
+  "popularity": 0.09788666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0098327/img",
+  "released": "1992-10-09T00:00:00.000Z",
+  "runtime": "107 min",
+  "trailers": [
+   {
+    "source": "tD-D1IVV8F4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Haneke",
+   "Johanna Teicht"
+  ],
+  "year": "1989",
+  "popularities": {
+   "moviedb": 2.9366,
+   "stremio": 0.09788666666666666,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0098327/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0098327/img",
+  "slug": "movie/the-seventh-continent-0098327",
+  "id": "tt0098327",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1989",
+  "trailerStreams": [
+   {
+    "title": "The Seventh Continent",
+    "ytId": "tD-D1IVV8F4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0098327"
+   },
+   {
+    "name": "The Seventh Continent",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-seventh-continent-0098327"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Birgit Doll",
+    "category": "Cast",
+    "url": "stremio:///search?search=Birgit%20Doll"
+   },
+   {
+    "name": "Dieter Berner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dieter%20Berner"
+   },
+   {
+    "name": "Leni Tanzer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Leni%20Tanzer"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   },
+   {
+    "name": "Johanna Teicht",
+    "category": "Writers",
+    "url": "stremio:///search?search=Johanna%20Teicht"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0098327",
+   "hasScheduledVideos": false
+  }
+ }
+}
