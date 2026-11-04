@@ -1095,6 +1095,106 @@
    "runtime": "13 min",
    "director": "Don Hertzfeldt",
    "description": "Captures a blind date narrated by both daters at once, in split-screen stick figures, each privately misreading the other in real time. Thirteen minutes, made when he was barely out of film school, and the dual-internal-monologue structure is already fully his.\n\nA blind date ends in disaster."
+  },
+  {
+   "id": "tt19760052",
+   "type": "movie",
+   "name": "The Taste of Things",
+   "poster": "https://images.metahub.space/poster/medium/tt19760052/img",
+   "background": "https://images.metahub.space/background/medium/tt19760052/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "135 min",
+   "director": "Tran Anh Hung",
+   "description": "Captures a marriage conducted in a kitchen over twenty years. A cook and the gourmet who employs and adores her; the film is mostly the work itself — stocks, vol-au-vent, hands passing tools without looking. Love that works, shown as competence shared. From the director of The Scent of Green Papaya, at the opposite pole of life.\n\nThe story of Eugenie, an esteemed cook, and Dodin - the fine gourmet chef she has been working for over the last 20 years."
+  },
+  {
+   "id": "tt2350496",
+   "type": "movie",
+   "name": "The Lunchbox",
+   "poster": "https://images.metahub.space/poster/medium/tt2350496/img",
+   "background": "https://images.metahub.space/background/medium/tt2350496/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "104 min",
+   "director": "Ritesh Batra",
+   "description": "Captures a connection routed through Mumbai's dabbawala lunchbox system by a one-in-a-million delivery error. A lonely accountant receives the lunch a neglected wife cooked for her husband; notes ride back inside the empty tins. Contemporary ordinary life — offices, trains, ageing in the city — with food as the medium.\n\nA mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox."
+  },
+  {
+   "id": "tt16426418",
+   "type": "movie",
+   "name": "Challengers",
+   "poster": "https://images.metahub.space/poster/medium/tt16426418/img",
+   "background": "https://images.metahub.space/background/medium/tt16426418/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "131 min",
+   "director": "Luca Guadagnino",
+   "description": "Captures a tennis match as the only honest conversation three people can have. A wife, a husband and his ex-best friend, thirteen years of desire and ambition routed through one challenger final, the camera riding the ball. Bodies in motion, erotic and athletic at once — the contemporary register the list was missing.\n\nTashi, a former tennis prodigy-turned-coach, transformed her husband into a champion. But to overcome a recent losing streak and redeem himself, he'll need to face off against his former best friend--Tashi's ex-boyfriend."
+  },
+  {
+   "id": "tt0301357",
+   "type": "movie",
+   "name": "Good Bye, Lenin!",
+   "poster": "https://images.metahub.space/poster/medium/tt0301357/img",
+   "background": "https://images.metahub.space/background/medium/tt0301357/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "121 min",
+   "director": "Wolfgang Becker",
+   "description": "Captures a son rebuilding East Germany in his mother's bedroom because the truth would kill her. Forged news broadcasts, decanted pickles, a whole fake state maintained as an act of love. History in your collection is usually an indictment; here it's a forgery staged by tenderness.\n\nIn 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared."
+  },
+  {
+   "id": "tt8286894",
+   "type": "movie",
+   "name": "Rafiki",
+   "poster": "https://images.metahub.space/poster/medium/tt8286894/img",
+   "background": "https://images.metahub.space/background/medium/tt8286894/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "83 min",
+   "director": "Wanuri Kahiu",
+   "description": "Captures two Nairobi girls — daughters of rival politicians — falling in love in saturated colour, in a country that banned the film for exactly that. Love that works as an act of local defiance; the palette alone is an argument that joy is a register, not an escape.\n\n\"Good Kenyan girls become good Kenyan wives,\" but Kena and Ziki long for something more. When love blossoms between them, the two girls will be forced to choose between happiness and safety."
+  },
+  {
+   "id": "tt2425486",
+   "type": "movie",
+   "name": "Gloria",
+   "poster": "https://images.metahub.space/poster/medium/tt2425486/img",
+   "background": "https://images.metahub.space/background/medium/tt2425486/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "110 min",
+   "director": "Sebastián Lelio",
+   "description": "Captures a 58-year-old divorcée in Santiago going dancing, falling into a messy affair, and refusing to shrink. Old-er age as appetite — discos, road trips, a paintball gun used with feeling. Paulina García holds every frame; the ending is a woman dancing alone because she wants to.\n\nA story set in Santiago and centered on Gloria, a free-spirited older woman, and the realities of her whirlwind relationship with a former naval officer whom she meets out in the clubs."
   }
  ]
 }

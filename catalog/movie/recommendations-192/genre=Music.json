@@ -296,6 +296,72 @@
    "runtime": "230 min",
    "director": "Theodoros Angelopoulos",
    "description": "Captures a nation's history carried by the people paid to keep entertaining it. Angelopoulos follows a folk theatre troupe performing the same pastoral play across Greece from 1939 to 1952, and in vast single takes, occupation, civil war and executions slide past mid-scene.\n\nGreece, 1939-1952: Fascist, Nazi, and Communist conflict, as seen through the eyes of a family of travelling provincial players."
+  },
+  {
+   "id": "tt0907657",
+   "type": "movie",
+   "name": "Once",
+   "poster": "https://images.metahub.space/poster/medium/tt0907657/img",
+   "background": "https://images.metahub.space/background/medium/tt0907657/img",
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "86 min",
+   "director": "John Carney",
+   "description": "Captures two musicians in Dublin falling into perfect collaboration and declining, kindly, to wreck their lives with it. A busker and a Czech pianist make an album in a week; the love is real, expressed entirely as music, and the ending honours everyone including the people not in the room. Shot on a camcorder for almost nothing.\n\nA modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story."
+  },
+  {
+   "id": "tt0249462",
+   "type": "movie",
+   "name": "Billy Elliot",
+   "poster": "https://images.metahub.space/poster/medium/tt0249462/img",
+   "background": "https://images.metahub.space/background/medium/tt0249462/img",
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "110 min",
+   "director": "Stephen Daldry",
+   "description": "Captures a miner's son whose body insists on ballet during the strike that is crushing his father. The body in health, at last: dancing as the one articulate thing in a house of men who can't talk. And the father's thaw — pride arriving through sacrifice he never announces — is the reconciliation your list usually withholds.\n\nA talented young boy becomes torn between his unexpected love of dance and the disintegration of his family."
+  },
+  {
+   "id": "tt0088258",
+   "type": "movie",
+   "name": "This Is Spinal Tap",
+   "poster": "https://images.metahub.space/poster/medium/tt0088258/img",
+   "background": "https://images.metahub.space/background/medium/tt0088258/img",
+   "genres": [
+    "Comedy",
+    "Music",
+    "Satire"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "82 min",
+   "director": "Rob Reiner",
+   "description": "Captures a metal band's decline documented with total, lethal courtesy. Your collection holds exactly one film tagged Satire; this is the second, and it's also the music-industry film — amps to eleven, drummers expiring, a Stonehenge set built to the wrong unit. The mockumentary as a transducer problem: every interview projects a band that no longer exists.\n\nSpinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour."
+  },
+  {
+   "id": "tt1032856",
+   "type": "movie",
+   "name": "The Band's Visit",
+   "poster": "https://images.metahub.space/poster/medium/tt1032856/img",
+   "background": "https://images.metahub.space/background/medium/tt1032856/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "87 min",
+   "director": "Eran Kolirin",
+   "description": "Captures an Egyptian police orchestra stranded for one night in the wrong Israeli town, and enmity dissolving into dinner, small talk and a roller rink. Reconciliation without a summit — just people feeding their assigned enemies. The quietest film here, and the one where music does diplomacy's job.\n\nA band comprised of members of the Egyptian police force head to Israel to play at the inaugural ceremony of an Arab arts center, only to find themselves lost in the wrong town."
   }
  ]
 }

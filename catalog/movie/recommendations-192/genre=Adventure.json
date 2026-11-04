@@ -668,6 +668,40 @@
    "runtime": "100 min",
    "director": "Pete Docter, Kemp Powers",
    "description": "Captures a jazz pianist who dies on the day of his break and has to argue his way out of the afterlife's intake office. The Great Before assigns personalities like case files; Joe's file keeps insisting the meaning was in the ordinary takes. Pixar's most explicit film about what a life is for, hidden inside its most musical one.\n\nJoe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz. But when he travels to another realm to help someone find their passion, he soon discovers what it means to have soul."
+  },
+  {
+   "id": "tt0096283",
+   "type": "movie",
+   "name": "My Neighbor Totoro",
+   "poster": "https://images.metahub.space/poster/medium/tt0096283/img",
+   "background": "https://images.metahub.space/background/medium/tt0096283/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "86 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures childhood before it learns to be endangered: two sisters new to the countryside, a mother in hospital kept almost off-screen, and the forest spirits who treat worry as weather. The children's happiness here is not ignorance — it's a skill the film takes seriously.\n\nWhen two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby."
+  },
+  {
+   "id": "tt0129167",
+   "type": "movie",
+   "name": "The Iron Giant",
+   "poster": "https://images.metahub.space/poster/medium/tt0129167/img",
+   "background": "https://images.metahub.space/background/medium/tt0129167/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "86 min",
+   "director": "Brad Bird",
+   "description": "Captures a boy teaching a fifty-foot weapon that it can choose what it is. Cold War Maine, a beatnik sculptor, a government man terrified of the unknown — and the Giant learning the word for what he refuses to be. Friendship between unequals where the smaller one does the moral teaching; “you are who you choose to be” earned, not printed.\n\nA young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy."
   }
  ]
 }

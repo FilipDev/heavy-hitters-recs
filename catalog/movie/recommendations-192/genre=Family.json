@@ -186,6 +186,39 @@
    "runtime": "80 min",
    "director": "Michael Dudok de Wit",
    "description": "Captures a castaway's whole life on one island, without a word of dialogue. A man, a giant red turtle that keeps wrecking his rafts, and then a transformation the film simply places before you like weather. Ghibli co-produced; the water is drawn the way Parajanov drew cloth.\n\nA man is shipwrecked on a deserted island and encounters a big red turtle, which changes his life."
+  },
+  {
+   "id": "tt0298228",
+   "type": "movie",
+   "name": "Whale Rider",
+   "poster": "https://images.metahub.space/poster/medium/tt0298228/img",
+   "background": "https://images.metahub.space/background/medium/tt0298228/img",
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "101 min",
+   "director": "Niki Caro",
+   "description": "Captures a Māori girl certain she is the chief her grandfather is waiting for a boy to be. Tradition as both wound and vehicle; the reconciliation, when it comes, arrives by whale. Oceania and Indigenous belonging, carried by a twelve-year-old's total lack of doubt.\n\nA contemporary story of love, rejection and triumph as a young Maori girl fights to fulfill a destiny her grandfather refuses to recognize."
+  },
+  {
+   "id": "tt0097814",
+   "type": "movie",
+   "name": "Kiki's Delivery Service",
+   "poster": "https://images.metahub.space/poster/medium/tt0097814/img",
+   "background": "https://images.metahub.space/background/medium/tt0097814/img",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "releaseInfo": "1989",
+   "year": 1989,
+   "runtime": "103 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures a thirteen-year-old witch founding a delivery business in a seaside town, and competence arriving in stages: first flights, first customers, a slump where the gift itself fails. Work as dignity, kindness of strangers as infrastructure.\n\nAlong with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ..."
   }
  ]
 }

@@ -862,6 +862,39 @@
    "runtime": "579 min",
    "director": "Masaki Kobayashi",
    "description": "Captures a pacifist being processed by an empire. Nine and a half hours, three films: a humanist supervisor in a Manchurian labour camp tries to stay decent inside a system engineered to make decency indistinguishable from complicity. The marathon as moral instrument.\n\nA Japanese pacifist, unable to face the dire consequences of conscientious objection, is transformed by his attempts to compromise with the demands of war-time Japan."
+  },
+  {
+   "id": "tt19760052",
+   "type": "movie",
+   "name": "The Taste of Things",
+   "poster": "https://images.metahub.space/poster/medium/tt19760052/img",
+   "background": "https://images.metahub.space/background/medium/tt19760052/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "135 min",
+   "director": "Tran Anh Hung",
+   "description": "Captures a marriage conducted in a kitchen over twenty years. A cook and the gourmet who employs and adores her; the film is mostly the work itself — stocks, vol-au-vent, hands passing tools without looking. Love that works, shown as competence shared. From the director of The Scent of Green Papaya, at the opposite pole of life.\n\nThe story of Eugenie, an esteemed cook, and Dodin - the fine gourmet chef she has been working for over the last 20 years."
+  },
+  {
+   "id": "tt1588337",
+   "type": "movie",
+   "name": "Of Gods and Men",
+   "poster": "https://images.metahub.space/poster/medium/tt1588337/img",
+   "background": "https://images.metahub.space/background/medium/tt1588337/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "122 min",
+   "director": "Xavier Beauvois",
+   "description": "Captures a monastery of French monks in Algeria deciding, by discussion and by choir, whether to stay with the village that depends on them as the violence closes in. Faith as belonging tested at the highest price — and the belonging is shown first: meals, medicine, a birthday, one bottle of wine and a tape of Swan Lake.\n\nUnder threat by fundamentalist terrorists, a group of Trappist monks stationed with an impoverished Algerian community must decide whether to leave or stay."
   }
  ]
 }

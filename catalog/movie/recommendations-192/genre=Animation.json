@@ -822,6 +822,57 @@
    "runtime": "22 min",
    "director": "Don Hertzfeldt",
    "description": "Captures a musical about a self absorbing everything it touches, in twenty-two nearly wordless minutes. His newest: a round character rolls through a hand-drawn world converting people, places and finally the film itself into more of himself. After thirty years of drawing other people's inner lives, this is the one about the ego as a closed system — a transducer with the output looped to the input.\n\nA musical odyssey about generational trauma and the retreat of humanity into itself."
+  },
+  {
+   "id": "tt0097814",
+   "type": "movie",
+   "name": "Kiki's Delivery Service",
+   "poster": "https://images.metahub.space/poster/medium/tt0097814/img",
+   "background": "https://images.metahub.space/background/medium/tt0097814/img",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "releaseInfo": "1989",
+   "year": 1989,
+   "runtime": "103 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures a thirteen-year-old witch founding a delivery business in a seaside town, and competence arriving in stages: first flights, first customers, a slump where the gift itself fails. Work as dignity, kindness of strangers as infrastructure.\n\nAlong with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ..."
+  },
+  {
+   "id": "tt0096283",
+   "type": "movie",
+   "name": "My Neighbor Totoro",
+   "poster": "https://images.metahub.space/poster/medium/tt0096283/img",
+   "background": "https://images.metahub.space/background/medium/tt0096283/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "86 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures childhood before it learns to be endangered: two sisters new to the countryside, a mother in hospital kept almost off-screen, and the forest spirits who treat worry as weather. The children's happiness here is not ignorance — it's a skill the film takes seriously.\n\nWhen two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby."
+  },
+  {
+   "id": "tt0129167",
+   "type": "movie",
+   "name": "The Iron Giant",
+   "poster": "https://images.metahub.space/poster/medium/tt0129167/img",
+   "background": "https://images.metahub.space/background/medium/tt0129167/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "86 min",
+   "director": "Brad Bird",
+   "description": "Captures a boy teaching a fifty-foot weapon that it can choose what it is. Cold War Maine, a beatnik sculptor, a government man terrified of the unknown — and the Giant learning the word for what he refuses to be. Friendship between unequals where the smaller one does the moral teaching; “you are who you choose to be” earned, not printed.\n\nA young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy."
   }
  ]
 }

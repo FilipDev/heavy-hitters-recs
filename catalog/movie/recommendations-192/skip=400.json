@@ -1599,6 +1599,38 @@
    "runtime": "22 min",
    "director": "Don Hertzfeldt",
    "description": "Captures a musical about a self absorbing everything it touches, in twenty-two nearly wordless minutes. His newest: a round character rolls through a hand-drawn world converting people, places and finally the film itself into more of himself. After thirty years of drawing other people's inner lives, this is the one about the ego as a closed system — a transducer with the output looped to the input.\n\nA musical odyssey about generational trauma and the retreat of humanity into itself."
+  },
+  {
+   "id": "tt0092603",
+   "type": "movie",
+   "name": "Babette's Feast",
+   "poster": "https://images.metahub.space/poster/medium/tt0092603/img",
+   "background": "https://images.metahub.space/background/medium/tt0092603/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1987",
+   "year": 1987,
+   "runtime": "103 min",
+   "director": "Gabriel Axel",
+   "description": "Captures grace arriving as a dinner. Two austere Danish sisters who have refused every pleasure take in a refugee cook; her one act of revenge against a life of plain food is a full Parisian feast for the sect that saved her. Faith as belonging, food as love language, and an ending where nobody is punished for enjoying themselves.\n\nDuring the late 19th century, a strict religious community in a Danish village takes in a French refugee from the Franco-Prussian War as a servant to the late pastor's daughters."
+  },
+  {
+   "id": "tt19760052",
+   "type": "movie",
+   "name": "The Taste of Things",
+   "poster": "https://images.metahub.space/poster/medium/tt19760052/img",
+   "background": "https://images.metahub.space/background/medium/tt19760052/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "135 min",
+   "director": "Tran Anh Hung",
+   "description": "Captures a marriage conducted in a kitchen over twenty years. A cook and the gourmet who employs and adores her; the film is mostly the work itself — stocks, vol-au-vent, hands passing tools without looking. Love that works, shown as competence shared. From the director of The Scent of Green Papaya, at the opposite pole of life.\n\nThe story of Eugenie, an esteemed cook, and Dodin - the fine gourmet chef she has been working for over the last 20 years."
   }
  ]
 }

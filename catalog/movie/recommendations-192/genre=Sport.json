@@ -163,6 +163,23 @@
    "runtime": "130 min",
    "director": "Asif Kapadia",
    "description": "Captures fame as a hostage situation where the hostage keeps scoring goals. Kapadia builds Maradona's Naples years entirely from archive: adored as a god, pulled into the Camorra's orbit, collapsing under a worship no person could survive.\n\nConstructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Maradona, who played for S.S.C. Napoli in the 1980s."
+  },
+  {
+   "id": "tt1210166",
+   "type": "movie",
+   "name": "Moneyball",
+   "poster": "https://images.metahub.space/poster/medium/tt1210166/img",
+   "background": "https://images.metahub.space/background/medium/tt1210166/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "133 min",
+   "director": "Bennett Miller",
+   "description": "Captures competence itself as drama: a general manager and a Yale economist re-deriving baseball from its statistics while the entire sport's intuition laughs at them. The closest film on this list to your actual profession — observed numbers versus inherited scouting folklore, and the numbers are the love story.\n\nOakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players."
   }
  ]
 }

@@ -845,6 +845,23 @@
    "runtime": "133 min",
    "director": "Víctor Erice",
    "description": "Captures a painter racing light he knows he'll lose. Antonio López sets up his easel before a quince tree each autumn day, marking the fruit's fall with threads and plumb lines while the radio murmurs the world; a film about trying to fix an observable that changes by the hour. Process cinema at its most patient.\n\nThe artist Antonio López tries to capture the sunlight hitting his quince tree all autumn, but the struggle seems futile."
+  },
+  {
+   "id": "tt1210166",
+   "type": "movie",
+   "name": "Moneyball",
+   "poster": "https://images.metahub.space/poster/medium/tt1210166/img",
+   "background": "https://images.metahub.space/background/medium/tt1210166/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "133 min",
+   "director": "Bennett Miller",
+   "description": "Captures competence itself as drama: a general manager and a Yale economist re-deriving baseball from its statistics while the entire sport's intuition laughs at them. The closest film on this list to your actual profession — observed numbers versus inherited scouting folklore, and the numbers are the love story.\n\nOakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players."
   }
  ]
 }

@@ -593,6 +593,56 @@
    "runtime": "9 min",
    "director": "Don Hertzfeldt",
    "description": "Captures an animator's commissioned ad cartoons being rejected one by one as they — and he — visibly fall apart. It starts with a banana announcing \"my spoon is too big\" and ends with the paper universe collapsing, blood pooling in the margins. Oscar-nominated, quoted for a quarter century, and it still feels unstable.\n\nIn the spring of 1999, the Family Learning Channel commissioned animator Don Hertzfeldt to produce promotional segments for their network. The cartoons were completed in five weeks. The Family Learning Channel rejected all of them upon review, and they were never aired..."
+  },
+  {
+   "id": "tt0165078",
+   "type": "movie",
+   "name": "After Life",
+   "poster": "https://images.metahub.space/poster/medium/tt0165078/img",
+   "background": "https://images.metahub.space/background/medium/tt0165078/img",
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "119 min",
+   "director": "Hirokazu Koreeda",
+   "description": "Captures the dead choosing one memory to keep forever, processed by a calm office of caseworkers who stage and film each chosen moment. People pick afternoons, a breeze, a childhood shame redeemed. Your memory-and-projection interests in their gentlest possible form — the afterlife as an archive with a production department.\n\nAfter death, people have a week to choose only one memory to keep for eternity."
+  },
+  {
+   "id": "tt0269587",
+   "type": "movie",
+   "name": "Mysterious Object at Noon",
+   "poster": "https://images.metahub.space/poster/medium/tt0269587/img",
+   "background": "https://images.metahub.space/background/medium/tt0269587/img",
+   "genres": [
+    "Documentary",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "89 min",
+   "director": "Apichatpong Weerasethakul",
+   "description": "Captures a story built by handing it from stranger to stranger across Thailand: a teacher, a boxer, market sellers each continue a tale about a boy and a mysterious object, and Apichatpong films their additions as fact. Storytelling as a chain of transducers, each adding loss and invention — your framework run as a parlour game in 16mm black and white.\n\nA camera crew travels through Thailand asking villagers to invent the next chapter of an ever-growing story."
+  },
+  {
+   "id": "tt0097814",
+   "type": "movie",
+   "name": "Kiki's Delivery Service",
+   "poster": "https://images.metahub.space/poster/medium/tt0097814/img",
+   "background": "https://images.metahub.space/background/medium/tt0097814/img",
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "releaseInfo": "1989",
+   "year": 1989,
+   "runtime": "103 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures a thirteen-year-old witch founding a delivery business in a seaside town, and competence arriving in stages: first flights, first customers, a slump where the gift itself fails. Work as dignity, kindness of strangers as infrastructure.\n\nAlong with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ..."
   }
  ]
 }
