@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "imdb_id": "tt9028522",
+  "cast": [
+   "Alfredo Castro",
+   "Lola Rubio",
+   "Lars Rudolph"
+  ],
+  "country": "Spain, Chile, France, Germany",
+  "description": "Captures the camera arriving with the genocide. A photographer in Tierra del Fuego takes portraits of the landowners erasing the Selk'nam people, and his professional detachment becomes the film's slow horror — the complicit lens, in period dress.\n\nA wedding photographer becomes overly intrigued by a young bride-to-be.",
+  "director": [
+   "Théo Court"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "6.1",
+  "name": "White on White",
+  "released": "2021-06-30T00:00:00.000Z",
+  "runtime": "100 min",
+  "slug": "movie/white-on-white-9028522",
+  "type": "movie",
+  "writer": [
+   "Théo Court",
+   "Samuel M. Delgado"
+  ],
+  "year": "2019",
+  "moviedb_id": 618225,
+  "popularities": {
+   "moviedb": 1.1337,
+   "stremio": 0.03779,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "iWY58Cz-9Rg",
+    "type": "Trailer"
+   }
+  ],
+  "awards": "14 wins & 11 nominations",
+  "poster": "https://images.metahub.space/poster/small/tt9028522/img",
+  "background": "https://images.metahub.space/background/medium/tt9028522/img",
+  "logo": "https://images.metahub.space/logo/medium/tt9028522/img",
+  "popularity": 0.03779,
+  "id": "tt9028522",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "White on White",
+    "ytId": "iWY58Cz-9Rg"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt9028522"
+   },
+   {
+    "name": "White on White",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/white-on-white-9028522"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Alfredo Castro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alfredo%20Castro"
+   },
+   {
+    "name": "Lola Rubio",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lola%20Rubio"
+   },
+   {
+    "name": "Lars Rudolph",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lars%20Rudolph"
+   },
+   {
+    "name": "Théo Court",
+    "category": "Writers",
+    "url": "stremio:///search?search=Th%C3%A9o%20Court"
+   },
+   {
+    "name": "Samuel M. Delgado",
+    "category": "Writers",
+    "url": "stremio:///search?search=Samuel%20M.%20Delgado"
+   },
+   {
+    "name": "Théo Court",
+    "category": "Directors",
+    "url": "stremio:///search?search=Th%C3%A9o%20Court"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt9028522",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "meta": {
+  "id": "tt6677224",
+  "imdb_id": "tt6677224",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt6677224/img",
+  "logo": "https://live.metahub.space/logo/medium/tt6677224/img",
+  "background": "https://live.metahub.space/background/medium/tt6677224/img",
+  "moviedb_id": 206647,
+  "name": "Histoire(s) du cinéma",
+  "description": "Captures one man spending a decade re-editing the entire century of cinema inside his own head. Eight parts of layered clips, paintings, text and whispered commentary: film history as a projection apparatus that showed everything and recognised almost nothing — your framework again, but as autobiography. The monument to close on; take it in parts, the way it was made.\n\nA cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Thriller"
+  ],
+  "releaseInfo": "1988",
+  "runtime": "267 min",
+  "trailers": [
+   {
+    "source": "z4UDNzXD3qA",
+    "type": "Trailer"
+   },
+   {
+    "source": "ujmoYyEyDP8",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Daniel Craig",
+   "Christoph Waltz",
+   "Léa Seydoux"
+  ],
+  "credits_cast": [
+   {
+    "character": "James Bond",
+    "name": "Daniel Craig",
+    "profile_path": "/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg",
+    "id": 8784
+   },
+   {
+    "character": "Blofeld",
+    "name": "Christoph Waltz",
+    "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg",
+    "id": 27319
+   },
+   {
+    "character": "Madeleine",
+    "name": "Léa Seydoux",
+    "profile_path": "/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg",
+    "id": 121529
+   },
+   {
+    "character": "M",
+    "name": "Ralph Fiennes",
+    "profile_path": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg",
+    "id": 5469
+   },
+   {
+    "character": "Lucia",
+    "name": "Monica Bellucci",
+    "profile_path": "/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg",
+    "id": 28782
+   },
+   {
+    "character": "Q",
+    "name": "Ben Whishaw",
+    "profile_path": "/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg",
+    "id": 17064
+   },
+   {
+    "character": "Moneypenny",
+    "name": "Naomie Harris",
+    "profile_path": "/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg",
+    "id": 2038
+   },
+   {
+    "character": "Hinx",
+    "name": "Dave Bautista",
+    "profile_path": "/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg",
+    "id": 543530
+   },
+   {
+    "character": "C",
+    "name": "Andrew Scott",
+    "profile_path": "/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg",
+    "id": 125660
+   },
+   {
+    "character": "Tanner",
+    "name": "Rory Kinnear",
+    "profile_path": "/8aEABMeHXOozwE5DrMxUlCM9mpG.jpg",
+    "id": 139549
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Michael G. Wilson",
+    "profile_path": "/zcf7J90ubDxrm9D113D5b59KWAp.jpg",
+    "id": 69678
+   },
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Sam Mendes",
+    "profile_path": "/5z89X9rB76JDblqMQ52fviwXxAN.jpg",
+    "id": 39
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "John Logan",
+    "profile_path": "/vmbTV6vbI5wyDlZL7bneC6QhDCb.jpg",
+    "id": 932
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Barbara Broccoli",
+    "profile_path": "/7oUgYeor3T4TD8JbxWg1aYnEybG.jpg",
+    "id": 10666
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Jez Butterworth",
+    "profile_path": "/fCdknBtQMVoIEW0VfKiL2yMZqgW.jpg",
+    "id": 21339
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Robert Wade",
+    "profile_path": "/8HmRapJQ3D1IthZkqOiw4uoaRKe.jpg",
+    "id": 10783
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Neal Purvis",
+    "profile_path": "/54vvvnfFnb8s6VKJmJGsW7gpkFJ.jpg",
+    "id": 10782
+   }
+  ],
+  "director": [
+   "Sam Mendes"
+  ],
+  "imdbRating": "7.2",
+  "language": "French",
+  "country": "France, Switzerland",
+  "awards": "1 nomination total",
+  "slug": "movie/spectre-6677224",
+  "behaviorHints": {
+   "defaultVideoId": "tt6677224",
+   "hasScheduledVideos": false
+  },
+  "year": "1988"
+ }
+}

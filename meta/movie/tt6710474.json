@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "imdb_id": "tt6710474",
+  "name": "Everything Everywhere All at Once",
+  "cast": [
+   "Michelle Yeoh",
+   "Stephanie Hsu",
+   "Jamie Lee Curtis"
+  ],
+  "country": "United States",
+  "description": "Captures a multiverse used as a family argument. A laundromat owner audits her failed lives across universes — chef, starlet, rock, sausage-fingered pianist — and the loudest sci-fi machinery of the decade is aimed at a tax audit and a daughter. Absent from your 363; its absence was a gap, not a judgement.\n\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+  "director": [
+   "Daniel Kwan",
+   "Daniel Scheinert"
+  ],
+  "genre": [
+   "Action",
+   "Adventure",
+   "Comedy"
+  ],
+  "imdbRating": "7.7",
+  "poster": "https://images.metahub.space/poster/small/tt6710474/img",
+  "released": "2022-04-08T00:00:00.000Z",
+  "slug": "movie/everything-everywhere-all-at-once-6710474",
+  "type": "movie",
+  "writer": [
+   "Daniel Kwan",
+   "Daniel Scheinert"
+  ],
+  "year": "2022",
+  "moviedb_id": 545611,
+  "popularities": {
+   "moviedb": 22.102,
+   "stremio": 0.7367333333333334,
+   "stremio_lib": 0,
+   "trakt": 321
+  },
+  "trailers": [
+   {
+    "source": "wxN1T1uxQ2g",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt6710474/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6710474/img",
+  "runtime": "140 min",
+  "awards": "Won 7 Oscars. 408 wins & 382 nominations total",
+  "dvdRelease": "2022-06-07T00:00:00.000Z",
+  "popularity": 0.7367333333333334,
+  "id": "tt6710474",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Everything Everywhere All at Once",
+    "ytId": "wxN1T1uxQ2g"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6710474"
+   },
+   {
+    "name": "Everything Everywhere All at Once",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/everything-everywhere-all-at-once-6710474"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Michelle Yeoh",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michelle%20Yeoh"
+   },
+   {
+    "name": "Stephanie Hsu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stephanie%20Hsu"
+   },
+   {
+    "name": "Jamie Lee Curtis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jamie%20Lee%20Curtis"
+   },
+   {
+    "name": "Daniel Kwan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Daniel%20Kwan"
+   },
+   {
+    "name": "Daniel Scheinert",
+    "category": "Writers",
+    "url": "stremio:///search?search=Daniel%20Scheinert"
+   },
+   {
+    "name": "Daniel Kwan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Daniel%20Kwan"
+   },
+   {
+    "name": "Daniel Scheinert",
+    "category": "Directors",
+    "url": "stremio:///search?search=Daniel%20Scheinert"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6710474",
+   "hasScheduledVideos": false
+  }
+ }
+}

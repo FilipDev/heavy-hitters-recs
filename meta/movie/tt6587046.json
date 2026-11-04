@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "imdb_id": "tt6587046",
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "name": "The Boy and the Heron",
+  "released": "2023-12-08T00:00:00.000Z",
+  "slug": "movie/the-boy-and-the-heron-6587046",
+  "type": "movie",
+  "year": "2023",
+  "popularities": {
+   "stremio": 0.49274,
+   "stremio_lib": 0,
+   "moviedb": 14.7822,
+   "trakt": 2
+  },
+  "moviedb_id": 508883,
+  "trailers": [
+   {
+    "source": "A002-b7IH2M",
+    "type": "Trailer"
+   },
+   {
+    "source": "t5khm-VjEu4",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Soma Santoki",
+   "Masaki Suda",
+   "Kô Shibasaki"
+  ],
+  "director": [
+   "Hayao Miyazaki"
+  ],
+  "writer": [
+   "Hayao Miyazaki"
+  ],
+  "poster": "https://images.metahub.space/poster/small/tt6587046/img",
+  "country": "Japan",
+  "description": "Captures a boy following a grey heron into a tower where time pools and the dead curate worlds. Miyazaki's most autobiographical film is also his strangest: warplanes, pelicans, parakeets with knives, and a grand-uncle maintaining a stack of blocks that is either the universe or a career.\n\nIn the wake of his mother's death and his father's remarriage, a headstrong boy ventures into a dreamlike world shared by the living and the dead in search of his missing stepmother.",
+  "runtime": "124 min",
+  "background": "https://images.metahub.space/background/medium/tt6587046/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6587046/img",
+  "awards": "Won 1 Oscar. 34 wins & 87 nominations total",
+  "popularity": 0.49274,
+  "id": "tt6587046",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "2023",
+  "trailerStreams": [
+   {
+    "title": "The Boy and the Heron",
+    "ytId": "A002-b7IH2M"
+   },
+   {
+    "title": "The Boy and the Heron",
+    "ytId": "t5khm-VjEu4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6587046"
+   },
+   {
+    "name": "The Boy and the Heron",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-boy-and-the-heron-6587046"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Soma Santoki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Soma%20Santoki"
+   },
+   {
+    "name": "Masaki Suda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Masaki%20Suda"
+   },
+   {
+    "name": "Kô Shibasaki",
+    "category": "Cast",
+    "url": "stremio:///search?search=K%C3%B4%20Shibasaki"
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hayao%20Miyazaki"
+   },
+   {
+    "name": "Hayao Miyazaki",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hayao%20Miyazaki"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6587046",
+   "hasScheduledVideos": false
+  }
+ }
+}

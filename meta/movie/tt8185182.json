@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "imdb_id": "tt8185182",
+  "name": "Long Day's Journey into Night",
+  "cast": [
+   "Wei Tang",
+   "Jue Huang",
+   "Sylvia Chang"
+  ],
+  "country": "China, France",
+  "description": "Captures a noir that dissolves into the dream it was always having. A man returns to Kaili hunting a woman from twenty years ago; the final hour is one unbroken take inside a dream, in 3D in cinemas — the rare film where you can feel it cross over.\n\nA man went back to Guizhou, found the tracks of a mysterious woman. He recalls the summer he spent with her twenty years ago.",
+  "director": [
+   "Bi Gan"
+  ],
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "imdbRating": "7.1",
+  "poster": "https://images.metahub.space/poster/small/tt8185182/img",
+  "released": "2018-12-31T00:00:00.000Z",
+  "runtime": "138 min",
+  "slug": "movie/long-days-journey-into-night-8185182",
+  "type": "movie",
+  "writer": [
+   "Bi Gan"
+  ],
+  "year": "2018",
+  "moviedb_id": 486898,
+  "popularities": {
+   "moviedb": 3.9263,
+   "stremio": 0.13087666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "0yPt3kQzxa8",
+    "type": "Trailer"
+   },
+   {
+    "source": "bt17gaBPIbM",
+    "type": "Trailer"
+   }
+  ],
+  "awards": "17 wins & 44 nominations total",
+  "dvdRelease": "2019-11-05T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt8185182/img",
+  "logo": "https://images.metahub.space/logo/medium/tt8185182/img",
+  "popularity": 0.13087666666666667,
+  "id": "tt8185182",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Long Day's Journey Into Night",
+    "ytId": "0yPt3kQzxa8"
+   },
+   {
+    "title": "Long Day's Journey Into Night",
+    "ytId": "bt17gaBPIbM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt8185182"
+   },
+   {
+    "name": "Long Day's Journey Into Night",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/long-days-journey-into-night-8185182"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Wei Tang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Wei%20Tang"
+   },
+   {
+    "name": "Jue Huang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jue%20Huang"
+   },
+   {
+    "name": "Sylvia Chang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sylvia%20Chang"
+   },
+   {
+    "name": "Bi Gan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bi%20Gan"
+   },
+   {
+    "name": "Bi Gan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bi%20Gan"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt8185182",
+   "hasScheduledVideos": false
+  }
+ }
+}

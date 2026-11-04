@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "imdb_id": "tt6634646",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fhalecountythismorningthisevening_210663%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.520/ImageRenderer/111/168/images/no_image_111x168.jpg/210663/images/masterrepository/fandango/210663/halecountythismorningthisevening2018.jpg\" alt=\"Hale County This Morning, This Evening\" title=\"Hale County This Morning, This Evening\" border=\"0\" /></a> </p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fhalecountythismorningthisevening_210663%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fhalecountythismorningthisevening-trailer%2f210663%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fhalecountythismorningthisevening_210663%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.520//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fhalecountythismorningthisevening_210663%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "name": "Hale County This Morning, This Evening",
+  "awards": "Nominated for 1 Oscar. 16 wins & 21 nominations total",
+  "country": "United States",
+  "description": "Captures a place through accumulated glances instead of a story. Alabama's Black Belt in fragments — a toddler's run down a hallway, a basketball game, a solar eclipse — edited like memory actually works.\n\nA kaleidoscopic and humanistic view of the Black community in Hale County, Alabama.",
+  "director": [
+   "RaMell Ross"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.4",
+  "released": "2018-09-14T00:00:00.000Z",
+  "runtime": "76 min",
+  "slug": "movie/hale-county-this-morning-this-evening-6634646",
+  "type": "movie",
+  "writer": [
+   "Maya Krinsky",
+   "RaMell Ross"
+  ],
+  "year": "2018",
+  "moviedb_id": 490785,
+  "popularities": {
+   "moviedb": 1.4237,
+   "stremio": 0.04745666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "DlOeSyl-zZk",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Latrenda &apos;Boosie&apos; Ash",
+   "Karmyn Bryant",
+   "Korbyn Bryant"
+  ],
+  "poster": "https://images.metahub.space/poster/small/tt6634646/img",
+  "dvdRelease": "2019-02-19T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt6634646/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6634646/img",
+  "popularity": 0.04745666666666667,
+  "id": "tt6634646",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Hale County This Morning, This Evening",
+    "ytId": "DlOeSyl-zZk"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6634646"
+   },
+   {
+    "name": "Hale County This Morning, This Evening",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/hale-county-this-morning-this-evening-6634646"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Latrenda &apos;Boosie&apos; Ash",
+    "category": "Cast",
+    "url": "stremio:///search?search=Latrenda%20%26apos%3BBoosie%26apos%3B%20Ash"
+   },
+   {
+    "name": "Karmyn Bryant",
+    "category": "Cast",
+    "url": "stremio:///search?search=Karmyn%20Bryant"
+   },
+   {
+    "name": "Korbyn Bryant",
+    "category": "Cast",
+    "url": "stremio:///search?search=Korbyn%20Bryant"
+   },
+   {
+    "name": "Maya Krinsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Maya%20Krinsky"
+   },
+   {
+    "name": "RaMell Ross",
+    "category": "Writers",
+    "url": "stremio:///search?search=RaMell%20Ross"
+   },
+   {
+    "name": "RaMell Ross",
+    "category": "Directors",
+    "url": "stremio:///search?search=RaMell%20Ross"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6634646",
+   "hasScheduledVideos": false
+  }
+ }
+}

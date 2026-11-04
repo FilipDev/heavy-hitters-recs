@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt9847360",
+  "name": "A Glitch in the Matrix",
+  "popularities": {
+   "trakt": 3,
+   "moviedb": 1.5421,
+   "stremio": 0.051403333333333336,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "cast": [
+   "Nick Bostrom",
+   "Joshua Cooke",
+   "Erik Davis"
+  ],
+  "country": "United States",
+  "description": "Captures simulation theory as a belief system with adherents, not a thought experiment. Speakers testify through digital avatars — itself the film's best argument — while clips and Philip K. Dick's 1977 \"I am speaking to you from a replica\" speech do the rest. Your inversion framework, wearing a headset.\n\nDocumentary filmmaker Rodney Ascher tackles the question \"are we living in a simulation?\" with testimony, philosophical evidence and scientific explanation in his quest for the answer.",
+  "director": [
+   "Rodney Ascher"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "5.2",
+  "poster": "https://images.metahub.space/poster/small/tt9847360/img",
+  "released": "2021-02-05T00:00:00.000Z",
+  "runtime": "108 min",
+  "slug": "movie/a-glitch-in-the-matrix-9847360",
+  "year": "2021",
+  "moviedb_id": 696109,
+  "trailers": [
+   {
+    "source": "au8eT79WUJ0",
+    "type": "Trailer"
+   },
+   {
+    "source": "W0RgpwWlEZo",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [
+   "Rodney Ascher"
+  ],
+  "awards": "2 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt9847360/img",
+  "logo": "https://images.metahub.space/logo/medium/tt9847360/img",
+  "popularity": 0.051403333333333336,
+  "id": "tt9847360",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "A Glitch in the Matrix",
+    "ytId": "au8eT79WUJ0"
+   },
+   {
+    "title": "A Glitch in the Matrix",
+    "ytId": "W0RgpwWlEZo"
+   }
+  ],
+  "links": [
+   {
+    "name": "5.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt9847360"
+   },
+   {
+    "name": "A Glitch in the Matrix",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-glitch-in-the-matrix-9847360"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Nick Bostrom",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nick%20Bostrom"
+   },
+   {
+    "name": "Joshua Cooke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joshua%20Cooke"
+   },
+   {
+    "name": "Erik Davis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Erik%20Davis"
+   },
+   {
+    "name": "Rodney Ascher",
+    "category": "Writers",
+    "url": "stremio:///search?search=Rodney%20Ascher"
+   },
+   {
+    "name": "Rodney Ascher",
+    "category": "Directors",
+    "url": "stremio:///search?search=Rodney%20Ascher"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt9847360",
+   "hasScheduledVideos": false
+  }
+ }
+}

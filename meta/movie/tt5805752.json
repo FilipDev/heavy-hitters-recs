@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt5805752",
+  "name": "Brigsby Bear",
+  "year": "2017",
+  "runtime": "97 min",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "released": "2017-09-21T00:00:00.000Z",
+  "director": [
+   "Dave McCary"
+  ],
+  "writer": [
+   "Kevin Costello",
+   "Kyle Mooney"
+  ],
+  "cast": [
+   "Kyle Mooney",
+   "Jorge Lendeborg Jr.",
+   "Matt Walsh"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt5805752/img",
+  "description": "Captures fandom as a survival structure. A man raised in a bunker on a fake children's show — hundreds of episodes made only for him — is rescued into a world where the show never existed, and decides the only sane response is to film its finale himself.\n\nAfter being freed from his life in an underground bunker, a man sets out to make a movie of the only TV show he has ever known.",
+  "country": "China, United States",
+  "awards": "5 wins & 11 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "InqSiQENDYY",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 403431,
+  "popularities": {
+   "moviedb": 3.2473,
+   "stremio": 0.10824333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "dvdRelease": "2017-11-14T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt5805752/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5805752/img",
+  "slug": "movie/brigsby-bear-5805752",
+  "popularity": 0.10824333333333333,
+  "id": "tt5805752",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "Brigsby Bear",
+    "ytId": "InqSiQENDYY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5805752"
+   },
+   {
+    "name": "Brigsby Bear",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/brigsby-bear-5805752"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Kyle Mooney",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kyle%20Mooney"
+   },
+   {
+    "name": "Jorge Lendeborg Jr.",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jorge%20Lendeborg%20Jr."
+   },
+   {
+    "name": "Matt Walsh",
+    "category": "Cast",
+    "url": "stremio:///search?search=Matt%20Walsh"
+   },
+   {
+    "name": "Kevin Costello",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kevin%20Costello"
+   },
+   {
+    "name": "Kyle Mooney",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kyle%20Mooney"
+   },
+   {
+    "name": "Dave McCary",
+    "category": "Directors",
+    "url": "stremio:///search?search=Dave%20McCary"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5805752",
+   "hasScheduledVideos": false
+  }
+ }
+}
