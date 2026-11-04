@@ -1,0 +1,691 @@
+{
+ "metas": [
+  {
+   "id": "tt0060107",
+   "type": "movie",
+   "name": "Andrei Rublev",
+   "poster": "https://images.metahub.space/poster/medium/tt0060107/img",
+   "background": "https://images.metahub.space/background/medium/tt0060107/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "205 min",
+   "director": "Andrei Tarkovsky",
+   "description": "Captures an artist trying to make images of faith in a world of mud and violence. Medieval Russia through its greatest icon painter: raids, pagan festivals, and a boy casting a bell he may not know how to cast."
+  },
+  {
+   "id": "tt0064815",
+   "type": "movie",
+   "name": "Pirosmani",
+   "poster": "https://images.metahub.space/poster/medium/tt0064815/img",
+   "background": "https://images.metahub.space/background/medium/tt0064815/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "85 min",
+   "director": "Giorgi Shengelaia",
+   "description": "Captures a film learning to see the way its subject painted. Georgian folk painter Niko Pirosmani's life built from his own canvases — taverns, feasts, animals, a man painting signs for food and dying unrecognised."
+  },
+  {
+   "id": "tt0087606",
+   "type": "movie",
+   "name": "The Legend of the Suram Fortress",
+   "poster": "https://images.metahub.space/poster/medium/tt0087606/img",
+   "background": "https://images.metahub.space/background/medium/tt0087606/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1985",
+   "year": 1985,
+   "runtime": "88 min",
+   "director": "Sergei Parajanov, Dodo Abashidze",
+   "description": "Captures a filmmaker resuming exactly where the state interrupted him. Parajanov's return after prison and exile: a Georgian folk tale of a boy who must be immured in a fortress wall to make it stand, in full tableau style."
+  },
+  {
+   "id": "tt0094681",
+   "type": "movie",
+   "name": "Ashik Kerib",
+   "poster": "https://images.metahub.space/poster/medium/tt0094681/img",
+   "background": "https://images.metahub.space/background/medium/tt0094681/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "73 min",
+   "director": "Sergei Parajanov, Dodo Abashidze",
+   "description": "Captures the tableau style at its most playful and weightless. Parajanov's last film, from Lermontov: a wandering minstrel must earn a fortune in a thousand days to marry, crossing Azerbaijani landscapes in living-embroidery compositions. Dedicated to Tarkovsky."
+  },
+  {
+   "id": "tt0063278",
+   "type": "movie",
+   "name": "Marketa Lazarová",
+   "poster": "https://images.metahub.space/poster/medium/tt0063278/img",
+   "background": "https://images.metahub.space/background/medium/tt0063278/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "162 min",
+   "director": "František Vláčil",
+   "description": "Captures a whole civilisation changing gods. Medieval Bohemia in deep winter — pagan and Christian clans, wolf packs, kidnapped nuns, mud and chanting — with Shadows' savage lyricism stretched to epic scale. Frequently called the greatest Czech film."
+  },
+  {
+   "id": "tt0066516",
+   "type": "movie",
+   "name": "Valerie and Her Week of Wonders",
+   "poster": "https://images.metahub.space/poster/medium/tt0066516/img",
+   "background": "https://images.metahub.space/background/medium/tt0066516/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1970",
+   "year": 1970,
+   "runtime": "77 min",
+   "director": "Jaromil Jireš",
+   "description": "Captures puberty as a village fairy tale. A thirteen-year-old's coming-of-age rendered as folk-horror dream logic — vampire grandmothers, lecherous priests, possibly magic earrings — where every adult is a monster of one kind or another."
+  },
+  {
+   "id": "tt0059643",
+   "type": "movie",
+   "name": "The Saragossa Manuscript",
+   "poster": "https://images.metahub.space/poster/medium/tt0059643/img",
+   "background": "https://images.metahub.space/background/medium/tt0059643/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1965",
+   "year": 1965,
+   "runtime": "182 min",
+   "director": "Wojciech Has",
+   "description": "Captures storytelling itself as a folk labyrinth. A Napoleonic officer finds a manuscript and falls into tales within tales within tales — gypsies, kabbalists, ghosts, duels — for three hours in Wojciech Has's nested Polish epic."
+  },
+  {
+   "id": "tt0059776",
+   "type": "movie",
+   "name": "The Round-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0059776/img",
+   "background": "https://images.metahub.space/background/medium/tt0059776/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "90 min",
+   "director": "Miklós Jancsó",
+   "description": "Captures power as folk dance. On an endless white plain, authorities process prisoners from a peasant uprising through rituals of selection and betrayal, in Jancsó's choreographed long takes — nobody's psychology is explained, and the rituals are the point."
+  },
+  {
+   "id": "tt0062277",
+   "type": "movie",
+   "name": "I Even Met Happy Gypsies",
+   "poster": "https://images.metahub.space/poster/medium/tt0062277/img",
+   "background": "https://images.metahub.space/background/medium/tt0062277/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "94 min",
+   "director": "Aleksandar Petrović",
+   "description": "Captures a community filmed from inside its own music and fatalism. A Romani feather trader in the mud flats of Vojvodina, folk songs everywhere, makes a series of choices each slightly worse than the last."
+  },
+  {
+   "id": "tt0097223",
+   "type": "movie",
+   "name": "Time of the Gypsies",
+   "poster": "https://images.metahub.space/poster/medium/tt0097223/img",
+   "background": "https://images.metahub.space/background/medium/tt0097223/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "142 min",
+   "director": "Emir Kusturica",
+   "description": "Captures folk storytelling surviving, barely, inside modern crime. A Romani teenager with telekinetic powers is lured into a smuggling life in Italy, half narrated by Goran Bregović's score — Petrović's world taken into magical realism."
+  },
+  {
+   "id": "tt0058279",
+   "type": "movie",
+   "name": "Kwaidan",
+   "poster": "https://images.metahub.space/poster/medium/tt0058279/img",
+   "background": "https://images.metahub.space/background/medium/tt0058279/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "183 min",
+   "director": "Masaki Kobayashi",
+   "description": "Captures folklore as pure painted atmosphere. Kobayashi adapts Lafcadio Hearn's ghost tales on vast studio sets — a snow spirit, a blind biwa player performing for the dead — the closest Japanese equivalent to Parajanov's tableau method."
+  },
+  {
+   "id": "tt0084390",
+   "type": "movie",
+   "name": "The Ballad of Narayama",
+   "poster": "https://images.metahub.space/poster/medium/tt0084390/img",
+   "background": "https://images.metahub.space/background/medium/tt0084390/img",
+   "genres": [
+    "Drama",
+    "Family",
+    "Mystery"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "130 min",
+   "director": "Shōhei Imamura",
+   "description": "Captures a folk custom at full earthiness. Imamura's mountain village carries its old people up the peak to die at seventy, filmed with his usual gusto for sex, cruelty and teeming nature — ritual without a trace of reverence."
+  },
+  {
+   "id": "tt0116384",
+   "type": "movie",
+   "name": "Gabbeh",
+   "poster": "https://images.metahub.space/poster/medium/tt0116384/img",
+   "background": "https://images.metahub.space/background/medium/tt0116384/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "75 min",
+   "director": "Mohsen Makhmalbaf",
+   "description": "Captures storytelling embedded in a folk object. A nomad tribe's woven carpet unfolds as it is washed in a river: the girl in the pattern tells her own story of forbidden love, in colours as saturated as Parajanov's Carpathians."
+  },
+  {
+   "id": "tt1588895",
+   "type": "movie",
+   "name": "Uncle Boonmee Who Can Recall His Past Lives",
+   "poster": "https://images.metahub.space/poster/medium/tt1588895/img",
+   "background": "https://images.metahub.space/background/medium/tt1588895/img",
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "114 min",
+   "director": "Apichatpong Weerasethakul",
+   "description": "Captures an animist world where the supernatural needs no emphasis. A dying man in the Thai jungle is visited at dinner by his wife's ghost and his son returned as a monkey spirit, and everyone accepts this with total calm."
+  },
+  {
+   "id": "tt0466399",
+   "type": "movie",
+   "name": "Ten Canoes",
+   "poster": "https://images.metahub.space/poster/medium/tt0466399/img",
+   "background": "https://images.metahub.space/background/medium/tt0466399/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "90 min",
+   "director": "Rolf de Heer, Peter Djigirr",
+   "description": "Captures oral tradition's actual structure. In Arnhem Land, an elder tells a young man a cautionary ancestral tale inside which another tale is told, while they hunt goose eggs in the swamp — stories nested for a practical moral purpose, with jokes."
+  },
+  {
+   "id": "tt0048473",
+   "type": "movie",
+   "name": "Pather Panchali",
+   "poster": "https://images.metahub.space/poster/medium/tt0048473/img",
+   "background": "https://images.metahub.space/background/medium/tt0048473/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1955",
+   "year": 1955,
+   "runtime": "125 min",
+   "director": "Satyajit Ray",
+   "description": "Captures lyricism at ground level. Ray's Bengal village childhood — Apu and his sister Durga, the monsoon arriving like a miracle — where poverty is filmed as a complete sensory world rather than a condition to be pitied."
+  },
+  {
+   "id": "tt0067959",
+   "type": "movie",
+   "name": "Walkabout",
+   "poster": "https://images.metahub.space/poster/medium/tt0067959/img",
+   "background": "https://images.metahub.space/background/medium/tt0067959/img",
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "100 min",
+   "director": "Nicolas Roeg",
+   "description": "Captures two cosmologies meeting in a landscape older than both. Two white children lost in the Australian outback are found by an Aboriginal boy on his walkabout; Eden and catastrophe share every frame."
+  },
+  {
+   "id": "tt0077405",
+   "type": "movie",
+   "name": "Days of Heaven",
+   "poster": "https://images.metahub.space/poster/medium/tt0077405/img",
+   "background": "https://images.metahub.space/background/medium/tt0077405/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1978",
+   "year": 1978,
+   "runtime": "94 min",
+   "director": "Terrence Malick",
+   "description": "Captures labour, land and sky at a scale that makes human betrayal look like weather passing through it. Malick's wheat-harvest tragedy, shot almost entirely at magic hour and narrated by a child who only half understands the adults around her."
+  },
+  {
+   "id": "tt0071615",
+   "type": "movie",
+   "name": "The Holy Mountain",
+   "poster": "https://images.metahub.space/poster/medium/tt0071615/img",
+   "background": "https://images.metahub.space/background/medium/tt0071615/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "114 min",
+   "director": "Alejandro Jodorowsky",
+   "description": "Captures meaning stacked in images until it overloads. Jodorowsky's alchemical procession — a Christ figure and seven archetypes played by industrialists and generals — assembles some of the densest tableaux ever put on film, grotesque and deliberate."
+  },
+  {
+   "id": "tt0071129",
+   "type": "movie",
+   "name": "Amarcord",
+   "poster": "https://images.metahub.space/poster/medium/tt0071129/img",
+   "background": "https://images.metahub.space/background/medium/tt0071129/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "123 min",
+   "director": "Federico Fellini",
+   "description": "Captures a community remembering itself, every ritual half affection and half mockery. Fellini rebuilds his hometown of Rimini as permanent carnival: fascist rallies, family dinners, a peacock in the snow, a whole town rowing out to greet an ocean liner."
+  },
+  {
+   "id": "tt0066065",
+   "type": "movie",
+   "name": "Medea",
+   "poster": "https://images.metahub.space/poster/medium/tt0066065/img",
+   "background": "https://images.metahub.space/background/medium/tt0066065/img",
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "118 min",
+   "director": "Pier Paolo Pasolini",
+   "description": "Captures two cosmologies colliding. Pasolini casts Maria Callas, who barely sings a note, as the barbarian priestess Jason brings home to a rational, modern Corinth with no room for her gods — the archaic ritual world filmed in Cappadocia's stone landscapes."
+  },
+  {
+   "id": "tt0057091",
+   "type": "movie",
+   "name": "The Leopard",
+   "poster": "https://images.metahub.space/poster/medium/tt0057091/img",
+   "background": "https://images.metahub.space/background/medium/tt0057091/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1963",
+   "year": 1963,
+   "runtime": "186 min",
+   "director": "Luchino Visconti",
+   "description": "Captures pageantry as an instrument for measuring decay. Visconti's Sicilian prince watches his class dissolve during Italian unification, and the film saves its greatest set piece for a 45-minute ball where the old world dances beautifully with the one replacing it."
+  },
+  {
+   "id": "tt0090798",
+   "type": "movie",
+   "name": "Caravaggio",
+   "poster": "https://images.metahub.space/poster/medium/tt0090798/img",
+   "background": "https://images.metahub.space/background/medium/tt0090798/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1986",
+   "year": 1986,
+   "runtime": "93 min",
+   "director": "Derek Jarman",
+   "description": "Captures a film thinking in paintings the way The Colour of Pomegranates does, but grubbier, queerer, and made for almost no money. Jarman stages the painter's life as living versions of his canvases, with calculators and motorbikes left sitting in the 1600s."
+  },
+  {
+   "id": "tt0102722",
+   "type": "movie",
+   "name": "Prospero's Books",
+   "poster": "https://images.metahub.space/poster/medium/tt0102722/img",
+   "background": "https://images.metahub.space/background/medium/tt0102722/img",
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1991",
+   "year": 1991,
+   "runtime": "124 min",
+   "director": "Peter Greenaway",
+   "description": "Captures maximalism as a system. Greenaway adapts The Tempest by layering handwriting, water, calligraphy and early digital compositing over John Gielgud voicing nearly every role — an image-world so dense it becomes a library you wander rather than a plot you follow."
+  },
+  {
+   "id": "tt0460791",
+   "type": "movie",
+   "name": "The Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt0460791/img",
+   "background": "https://images.metahub.space/background/medium/tt0460791/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "117 min",
+   "director": "Tarsem Singh",
+   "description": "Captures storytelling as barter. Tarsem spent years shooting a suicidal stuntman's improvised fairy tale to a little girl in a 1920s hospital, across two dozen countries with no green screen; he needs her help, and she keeps changing the story by listening."
+  },
+  {
+   "id": "tt0087075",
+   "type": "movie",
+   "name": "The Company of Wolves",
+   "poster": "https://images.metahub.space/poster/medium/tt0087075/img",
+   "background": "https://images.metahub.space/background/medium/tt0087075/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "95 min",
+   "director": "Neil Jordan",
+   "description": "Captures the folk tale's actual content — appetite, danger, metamorphosis — that the children's versions politely remove. Jordan and Angela Carter nest werewolf tales inside a sleeping girl's dream, all fog, forests and practical-effect transformations."
+  },
+  {
+   "id": "tt0107822",
+   "type": "movie",
+   "name": "The Piano",
+   "poster": "https://images.metahub.space/poster/medium/tt0107822/img",
+   "background": "https://images.metahub.space/background/medium/tt0107822/img",
+   "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "releaseInfo": "1993",
+   "year": 1993,
+   "runtime": "121 min",
+   "director": "Jane Campion",
+   "description": "Captures desire conducted entirely through objects, landscape and music. Campion's mute Scottish bride arrives in colonial New Zealand, and her piano, left on the beach by her husband, becomes the currency of a wordless negotiation in bush and mud that feel mythic."
+  },
+  {
+   "id": "tt0101640",
+   "type": "movie",
+   "name": "Raise the Red Lantern",
+   "poster": "https://images.metahub.space/poster/medium/tt0101640/img",
+   "background": "https://images.metahub.space/background/medium/tt0101640/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1991",
+   "year": 1991,
+   "runtime": "125 min",
+   "director": "Zhang Yimou",
+   "description": "Captures ritual as an instrument of control. Zhang Yimou confines a 1920s household drama to one courtyard compound, where the master's nightly choice of wife is announced by red lanterns and foot massages — rules never fully explained, which is how the women live them."
+  },
+  {
+   "id": "tt0087433",
+   "type": "movie",
+   "name": "Yellow Earth",
+   "poster": "https://images.metahub.space/poster/medium/tt0087433/img",
+   "background": "https://images.metahub.space/background/medium/tt0087433/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "89 min",
+   "director": "Chen Kaige",
+   "description": "Captures a folk culture so total it becomes the cinematography. A Communist soldier arrives in a loess-plateau village in 1939 to collect folk songs for the army, and finds a girl whose singing is the only free thing in her life."
+  },
+  {
+   "id": "tt0064451",
+   "type": "movie",
+   "name": "A Touch of Zen",
+   "poster": "https://images.metahub.space/poster/medium/tt0064451/img",
+   "background": "https://images.metahub.space/background/medium/tt0064451/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "200 min",
+   "director": "King Hu",
+   "description": "Captures combat choreographed as calligraphy, then dropped entirely for transcendence. King Hu's wuxia epic follows a scholar drawn into a fugitive's fight against the imperial secret police, ascending through a bamboo-forest duel toward something close to enlightenment."
+  },
+  {
+   "id": "tt0054073",
+   "type": "movie",
+   "name": "The Cloud-Capped Star",
+   "poster": "https://images.metahub.space/poster/medium/tt0054073/img",
+   "background": "https://images.metahub.space/background/medium/tt0054073/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1960",
+   "year": 1960,
+   "runtime": "126 min",
+   "director": "Ritwik Ghatak",
+   "description": "Captures a woman being consumed by the goddess-provider role her culture assigned her. Ghatak's Calcutta family survives entirely on daughter Neeta's earnings and takes and takes, while the soundtrack whips and distorts under the melodrama — myth as the load-bearing structure."
+  },
+  {
+   "id": "tt0416991",
+   "type": "movie",
+   "name": "Moolaadé",
+   "poster": "https://images.metahub.space/poster/medium/tt0416991/img",
+   "background": "https://images.metahub.space/background/medium/tt0416991/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2004",
+   "year": 2004,
+   "runtime": "124 min",
+   "director": "Ousmane Sembène",
+   "description": "Captures folk tradition argued with from inside folk tradition, in blazing colour. Sembène's Senegalese village has to renegotiate itself when one woman shelters girls fleeing the purification ritual, invoking the protective spell of the title against husbands, elders and merchants."
+  },
+  {
+   "id": "tt0058006",
+   "type": "movie",
+   "name": "Black God, White Devil",
+   "poster": "https://images.metahub.space/poster/medium/tt0058006/img",
+   "background": "https://images.metahub.space/background/medium/tt0058006/img",
+   "genres": [
+    "Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "120 min",
+   "director": "Glauber Rocha",
+   "description": "Captures a peasant world where religion and violence are the only available languages. Rocha's Brazilian sertão — a hired killer, a self-proclaimed saint gathering followers, a blind bandit-prophet — is filmed like a folk ballad being sung at gunpoint, in glare and dust."
+  },
+  {
+   "id": "tt3409848",
+   "type": "movie",
+   "name": "Zama",
+   "poster": "https://images.metahub.space/poster/medium/tt3409848/img",
+   "background": "https://images.metahub.space/background/medium/tt3409848/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "115 min",
+   "director": "Lucrecia Martel",
+   "description": "Captures empire as a man rotting in a landscape that was never his and barely notices him. Martel strands a Spanish colonial officer in a Paraguayan backwater, waiting years for a transfer that never comes, while insects, water and distant animals become the real film."
+  },
+  {
+   "id": "tt0073800",
+   "type": "movie",
+   "name": "The Travelling Players",
+   "poster": "https://images.metahub.space/poster/medium/tt0073800/img",
+   "background": "https://images.metahub.space/background/medium/tt0073800/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "230 min",
+   "director": "Theodoros Angelopoulos",
+   "description": "Captures a nation's history carried by the people paid to keep entertaining it. Angelopoulos follows a folk theatre troupe performing the same pastoral play across Greece from 1939 to 1952, and in vast single takes, occupation, civil war and executions slide past mid-scene."
+  },
+  {
+   "id": "tt0062322",
+   "type": "movie",
+   "name": "Dry Summer",
+   "poster": "https://images.metahub.space/poster/medium/tt0062322/img",
+   "background": "https://images.metahub.space/background/medium/tt0062322/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "90 min",
+   "director": "Metin Erksan",
+   "description": "Captures a folk world running on a single resource, and how fast custom turns to feud when it runs short. Erksan's Anatolian village tears itself apart when one farmer dams the spring his neighbours' fields depend on."
+  },
+  {
+   "id": "tt0106504",
+   "type": "movie",
+   "name": "Calendar",
+   "poster": "https://images.metahub.space/poster/medium/tt0106504/img",
+   "background": "https://images.metahub.space/background/medium/tt0106504/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1993",
+   "year": 1993,
+   "runtime": "74 min",
+   "director": "Atom Egoyan",
+   "description": "Captures diaspora as a loop of beautiful images you can't live inside. Egoyan sends a Canadian photographer to Armenia to shoot twelve ancient churches for a calendar, his marriage failing in the car between sites — then the ritual repeats, reframed, back in Toronto."
+  },
+  {
+   "id": "tt2328813",
+   "type": "movie",
+   "name": "Hard to Be a God",
+   "poster": "https://images.metahub.space/poster/medium/tt2328813/img",
+   "background": "https://images.metahub.space/background/medium/tt2328813/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "177 min",
+   "director": "Aleksey German",
+   "description": "Captures maximalism as immersion rather than beauty. German's scientist observes a filthy, violent medieval world on another planet, forbidden to intervene, across three hours of black-and-white mud, smoke and faces pressing into the lens — total world-building with every trace of lyricism drowned."
+  },
+  {
+   "id": "tt1745787",
+   "type": "movie",
+   "name": "The Tribe",
+   "poster": "https://images.metahub.space/poster/medium/tt1745787/img",
+   "background": "https://images.metahub.space/background/medium/tt1745787/img",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "126 min",
+   "director": "Myroslav Slaboshpytskyi",
+   "description": "Captures a complete social world you must learn to read bodily or not at all. At a Ukrainian boarding school for deaf students, a student crime network runs everything — performed entirely in sign language, with no subtitles and no translation."
+  },
+  {
+   "id": "tt0079986",
+   "type": "movie",
+   "name": "Tale of Tales",
+   "poster": "https://images.metahub.space/poster/medium/tt0079986/img",
+   "background": "https://images.metahub.space/background/medium/tt0079986/img",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "releaseInfo": "1979",
+   "year": 1979,
+   "runtime": "29 min",
+   "director": "Yuri Norstein",
+   "description": "Captures folk memory itself — images from childhood, war and lullaby sharing one continuous dream. Norstein's 29-minute animation drifts through layers of cut-out, glass and mist: a little wolf, a minotaur, tango dancers, soldiers leaving for the front."
+  },
+  {
+   "id": "tt0077138",
+   "type": "movie",
+   "name": "The Tree of Wooden Clogs",
+   "poster": "https://images.metahub.space/poster/medium/tt0077138/img",
+   "background": "https://images.metahub.space/background/medium/tt0077138/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1978",
+   "year": 1978,
+   "runtime": "186 min",
+   "director": "Ermanno Olmi",
+   "description": "Captures the folk world at the opposite end of the temperament scale from Parajanov — patient, plain, and quietly overwhelming. Olmi films Lombardy peasants playing their grandparents' generation: four families, one farm, a whole year of seasons, labour and ritual."
+  },
+  {
+   "id": "tt0058642",
+   "type": "movie",
+   "name": "Shadows of Forgotten Ancestors",
+   "poster": "https://images.metahub.space/poster/medium/tt0058642/img",
+   "background": "https://images.metahub.space/background/medium/tt0058642/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1965",
+   "year": 1965,
+   "runtime": "97 min",
+   "director": "Sergei Parajanov",
+   "description": "Captures a folk tale carried by image and ritual rather than plot. Parajanov's Hutsul lovers Ivan and Marichka move through Carpathian weddings, funerals and seasons in whirling camera work, saturated colour and embroidered imagery. The film Filip confirmed watching and enjoying."
+  }
+ ]
+}

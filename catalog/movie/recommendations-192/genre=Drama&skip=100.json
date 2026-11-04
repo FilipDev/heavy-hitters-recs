@@ -1015,6 +1015,646 @@
    "runtime": "89 min",
    "director": "David Gordon Green",
    "description": "Captures rural Southern childhood in the long light after something goes wrong. Kids in a decaying town carry an accident together, and a boy in a cape wants to be a hero — all voiceover and golden fields."
+  },
+  {
+   "id": "tt0037558",
+   "type": "movie",
+   "name": "Brief Encounter",
+   "poster": "https://images.metahub.space/poster/medium/tt0037558/img",
+   "background": "https://images.metahub.space/background/medium/tt0037558/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1945",
+   "year": 1945,
+   "runtime": "86 min",
+   "director": "David Lean",
+   "description": "Captures desire that obeys the rules anyway. A doctor and a housewife meet in a railway station café, fall in love in weekly instalments, and give each other up — two ordinary people torn apart by behaving well."
+  },
+  {
+   "id": "tt0058625",
+   "type": "movie",
+   "name": "Woman in the Dunes",
+   "poster": "https://images.metahub.space/poster/medium/tt0058625/img",
+   "background": "https://images.metahub.space/background/medium/tt0058625/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "147 min",
+   "director": "Hiroshi Teshigahara",
+   "description": "Captures entrapment becoming routine. A man is lowered into a sand pit to shovel beside the woman who already lives there; escape stays theoretically possible while the days quietly become a life."
+  },
+  {
+   "id": "tt0059527",
+   "type": "movie",
+   "name": "The Shop on Main Street",
+   "poster": "https://images.metahub.space/poster/medium/tt0059527/img",
+   "background": "https://images.metahub.space/background/medium/tt0059527/img",
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1965",
+   "year": 1965,
+   "runtime": "128 min",
+   "director": "Ján Kadár, Elmar Klos",
+   "description": "Captures collaboration at its smallest and most cowardly. A Slovak carpenter handed a Jewish widow's button shop under Aryanization laws hides her instead of profiting — comic and gentle, until the roundup comes anyway."
+  },
+  {
+   "id": "tt0063555",
+   "type": "movie",
+   "name": "The Colour of Pomegranates",
+   "poster": "https://images.metahub.space/poster/medium/tt0063555/img",
+   "background": "https://images.metahub.space/background/medium/tt0063555/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "79 min",
+   "director": "Sergei Parajanov",
+   "description": "Captures a poet's life as a series of icons instead of events. An Armenian troubadour rendered in tableaux — books, blood, grapes, lace — with almost no dialogue and no interest in explaining itself."
+  },
+  {
+   "id": "tt0070334",
+   "type": "movie",
+   "name": "The Long Goodbye",
+   "poster": "https://images.metahub.space/poster/medium/tt0070334/img",
+   "background": "https://images.metahub.space/background/medium/tt0070334/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "112 min",
+   "director": "Robert Altman",
+   "description": "Captures a decent man out of sync with his decade. Altman's Philip Marlowe shuffles through sunlit, corrupt Los Angeles in a rumpled suit, the last person still taking loyalty seriously."
+  },
+  {
+   "id": "tt0235198",
+   "type": "movie",
+   "name": "Audition",
+   "poster": "https://images.metahub.space/poster/medium/tt0235198/img",
+   "background": "https://images.metahub.space/background/medium/tt0235198/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "115 min",
+   "director": "Takashi Miike",
+   "description": "Captures loneliness curdling into horror by changing genre mid-film. A widower holds fake auditions to find a wife; the first hour is a sad, gentle drama before the film reveals what it actually was."
+  },
+  {
+   "id": "tt0318034",
+   "type": "movie",
+   "name": "Russian Ark",
+   "poster": "https://images.metahub.space/poster/medium/tt0318034/img",
+   "background": "https://images.metahub.space/background/medium/tt0318034/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "History"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "99 min",
+   "director": "Aleksandr Sokurov",
+   "description": "Captures 300 years of history in one held breath. A single unbroken shot drifts through the Hermitage, past czars and ballrooms, with the camera as a ghost nobody quite sees."
+  },
+  {
+   "id": "tt0387898",
+   "type": "movie",
+   "name": "Caché",
+   "poster": "https://images.metahub.space/poster/medium/tt0387898/img",
+   "background": "https://images.metahub.space/background/medium/tt0387898/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "117 min",
+   "director": "Michael Haneke",
+   "description": "Captures guilt that refuses to identify itself. A Paris family receives surveillance tapes of their own house with no demands attached; Haneke never says who sent them, because the film is about what the husband already knows."
+  },
+  {
+   "id": "tt0851578",
+   "type": "movie",
+   "name": "Paprika",
+   "poster": "https://images.metahub.space/poster/medium/tt0851578/img",
+   "background": "https://images.metahub.space/background/medium/tt0851578/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "90 min",
+   "director": "Satoshi Kon",
+   "description": "Captures dreams invading waking life as a parade. A device that lets therapists enter dreams is stolen, and reality dissolves into a marching band of refrigerators and dolls; Inception's debt is on screen."
+  },
+  {
+   "id": "tt1087578",
+   "type": "movie",
+   "name": "Still Walking",
+   "poster": "https://images.metahub.space/poster/medium/tt1087578/img",
+   "background": "https://images.metahub.space/background/medium/tt1087578/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "115 min",
+   "director": "Hirokazu Koreeda",
+   "description": "Captures a family organised around the son who isn't there. One summer day, a grown son visits parents who still prefer the dead favourite; corn fritters, a butterfly, things said by not being said."
+  },
+  {
+   "id": "tt2396224",
+   "type": "movie",
+   "name": "It's Such a Beautiful Day",
+   "poster": "https://images.metahub.space/poster/medium/tt2396224/img",
+   "background": "https://images.metahub.space/background/medium/tt2396224/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "62 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a mind coming apart, drawn with stick figures. Hertzfeldt narrates a man with a failing brain in three chapters — funny, fragmented, and by the end genuinely cosmic."
+  },
+  {
+   "id": "tt2576852",
+   "type": "movie",
+   "name": "The Tale of the Princess Kaguya",
+   "poster": "https://images.metahub.space/poster/medium/tt2576852/img",
+   "background": "https://images.metahub.space/background/medium/tt2576852/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "137 min",
+   "director": "Isao Takahata",
+   "description": "Captures joy being disciplined out of a girl. A bamboo cutter raises a moon princess and watches court life sand down the wild child she was, until the watercolour lines themselves start to run."
+  },
+  {
+   "id": "tt4048272",
+   "type": "movie",
+   "name": "Toni Erdmann",
+   "poster": "https://images.metahub.space/poster/medium/tt4048272/img",
+   "background": "https://images.metahub.space/background/medium/tt4048272/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "162 min",
+   "director": "Maren Ade",
+   "description": "Captures a father trying to joke his daughter back to life. A prankster dad with false teeth infiltrates his consultant daughter's sterile Bucharest existence — a comedy that keeps tipping into grief and back."
+  },
+  {
+   "id": "tt5083738",
+   "type": "movie",
+   "name": "The Favourite",
+   "poster": "https://images.metahub.space/poster/medium/tt5083738/img",
+   "background": "https://images.metahub.space/background/medium/tt5083738/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "119 min",
+   "director": "Yorgos Lanthimos",
+   "description": "Captures court power as intimate warfare. Two women compete to be Queen Anne's favourite — her bed, her ear, her rabbits — through fisheye candlelit corridors, with a lonely, raging queen at the centre."
+  },
+  {
+   "id": "tt5363618",
+   "type": "movie",
+   "name": "Sound of Metal",
+   "poster": "https://images.metahub.space/poster/medium/tt5363618/img",
+   "background": "https://images.metahub.space/background/medium/tt5363618/img",
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "120 min",
+   "director": "Darius Marder",
+   "description": "Captures hearing loss from inside the head. A metal drummer goes deaf and the sound design puts you in his skull — muffled, ringing — then the strange peace of a deaf community that doesn't treat deafness as damage."
+  },
+  {
+   "id": "tt7984734",
+   "type": "movie",
+   "name": "The Lighthouse",
+   "poster": "https://images.metahub.space/poster/medium/tt7984734/img",
+   "background": "https://images.metahub.space/background/medium/tt7984734/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "109 min",
+   "director": "Robert Eggers",
+   "description": "Captures two men rotting in each other's company. A rock in a storm, gaslight, seagull taboos, and two keepers descending into myth, flatulence and murder inside a frame almost square enough to be a trap."
+  },
+  {
+   "id": "tt10633456",
+   "type": "movie",
+   "name": "Minari",
+   "poster": "https://images.metahub.space/poster/medium/tt10633456/img",
+   "background": "https://images.metahub.space/background/medium/tt10633456/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "115 min",
+   "director": "Lee Isaac Chung",
+   "description": "Captures starting over as a thing that happens to children too. A Korean family buys Arkansas land, a stubborn father bets everything on a well, and a grandmother plants minari by the creek where it can't fail."
+  },
+  {
+   "id": "tt10272386",
+   "type": "movie",
+   "name": "The Father",
+   "poster": "https://images.metahub.space/poster/medium/tt10272386/img",
+   "background": "https://images.metahub.space/background/medium/tt10272386/img",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "97 min",
+   "director": "Florian Zeller",
+   "description": "Captures dementia by making the film itself unreliable. Anthony Hopkins in a flat that keeps changing its layout, furniture and occupants — you're not watching his confusion, you're inside it."
+  },
+  {
+   "id": "tt8633462",
+   "type": "movie",
+   "name": "Quo Vadis, Aida?",
+   "poster": "https://images.metahub.space/poster/medium/tt8633462/img",
+   "background": "https://images.metahub.space/background/medium/tt8633462/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "101 min",
+   "director": "Jasmila Zbanic",
+   "description": "Captures catastrophe processed as procedure. Srebrenica, 1995, through a UN translator moving names between lists, gates and buses — horror administered in queues and stamps, with everyone following protocol."
+  },
+  {
+   "id": "tt14039582",
+   "type": "movie",
+   "name": "Drive My Car",
+   "poster": "https://images.metahub.space/poster/medium/tt14039582/img",
+   "background": "https://images.metahub.space/background/medium/tt14039582/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "179 min",
+   "director": "Ryūsuke Hamaguchi",
+   "description": "Captures grief rehearsed until it can be said. A theatre director who lost his wife stages Chekhov in Hiroshima with a young driver he didn't want; three hours, mostly conversations in a red Saab, and it earns every minute."
+  },
+  {
+   "id": "tt10370710",
+   "type": "movie",
+   "name": "The Worst Person in the World",
+   "poster": "https://images.metahub.space/poster/medium/tt10370710/img",
+   "background": "https://images.metahub.space/background/medium/tt10370710/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "128 min",
+   "director": "Joachim Trier",
+   "description": "Captures turning thirty with every option still open and none chosen. Oslo in twelve chapters: a woman cycles through careers and men, including a night that pauses the entire city so she can test a life before living it."
+  },
+  {
+   "id": "tt8178634",
+   "type": "movie",
+   "name": "RRR",
+   "poster": "https://images.metahub.space/poster/medium/tt8178634/img",
+   "background": "https://images.metahub.space/background/medium/tt8178634/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "187 min",
+   "director": "S.S. Rajamouli",
+   "description": "Captures male friendship at blockbuster maximum. Two revolutionaries, a rescue on a collapsing bridge, a dance-off against the British, a man carrying a leopard into a party — three hours that never once do anything at half scale."
+  },
+  {
+   "id": "tt11813216",
+   "type": "movie",
+   "name": "The Banshees of Inisherin",
+   "poster": "https://images.metahub.space/poster/medium/tt11813216/img",
+   "background": "https://images.metahub.space/background/medium/tt11813216/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "114 min",
+   "director": "Martin McDonagh",
+   "description": "Captures being dumped by a friend. One morning Colm simply doesn't want to talk to Pádraic anymore, and a whole island watches a small rejection escalate toward the mythic. Funny, until the exact moment it isn't."
+  },
+  {
+   "id": "tt12477480",
+   "type": "movie",
+   "name": "Decision to Leave",
+   "poster": "https://images.metahub.space/poster/medium/tt12477480/img",
+   "background": "https://images.metahub.space/background/medium/tt12477480/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "139 min",
+   "director": "Park Chan-wook",
+   "description": "Captures desire conducted through surveillance. A detective falls for the widow of the man whose death he's investigating, watching her through binoculars and translation apps. Park Chan-wook's most restrained and most romantic film."
+  },
+  {
+   "id": "tt17009710",
+   "type": "movie",
+   "name": "Anatomy of a Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+   "background": "https://images.metahub.space/background/medium/tt17009710/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "151 min",
+   "director": "Justine Triet",
+   "description": "Captures a marriage being reverse-engineered in a courtroom. A husband falls from a chalet roof; his wife's trial becomes an autopsy of their relationship, conducted through recordings, translations and a dog who may be the only witness."
+  },
+  {
+   "id": "tt7160372",
+   "type": "movie",
+   "name": "The Zone of Interest",
+   "poster": "https://images.metahub.space/poster/medium/tt7160372/img",
+   "background": "https://images.metahub.space/background/medium/tt7160372/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "105 min",
+   "director": "Jonathan Glazer",
+   "description": "Captures evil as a domestic soundscape. The Höss family gardens, swims and hosts lunches on the other side of the Auschwitz wall; you see almost nothing of the camp and hear it in every scene."
+  },
+  {
+   "id": "tt23289160",
+   "type": "movie",
+   "name": "Godzilla Minus One",
+   "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+   "background": "https://images.metahub.space/background/medium/tt23289160/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "124 min",
+   "director": "Takashi Yamazaki",
+   "description": "Captures a nation with nothing left being asked to fight again. Postwar Japan, a kamikaze pilot who couldn't do it the first time, and a monster film whose human scenes work as well as its spectacle."
+  },
+  {
+   "id": "tt0064921",
+   "type": "movie",
+   "name": "Salesman",
+   "poster": "https://images.metahub.space/poster/medium/tt0064921/img",
+   "background": "https://images.metahub.space/background/medium/tt0064921/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "91 min",
+   "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+   "description": "Captures a man whose self-belief is running out, one rejected doorstep at a time. The Maysles brothers follow a Bible salesman through Boston and Florida as his pitch slowly stops working and the road stops feeling like hope."
+  },
+  {
+   "id": "tt11394180",
+   "type": "movie",
+   "name": "Dick Johnson Is Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt11394180/img",
+   "background": "https://images.metahub.space/background/medium/tt11394180/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "89 min",
+   "director": "Kirsten Johnson",
+   "description": "Captures dying approached with slapstick, tenderness and total honesty at once. Kirsten Johnson stages elaborate fake deaths for her psychiatrist father, who has dementia, so the two of them can rehearse losing each other."
+  },
+  {
+   "id": "tt0062043",
+   "type": "movie",
+   "name": "A Man Vanishes",
+   "poster": "https://images.metahub.space/poster/medium/tt0062043/img",
+   "background": "https://images.metahub.space/background/medium/tt0062043/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "130 min",
+   "director": "Shōhei Imamura",
+   "description": "Captures a documentary dissolving into fiction: Imamura investigates a missing salesman, but the fiancée and the lead actress fall for each other, and he pulls the set apart on camera to admit the investigation has become something else."
+  },
+  {
+   "id": "tt0050800",
+   "type": "movie",
+   "name": "On the Bowery",
+   "poster": "https://images.metahub.space/poster/medium/tt0050800/img",
+   "background": "https://images.metahub.space/background/medium/tt0050800/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1956",
+   "year": 1956,
+   "runtime": "65 min",
+   "director": "Lionel Rogosin",
+   "description": "Captures neo-realist method eating its own ethics: Rogosin lived among New York's skid-row alcoholics, then had them play themselves in a story built from their lives, as the production's own drinking blurred every line."
+  },
+  {
+   "id": "tt0067633",
+   "type": "movie",
+   "name": "Punishment Park",
+   "poster": "https://images.metahub.space/poster/medium/tt0067633/img",
+   "background": "https://images.metahub.space/background/medium/tt0067633/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "91 min",
+   "director": "Peter Watkins",
+   "description": "Captures a camera crew admitting it has a side: Watkins' fake documentary follows political prisoners running fifty miles through desert toward a flag while police hunt them, and the crew ends up screaming at the officers."
+  },
+  {
+   "id": "tt0799954",
+   "type": "movie",
+   "name": "The Bridge",
+   "poster": "https://images.metahub.space/poster/medium/tt0799954/img",
+   "background": "https://images.metahub.space/background/medium/tt0799954/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "94 min",
+   "director": "Eric Steel",
+   "description": "Captures the complicity question in its purest form: Steel filmed the Golden Gate Bridge for a year, recording suicides, without telling families what the footage was for — when the camera keeps rolling, what exactly is it doing?"
+  },
+  {
+   "id": "tt0103905",
+   "type": "movie",
+   "name": "Man Bites Dog",
+   "poster": "https://images.metahub.space/poster/medium/tt0103905/img",
+   "background": "https://images.metahub.space/background/medium/tt0103905/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1992",
+   "year": 1992,
+   "runtime": "95 min",
+   "director": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
+   "description": "Captures the complicity problem pushed to its logical endpoint — the cluster's one fiction: a student crew follows a charming serial killer for a documentary, graduating from filming him, to holding the camera steady, to helping."
+  },
+  {
+   "id": "tt1568923",
+   "type": "movie",
+   "name": "A Film Unfinished",
+   "poster": "https://images.metahub.space/poster/medium/tt1568923/img",
+   "background": "https://images.metahub.space/background/medium/tt1568923/img",
+   "genres": [
+    "Documentary",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "88 min",
+   "director": "Yael Hersonski",
+   "description": "Captures how a fabricated archive keeps passing as truth until someone watches it slowly enough. A Nazi propaganda film shot in the Warsaw Ghetto is taken apart shot by shot, including outtakes where the staging shows."
+  },
+  {
+   "id": "tt1157605",
+   "type": "movie",
+   "name": "Anvil! The Story of Anvil",
+   "poster": "https://images.metahub.space/poster/medium/tt1157605/img",
+   "background": "https://images.metahub.space/background/medium/tt1157605/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "80 min",
+   "director": "Sacha Gervasi",
+   "description": "Captures artistic persistence with no payoff in sight. Toronto's own Anvil: fifty-something metal pioneers who nearly made it in 1982, now delivering school lunches and playing to five people in Prague, still completely serious about the band."
+  },
+  {
+   "id": "tt0059655",
+   "type": "movie",
+   "name": "A Spring for the Thirsty",
+   "poster": "https://images.metahub.space/poster/medium/tt0059655/img",
+   "background": "https://images.metahub.space/background/medium/tt0059655/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1965",
+   "year": 1965,
+   "runtime": "70 min",
+   "director": "Yuri Ilyenko",
+   "description": "Captures a parable filmed in a desert: an old well-keeper, visited by memory and strangers, photographed by Yuri Ilyenko — the cinematographer of Shadows — in stark images the Soviet authorities shelved for over twenty years."
+  },
+  {
+   "id": "tt0165636",
+   "type": "movie",
+   "name": "The White Bird Marked with Black",
+   "poster": "https://images.metahub.space/poster/medium/tt0165636/img",
+   "background": "https://images.metahub.space/background/medium/tt0165636/img",
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "99 min",
+   "director": "Yuri Ilyenko",
+   "description": "Captures folk culture being torn by history. In the same Hutsul Carpathians as Shadows, four brothers in a village band end up on opposite sides of every border the war years drag across their valley, in images just as saturated."
+  },
+  {
+   "id": "tt0347307",
+   "type": "movie",
+   "name": "Stone Cross",
+   "poster": "https://images.metahub.space/poster/medium/tt0347307/img",
+   "background": "https://images.metahub.space/background/medium/tt0347307/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "1968",
+   "year": 1968,
+   "runtime": "80 min",
+   "director": "Leonid Osyka",
+   "description": "Captures farewell as a whole way of life ending. A Ukrainian peasant spends his last night before emigrating to Canada saying goodbye, and carves himself a stone cross — the austere black-and-white twin of Shadows, from the same national school."
   }
  ]
 }

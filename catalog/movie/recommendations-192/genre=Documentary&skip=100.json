@@ -1,0 +1,232 @@
+{
+ "metas": [
+  {
+   "id": "tt1157605",
+   "type": "movie",
+   "name": "Anvil! The Story of Anvil",
+   "poster": "https://images.metahub.space/poster/medium/tt1157605/img",
+   "background": "https://images.metahub.space/background/medium/tt1157605/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "80 min",
+   "director": "Sacha Gervasi",
+   "description": "Captures artistic persistence with no payoff in sight. Toronto's own Anvil: fifty-something metal pioneers who nearly made it in 1982, now delivering school lunches and playing to five people in Prague, still completely serious about the band."
+  },
+  {
+   "id": "tt0061589",
+   "type": "movie",
+   "name": "Dont Look Back",
+   "poster": "https://images.metahub.space/poster/medium/tt0061589/img",
+   "background": "https://images.metahub.space/background/medium/tt0061589/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "96 min",
+   "director": "D.A. Pennebaker",
+   "description": "Captures celebrity as combat sport, at the moment it was invented. Pennebaker inside Dylan's 1965 England tour: the cue-card sequence, Dylan dismantling journalists in hotel rooms, a persona manufactured in front of the lens."
+  },
+  {
+   "id": "tt7681902",
+   "type": "movie",
+   "name": "Won't You Be My Neighbor?",
+   "poster": "https://images.metahub.space/poster/medium/tt7681902/img",
+   "background": "https://images.metahub.space/background/medium/tt7681902/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "95 min",
+   "director": "Morgan Neville",
+   "description": "Captures gentleness deployed as a discipline, not a temperament. Fred Rogers turns out to have been exactly as radical as he appeared: using children's television to insist, slowly and on purpose, that every child is lovable as they are."
+  },
+  {
+   "id": "tt14512538",
+   "type": "movie",
+   "name": "Roadrunner: A Film About Anthony Bourdain",
+   "poster": "https://images.metahub.space/poster/medium/tt14512538/img",
+   "background": "https://images.metahub.space/background/medium/tt14512538/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "119 min",
+   "director": "Morgan Neville",
+   "description": "Captures charisma as both the gift and the mechanism of self-destruction. Anthony Bourdain's rise and suicide, told by the friends and crew who travelled with him and remain angry and bewildered in roughly equal measure."
+  },
+  {
+   "id": "tt5433114",
+   "type": "movie",
+   "name": "Diego Maradona",
+   "poster": "https://images.metahub.space/poster/medium/tt5433114/img",
+   "background": "https://images.metahub.space/background/medium/tt5433114/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "130 min",
+   "director": "Asif Kapadia",
+   "description": "Captures fame as a hostage situation where the hostage keeps scoring goals. Kapadia builds Maradona's Naples years entirely from archive: adored as a god, pulled into the Camorra's orbit, collapsing under a worship no person could survive."
+  },
+  {
+   "id": "tt3089388",
+   "type": "movie",
+   "name": "Tim's Vermeer",
+   "poster": "https://images.metahub.space/poster/medium/tt3089388/img",
+   "background": "https://images.metahub.space/background/medium/tt3089388/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "80 min",
+   "director": "Teller",
+   "description": "Captures obsession as method: an engineering argument settled by actually doing the thing. Inventor Tim Jenison, who can't paint, spends years testing his theory that Vermeer used optical devices — by building the device and painting a Vermeer with it."
+  },
+  {
+   "id": "tt5116410",
+   "type": "movie",
+   "name": "Tower",
+   "poster": "https://images.metahub.space/poster/medium/tt5116410/img",
+   "background": "https://images.metahub.space/background/medium/tt5116410/img",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "82 min",
+   "director": "Keith Maitland",
+   "description": "Captures how people inside an event remember it — partial, sensory, nothing like the news summary. The 1966 UT Austin sniper massacre retold in rotoscoped animation from survivors' memories, switching to real footage only at the end."
+  },
+  {
+   "id": "tt0091943",
+   "type": "movie",
+   "name": "Sherman's March",
+   "poster": "https://images.metahub.space/poster/medium/tt0091943/img",
+   "background": "https://images.metahub.space/background/medium/tt0091943/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1986",
+   "year": 1986,
+   "runtime": "157 min",
+   "director": "Ross McElwee",
+   "description": "Captures the personal documentary being invented out of failure. McElwee sets out to film Sherman's Civil War campaign, gets dumped before shooting starts, and the film becomes his disastrous search for love among old flames, narrated in a deadpan spiral."
+  },
+  {
+   "id": "tt0390538",
+   "type": "movie",
+   "name": "Tarnation",
+   "poster": "https://images.metahub.space/poster/medium/tt0390538/img",
+   "background": "https://images.metahub.space/background/medium/tt0390538/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "88 min",
+   "director": "Jonathan Caouette",
+   "description": "Captures self-documentation as survival strategy. Caouette assembles his life from family photos, answering-machine tapes and home video — a mother destroyed by shock treatments and lithium, a childhood spent performing for cameras — edited on iMovie for a few hundred dollars."
+  },
+  {
+   "id": "tt6209282",
+   "type": "movie",
+   "name": "Ex Libris: The New York Public Library",
+   "poster": "https://images.metahub.space/poster/medium/tt6209282/img",
+   "background": "https://images.metahub.space/background/medium/tt6209282/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "197 min",
+   "director": "Frederick Wiseman",
+   "description": "Captures a civic institution actually functioning as the thing it claims to be, which turns out to be quietly riveting. Wiseman, three hours, no narration: board meetings, story time, job-search classes, a branch deciding its budget at the New York Public Library."
+  },
+  {
+   "id": "tt0054205",
+   "type": "movie",
+   "name": "Primary",
+   "poster": "https://images.metahub.space/poster/medium/tt0054205/img",
+   "background": "https://images.metahub.space/background/medium/tt0054205/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "News"
+   ],
+   "releaseInfo": "1960",
+   "year": 1960,
+   "runtime": "60 min",
+   "director": "Robert Drew",
+   "description": "Captures the moment politics and television fused, visible as it happens. The film that invented American cinéma vérité: newly portable sync-sound cameras follow Kennedy and Humphrey through the 1960 Wisconsin primary, into rooms no camera had entered before."
+  },
+  {
+   "id": "tt0078850",
+   "type": "movie",
+   "name": "Best Boy",
+   "poster": "https://images.metahub.space/poster/medium/tt0078850/img",
+   "background": "https://images.metahub.space/background/medium/tt0078850/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1979",
+   "year": 1979,
+   "runtime": "111 min",
+   "director": "Ira Wohl",
+   "description": "Captures love expressed as letting go, at the lowest possible volume. Philly, a developmentally disabled man in his fifties whose elderly parents have done everything for him, is gently taught to live more independently — because they won't always be there."
+  },
+  {
+   "id": "tt0150230",
+   "type": "movie",
+   "name": "The Cruise",
+   "poster": "https://images.metahub.space/poster/medium/tt0150230/img",
+   "background": "https://images.metahub.space/background/medium/tt0150230/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "76 min",
+   "director": "Bennett Miller",
+   "description": "Captures a mind turning a minimum-wage job into a total worldview. Timothy 'Speed' Levitch, a New York double-decker tour guide, treats the job as performance philosophy, riffing on grid plans, pigeons and mortality to busloads of tourists."
+  },
+  {
+   "id": "tt0013257",
+   "type": "movie",
+   "name": "Häxan",
+   "poster": "https://images.metahub.space/poster/medium/tt0013257/img",
+   "background": "https://images.metahub.space/background/medium/tt0013257/img",
+   "genres": [
+    "Documentary",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "1922",
+   "year": 1922,
+   "runtime": "105 min",
+   "director": "Benjamin Christensen",
+   "description": "Captures a lecture dissolving into delirium. Christensen's silent Swedish study of witchcraft keeps abandoning its own lecture format for re-enactments — sabbaths, torture chambers, possessed nuns — and from 1922 remains wilder than most folk horror made since."
+  }
+ ]
+}
