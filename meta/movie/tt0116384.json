@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt0116384",
+  "awards": "5 wins & 6 nominations total",
+  "cast": [
+   "Shaghayeh Djodat",
+   "Hossein Moharami",
+   "Rogheih Moharami"
+  ],
+  "country": "Iran, France",
+  "description": "Captures storytelling embedded in a folk object. A nomad tribe's woven carpet unfolds as it is washed in a river: the girl in the pattern tells her own story of forbidden love, in colours as saturated as Parajanov's Carpathians.\n\nWhen an old couple washes their gabbeh - a type of Persian rug - a young woman magically appears and tells them her life story.",
+  "director": [
+   "Mohsen Makhmalbaf"
+  ],
+  "dvdRelease": "2018-12-06T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "imdbRating": "6.9",
+  "name": "Gabbeh",
+  "poster": "https://images.metahub.space/poster/small/tt0116384/img",
+  "released": "1997-06-25T00:00:00.000Z",
+  "runtime": "72 min",
+  "slug": "movie/gabbeh-0116384",
+  "type": "movie",
+  "writer": [
+   "Mohsen Makhmalbaf"
+  ],
+  "year": "1997",
+  "moviedb_id": 43771,
+  "popularities": {
+   "moviedb": 2.1977,
+   "stremio": 0.07325666666666668,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "mFFkf0hNgVw",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0116384/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0116384/img",
+  "popularity": 0.07325666666666668,
+  "id": "tt0116384",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "releaseInfo": "1997",
+  "trailerStreams": [
+   {
+    "title": "Gabbeh",
+    "ytId": "mFFkf0hNgVw"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0116384"
+   },
+   {
+    "name": "Gabbeh",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/gabbeh-0116384"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Shaghayeh Djodat",
+    "category": "Cast",
+    "url": "stremio:///search?search=Shaghayeh%20Djodat"
+   },
+   {
+    "name": "Hossein Moharami",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hossein%20Moharami"
+   },
+   {
+    "name": "Rogheih Moharami",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rogheih%20Moharami"
+   },
+   {
+    "name": "Mohsen Makhmalbaf",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mohsen%20Makhmalbaf"
+   },
+   {
+    "name": "Mohsen Makhmalbaf",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mohsen%20Makhmalbaf"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0116384",
+   "hasScheduledVideos": false
+  }
+ }
+}

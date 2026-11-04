@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "awards": "9 wins & 2 nominations total",
+  "cast": [
+   "Masato Hagiwara",
+   "Koji Yakusho",
+   "Tsuyoshi Ujiki"
+  ],
+  "country": "Japan",
+  "description": "Captures emptiness spreading from person to person. A Tokyo detective investigates murders where each killer is different, calm, and cannot explain themselves — hypnotic and grey rather than jumpy.\n\nA frustrated detective deals with the case of several gruesome murders committed by people who have no recollection of what they've done.",
+  "director": [
+   "Kiyoshi Kurosawa"
+  ],
+  "dvdRelease": "2005-08-09T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Horror",
+   "Mystery"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0123948",
+  "moviedb_id": 36095,
+  "name": "Cure",
+  "popularity": 0.2650866666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0123948/img",
+  "released": "2001-07-08T00:00:00.000Z",
+  "runtime": "111 min",
+  "trailers": [
+   {
+    "source": "pv91E5L6_Tw",
+    "type": "Trailer"
+   },
+   {
+    "source": "Kr0LzE4VRkQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "b4ax7CNt4ag",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Kiyoshi Kurosawa"
+  ],
+  "year": "2001",
+  "popularities": {
+   "moviedb": 7.9526,
+   "stremio": 0.2650866666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/cure-0123948",
+  "background": "https://images.metahub.space/background/medium/tt0123948/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0123948/img",
+  "id": "tt0123948",
+  "genres": [
+   "Crime",
+   "Horror",
+   "Mystery"
+  ],
+  "releaseInfo": "2001",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Cure",
+    "ytId": "pv91E5L6_Tw"
+   },
+   {
+    "title": "Cure",
+    "ytId": "Kr0LzE4VRkQ"
+   },
+   {
+    "title": "Cure",
+    "ytId": "b4ax7CNt4ag"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0123948"
+   },
+   {
+    "name": "Cure",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/cure-0123948"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Masato Hagiwara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Masato%20Hagiwara"
+   },
+   {
+    "name": "Koji Yakusho",
+    "category": "Cast",
+    "url": "stremio:///search?search=Koji%20Yakusho"
+   },
+   {
+    "name": "Tsuyoshi Ujiki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tsuyoshi%20Ujiki"
+   },
+   {
+    "name": "Kiyoshi Kurosawa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kiyoshi%20Kurosawa"
+   },
+   {
+    "name": "Kiyoshi Kurosawa",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kiyoshi%20Kurosawa"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0123948",
+   "hasScheduledVideos": false
+  }
+ }
+}

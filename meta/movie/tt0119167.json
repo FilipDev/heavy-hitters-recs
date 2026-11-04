@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "5 wins & 9 nominations total",
+  "cast": [
+   "Susanne Lothar",
+   "Ulrich Mühe",
+   "Arno Frisch"
+  ],
+  "country": "Austria",
+  "description": "Captures the audience's appetite, by refusing to feed it the usual way. Two polite young men hold a family at their holiday house; violence happens off-screen or gets rewound, and the film keeps asking why you're still watching.\n\nTwo violent young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
+  "director": [
+   "Michael Haneke"
+  ],
+  "dvdRelease": "2020-10-15T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Horror"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0119167",
+  "moviedb_id": 10234,
+  "name": "Funny Games",
+  "popularity": 0.26034,
+  "poster": "https://images.metahub.space/poster/small/tt0119167/img",
+  "released": "1998-03-11T00:00:00.000Z",
+  "runtime": "109 min",
+  "trailers": [
+   {
+    "source": "bH2HS6uWIhQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Haneke"
+  ],
+  "year": "1998",
+  "background": "https://images.metahub.space/background/medium/tt0119167/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0119167/img",
+  "popularities": {
+   "moviedb": 7.8102,
+   "stremio": 0.26034,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/funny-games-0119167",
+  "id": "tt0119167",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Horror"
+  ],
+  "releaseInfo": "1998",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Funny Games",
+    "ytId": "bH2HS6uWIhQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0119167"
+   },
+   {
+    "name": "Funny Games",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/funny-games-0119167"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Susanne Lothar",
+    "category": "Cast",
+    "url": "stremio:///search?search=Susanne%20Lothar"
+   },
+   {
+    "name": "Ulrich Mühe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ulrich%20M%C3%BChe"
+   },
+   {
+    "name": "Arno Frisch",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arno%20Frisch"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0119167",
+   "hasScheduledVideos": false
+  }
+ }
+}

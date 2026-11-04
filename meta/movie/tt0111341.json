@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination total",
+  "cast": [
+   "Mihály Vig",
+   "Putyi Horváth",
+   "László feLugossy"
+  ],
+  "country": "Hungary, Germany, Switzerland",
+  "description": "Captures stagnation as weather. Seven and a half hours on a collapsing Hungarian collective farm — rain, mud, a conman returning, long shots of people walking — where duration itself does the work.\n\nOn the eve of a large payment, residents of a collapsing collective farm see their plans turn into desolation when they discover that Irimiás, a former co-worker who they thought was dead, is returning to the community.",
+  "director": [
+   "Béla Tarr"
+  ],
+  "dvdRelease": "2008-07-22T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0111341",
+  "moviedb_id": 31414,
+  "name": "Sátántangó",
+  "popularity": 0.15048333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0111341/img",
+  "released": "1994-04-28T00:00:00.000Z",
+  "runtime": "432 min",
+  "trailers": [
+   {
+    "source": "SlLCphjFGrk",
+    "type": "Trailer"
+   },
+   {
+    "source": "UuyznqAILAM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "László Krasznahorkai",
+   "Mihály Vig",
+   "Péter Dobai"
+  ],
+  "year": "1994",
+  "popularities": {
+   "moviedb": 4.5145,
+   "stremio": 0.15048333333333333,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/satantango-0111341",
+  "background": "https://images.metahub.space/background/medium/tt0111341/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0111341/img",
+  "id": "tt0111341",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1994",
+  "trailerStreams": [
+   {
+    "title": "Satantango",
+    "ytId": "SlLCphjFGrk"
+   },
+   {
+    "title": "Satantango",
+    "ytId": "UuyznqAILAM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0111341"
+   },
+   {
+    "name": "Satantango",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/satantango-0111341"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mihály Vig",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mih%C3%A1ly%20Vig"
+   },
+   {
+    "name": "Putyi Horváth",
+    "category": "Cast",
+    "url": "stremio:///search?search=Putyi%20Horv%C3%A1th"
+   },
+   {
+    "name": "László feLugossy",
+    "category": "Cast",
+    "url": "stremio:///search?search=L%C3%A1szl%C3%B3%20feLugossy"
+   },
+   {
+    "name": "László Krasznahorkai",
+    "category": "Writers",
+    "url": "stremio:///search?search=L%C3%A1szl%C3%B3%20Krasznahorkai"
+   },
+   {
+    "name": "Mihály Vig",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mih%C3%A1ly%20Vig"
+   },
+   {
+    "name": "Péter Dobai",
+    "category": "Writers",
+    "url": "stremio:///search?search=P%C3%A9ter%20Dobai"
+   },
+   {
+    "name": "Béla Tarr",
+    "category": "Directors",
+    "url": "stremio:///search?search=B%C3%A9la%20Tarr"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0111341",
+   "hasScheduledVideos": false
+  }
+ }
+}

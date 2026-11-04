@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "2 wins & 7 nominations total",
+  "cast": [
+   "Ethan Hawke",
+   "Julie Delpy",
+   "Andrea Eckert"
+  ],
+  "country": "United States, Austria",
+  "description": "Captures falling for someone through conversation alone. Two strangers on a train spend one night walking and talking in Vienna until a morning flight.\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+  "director": [
+   "Richard Linklater"
+  ],
+  "dvdRelease": "2008-10-03T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0112471",
+  "moviedb_id": 76,
+  "name": "Before Sunrise",
+  "popularity": 0.3805633333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0112471/img",
+  "released": "1995-01-27T00:00:00.000Z",
+  "runtime": "101 min",
+  "trailers": [
+   {
+    "source": "jGvcbSabADM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Richard Linklater",
+   "Kim Krizan"
+  ],
+  "year": "1995",
+  "background": "https://images.metahub.space/background/medium/tt0112471/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0112471/img",
+  "popularities": {
+   "moviedb": 11.4169,
+   "stremio": 0.3805633333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/before-sunrise-0112471",
+  "id": "tt0112471",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1995",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Before Sunrise",
+    "ytId": "jGvcbSabADM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0112471"
+   },
+   {
+    "name": "Before Sunrise",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/before-sunrise-0112471"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Ethan Hawke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ethan%20Hawke"
+   },
+   {
+    "name": "Julie Delpy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Julie%20Delpy"
+   },
+   {
+    "name": "Andrea Eckert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Andrea%20Eckert"
+   },
+   {
+    "name": "Richard Linklater",
+    "category": "Writers",
+    "url": "stremio:///search?search=Richard%20Linklater"
+   },
+   {
+    "name": "Kim Krizan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kim%20Krizan"
+   },
+   {
+    "name": "Richard Linklater",
+    "category": "Directors",
+    "url": "stremio:///search?search=Richard%20Linklater"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0112471",
+   "hasScheduledVideos": false
+  }
+ }
+}

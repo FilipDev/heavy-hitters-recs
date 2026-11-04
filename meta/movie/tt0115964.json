@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "9 wins & 6 nominations total",
+  "cast": [
+   "James Spader",
+   "Holly Hunter",
+   "Elias Koteas"
+  ],
+  "country": "Canada, United Kingdom",
+  "description": "Captures desire re-wired through injury and machinery. After a serious collision on Toronto highways, a couple drift into a circle for whom crashes, scars and cars have become erotic — cold, deadpan and permanently controversial.\n\nA car crash victim suddenly finds himself turned on by car accidents and becomes involved with an underground sub-culture of like-minded souls.",
+  "director": [
+   "David Cronenberg"
+  ],
+  "dvdRelease": "1998-11-17T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "6.4",
+  "imdb_id": "tt0115964",
+  "moviedb_id": 884,
+  "name": "Crash",
+  "popularity": 0.4093733333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0115964/img",
+  "released": "1997-03-21T00:00:00.000Z",
+  "runtime": "100 min",
+  "trailers": [
+   {
+    "source": "9dIC-lDgpZU",
+    "type": "Trailer"
+   },
+   {
+    "source": "aKvck-t_t3s",
+    "type": "Trailer"
+   },
+   {
+    "source": "x_ABJM8XesQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "J.G. Ballard",
+   "David Cronenberg"
+  ],
+  "year": "1997",
+  "popularities": {
+   "moviedb": 12.2812,
+   "stremio": 0.4093733333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0115964/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0115964/img",
+  "slug": "movie/crash-0115964",
+  "id": "tt0115964",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1997",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Crash",
+    "ytId": "9dIC-lDgpZU"
+   },
+   {
+    "title": "Crash",
+    "ytId": "aKvck-t_t3s"
+   },
+   {
+    "title": "Crash",
+    "ytId": "x_ABJM8XesQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0115964"
+   },
+   {
+    "name": "Crash",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/crash-0115964"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "James Spader",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Spader"
+   },
+   {
+    "name": "Holly Hunter",
+    "category": "Cast",
+    "url": "stremio:///search?search=Holly%20Hunter"
+   },
+   {
+    "name": "Elias Koteas",
+    "category": "Cast",
+    "url": "stremio:///search?search=Elias%20Koteas"
+   },
+   {
+    "name": "J.G. Ballard",
+    "category": "Writers",
+    "url": "stremio:///search?search=J.G.%20Ballard"
+   },
+   {
+    "name": "David Cronenberg",
+    "category": "Writers",
+    "url": "stremio:///search?search=David%20Cronenberg"
+   },
+   {
+    "name": "David Cronenberg",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Cronenberg"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0115964",
+   "hasScheduledVideos": false
+  }
+ }
+}

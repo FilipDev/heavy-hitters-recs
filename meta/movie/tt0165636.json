@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "id": "tt0165636",
+  "imdb_id": "tt0165636",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0165636/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0165636/img",
+  "background": "https://live.metahub.space/background/medium/tt0165636/img",
+  "moviedb_id": 255739,
+  "name": "The White Bird Marked with Black",
+  "description": "Captures folk culture being torn by history. In the same Hutsul Carpathians as Shadows, four brothers in a village band end up on opposite sides of every border the war years drag across their valley, in images just as saturated.\n\nA family struggles to survive in an area that was claimed as part of Rumania, Poland and Ukraine, all within a short span of time. When World War II comes, various family members choose different masters; some even choose to work for the Soviets. War, struggle, marriages, births, deaths--all these events punctuate the story of this large family.",
+  "genres": [
+   "War",
+   "Drama"
+  ],
+  "releaseInfo": "1972",
+  "runtime": "99 min",
+  "trailers": [
+   {
+    "source": "TXbhGL5QoCE",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Ivan Mykolaichuk",
+   "Yurii Mykolaichuk",
+   "Alexandr Plotnikov"
+  ],
+  "credits_cast": [
+   {
+    "character": "Petro Dzvonar",
+    "name": "Ivan Mykolaichuk",
+    "profile_path": "/pac3Mi3RFqYxMf3VSPrAKLyuYAa.jpg",
+    "id": 96209
+   },
+   {
+    "character": "Bohdan Dzvonar",
+    "name": "Yurii Mykolaichuk",
+    "profile_path": "/7msZmf0q5VUOAULZ2atnZHNskN2.jpg",
+    "id": 1299958
+   },
+   {
+    "character": "Les Dzvonar",
+    "name": "Alexandr Plotnikov",
+    "profile_path": "/2gF88BbwvGYs18uG24tGciAMLkP.jpg",
+    "id": 1299959
+   },
+   {
+    "character": "Dana",
+    "name": "Larysa Kadochnykova",
+    "profile_path": "/9nNo8g8awZR9CDHl0TYO4EqOIOc.jpg",
+    "id": 96210
+   },
+   {
+    "character": "Orest Dzvonar",
+    "name": "Bohdan Stupka",
+    "profile_path": "/pZrtYHjjuEdvjp6rG6QEXD4t4id.jpg",
+    "id": 82513
+   },
+   {
+    "character": "Katryna Dzvonar",
+    "name": "Nataliia Naum",
+    "profile_path": "/d2hObjwzmSbhV5oBTvIVOICVZQ0.jpg",
+    "id": 1272512
+   },
+   {
+    "character": "Vivdya",
+    "name": "Gemma Firsova",
+    "profile_path": "/jl8Nw5h4mCdRvuP3CrGuVAF6rp.jpg",
+    "id": 1804103
+   },
+   {
+    "character": "Priest Myron",
+    "name": "Vasyl Symchych",
+    "profile_path": "/gAjgKdkyXaKqdz5XJXw42wIohHn.jpg",
+    "id": 1333035
+   },
+   {
+    "character": "Heorhiy as a child",
+    "name": "Oleg Polstvin",
+    "profile_path": "/hACFFikTOOCIopk35Lb1r9mHzm5.jpg",
+    "id": 1967728
+   },
+   {
+    "character": "Heorhiy",
+    "name": "Mykhailo Illienko",
+    "profile_path": "/eFaFg1Xbwhk66xFuvRWdzQhGZwF.jpg",
+    "id": 1045456
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Yurii Illienko",
+    "profile_path": "/sasL90bGrqsgglyAe3ZDBV8IXIO.jpg",
+    "id": 96205
+   }
+  ],
+  "director": [
+   "Yurii Illienko"
+  ],
+  "imdbRating": "7.5",
+  "language": "Ukrainian, Romanian, Russian",
+  "country": "Soviet Union",
+  "awards": "1 win",
+  "slug": "movie/the-white-bird-marked-with-black-0165636",
+  "behaviorHints": {
+   "defaultVideoId": "tt0165636",
+   "hasScheduledVideos": false
+  }
+ }
+}

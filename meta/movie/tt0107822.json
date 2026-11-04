@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "Won 3 Oscars. 65 wins & 57 nominations total",
+  "cast": [
+   "Holly Hunter",
+   "Harvey Keitel",
+   "Sam Neill"
+  ],
+  "country": "New Zealand, Australia, France",
+  "description": "Captures desire conducted entirely through objects, landscape and music. Campion's mute Scottish bride arrives in colonial New Zealand, and her piano, left on the beach by her husband, becomes the currency of a wordless negotiation in bush and mud that feel mythic.\n\nIn the mid-19th century a mute woman is sent to New Zealand along with her young daughter and prized piano for an arranged marriage to a farmer, but is soon lusted after by a farm worker.",
+  "director": [
+   "Jane Campion"
+  ],
+  "dvdRelease": "2016-10-08T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Music",
+   "Romance"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0107822",
+  "moviedb_id": 713,
+  "name": "The Piano",
+  "popularity": 0.24932666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0107822/img",
+  "released": "1994-02-11T00:00:00.000Z",
+  "runtime": "120 min",
+  "trailers": [
+   {
+    "source": "IeHHVJGrfpk",
+    "type": "Trailer"
+   },
+   {
+    "source": "61ooIf1QDZo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jane Campion"
+  ],
+  "year": "1994",
+  "background": "https://images.metahub.space/background/medium/tt0107822/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0107822/img",
+  "popularities": {
+   "moviedb": 7.4798,
+   "stremio": 0.24932666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-piano-0107822",
+  "id": "tt0107822",
+  "genres": [
+   "Drama",
+   "Music",
+   "Romance"
+  ],
+  "releaseInfo": "1994",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Piano",
+    "ytId": "IeHHVJGrfpk"
+   },
+   {
+    "title": "The Piano",
+    "ytId": "61ooIf1QDZo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0107822"
+   },
+   {
+    "name": "The Piano",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-piano-0107822"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Holly Hunter",
+    "category": "Cast",
+    "url": "stremio:///search?search=Holly%20Hunter"
+   },
+   {
+    "name": "Harvey Keitel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Harvey%20Keitel"
+   },
+   {
+    "name": "Sam Neill",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sam%20Neill"
+   },
+   {
+    "name": "Jane Campion",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jane%20Campion"
+   },
+   {
+    "name": "Jane Campion",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jane%20Campion"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0107822",
+   "hasScheduledVideos": false
+  }
+ }
+}

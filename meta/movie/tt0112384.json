@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "awards": "Won 2 Oscars. 31 wins & 59 nominations total",
+  "cast": [
+   "Tom Hanks",
+   "Bill Paxton",
+   "Kevin Bacon"
+  ],
+  "country": "United States",
+  "description": "Captures competence under constraint. An explosion in space, and the film becomes people in rooms with slide rules solving the next physical problem before the air runs out — the opposite of lone-hero cinema.\n\nNASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+  "director": [
+   "Ron Howard"
+  ],
+  "dvdRelease": "2012-06-14T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0112384",
+  "moviedb_id": 568,
+  "name": "Apollo 13",
+  "popularity": 0.32654333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0112384/img",
+  "released": "1995-06-30T00:00:00.000Z",
+  "runtime": "140 min",
+  "trailers": [
+   {
+    "source": "B1KJ9XeZuxA",
+    "type": "Trailer"
+   },
+   {
+    "source": "e3ZtOS4MCkk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jim Lovell",
+   "Jeffrey Kluger",
+   "William Broyles Jr."
+  ],
+  "year": "1995",
+  "background": "https://images.metahub.space/background/medium/tt0112384/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0112384/img",
+  "popularities": {
+   "moviedb": 9.7963,
+   "stremio": 0.32654333333333335,
+   "trakt": 45,
+   "stremio_lib": 0
+  },
+  "slug": "movie/apollo-13-0112384",
+  "id": "tt0112384",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1995",
+  "trailerStreams": [
+   {
+    "title": "Apollo 13",
+    "ytId": "B1KJ9XeZuxA"
+   },
+   {
+    "title": "Apollo 13",
+    "ytId": "e3ZtOS4MCkk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0112384"
+   },
+   {
+    "name": "Apollo 13",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/apollo-13-0112384"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Tom Hanks",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tom%20Hanks"
+   },
+   {
+    "name": "Bill Paxton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bill%20Paxton"
+   },
+   {
+    "name": "Kevin Bacon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kevin%20Bacon"
+   },
+   {
+    "name": "Jim Lovell",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jim%20Lovell"
+   },
+   {
+    "name": "Jeffrey Kluger",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jeffrey%20Kluger"
+   },
+   {
+    "name": "William Broyles Jr.",
+    "category": "Writers",
+    "url": "stremio:///search?search=William%20Broyles%20Jr."
+   },
+   {
+    "name": "Ron Howard",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ron%20Howard"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0112384",
+   "hasScheduledVideos": false
+  }
+ }
+}

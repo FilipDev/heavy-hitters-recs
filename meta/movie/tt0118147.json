@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 12 wins & 5 nominations total",
+  "cast": [
+   "Muhammad Ali",
+   "George Foreman",
+   "Don King"
+  ],
+  "country": "United States",
+  "description": "Captures Ali as a political and verbal artist at his peak. The Rumble in the Jungle, Zaire 1974: training footage, a music festival, Mobutu's stadium, and Ali talking everyone, including himself, into belief.\n\nBoxing documentary on the 1974 world heavyweight championship bout between defending champion, George Foreman, and the underdog challenger, Muhammad Ali.",
+  "director": [
+   "Leon Gast"
+  ],
+  "dvdRelease": "2019-11-14T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Sport"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0118147",
+  "moviedb_id": 10548,
+  "name": "When We Were Kings",
+  "popularity": 0.08425333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0118147/img",
+  "released": "1997-02-14T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "uBauogNmRqY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1997",
+  "popularities": {
+   "moviedb": 2.5276,
+   "stremio": 0.08425333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0118147/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0118147/img",
+  "slug": "movie/when-we-were-kings-0118147",
+  "id": "tt0118147",
+  "genres": [
+   "Documentary",
+   "Sport"
+  ],
+  "releaseInfo": "1997",
+  "trailerStreams": [
+   {
+    "title": "When We Were Kings",
+    "ytId": "uBauogNmRqY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0118147"
+   },
+   {
+    "name": "When We Were Kings",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/when-we-were-kings-0118147"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Muhammad Ali",
+    "category": "Cast",
+    "url": "stremio:///search?search=Muhammad%20Ali"
+   },
+   {
+    "name": "George Foreman",
+    "category": "Cast",
+    "url": "stremio:///search?search=George%20Foreman"
+   },
+   {
+    "name": "Don King",
+    "category": "Cast",
+    "url": "stremio:///search?search=Don%20King"
+   },
+   {
+    "name": "Leon Gast",
+    "category": "Directors",
+    "url": "stremio:///search?search=Leon%20Gast"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0118147",
+   "hasScheduledVideos": false
+  }
+ }
+}

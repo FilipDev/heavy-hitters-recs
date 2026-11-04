@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "9 wins & 17 nominations total",
+  "cast": [
+   "Tony Shalhoub",
+   "Stanley Tucci",
+   "Marc Anthony"
+  ],
+  "country": "United States",
+  "description": "Captures two brothers arguing about whether a meal should be art or business. Italian immigrants, a failing restaurant, one elaborate dinner to save it, and a final wordless scene of one cooking breakfast for the other.\n\nNew Jersey, 1950s. Two brothers run an Italian restaurant. Business is not going well as a rival Italian restaurant is out-competing them. In a final effort to save the restaurant, the brothers plan to put on an evening of incredi...",
+  "director": [
+   "Campbell Scott",
+   "Stanley Tucci"
+  ],
+  "dvdRelease": "2010-01-21T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0115678",
+  "moviedb_id": 18203,
+  "name": "Big Night",
+  "popularity": 0.10953666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0115678/img",
+  "released": "1996-09-20T00:00:00.000Z",
+  "runtime": "109 min",
+  "trailers": [
+   {
+    "source": "lQQhoYLsoHI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Stanley Tucci",
+   "Joseph Tropiano"
+  ],
+  "year": "1996",
+  "popularities": {
+   "moviedb": 3.2861,
+   "stremio": 0.10953666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0115678/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0115678/img",
+  "slug": "movie/big-night-0115678",
+  "id": "tt0115678",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1996",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Big Night",
+    "ytId": "lQQhoYLsoHI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0115678"
+   },
+   {
+    "name": "Big Night",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/big-night-0115678"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Tony Shalhoub",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tony%20Shalhoub"
+   },
+   {
+    "name": "Stanley Tucci",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stanley%20Tucci"
+   },
+   {
+    "name": "Marc Anthony",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marc%20Anthony"
+   },
+   {
+    "name": "Stanley Tucci",
+    "category": "Writers",
+    "url": "stremio:///search?search=Stanley%20Tucci"
+   },
+   {
+    "name": "Joseph Tropiano",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joseph%20Tropiano"
+   },
+   {
+    "name": "Campbell Scott",
+    "category": "Directors",
+    "url": "stremio:///search?search=Campbell%20Scott"
+   },
+   {
+    "name": "Stanley Tucci",
+    "category": "Directors",
+    "url": "stremio:///search?search=Stanley%20Tucci"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0115678",
+   "hasScheduledVideos": false
+  }
+ }
+}

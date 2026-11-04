@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 19 wins & 40 nominations total",
+  "cast": [
+   "Richard Farnsworth",
+   "Sissy Spacek",
+   "Jane Galloway Heitz"
+  ],
+  "country": "United Kingdom, France, United States",
+  "description": "Captures sincerity with zero irony. An old man who cannot drive a car rides a lawnmower tractor across two states to see his estranged, dying brother — David Lynch's gentlest film.\n\nAlvin Straight, a 73-year-old, learns that his estranged brother, Lyle is critically ill. Unable to drive, Alvin embarks on a journey from Iowa to Mt. Zion by riding a lawn mower.",
+  "director": [
+   "David Lynch"
+  ],
+  "dvdRelease": "2016-12-11T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0166896",
+  "moviedb_id": 404,
+  "name": "The Straight Story",
+  "popularity": 0.17397666666666664,
+  "poster": "https://images.metahub.space/poster/small/tt0166896/img",
+  "released": "1999-11-03T00:00:00.000Z",
+  "runtime": "112 min",
+  "trailers": [
+   {
+    "source": "lcMyFckt_Hs",
+    "type": "Trailer"
+   },
+   {
+    "source": "ckrwH3Qdhz0",
+    "type": "Trailer"
+   },
+   {
+    "source": "BauhJIjn9Uk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "John Roach",
+   "Mary Sweeney"
+  ],
+  "year": "1999",
+  "background": "https://images.metahub.space/background/medium/tt0166896/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0166896/img",
+  "popularities": {
+   "moviedb": 5.2193,
+   "stremio": 0.17397666666666664,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-straight-story-0166896",
+  "id": "tt0166896",
+  "genres": [
+   "Biography",
+   "Drama"
+  ],
+  "releaseInfo": "1999",
+  "trailerStreams": [
+   {
+    "title": "The Straight Story",
+    "ytId": "lcMyFckt_Hs"
+   },
+   {
+    "title": "The Straight Story",
+    "ytId": "ckrwH3Qdhz0"
+   },
+   {
+    "title": "The Straight Story",
+    "ytId": "BauhJIjn9Uk"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0166896"
+   },
+   {
+    "name": "The Straight Story",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-straight-story-0166896"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Richard Farnsworth",
+    "category": "Cast",
+    "url": "stremio:///search?search=Richard%20Farnsworth"
+   },
+   {
+    "name": "Sissy Spacek",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sissy%20Spacek"
+   },
+   {
+    "name": "Jane Galloway Heitz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jane%20Galloway%20Heitz"
+   },
+   {
+    "name": "John Roach",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20Roach"
+   },
+   {
+    "name": "Mary Sweeney",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mary%20Sweeney"
+   },
+   {
+    "name": "David Lynch",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Lynch"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0166896",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": null,
+  "cast": [
+   "Kazuo Hara",
+   "Miyuki Takeda",
+   "Sachiko Kobayashi"
+  ],
+  "country": "Japan",
+  "description": "Captures a filmmaker turning his merciless method on himself: Hara follows his ex-wife, radical feminist Miyuki Takeda, through lovers, communes and an unassisted birth, while his new partner records the sound — intimacy documented past every comfortable limit.\n\nIn this uncomfortably intimate film, documentary filmmaker Kazuo Hara visits his ex-girlfriend Miyuki and records her new relationships.",
+  "director": [
+   "Kazuo Hara"
+  ],
+  "dvdRelease": "2007-03-27T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0233809",
+  "moviedb_id": 130639,
+  "name": "Extreme Private Eros: Love Song 1974",
+  "popularity": 0.03993666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0233809/img",
+  "released": "1974-06-25T00:00:00.000Z",
+  "runtime": "98 min",
+  "trailers": [
+   {
+    "source": "5CTbAwfekOk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1974",
+  "popularities": {
+   "moviedb": 1.1981,
+   "stremio": 0.03993666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/extreme-private-eros-love-song-1974-0233809",
+  "background": "https://images.metahub.space/background/medium/tt0233809/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0233809/img",
+  "id": "tt0233809",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "1974",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Extreme Private Eros: Love Song 1974",
+    "ytId": "5CTbAwfekOk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0233809"
+   },
+   {
+    "name": "Extreme Private Eros: Love Song 1974",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/extreme-private-eros-love-song-1974-0233809"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Kazuo Hara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kazuo%20Hara"
+   },
+   {
+    "name": "Miyuki Takeda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Miyuki%20Takeda"
+   },
+   {
+    "name": "Sachiko Kobayashi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sachiko%20Kobayashi"
+   },
+   {
+    "name": "Kazuo Hara",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kazuo%20Hara"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0233809",
+   "hasScheduledVideos": false
+  }
+ }
+}

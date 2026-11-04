@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 21 wins & 21 nominations total",
+  "cast": [
+   "Ray Winstone",
+   "Ben Kingsley",
+   "Ian McShane"
+  ],
+  "country": "United Kingdom, Spain, United States",
+  "description": "Captures menace arriving in a holiday villa. A retired gangster, happily fat and sunburned in Spain, and Ben Kingsley's Don Logan flying in to scream him back to London for one job — the terror is mostly conversational.\n\nBrutal gangster Don Logan recruits \"retired\" safecracker Gal for one last job, but it goes badly for both of them.",
+  "director": [
+   "Jonathan Glazer"
+  ],
+  "dvdRelease": "2015-11-25T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0203119",
+  "moviedb_id": 11826,
+  "name": "Sexy Beast",
+  "popularity": 0.24824,
+  "poster": "https://images.metahub.space/poster/small/tt0203119/img",
+  "released": "2001-07-13T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "osexRaPM_Gc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Louis Mellis",
+   "David Scinto"
+  ],
+  "year": "2001",
+  "background": "https://images.metahub.space/background/medium/tt0203119/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0203119/img",
+  "popularities": {
+   "moviedb": 7.4472,
+   "stremio": 0.24824,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/sexy-beast-0203119",
+  "id": "tt0203119",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2001",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Sexy Beast",
+    "ytId": "osexRaPM_Gc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0203119"
+   },
+   {
+    "name": "Sexy Beast",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/sexy-beast-0203119"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Ray Winstone",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ray%20Winstone"
+   },
+   {
+    "name": "Ben Kingsley",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ben%20Kingsley"
+   },
+   {
+    "name": "Ian McShane",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ian%20McShane"
+   },
+   {
+    "name": "Louis Mellis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Louis%20Mellis"
+   },
+   {
+    "name": "David Scinto",
+    "category": "Writers",
+    "url": "stremio:///search?search=David%20Scinto"
+   },
+   {
+    "name": "Jonathan Glazer",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jonathan%20Glazer"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0203119",
+   "hasScheduledVideos": false
+  }
+ }
+}

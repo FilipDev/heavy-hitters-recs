@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "imdb_id": "tt0150230",
+  "awards": "5 wins & 5 nominations",
+  "cast": [
+   "Timothy 'Speed' Levitch"
+  ],
+  "country": "United States",
+  "description": "Captures a mind turning a minimum-wage job into a total worldview. Timothy 'Speed' Levitch, a New York double-decker tour guide, treats the job as performance philosophy, riffing on grid plans, pigeons and mortality to busloads of tourists.\n\nTimothy \"Speed\" Levitch, an eccentric New York City tour bus guide, takes tourists around the island of Manhattan and shares an archive of beautifully distorted information about the city.",
+  "director": [
+   "Bennett Miller"
+  ],
+  "dvdRelease": "2007-06-01T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.6",
+  "name": "The Cruise",
+  "poster": "https://images.metahub.space/poster/small/tt0150230/img",
+  "released": "1998-10-23T00:00:00.000Z",
+  "runtime": "76 min",
+  "slug": "movie/the-cruise-0150230",
+  "type": "movie",
+  "year": "1998",
+  "moviedb_id": 32326,
+  "popularities": {
+   "moviedb": 0.8559,
+   "stremio": 0.02853,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "8HWaHBaqajk",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "background": "https://images.metahub.space/background/medium/tt0150230/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0150230/img",
+  "popularity": 0.02853,
+  "id": "tt0150230",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1998",
+  "trailerStreams": [
+   {
+    "title": "The Cruise",
+    "ytId": "8HWaHBaqajk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0150230"
+   },
+   {
+    "name": "The Cruise",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-cruise-0150230"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Timothy 'Speed' Levitch",
+    "category": "Cast",
+    "url": "stremio:///search?search=Timothy%20'Speed'%20Levitch"
+   },
+   {
+    "name": "Bennett Miller",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bennett%20Miller"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0150230",
+   "hasScheduledVideos": false
+  }
+ }
+}

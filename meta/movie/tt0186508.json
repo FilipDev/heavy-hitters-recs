@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 21 wins & 12 nominations total",
+  "cast": [
+   "Compay Segundo",
+   "Ibrahim Ferrer",
+   "Rubén González"
+  ],
+  "country": "Germany, United States, United Kingdom, France, Cuba",
+  "description": "Captures old musicians being found again. Elderly Cuban son musicians, some retired to shining shoes, recording and touring — the pleasure is in their faces and Havana's streets.\n\nA group of elder forgotten Cuban music legends emerge from obscurity when an American producer reunites them in Havana, leading to spectacular performances that reignite their musical legacy.",
+  "director": [
+   "Wim Wenders"
+  ],
+  "dvdRelease": "2017-04-18T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Music"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0186508",
+  "moviedb_id": 11779,
+  "name": "Buena Vista Social Club",
+  "popularity": 0.09189,
+  "poster": "https://images.metahub.space/poster/small/tt0186508/img",
+  "released": "1999-06-04T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "hB_1lw0iVRo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Wim Wenders",
+   "Nick Gold"
+  ],
+  "year": "1999",
+  "background": "https://images.metahub.space/background/medium/tt0186508/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0186508/img",
+  "popularities": {
+   "moviedb": 2.7567,
+   "stremio": 0.09189,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/buena-vista-social-club-0186508",
+  "id": "tt0186508",
+  "genres": [
+   "Documentary",
+   "Music"
+  ],
+  "releaseInfo": "1999",
+  "trailerStreams": [
+   {
+    "title": "Buena Vista Social Club",
+    "ytId": "hB_1lw0iVRo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0186508"
+   },
+   {
+    "name": "Buena Vista Social Club",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/buena-vista-social-club-0186508"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Compay Segundo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Compay%20Segundo"
+   },
+   {
+    "name": "Ibrahim Ferrer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ibrahim%20Ferrer"
+   },
+   {
+    "name": "Rubén González",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rub%C3%A9n%20Gonz%C3%A1lez"
+   },
+   {
+    "name": "Wim Wenders",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wim%20Wenders"
+   },
+   {
+    "name": "Nick Gold",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nick%20Gold"
+   },
+   {
+    "name": "Wim Wenders",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wim%20Wenders"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0186508",
+   "hasScheduledVideos": false
+  }
+ }
+}

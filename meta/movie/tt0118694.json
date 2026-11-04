@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award. 48 wins & 52 nominations total",
+  "cast": [
+   "Maggie Cheung",
+   "Tony Leung Chiu-wai",
+   "Ping-Lam Siu"
+  ],
+  "country": "Hong Kong, France",
+  "description": "Captures longing held back on purpose. Two neighbours in 1960s Hong Kong learn their spouses are cheating with each other, fall for each other, and refuse to do the same thing.\n\nTwo neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+  "director": [
+   "Wong Kar-Wai"
+  ],
+  "dvdRelease": "2020-10-15T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0118694",
+  "moviedb_id": 843,
+  "name": "In the Mood for Love",
+  "popularity": 0.5098466666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0118694/img",
+  "released": "2001-03-09T00:00:00.000Z",
+  "runtime": "99 min",
+  "trailers": [
+   {
+    "source": "rc3QleuaQMw",
+    "type": "Trailer"
+   },
+   {
+    "source": "m8GuedsQnWQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Wong Kar-Wai"
+  ],
+  "year": "2001",
+  "background": "https://images.metahub.space/background/medium/tt0118694/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0118694/img",
+  "popularities": {
+   "moviedb": 15.2954,
+   "stremio": 0.5098466666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/in-the-mood-for-love-0118694",
+  "id": "tt0118694",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2001",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "In the Mood for Love",
+    "ytId": "rc3QleuaQMw"
+   },
+   {
+    "title": "In the Mood for Love",
+    "ytId": "m8GuedsQnWQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0118694"
+   },
+   {
+    "name": "In the Mood for Love",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/in-the-mood-for-love-0118694"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Maggie Cheung",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maggie%20Cheung"
+   },
+   {
+    "name": "Tony Leung Chiu-wai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tony%20Leung%20Chiu-wai"
+   },
+   {
+    "name": "Ping-Lam Siu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ping-Lam%20Siu"
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wong%20Kar-Wai"
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wong%20Kar-Wai"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0118694",
+   "hasScheduledVideos": false
+  }
+ }
+}

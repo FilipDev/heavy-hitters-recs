@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 Oscars. 42 wins & 69 nominations total",
+  "cast": [
+   "Jim Carrey",
+   "Ed Harris",
+   "Laura Linney"
+  ],
+  "country": "United States",
+  "description": "Captures a paranoia that turns out to be an accurate description. An insurance salesman in a seaside town so pleasant it feels laminated, a sky that malfunctions, and a dawning suspicion about everyone who loves him.\n\nAn insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+  "director": [
+   "Peter Weir"
+  ],
+  "dvdRelease": "2012-05-01T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0120382",
+  "moviedb_id": 37165,
+  "name": "The Truman Show",
+  "popularity": 0.7645566666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0120382/img",
+  "released": "1998-06-05T00:00:00.000Z",
+  "runtime": "103 min",
+  "trailers": [
+   {
+    "source": "N1VlDVRiFrk",
+    "type": "Trailer"
+   },
+   {
+    "source": "loTIzXAS7v4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Andrew Niccol"
+  ],
+  "year": "1998",
+  "background": "https://images.metahub.space/background/medium/tt0120382/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0120382/img",
+  "popularities": {
+   "moviedb": 22.9367,
+   "stremio": 0.7645566666666667,
+   "trakt": 52,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-truman-show-0120382",
+  "id": "tt0120382",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1998",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Truman Show",
+    "ytId": "N1VlDVRiFrk"
+   },
+   {
+    "title": "The Truman Show",
+    "ytId": "loTIzXAS7v4"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0120382"
+   },
+   {
+    "name": "The Truman Show",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-truman-show-0120382"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Jim Carrey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jim%20Carrey"
+   },
+   {
+    "name": "Ed Harris",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ed%20Harris"
+   },
+   {
+    "name": "Laura Linney",
+    "category": "Cast",
+    "url": "stremio:///search?search=Laura%20Linney"
+   },
+   {
+    "name": "Andrew Niccol",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrew%20Niccol"
+   },
+   {
+    "name": "Peter Weir",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Weir"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0120382",
+   "hasScheduledVideos": false
+  }
+ }
+}

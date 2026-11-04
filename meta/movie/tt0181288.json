@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": "6 wins & 6 nominations total",
+  "cast": [
+   "Mark Borchardt",
+   "Mike Schank",
+   "Tom Schimmels"
+  ],
+  "country": "United States",
+  "description": "Captures delusion and genuine talent living in the same person. Mark Borchardt, a Wisconsin sanitation worker with debts and a drinking problem, tries to finish a horror short to fund his dream feature — very funny until, suddenly, it isn't.\n\nAspiring filmmaker Mark Borchardt attempts to finance his dream project by finally completing Coven (1997), a micro-budget horror film he abandoned years before.",
+  "director": [
+   "Chris Smith"
+  ],
+  "dvdRelease": "2015-10-23T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Comedy"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0181288",
+  "moviedb_id": 14242,
+  "name": "American Movie",
+  "popularity": 0.13843,
+  "poster": "https://images.metahub.space/poster/small/tt0181288/img",
+  "released": "2000-04-13T00:00:00.000Z",
+  "runtime": "104 min",
+  "trailers": [
+   {
+    "source": "zMFZOu8rDUQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "2000",
+  "popularities": {
+   "moviedb": 4.1529,
+   "stremio": 0.13843,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/american-movie-0181288",
+  "background": "https://images.metahub.space/background/medium/tt0181288/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0181288/img",
+  "id": "tt0181288",
+  "genres": [
+   "Documentary",
+   "Comedy"
+  ],
+  "releaseInfo": "2000",
+  "trailerStreams": [
+   {
+    "title": "American Movie",
+    "ytId": "zMFZOu8rDUQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0181288"
+   },
+   {
+    "name": "American Movie",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/american-movie-0181288"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Mark Borchardt",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%20Borchardt"
+   },
+   {
+    "name": "Mike Schank",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mike%20Schank"
+   },
+   {
+    "name": "Tom Schimmels",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tom%20Schimmels"
+   },
+   {
+    "name": "Chris Smith",
+    "category": "Directors",
+    "url": "stremio:///search?search=Chris%20Smith"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0181288",
+   "hasScheduledVideos": false
+  }
+ }
+}

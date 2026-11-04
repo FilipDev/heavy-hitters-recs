@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 59 wins & 40 nominations total",
+  "cast": [
+   "Cecilia Roth",
+   "Marisa Paredes",
+   "Candela Peña"
+  ],
+  "country": "Spain, France",
+  "description": "Captures grief assembling a chosen family. After her son is killed, a Madrid nurse returns to Barcelona and gathers an actress, a nun and a trans sex worker from her past — melodrama played completely straight, and generous.\n\nA comedy-drama about a bereaved mother, an overwrought actress, her jealous lover, and a pregnant nun.",
+  "director": [
+   "Pedro Almodóvar"
+  ],
+  "dvdRelease": "2014-01-01T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0185125",
+  "moviedb_id": 99,
+  "name": "All About My Mother",
+  "popularity": 0.23153666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0185125/img",
+  "released": "2000-03-31T00:00:00.000Z",
+  "runtime": "101 min",
+  "trailers": [
+   {
+    "source": "0Ki8qXRBIFI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Pedro Almodóvar"
+  ],
+  "year": "2000",
+  "background": "https://images.metahub.space/background/medium/tt0185125/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0185125/img",
+  "popularities": {
+   "moviedb": 6.9461,
+   "stremio": 0.23153666666666667,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/all-about-my-mother-0185125",
+  "id": "tt0185125",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2000",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "All About My Mother",
+    "ytId": "0Ki8qXRBIFI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0185125"
+   },
+   {
+    "name": "All About My Mother",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/all-about-my-mother-0185125"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Cecilia Roth",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cecilia%20Roth"
+   },
+   {
+    "name": "Marisa Paredes",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marisa%20Paredes"
+   },
+   {
+    "name": "Candela Peña",
+    "category": "Cast",
+    "url": "stremio:///search?search=Candela%20Pe%C3%B1a"
+   },
+   {
+    "name": "Pedro Almodóvar",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pedro%20Almod%C3%B3var"
+   },
+   {
+    "name": "Pedro Almodóvar",
+    "category": "Directors",
+    "url": "stremio:///search?search=Pedro%20Almod%C3%B3var"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0185125",
+   "hasScheduledVideos": false
+  }
+ }
+}

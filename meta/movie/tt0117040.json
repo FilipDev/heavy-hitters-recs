@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "9 wins & 9 nominations total",
+  "cast": [
+   "Kristin Scott Thomas",
+   "Jacques Perrin"
+  ],
+  "country": "France, Switzerland, Italy, United Kingdom",
+  "description": "Captures a meadow as an alien world, at insect scale. One day in a French field, almost no narration: snails mating, a dung beetle rolling its ball uphill, rain arriving like artillery.\n\nA documentary on insect life in meadows and ponds.",
+  "director": [
+   "Claude Nuridsany",
+   "Marie Pérennou"
+  ],
+  "dvdRelease": "2017-05-22T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0117040",
+  "moviedb_id": 9305,
+  "name": "Microcosmos",
+  "popularity": 0.09486333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0117040/img",
+  "released": "1996-09-06T00:00:00.000Z",
+  "runtime": "80 min",
+  "trailers": [
+   {
+    "source": "76R2EKEnoJQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Claude Nuridsany",
+   "Marie Pérennou"
+  ],
+  "year": "1996",
+  "popularities": {
+   "moviedb": 2.8459,
+   "stremio": 0.09486333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0117040/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0117040/img",
+  "slug": "movie/microcosmos-0117040",
+  "id": "tt0117040",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1996",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Microcosmos",
+    "ytId": "76R2EKEnoJQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0117040"
+   },
+   {
+    "name": "Microcosmos",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/microcosmos-0117040"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Kristin Scott Thomas",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kristin%20Scott%20Thomas"
+   },
+   {
+    "name": "Jacques Perrin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacques%20Perrin"
+   },
+   {
+    "name": "Claude Nuridsany",
+    "category": "Writers",
+    "url": "stremio:///search?search=Claude%20Nuridsany"
+   },
+   {
+    "name": "Marie Pérennou",
+    "category": "Writers",
+    "url": "stremio:///search?search=Marie%20P%C3%A9rennou"
+   },
+   {
+    "name": "Claude Nuridsany",
+    "category": "Directors",
+    "url": "stremio:///search?search=Claude%20Nuridsany"
+   },
+   {
+    "name": "Marie Pérennou",
+    "category": "Directors",
+    "url": "stremio:///search?search=Marie%20P%C3%A9rennou"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0117040",
+   "hasScheduledVideos": false
+  }
+ }
+}

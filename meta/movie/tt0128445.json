@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "17 wins & 16 nominations total",
+  "cast": [
+   "Jason Schwartzman",
+   "Bill Murray",
+   "Olivia Williams"
+  ],
+  "country": "United States",
+  "description": "Captures a precocious teenager's grandiosity as a grief strategy. A scholarship kid who runs every club and stages huge plays falls for a widowed teacher and goes to war with a sad industrialist who is, emotionally, the same age.\n\nA teenager at Rushmore Academy falls for a much older teacher and befriends a middle-aged industrialist. Later, he finds out that his love interest and his friend are having an affair, which prompts him to begin a vendetta.",
+  "director": [
+   "Wes Anderson"
+  ],
+  "dvdRelease": "2014-08-30T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0128445",
+  "moviedb_id": 11545,
+  "name": "Rushmore",
+  "popularity": 0.20298333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0128445/img",
+  "released": "1999-02-19T00:00:00.000Z",
+  "runtime": "93 min",
+  "trailers": [
+   {
+    "source": "846UzdeHI1g",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Wes Anderson",
+   "Owen Wilson"
+  ],
+  "year": "1999",
+  "background": "https://images.metahub.space/background/medium/tt0128445/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0128445/img",
+  "popularities": {
+   "moviedb": 6.0895,
+   "stremio": 0.20298333333333335,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/rushmore-0128445",
+  "id": "tt0128445",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1999",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Rushmore",
+    "ytId": "846UzdeHI1g"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0128445"
+   },
+   {
+    "name": "Rushmore",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/rushmore-0128445"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jason Schwartzman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jason%20Schwartzman"
+   },
+   {
+    "name": "Bill Murray",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bill%20Murray"
+   },
+   {
+    "name": "Olivia Williams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olivia%20Williams"
+   },
+   {
+    "name": "Wes Anderson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wes%20Anderson"
+   },
+   {
+    "name": "Owen Wilson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Owen%20Wilson"
+   },
+   {
+    "name": "Wes Anderson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wes%20Anderson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0128445",
+   "hasScheduledVideos": false
+  }
+ }
+}

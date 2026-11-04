@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "15 nominations total",
+  "cast": [
+   "Al Pacino",
+   "Robert De Niro",
+   "Val Kilmer"
+  ],
+  "country": "United States",
+  "description": "Captures professionalism as a whole identity, on both sides of the law. A robber and a detective each incapable of a life outside the work, recognising themselves in each other over coffee.\n\nA group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+  "director": [
+   "Michael Mann"
+  ],
+  "dvdRelease": "2015-11-19T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt0113277",
+  "moviedb_id": 949,
+  "name": "Heat",
+  "popularity": 0.7671899999999999,
+  "poster": "https://images.metahub.space/poster/small/tt0113277/img",
+  "released": "1995-12-15T00:00:00.000Z",
+  "runtime": "170 min",
+  "trailers": [
+   {
+    "source": "14oNcFxiVaQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Mann"
+  ],
+  "year": "1995",
+  "background": "https://images.metahub.space/background/medium/tt0113277/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0113277/img",
+  "popularities": {
+   "moviedb": 23.0157,
+   "stremio": 0.7671899999999999,
+   "trakt": 30,
+   "stremio_lib": 0
+  },
+  "slug": "movie/heat-0113277",
+  "id": "tt0113277",
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1995",
+  "trailerStreams": [
+   {
+    "title": "Heat",
+    "ytId": "14oNcFxiVaQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0113277"
+   },
+   {
+    "name": "Heat",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/heat-0113277"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Al Pacino",
+    "category": "Cast",
+    "url": "stremio:///search?search=Al%20Pacino"
+   },
+   {
+    "name": "Robert De Niro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20De%20Niro"
+   },
+   {
+    "name": "Val Kilmer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Val%20Kilmer"
+   },
+   {
+    "name": "Michael Mann",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Mann"
+   },
+   {
+    "name": "Michael Mann",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Mann"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0113277",
+   "hasScheduledVideos": false
+  }
+ }
+}

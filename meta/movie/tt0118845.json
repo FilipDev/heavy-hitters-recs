@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "10 wins & 21 nominations total",
+  "cast": [
+   "Leslie Cheung",
+   "Tony Leung Chiu-wai",
+   "Chang Chen"
+  ],
+  "country": "Hong Kong, South Korea, Japan",
+  "description": "Captures a couple who keep saying 'let's start over' and mean it every time. Two Hong Kong men in Buenos Aires, breaking up and reuniting in cycles, with the Iguazu Falls as the place they never quite reach together.\n\nA couple take a trip to Argentina but both men find their lives drifting apart in opposite directions.",
+  "director": [
+   "Wong Kar-Wai"
+  ],
+  "dvdRelease": "2006-05-16T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0118845",
+  "moviedb_id": 18329,
+  "name": "Happy Together",
+  "popularity": 0.3179166666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0118845/img",
+  "released": "1997-05-30T00:00:00.000Z",
+  "runtime": "96 min",
+  "trailers": [
+   {
+    "source": "cU_u8xQspQg",
+    "type": "Trailer"
+   },
+   {
+    "source": "5VPvFaAWX9U",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Wong Kar-Wai",
+   "Manuel Puig"
+  ],
+  "year": "1997",
+  "popularities": {
+   "moviedb": 9.5375,
+   "stremio": 0.3179166666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/happy-together-0118845",
+  "background": "https://images.metahub.space/background/medium/tt0118845/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0118845/img",
+  "id": "tt0118845",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1997",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Happy Together",
+    "ytId": "cU_u8xQspQg"
+   },
+   {
+    "title": "Happy Together",
+    "ytId": "5VPvFaAWX9U"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0118845"
+   },
+   {
+    "name": "Happy Together",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/happy-together-0118845"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Leslie Cheung",
+    "category": "Cast",
+    "url": "stremio:///search?search=Leslie%20Cheung"
+   },
+   {
+    "name": "Tony Leung Chiu-wai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tony%20Leung%20Chiu-wai"
+   },
+   {
+    "name": "Chang Chen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chang%20Chen"
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wong%20Kar-Wai"
+   },
+   {
+    "name": "Manuel Puig",
+    "category": "Writers",
+    "url": "stremio:///search?search=Manuel%20Puig"
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wong%20Kar-Wai"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0118845",
+   "hasScheduledVideos": false
+  }
+ }
+}

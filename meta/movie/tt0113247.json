@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "8 wins & 15 nominations total",
+  "cast": [
+   "Vincent Cassel",
+   "Hubert Koundé",
+   "Saïd Taghmaoui"
+  ],
+  "country": "France",
+  "description": "Captures a day with nowhere for the anger to go. Black-and-white, 24 hours in a Paris banlieue after a riot: three friends, one lost police revolver, a lot of waiting and joking, under its recurring falling-man line — 'so far, so good.'\n\n24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+  "director": [
+   "Mathieu Kassovitz"
+  ],
+  "dvdRelease": "2017-03-23T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0113247",
+  "moviedb_id": 406,
+  "name": "La Haine",
+  "popularity": 0.3260566666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0113247/img",
+  "released": "1996-02-23T00:00:00.000Z",
+  "runtime": "98 min",
+  "trailers": [
+   {
+    "source": "FKwcXt3JIaU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Mathieu Kassovitz"
+  ],
+  "year": "1996",
+  "background": "https://images.metahub.space/background/medium/tt0113247/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0113247/img",
+  "popularities": {
+   "moviedb": 9.7817,
+   "stremio": 0.3260566666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/la-haine-0113247",
+  "id": "tt0113247",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1996",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "La haine",
+    "ytId": "FKwcXt3JIaU"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0113247"
+   },
+   {
+    "name": "La haine",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/la-haine-0113247"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Vincent Cassel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Vincent%20Cassel"
+   },
+   {
+    "name": "Hubert Koundé",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hubert%20Kound%C3%A9"
+   },
+   {
+    "name": "Saïd Taghmaoui",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sa%C3%AFd%20Taghmaoui"
+   },
+   {
+    "name": "Mathieu Kassovitz",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mathieu%20Kassovitz"
+   },
+   {
+    "name": "Mathieu Kassovitz",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mathieu%20Kassovitz"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0113247",
+   "hasScheduledVideos": false
+  }
+ }
+}

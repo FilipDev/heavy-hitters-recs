@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "awards": "Nominated for 7 Oscars. 23 wins & 58 nominations total",
+  "cast": [
+   "Russell Crowe",
+   "Al Pacino",
+   "Christopher Plummer"
+  ],
+  "country": "United States",
+  "description": "Captures the cost of telling the truth inside two corporations at once. A tobacco scientist bound by confidentiality, a TV producer with a network to protect, and an interview everyone with money wants buried.\n\nA research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.",
+  "director": [
+   "Michael Mann"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0140352",
+  "moviedb_id": 9008,
+  "name": "The Insider",
+  "popularity": 0.19440666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0140352/img",
+  "released": "1999-11-05T00:00:00.000Z",
+  "runtime": "158 min",
+  "trailers": [
+   {
+    "source": "P-_ZdJxgwcU",
+    "type": "Trailer"
+   },
+   {
+    "source": "MGOb29aePyc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Marie Brenner",
+   "Eric Roth",
+   "Michael Mann"
+  ],
+  "year": "1999",
+  "background": "https://images.metahub.space/background/medium/tt0140352/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0140352/img",
+  "popularities": {
+   "moviedb": 5.8322,
+   "stremio": 0.19440666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-insider-0140352",
+  "id": "tt0140352",
+  "genres": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1999",
+  "trailerStreams": [
+   {
+    "title": "The Insider",
+    "ytId": "P-_ZdJxgwcU"
+   },
+   {
+    "title": "The Insider",
+    "ytId": "MGOb29aePyc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0140352"
+   },
+   {
+    "name": "The Insider",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-insider-0140352"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Russell Crowe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Russell%20Crowe"
+   },
+   {
+    "name": "Al Pacino",
+    "category": "Cast",
+    "url": "stremio:///search?search=Al%20Pacino"
+   },
+   {
+    "name": "Christopher Plummer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Christopher%20Plummer"
+   },
+   {
+    "name": "Marie Brenner",
+    "category": "Writers",
+    "url": "stremio:///search?search=Marie%20Brenner"
+   },
+   {
+    "name": "Eric Roth",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eric%20Roth"
+   },
+   {
+    "name": "Michael Mann",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Mann"
+   },
+   {
+    "name": "Michael Mann",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Mann"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0140352",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "awards": "8 wins & 12 nominations total",
+  "cast": [
+   "Sean Gullette",
+   "Mark Margolis",
+   "Ben Shenkman"
+  ],
+  "country": "United States",
+  "description": "Captures obsession with a pattern, filmed on grain. A mathematician in a tiny New York apartment with computers made of junk, a number that Wall Street and a Hasidic sect both want, and migraines rendered as drill sounds.\n\nA paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
+  "director": [
+   "Darren Aronofsky"
+  ],
+  "dvdRelease": "2014-01-07T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0138704",
+  "moviedb_id": 473,
+  "name": "Pi",
+  "popularity": 0.13771000000000003,
+  "poster": "https://images.metahub.space/poster/small/tt0138704/img",
+  "released": "1998-07-10T00:00:00.000Z",
+  "runtime": "84 min",
+  "trailers": [
+   {
+    "source": "yRjkQT9xLZs",
+    "type": "Trailer"
+   },
+   {
+    "source": "r0SC582sJvE",
+    "type": "Trailer"
+   },
+   {
+    "source": "jo18VIoR2xU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Darren Aronofsky",
+   "Sean Gullette",
+   "Eric Watson"
+  ],
+  "year": "1998",
+  "background": "https://images.metahub.space/background/medium/tt0138704/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0138704/img",
+  "popularities": {
+   "moviedb": 4.1313,
+   "stremio": 0.13771000000000003,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/pi-0138704",
+  "id": "tt0138704",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "releaseInfo": "1998",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Pi",
+    "ytId": "yRjkQT9xLZs"
+   },
+   {
+    "title": "Pi",
+    "ytId": "r0SC582sJvE"
+   },
+   {
+    "title": "Pi",
+    "ytId": "jo18VIoR2xU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0138704"
+   },
+   {
+    "name": "Pi",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/pi-0138704"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Sean Gullette",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sean%20Gullette"
+   },
+   {
+    "name": "Mark Margolis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%20Margolis"
+   },
+   {
+    "name": "Ben Shenkman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ben%20Shenkman"
+   },
+   {
+    "name": "Darren Aronofsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Darren%20Aronofsky"
+   },
+   {
+    "name": "Sean Gullette",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sean%20Gullette"
+   },
+   {
+    "name": "Eric Watson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eric%20Watson"
+   },
+   {
+    "name": "Darren Aronofsky",
+    "category": "Directors",
+    "url": "stremio:///search?search=Darren%20Aronofsky"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0138704",
+   "hasScheduledVideos": false
+  }
+ }
+}

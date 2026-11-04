@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "id": "tt0140788",
+  "imdb_id": "tt0140788",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0140788/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0140788/img",
+  "background": "https://live.metahub.space/background/medium/tt0140788/img",
+  "moviedb_id": 126132,
+  "name": "The Act of Seeing with One's Own Eyes",
+  "description": "Captures the camera reduced to pure looking: Brakhage films autopsies in a Pittsburgh morgue silently and in close-up, with no commentary to hide behind, asking whether there is anything a camera should refuse to see.\n\nAt a morgue, forensic pathologists conduct autopsies of the corpses assigned. \"S. Brakhage, entering, WITH HIS CAMERA, one of the forbidden, terrific locations of our culture, the autopsy room. It is a place wherein, inversely, life is cherished, for it exists to affirm that no one of us may die without our knowing exactly why. All of us, in the person of the coroner, must see that, for ourselves, with our own eyes. It is a room full of appalling particular intimacies, the last ditch of individuation. Here our vague nightmare of mortality acquires the names and faces of OTHERS. This last is a process that requires a WITNESS; and what 'idea' may finally have inserted itself into the sensible world we can still scarcely guess, for the CAMERA would seem the perfect Eidetic Witness, staring with perfect compassion where we can scarcely bear to glance.\" – Hollis Frampton",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1972",
+  "runtime": "32 min",
+  "trailers": [],
+  "cast": [],
+  "credits_cast": [],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Stan Brakhage",
+    "profile_path": "/jqpZxCtg17kcJl51zDDzCjFUPGj.jpg",
+    "id": 563461
+   }
+  ],
+  "director": [
+   "Stan Brakhage"
+  ],
+  "imdbRating": "6.9",
+  "language": "English",
+  "country": "United States",
+  "slug": "movie/the-act-of-seeing-with-one-s-own-eyes-0140788",
+  "behaviorHints": {
+   "defaultVideoId": "tt0140788",
+   "hasScheduledVideos": false
+  }
+ }
+}

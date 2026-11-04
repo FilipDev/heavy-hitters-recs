@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "8 wins & 21 nominations total",
+  "cast": [
+   "Brigitte Lin",
+   "Takeshi Kaneshiro",
+   "Tony Leung Chiu-wai"
+  ],
+  "country": "Hong Kong",
+  "description": "Captures city loneliness at pop speed. Hong Kong, two lovesick cops, expired pineapple cans, and a snack-bar girl breaking into a man's flat to clean it while 'California Dreamin'' loops.\n\nTwo melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents.",
+  "director": [
+   "Wong Kar-Wai"
+  ],
+  "dvdRelease": "2002-05-21T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0109424",
+  "moviedb_id": 11104,
+  "name": "Chungking Express",
+  "popularity": 0.38852333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0109424/img",
+  "released": "1996-03-08T00:00:00.000Z",
+  "runtime": "102 min",
+  "trailers": [
+   {
+    "source": "P9Mxf_6pVA0",
+    "type": "Trailer"
+   },
+   {
+    "source": "OPCug9jyG9k",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Wong Kar-Wai"
+  ],
+  "year": "1996",
+  "background": "https://images.metahub.space/background/medium/tt0109424/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0109424/img",
+  "popularities": {
+   "moviedb": 11.6557,
+   "stremio": 0.38852333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/chungking-express-0109424",
+  "id": "tt0109424",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1996",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Chungking Express",
+    "ytId": "P9Mxf_6pVA0"
+   },
+   {
+    "title": "Chungking Express",
+    "ytId": "OPCug9jyG9k"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0109424"
+   },
+   {
+    "name": "Chungking Express",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/chungking-express-0109424"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Brigitte Lin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brigitte%20Lin"
+   },
+   {
+    "name": "Takeshi Kaneshiro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Takeshi%20Kaneshiro"
+   },
+   {
+    "name": "Tony Leung Chiu-wai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tony%20Leung%20Chiu-wai"
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wong%20Kar-Wai"
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wong%20Kar-Wai"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0109424",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "4 wins & 2 nominations total",
+  "cast": [
+   "Nick Sutton",
+   "Jacob Sewell",
+   "Lara Tosh"
+  ],
+  "country": "United States",
+  "description": "Captures boredom and poverty in an American town as unconnected afternoons. Xenia, Ohio, after a tornado: kids sniffing, selling dead cats, taped monologues, no plot arriving to save anyone.\n\nLonely residents of a tornado-stricken Ohio town wander the deserted landscape trying to fulfill their boring, nihilistic lives.",
+  "director": [
+   "Harmony Korine"
+  ],
+  "dvdRelease": "2001-03-20T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "6.6",
+  "imdb_id": "tt0119237",
+  "moviedb_id": 18415,
+  "name": "Gummo",
+  "popularity": 0.09955,
+  "poster": "https://images.metahub.space/poster/small/tt0119237/img",
+  "released": "1997-11-24T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "40NyJSBvCC0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Harmony Korine"
+  ],
+  "year": "1997",
+  "background": "https://images.metahub.space/background/medium/tt0119237/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0119237/img",
+  "popularities": {
+   "moviedb": 2.9865,
+   "stremio": 0.09955,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/gummo-0119237",
+  "id": "tt0119237",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1997",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Gummo",
+    "ytId": "40NyJSBvCC0"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0119237"
+   },
+   {
+    "name": "Gummo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/gummo-0119237"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Nick Sutton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nick%20Sutton"
+   },
+   {
+    "name": "Jacob Sewell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacob%20Sewell"
+   },
+   {
+    "name": "Lara Tosh",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lara%20Tosh"
+   },
+   {
+    "name": "Harmony Korine",
+    "category": "Writers",
+    "url": "stremio:///search?search=Harmony%20Korine"
+   },
+   {
+    "name": "Harmony Korine",
+    "category": "Directors",
+    "url": "stremio:///search?search=Harmony%20Korine"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0119237",
+   "hasScheduledVideos": false
+  }
+ }
+}

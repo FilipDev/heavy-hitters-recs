@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 23 wins & 35 nominations total",
+  "cast": [
+   "Ewan McGregor",
+   "Ewen Bremner",
+   "Jonny Lee Miller"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures a heroin scene's energy before it shows you the bill. Edinburgh friends filmed like they're in the best movie ever, which is how it felt — until a baby, a toilet and a series of betrayals change the genre under them.\n\nRenton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+  "director": [
+   "Danny Boyle"
+  ],
+  "dvdRelease": "2015-12-19T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0117951",
+  "moviedb_id": 627,
+  "name": "Trainspotting",
+  "popularity": 0.40186,
+  "poster": "https://images.metahub.space/poster/small/tt0117951/img",
+  "released": "1996-08-09T00:00:00.000Z",
+  "runtime": "94 min",
+  "trailers": [
+   {
+    "source": "bKrbNruyFVE",
+    "type": "Trailer"
+   },
+   {
+    "source": "r9v3UXKhVQM",
+    "type": "Trailer"
+   },
+   {
+    "source": "KhGT6itWByA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Irvine Welsh",
+   "John Hodge"
+  ],
+  "year": "1996",
+  "background": "https://images.metahub.space/background/medium/tt0117951/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0117951/img",
+  "popularities": {
+   "moviedb": 12.0558,
+   "stremio": 0.40186,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/trainspotting-0117951",
+  "id": "tt0117951",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1996",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Trainspotting",
+    "ytId": "bKrbNruyFVE"
+   },
+   {
+    "title": "Trainspotting",
+    "ytId": "r9v3UXKhVQM"
+   },
+   {
+    "title": "Trainspotting",
+    "ytId": "KhGT6itWByA"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0117951"
+   },
+   {
+    "name": "Trainspotting",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/trainspotting-0117951"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Ewan McGregor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ewan%20McGregor"
+   },
+   {
+    "name": "Ewen Bremner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ewen%20Bremner"
+   },
+   {
+    "name": "Jonny Lee Miller",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jonny%20Lee%20Miller"
+   },
+   {
+    "name": "Irvine Welsh",
+    "category": "Writers",
+    "url": "stremio:///search?search=Irvine%20Welsh"
+   },
+   {
+    "name": "John Hodge",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20Hodge"
+   },
+   {
+    "name": "Danny Boyle",
+    "category": "Directors",
+    "url": "stremio:///search?search=Danny%20Boyle"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0117951",
+   "hasScheduledVideos": false
+  }
+ }
+}

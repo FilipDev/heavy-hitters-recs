@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "Won 1 BAFTA Award12 wins & 6 nominations total",
+  "cast": [
+   "Tommy Flanagan",
+   "Mandy Matthews",
+   "William Eadie"
+  ],
+  "country": "United Kingdom, France",
+  "description": "Captures childhood in a Glasgow housing scheme during a garbage strike. Rats in the canals, a boy carrying a secret about a death, and moments of release on a bus out to a half-built new estate.\n\nA naïve young lad navigates the dirty squalid streets of 1973 Glasgow and the poor youth around him.",
+  "director": [
+   "Lynne Ramsay"
+  ],
+  "dvdRelease": "2002-09-10T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0171685",
+  "moviedb_id": 29698,
+  "name": "Ratcatcher",
+  "popularity": 0.05762,
+  "poster": "https://images.metahub.space/poster/small/tt0171685/img",
+  "released": "1999-11-12T00:00:00.000Z",
+  "runtime": "94 min",
+  "trailers": [
+   {
+    "source": "WODUC_Yuo3k",
+    "type": "Trailer"
+   },
+   {
+    "source": "CHZ_MS2-iM0",
+    "type": "Trailer"
+   },
+   {
+    "source": "LkikiFSa93Q",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Lynne Ramsay"
+  ],
+  "year": "1999",
+  "popularities": {
+   "moviedb": 1.7286,
+   "stremio": 0.05762,
+   "stremio_lib": 0
+  },
+  "slug": "movie/ratcatcher-0171685",
+  "background": "https://images.metahub.space/background/medium/tt0171685/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0171685/img",
+  "id": "tt0171685",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1999",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Ratcatcher",
+    "ytId": "WODUC_Yuo3k"
+   },
+   {
+    "title": "Ratcatcher",
+    "ytId": "CHZ_MS2-iM0"
+   },
+   {
+    "title": "Ratcatcher",
+    "ytId": "LkikiFSa93Q"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0171685"
+   },
+   {
+    "name": "Ratcatcher",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ratcatcher-0171685"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Tommy Flanagan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tommy%20Flanagan"
+   },
+   {
+    "name": "Mandy Matthews",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mandy%20Matthews"
+   },
+   {
+    "name": "William Eadie",
+    "category": "Cast",
+    "url": "stremio:///search?search=William%20Eadie"
+   },
+   {
+    "name": "Lynne Ramsay",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lynne%20Ramsay"
+   },
+   {
+    "name": "Lynne Ramsay",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lynne%20Ramsay"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0171685",
+   "hasScheduledVideos": false
+  }
+ }
+}

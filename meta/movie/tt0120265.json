@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "3 wins & 5 nominations total",
+  "cast": [
+   "Homayoun Ershadi",
+   "Abdolhosein Bagheri",
+   "Afshin Khorshid Bakhtiari"
+  ],
+  "country": "Iran, France",
+  "description": "Captures ordinary conversation held against a decision to die. A man drives the hills outside Tehran offering money to whoever will bury him in the morning, picking up a soldier, a seminarian and a taxidermist who each answer differently; the ending breaks the film open on purpose.\n\nAn Iranian man drives his car in search of someone who will quietly bury him under a cherry tree after he commits suicide.",
+  "director": [
+   "Abbas Kiarostami"
+  ],
+  "dvdRelease": "2020-10-15T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0120265",
+  "moviedb_id": 30020,
+  "name": "Taste of Cherry",
+  "popularity": 0.15612666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0120265/img",
+  "released": "1997-11-26T00:00:00.000Z",
+  "runtime": "99 min",
+  "trailers": [
+   {
+    "source": "ukmYdGwVqPg",
+    "type": "Trailer"
+   },
+   {
+    "source": "XDSQLTtGZE0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Abbas Kiarostami"
+  ],
+  "year": "1997",
+  "popularities": {
+   "moviedb": 4.6838,
+   "stremio": 0.15612666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/taste-of-cherry-0120265",
+  "background": "https://images.metahub.space/background/medium/tt0120265/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0120265/img",
+  "id": "tt0120265",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1997",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Taste of Cherry",
+    "ytId": "ukmYdGwVqPg"
+   },
+   {
+    "title": "Taste of Cherry",
+    "ytId": "XDSQLTtGZE0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0120265"
+   },
+   {
+    "name": "Taste of Cherry",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/taste-of-cherry-0120265"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Homayoun Ershadi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Homayoun%20Ershadi"
+   },
+   {
+    "name": "Abdolhosein Bagheri",
+    "category": "Cast",
+    "url": "stremio:///search?search=Abdolhosein%20Bagheri"
+   },
+   {
+    "name": "Afshin Khorshid Bakhtiari",
+    "category": "Cast",
+    "url": "stremio:///search?search=Afshin%20Khorshid%20Bakhtiari"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Directors",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0120265",
+   "hasScheduledVideos": false
+  }
+ }
+}

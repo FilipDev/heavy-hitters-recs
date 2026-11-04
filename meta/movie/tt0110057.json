@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 23 wins & 9 nominations total",
+  "cast": [
+   "William Gates",
+   "Arthur Agee",
+   "Emma Gates"
+  ],
+  "country": "United States",
+  "description": "Captures the American dream as a system that uses kids up. Two Chicago teenagers filmed over five years chasing basketball as a way out, as school, family, money and injury keep intervening.\n\nA film following the lives of two inner-city Chicago boys who struggle to become college basketball players on the road to going professional.",
+  "director": [
+   "Steve James"
+  ],
+  "dvdRelease": "2016-09-30T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Drama",
+   "Sport"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt0110057",
+  "moviedb_id": 14275,
+  "name": "Hoop Dreams",
+  "popularity": 0.055093333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0110057/img",
+  "released": "1994-10-14T00:00:00.000Z",
+  "runtime": "174 min",
+  "trailers": [
+   {
+    "source": "-TRIx7oD3lo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Steve James",
+   "Frederick Marx"
+  ],
+  "year": "1994",
+  "popularities": {
+   "moviedb": 1.6528,
+   "stremio": 0.055093333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0110057/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0110057/img",
+  "slug": "movie/hoop-dreams-0110057",
+  "id": "tt0110057",
+  "genres": [
+   "Documentary",
+   "Drama",
+   "Sport"
+  ],
+  "releaseInfo": "1994",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Hoop Dreams",
+    "ytId": "-TRIx7oD3lo"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0110057"
+   },
+   {
+    "name": "Hoop Dreams",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/hoop-dreams-0110057"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "William Gates",
+    "category": "Cast",
+    "url": "stremio:///search?search=William%20Gates"
+   },
+   {
+    "name": "Arthur Agee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arthur%20Agee"
+   },
+   {
+    "name": "Emma Gates",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emma%20Gates"
+   },
+   {
+    "name": "Steve James",
+    "category": "Writers",
+    "url": "stremio:///search?search=Steve%20James"
+   },
+   {
+    "name": "Frederick Marx",
+    "category": "Writers",
+    "url": "stremio:///search?search=Frederick%20Marx"
+   },
+   {
+    "name": "Steve James",
+    "category": "Directors",
+    "url": "stremio:///search?search=Steve%20James"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0110057",
+   "hasScheduledVideos": false
+  }
+ }
+}
