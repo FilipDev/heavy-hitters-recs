@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "imdb_id": "tt16227014",
+  "name": "Fire of Love",
+  "awards": "Nominated for 1 Oscar. 35 wins & 70 nominations total",
+  "cast": [
+   "Miranda July",
+   "Katia Krafft",
+   "Maurice Krafft"
+  ],
+  "country": "Canada, United States",
+  "description": "Captures a love story where the third party is the Earth itself. Volcanologists Katia and Maurice Krafft filmed each other at the edge of eruptions for twenty years, knowing the work would probably kill them. It did, together, in 1991.\n\nIntrepid scientists and lovers Katia and Maurice Krafft died in a volcanic explosion doing the very thing that brought them together: unraveling the mysteries of volcanoes by capturing the most explosive imagery ever recorded.",
+  "director": [
+   "Sara Dosa"
+  ],
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "imdbRating": "7.6",
+  "released": "2022-11-11T00:00:00.000Z",
+  "runtime": "94 min",
+  "slug": "movie/fire-of-love-16227014",
+  "type": "movie",
+  "writer": [
+   "Sara Dosa",
+   "Erin Casper",
+   "Jocelyne Chaput"
+  ],
+  "year": "2022",
+  "popularities": {
+   "stremio": 0.11171333333333333,
+   "stremio_lib": 0,
+   "moviedb": 3.3514,
+   "trakt": 2
+  },
+  "moviedb_id": 913823,
+  "poster": "https://images.metahub.space/poster/small/tt16227014/img",
+  "trailers": [
+   {
+    "source": "-_7XADmKVL0",
+    "type": "Trailer"
+   },
+   {
+    "source": "oMArx64RBO4",
+    "type": "Trailer"
+   }
+  ],
+  "dvdRelease": "2022-11-11T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt16227014/img",
+  "logo": "https://images.metahub.space/logo/medium/tt16227014/img",
+  "popularity": 0.11171333333333333,
+  "id": "tt16227014",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Fire of Love",
+    "ytId": "-_7XADmKVL0"
+   },
+   {
+    "title": "Fire of Love",
+    "ytId": "oMArx64RBO4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt16227014"
+   },
+   {
+    "name": "Fire of Love",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/fire-of-love-16227014"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Miranda July",
+    "category": "Cast",
+    "url": "stremio:///search?search=Miranda%20July"
+   },
+   {
+    "name": "Katia Krafft",
+    "category": "Cast",
+    "url": "stremio:///search?search=Katia%20Krafft"
+   },
+   {
+    "name": "Maurice Krafft",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maurice%20Krafft"
+   },
+   {
+    "name": "Sara Dosa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sara%20Dosa"
+   },
+   {
+    "name": "Erin Casper",
+    "category": "Writers",
+    "url": "stremio:///search?search=Erin%20Casper"
+   },
+   {
+    "name": "Jocelyne Chaput",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jocelyne%20Chaput"
+   },
+   {
+    "name": "Sara Dosa",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sara%20Dosa"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt16227014",
+   "hasScheduledVideos": false
+  }
+ }
+}

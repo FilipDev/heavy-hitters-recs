@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "7 wins & 14 nominations total",
+  "cast": [
+   "Michelle Williams",
+   "Bruce Greenwood",
+   "Paul Dano"
+  ],
+  "country": "United States",
+  "description": "Captures being lost, from the women's side of the wagons. Oregon Trail settlers, a guide who may be bluffing, water running out — long shots of bonnets and horizon where the drama is thirst and waiting.\n\nSettlers traveling through the Oregon desert in 1845 find themselves stranded in harsh conditions.",
+  "director": [
+   "Kelly Reichardt"
+  ],
+  "dvdRelease": "2012-07-24T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "6.5",
+  "imdb_id": "tt1518812",
+  "moviedb_id": 57120,
+  "name": "Meek's Cutoff",
+  "popularity": 0.08394666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt1518812/img",
+  "released": "2011-04-15T00:00:00.000Z",
+  "runtime": "103 min",
+  "trailers": [
+   {
+    "source": "iR5o8omffT8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jonathan Raymond"
+  ],
+  "year": "2011",
+  "popularities": {
+   "moviedb": 2.5184,
+   "stremio": 0.08394666666666667,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1518812/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1518812/img",
+  "slug": "movie/meeks-cutoff-1518812",
+  "id": "tt1518812",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "Meek's Cutoff",
+    "ytId": "iR5o8omffT8"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1518812"
+   },
+   {
+    "name": "Meek's Cutoff",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/meeks-cutoff-1518812"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Michelle Williams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michelle%20Williams"
+   },
+   {
+    "name": "Bruce Greenwood",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bruce%20Greenwood"
+   },
+   {
+    "name": "Paul Dano",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Dano"
+   },
+   {
+    "name": "Jonathan Raymond",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jonathan%20Raymond"
+   },
+   {
+    "name": "Kelly Reichardt",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kelly%20Reichardt"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1518812",
+   "hasScheduledVideos": false
+  }
+ }
+}

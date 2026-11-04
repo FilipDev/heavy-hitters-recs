@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 52 wins & 57 nominations total",
+  "cast": [
+   "Tahar Rahim",
+   "Niels Arestrup",
+   "Adel Bencherif"
+  ],
+  "country": "France, Italy",
+  "description": "Captures an education in power. A young illiterate man enters a French prison with nothing and learns languages, networks, violence and patience, scene by scene, until the hierarchy is his.\n\nA delinquent Muslim man struggles to get by in prison until he is taken under the wing of a powerful mob boss, but his gradual rise through the organization's ranks brings him in conflict with his mentor.",
+  "director": [
+   "Jacques Audiard"
+  ],
+  "dvdRelease": "2012-04-16T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt1235166",
+  "moviedb_id": 21575,
+  "name": "A Prophet",
+  "popularity": 0.15192333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt1235166/img",
+  "released": "2010-03-26T00:00:00.000Z",
+  "runtime": "155 min",
+  "trailers": [
+   {
+    "source": "l69ARbQt-Ko",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Thomas Bidegain",
+   "Jacques Audiard",
+   "Abdel Raouf Dafri"
+  ],
+  "year": "2010",
+  "background": "https://images.metahub.space/background/medium/tt1235166/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1235166/img",
+  "popularities": {
+   "moviedb": 4.5577,
+   "stremio": 0.15192333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/a-prophet-1235166",
+  "id": "tt1235166",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2010",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "A Prophet",
+    "ytId": "l69ARbQt-Ko"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1235166"
+   },
+   {
+    "name": "A Prophet",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-prophet-1235166"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Tahar Rahim",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tahar%20Rahim"
+   },
+   {
+    "name": "Niels Arestrup",
+    "category": "Cast",
+    "url": "stremio:///search?search=Niels%20Arestrup"
+   },
+   {
+    "name": "Adel Bencherif",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adel%20Bencherif"
+   },
+   {
+    "name": "Thomas Bidegain",
+    "category": "Writers",
+    "url": "stremio:///search?search=Thomas%20Bidegain"
+   },
+   {
+    "name": "Jacques Audiard",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacques%20Audiard"
+   },
+   {
+    "name": "Abdel Raouf Dafri",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abdel%20Raouf%20Dafri"
+   },
+   {
+    "name": "Jacques Audiard",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jacques%20Audiard"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1235166",
+   "hasScheduledVideos": false
+  }
+ }
+}

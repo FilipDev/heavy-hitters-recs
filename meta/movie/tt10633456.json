@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "imdb_id": "tt10633456",
+  "name": "Minari",
+  "cast": [
+   "Steven Yeun",
+   "Han Ye-ri",
+   "Alan Kim"
+  ],
+  "country": "United States",
+  "description": "Captures starting over as a thing that happens to children too. A Korean family buys Arkansas land, a stubborn father bets everything on a well, and a grandmother plants minari by the creek where it can't fail.\n\nA Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a ...",
+  "director": [
+   "Lee Isaac Chung"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.4",
+  "released": "2021-02-12T00:00:00.000Z",
+  "slug": "movie/minari-10633456",
+  "type": "movie",
+  "writer": [
+   "Lee Isaac Chung"
+  ],
+  "year": "2021",
+  "moviedb_id": 615643,
+  "popularities": {
+   "moviedb": 6.349,
+   "stremio": 0.21163333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "KQ0gFidlro8",
+    "type": "Trailer"
+   }
+  ],
+  "awards": "Won 1 Oscar. 120 wins & 241 nominations total",
+  "poster": "https://images.metahub.space/poster/small/tt10633456/img",
+  "runtime": "115 min",
+  "background": "https://images.metahub.space/background/medium/tt10633456/img",
+  "logo": "https://images.metahub.space/logo/medium/tt10633456/img",
+  "dvdRelease": "2021-02-26T00:00:00.000Z",
+  "popularity": 0.21163333333333334,
+  "id": "tt10633456",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "Minari",
+    "ytId": "KQ0gFidlro8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt10633456"
+   },
+   {
+    "name": "Minari",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/minari-10633456"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Steven Yeun",
+    "category": "Cast",
+    "url": "stremio:///search?search=Steven%20Yeun"
+   },
+   {
+    "name": "Han Ye-ri",
+    "category": "Cast",
+    "url": "stremio:///search?search=Han%20Ye-ri"
+   },
+   {
+    "name": "Alan Kim",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alan%20Kim"
+   },
+   {
+    "name": "Lee Isaac Chung",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lee%20Isaac%20Chung"
+   },
+   {
+    "name": "Lee Isaac Chung",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lee%20Isaac%20Chung"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt10633456",
+   "hasScheduledVideos": false
+  }
+ }
+}

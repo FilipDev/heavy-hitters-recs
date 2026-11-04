@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": "Won 1 BAFTA Award. 21 wins & 30 nominations total",
+  "cast": [
+   "Katie Jarvis",
+   "Michael Fassbender",
+   "Kierston Wareing"
+  ],
+  "country": "United Kingdom, Netherlands",
+  "description": "Captures a teenage girl's anger and wanting in a place with no room for either. An Essex estate, a 15-year-old who dances alone in empty flats, and her mum's new boyfriend who seems to actually see her.\n\nEverything changes for 15-year-old Mia when her mum brings home a new boyfriend.",
+  "director": [
+   "Andrea Arnold"
+  ],
+  "dvdRelease": "2017-02-17T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt1232776",
+  "moviedb_id": 24469,
+  "name": "Fish Tank",
+  "popularity": 0.10618333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt1232776/img",
+  "released": "2009-09-11T00:00:00.000Z",
+  "runtime": "123 min",
+  "trailers": [
+   {
+    "source": "xf5VOvB5MHA",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Andrea Arnold"
+  ],
+  "year": "2009",
+  "background": "https://images.metahub.space/background/medium/tt1232776/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1232776/img",
+  "popularities": {
+   "moviedb": 3.1855,
+   "stremio": 0.10618333333333334,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/fish-tank-1232776",
+  "id": "tt1232776",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2009",
+  "trailerStreams": [
+   {
+    "title": "Fish Tank",
+    "ytId": "xf5VOvB5MHA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1232776"
+   },
+   {
+    "name": "Fish Tank",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/fish-tank-1232776"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Katie Jarvis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Katie%20Jarvis"
+   },
+   {
+    "name": "Michael Fassbender",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Fassbender"
+   },
+   {
+    "name": "Kierston Wareing",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kierston%20Wareing"
+   },
+   {
+    "name": "Andrea Arnold",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrea%20Arnold"
+   },
+   {
+    "name": "Andrea Arnold",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andrea%20Arnold"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1232776",
+   "hasScheduledVideos": false
+  }
+ }
+}

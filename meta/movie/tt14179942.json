@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "imdb_id": "tt14179942",
+  "name": "Good Night Oppy",
+  "awards": "Nominated for 1 Primetime Emmy. 22 wins & 36 nominations total",
+  "cast": [
+   "Angela Bassett",
+   "Jon Stewart",
+   "Stephen Colbert"
+  ],
+  "country": "United States",
+  "description": "Captures engineers grieving a machine, completely sincerely, and earning it. Mars rover Opportunity, built for 90 days, worked for 15 years; the JPL team's attachment stops being a joke about anthropomorphism around year ten.\n\nThe film follows Opportunity, the Mars Exploration Rover affectionately dubbed Oppy by her creators and scientists at NASA. Oppy was originally expected to live for only 90 days but she ultimately explored Mars for nearly 15 years.",
+  "director": [
+   "Ryan White"
+  ],
+  "dvdRelease": "2022-11-23T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.7",
+  "released": "2022-11-23T00:00:00.000Z",
+  "runtime": "105 min",
+  "slug": "movie/good-night-oppy-14179942",
+  "type": "movie",
+  "writer": [
+   "Ryan White",
+   "Helen Kearns"
+  ],
+  "year": "2022",
+  "popularities": {
+   "trakt": 2,
+   "stremio": 0.08046666666666667,
+   "stremio_lib": 0,
+   "moviedb": 2.414
+  },
+  "moviedb_id": 972545,
+  "poster": "https://images.metahub.space/poster/small/tt14179942/img",
+  "trailers": [
+   {
+    "source": "W4t58Yruhds",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt14179942/img",
+  "logo": "https://images.metahub.space/logo/medium/tt14179942/img",
+  "popularity": 0.08046666666666667,
+  "id": "tt14179942",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Good Night Oppy",
+    "ytId": "W4t58Yruhds"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt14179942"
+   },
+   {
+    "name": "Good Night Oppy",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/good-night-oppy-14179942"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Angela Bassett",
+    "category": "Cast",
+    "url": "stremio:///search?search=Angela%20Bassett"
+   },
+   {
+    "name": "Jon Stewart",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jon%20Stewart"
+   },
+   {
+    "name": "Stephen Colbert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Stephen%20Colbert"
+   },
+   {
+    "name": "Ryan White",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ryan%20White"
+   },
+   {
+    "name": "Helen Kearns",
+    "category": "Writers",
+    "url": "stremio:///search?search=Helen%20Kearns"
+   },
+   {
+    "name": "Ryan White",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ryan%20White"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt14179942",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "23 wins & 23 nominations total",
+  "cast": [
+   "Tom Cullen",
+   "Chris New",
+   "Jonathan Race"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures intimacy with an expiration date already on it. Two men meet in Nottingham on a Friday, one leaving the country on Sunday, and talk in bed, pubs and trains about sex, coming out, and how much of yourself you perform.\n\nAfter a drunken house party with his straight mates, Russell heads out to a gay club. Just before closing time he picks up Glen but what's expected to be just a one-night stand becomes something else, something special.",
+  "director": [
+   "Andrew Haigh"
+  ],
+  "dvdRelease": "2016-09-27T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt1714210",
+  "moviedb_id": 79120,
+  "name": "Weekend",
+  "popularity": 0.08291,
+  "poster": "https://images.metahub.space/poster/small/tt1714210/img",
+  "released": "2011-11-04T00:00:00.000Z",
+  "runtime": "96 min",
+  "trailers": [
+   {
+    "source": "2IFbcWG1F9o",
+    "type": "Trailer"
+   },
+   {
+    "source": "EmlNgKlHViY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Andrew Haigh"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1714210/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1714210/img",
+  "popularities": {
+   "moviedb": 2.4873,
+   "stremio": 0.08291,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/weekend-1714210",
+  "id": "tt1714210",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "Weekend",
+    "ytId": "2IFbcWG1F9o"
+   },
+   {
+    "title": "Weekend",
+    "ytId": "EmlNgKlHViY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1714210"
+   },
+   {
+    "name": "Weekend",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/weekend-1714210"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Tom Cullen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tom%20Cullen"
+   },
+   {
+    "name": "Chris New",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chris%20New"
+   },
+   {
+    "name": "Jonathan Race",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jonathan%20Race"
+   },
+   {
+    "name": "Andrew Haigh",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrew%20Haigh"
+   },
+   {
+    "name": "Andrew Haigh",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andrew%20Haigh"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1714210",
+   "hasScheduledVideos": false
+  }
+ }
+}

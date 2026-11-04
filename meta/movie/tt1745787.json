@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "imdb_id": "tt1745787",
+  "popularity": 0.07916666666666666,
+  "name": "The Tribe",
+  "year": "2014",
+  "runtime": "132 min",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "released": "2014-09-11T00:00:00.000Z",
+  "director": [
+   "Myroslav Slaboshpytskyi"
+  ],
+  "writer": [
+   "Myroslav Slaboshpytskyi"
+  ],
+  "cast": [
+   "Hryhoriy Fesenko",
+   "Yana Novikova",
+   "Rosa Babiy"
+  ],
+  "imdbRating": "6.9",
+  "poster": "https://images.metahub.space/poster/small/tt1745787/img",
+  "description": "Captures a complete social world you must learn to read bodily or not at all. At a Ukrainian boarding school for deaf students, a student crime network runs everything — performed entirely in sign language, with no subtitles and no translation.\n\nA deaf boy joins a boarding school for similar children. Confronted by the violent and criminal antics of some of the other boys and girls, he struggles to conform and join the 'tribe'.",
+  "country": "Ukraine, Netherlands",
+  "awards": "30 wins & 25 nominations total",
+  "dvdRelease": "2017-02-23T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "yKD0sMntjWE",
+    "type": "Trailer"
+   },
+   {
+    "source": "ZeYO_EoHP0k",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 271397,
+  "popularities": {
+   "moviedb": 2.375,
+   "stremio": 0.07916666666666666,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1745787/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1745787/img",
+  "slug": "movie/the-tribe-1745787",
+  "id": "tt1745787",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "The Tribe",
+    "ytId": "yKD0sMntjWE"
+   },
+   {
+    "title": "The Tribe",
+    "ytId": "ZeYO_EoHP0k"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1745787"
+   },
+   {
+    "name": "The Tribe",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-tribe-1745787"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Hryhoriy Fesenko",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hryhoriy%20Fesenko"
+   },
+   {
+    "name": "Yana Novikova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yana%20Novikova"
+   },
+   {
+    "name": "Rosa Babiy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rosa%20Babiy"
+   },
+   {
+    "name": "Myroslav Slaboshpytskyi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Myroslav%20Slaboshpytskyi"
+   },
+   {
+    "name": "Myroslav Slaboshpytskyi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Myroslav%20Slaboshpytskyi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1745787",
+   "hasScheduledVideos": false
+  }
+ }
+}

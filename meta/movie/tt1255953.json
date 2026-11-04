@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 41 wins & 20 nominations total",
+  "cast": [
+   "Lubna Azabal",
+   "Mélissa Désormeaux-Poulin",
+   "Maxim Gaudette"
+  ],
+  "country": "Canada, France",
+  "description": "Captures two children learning their mother's life was a war they knew nothing about. Montreal twins, a will, two sealed letters, and a journey into a fictionalised Lebanon their mother never described — it hits like a Greek tragedy.\n\nTwins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+  "director": [
+   "Denis Villeneuve"
+  ],
+  "dvdRelease": "2014-06-10T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery",
+   "War"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt1255953",
+  "moviedb_id": 46738,
+  "name": "Incendies",
+  "popularity": 0.39985,
+  "poster": "https://images.metahub.space/poster/small/tt1255953/img",
+  "released": "2011-04-22T00:00:00.000Z",
+  "runtime": "131 min",
+  "trailers": [
+   {
+    "source": "XJ69WnwvZhE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Wajdi Mouawad",
+   "Denis Villeneuve",
+   "Valérie Beaugrand-Champagne"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1255953/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1255953/img",
+  "popularities": {
+   "moviedb": 11.9955,
+   "stremio": 0.39985,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/incendies-1255953",
+  "id": "tt1255953",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "War"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "Incendies",
+    "ytId": "XJ69WnwvZhE"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1255953"
+   },
+   {
+    "name": "Incendies",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/incendies-1255953"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Lubna Azabal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lubna%20Azabal"
+   },
+   {
+    "name": "Mélissa Désormeaux-Poulin",
+    "category": "Cast",
+    "url": "stremio:///search?search=M%C3%A9lissa%20D%C3%A9sormeaux-Poulin"
+   },
+   {
+    "name": "Maxim Gaudette",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maxim%20Gaudette"
+   },
+   {
+    "name": "Wajdi Mouawad",
+    "category": "Writers",
+    "url": "stremio:///search?search=Wajdi%20Mouawad"
+   },
+   {
+    "name": "Denis Villeneuve",
+    "category": "Writers",
+    "url": "stremio:///search?search=Denis%20Villeneuve"
+   },
+   {
+    "name": "Valérie Beaugrand-Champagne",
+    "category": "Writers",
+    "url": "stremio:///search?search=Val%C3%A9rie%20Beaugrand-Champagne"
+   },
+   {
+    "name": "Denis Villeneuve",
+    "category": "Directors",
+    "url": "stremio:///search?search=Denis%20Villeneuve"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1255953",
+   "hasScheduledVideos": false
+  }
+ }
+}

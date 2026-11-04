@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 9 wins & 56 nominations total",
+  "cast": [
+   "Ryan Gosling",
+   "Michelle Williams",
+   "John Doman"
+  ],
+  "country": "United States",
+  "description": "Captures love decaying, cross-cut with it beginning. The same couple early and late, and the late scenes are unbearable precisely because the early ones were real.\n\nA couple cannot halt the downward spiral of their marriage.",
+  "director": [
+   "Derek Cianfrance"
+  ],
+  "dvdRelease": "2017-04-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt1120985",
+  "moviedb_id": 46705,
+  "name": "Blue Valentine",
+  "popularity": 0.19951,
+  "poster": "https://images.metahub.space/poster/small/tt1120985/img",
+  "released": "2011-01-28T00:00:00.000Z",
+  "runtime": "112 min",
+  "trailers": [
+   {
+    "source": "aw0NChcdQfQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Derek Cianfrance",
+   "Joey Curtis",
+   "Cami Delavigne"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1120985/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1120985/img",
+  "popularities": {
+   "moviedb": 5.9853,
+   "stremio": 0.19951,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/blue-valentine-1120985",
+  "id": "tt1120985",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2011",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Blue Valentine",
+    "ytId": "aw0NChcdQfQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1120985"
+   },
+   {
+    "name": "Blue Valentine",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/blue-valentine-1120985"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Ryan Gosling",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ryan%20Gosling"
+   },
+   {
+    "name": "Michelle Williams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michelle%20Williams"
+   },
+   {
+    "name": "John Doman",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Doman"
+   },
+   {
+    "name": "Derek Cianfrance",
+    "category": "Writers",
+    "url": "stremio:///search?search=Derek%20Cianfrance"
+   },
+   {
+    "name": "Joey Curtis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joey%20Curtis"
+   },
+   {
+    "name": "Cami Delavigne",
+    "category": "Writers",
+    "url": "stremio:///search?search=Cami%20Delavigne"
+   },
+   {
+    "name": "Derek Cianfrance",
+    "category": "Directors",
+    "url": "stremio:///search?search=Derek%20Cianfrance"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1120985",
+   "hasScheduledVideos": false
+  }
+ }
+}

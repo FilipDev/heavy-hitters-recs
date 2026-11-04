@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 8 wins & 27 nominations total",
+  "cast": [
+   "Matt Damon",
+   "Gylfi Zoega",
+   "Andri Snær Magnason"
+  ],
+  "country": "United States",
+  "description": "Captures elite impunity as a tone of voice. The 2008 financial crisis explained with unusual clarity and barely suppressed fury, including interviews where the architects keep incriminating themselves with total calm.\n\nTakes a closer look at what brought about the 2008 financial meltdown.",
+  "director": [
+   "Charles Ferguson"
+  ],
+  "dvdRelease": "2012-04-16T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Crime"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt1645089",
+  "moviedb_id": 44639,
+  "name": "Inside Job",
+  "popularity": 0.12247333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt1645089/img",
+  "released": "2010-11-12T00:00:00.000Z",
+  "runtime": "109 min",
+  "trailers": [
+   {
+    "source": "FzrBurlJUNk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Charles Ferguson",
+   "Chad Beck",
+   "Adam Bolt"
+  ],
+  "year": "2010",
+  "background": "https://images.metahub.space/background/medium/tt1645089/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1645089/img",
+  "popularities": {
+   "moviedb": 3.6742,
+   "stremio": 0.12247333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/inside-job-1645089",
+  "id": "tt1645089",
+  "genres": [
+   "Documentary",
+   "Crime"
+  ],
+  "releaseInfo": "2010",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Inside Job",
+    "ytId": "FzrBurlJUNk"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1645089"
+   },
+   {
+    "name": "Inside Job",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/inside-job-1645089"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Matt Damon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Matt%20Damon"
+   },
+   {
+    "name": "Gylfi Zoega",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gylfi%20Zoega"
+   },
+   {
+    "name": "Andri Snær Magnason",
+    "category": "Cast",
+    "url": "stremio:///search?search=Andri%20Sn%C3%A6r%20Magnason"
+   },
+   {
+    "name": "Charles Ferguson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Charles%20Ferguson"
+   },
+   {
+    "name": "Chad Beck",
+    "category": "Writers",
+    "url": "stremio:///search?search=Chad%20Beck"
+   },
+   {
+    "name": "Adam Bolt",
+    "category": "Writers",
+    "url": "stremio:///search?search=Adam%20Bolt"
+   },
+   {
+    "name": "Charles Ferguson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Charles%20Ferguson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1645089",
+   "hasScheduledVideos": false
+  }
+ }
+}

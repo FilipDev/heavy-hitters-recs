@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "imdb_id": "tt14039582",
+  "name": "Drive My Car",
+  "cast": [
+   "Hidetoshi Nishijima",
+   "Tôko Miura",
+   "Reika Kirishima"
+  ],
+  "country": "Japan",
+  "director": [
+   "Ryusuke Hamaguchi"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "released": "2021-08-20T00:00:00.000Z",
+  "slug": "movie/drive-my-car-14039582",
+  "type": "movie",
+  "writer": [
+   "Haruki Murakami",
+   "Ryusuke Hamaguchi",
+   "Takamasa Ôe"
+  ],
+  "year": "2021",
+  "moviedb_id": 758866,
+  "popularities": {
+   "moviedb": 6.8893,
+   "stremio": 0.22964333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "YyDSxD51WRE",
+    "type": "Trailer"
+   },
+   {
+    "source": "6BPKPb_RTwI",
+    "type": "Trailer"
+   },
+   {
+    "source": "ygd7rVkiM-c",
+    "type": "Trailer"
+   }
+  ],
+  "awards": "Won 1 Oscar. 95 wins & 110 nominations total",
+  "description": "Captures grief rehearsed until it can be said. A theatre director who lost his wife stages Chekhov in Hiroshima with a young driver he didn't want; three hours, mostly conversations in a red Saab, and it earns every minute.\n\nA renowned stage actor and director learns to cope with a big personal loss when he receives an offer to direct a production of Uncle Vanya in Hiroshima.",
+  "poster": "https://images.metahub.space/poster/small/tt14039582/img",
+  "runtime": "179 min",
+  "background": "https://images.metahub.space/background/medium/tt14039582/img",
+  "logo": "https://images.metahub.space/logo/medium/tt14039582/img",
+  "dvdRelease": "2022-03-02T00:00:00.000Z",
+  "popularity": 0.22964333333333334,
+  "id": "tt14039582",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "Drive My Car",
+    "ytId": "YyDSxD51WRE"
+   },
+   {
+    "title": "Drive My Car",
+    "ytId": "6BPKPb_RTwI"
+   },
+   {
+    "title": "Drive My Car",
+    "ytId": "ygd7rVkiM-c"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt14039582"
+   },
+   {
+    "name": "Drive My Car",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/drive-my-car-14039582"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Hidetoshi Nishijima",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hidetoshi%20Nishijima"
+   },
+   {
+    "name": "Tôko Miura",
+    "category": "Cast",
+    "url": "stremio:///search?search=T%C3%B4ko%20Miura"
+   },
+   {
+    "name": "Reika Kirishima",
+    "category": "Cast",
+    "url": "stremio:///search?search=Reika%20Kirishima"
+   },
+   {
+    "name": "Haruki Murakami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Haruki%20Murakami"
+   },
+   {
+    "name": "Ryusuke Hamaguchi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ryusuke%20Hamaguchi"
+   },
+   {
+    "name": "Takamasa Ôe",
+    "category": "Writers",
+    "url": "stremio:///search?search=Takamasa%20%C3%94e"
+   },
+   {
+    "name": "Ryusuke Hamaguchi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ryusuke%20Hamaguchi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt14039582",
+   "hasScheduledVideos": false
+  }
+ }
+}

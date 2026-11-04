@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "awards": "6 wins & 4 nominations total",
+  "cast": [
+   "David Kaplan",
+   "Fabiola Gianotti",
+   "Sherwood Boehlert"
+  ],
+  "country": "United States",
+  "description": "Captures big science's actual emotional texture: boredom, terror, and a party when the bump appears in the data. The Large Hadron Collider's first runs filmed from inside the collaboration, theorists not knowing if thirty years of work is about to collapse.\n\nAs the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time -- or perhaps their greatest failure.",
+  "director": [
+   "Mark Levinson"
+  ],
+  "dvdRelease": "2016-05-27T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt1385956",
+  "moviedb_id": 202141,
+  "name": "Particle Fever",
+  "popularity": 0.04494,
+  "poster": "https://images.metahub.space/poster/small/tt1385956/img",
+  "released": "2014-09-03T00:00:00.000Z",
+  "runtime": "99 min",
+  "trailers": [
+   {
+    "source": "Rikc7foqvRI",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt1385956/img",
+  "popularities": {
+   "moviedb": 1.3482,
+   "stremio": 0.04494,
+   "stremio_lib": 0
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt1385956/img",
+  "slug": "movie/particle-fever-1385956",
+  "id": "tt1385956",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Particle Fever",
+    "ytId": "Rikc7foqvRI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1385956"
+   },
+   {
+    "name": "Particle Fever",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/particle-fever-1385956"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "David Kaplan",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Kaplan"
+   },
+   {
+    "name": "Fabiola Gianotti",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fabiola%20Gianotti"
+   },
+   {
+    "name": "Sherwood Boehlert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sherwood%20Boehlert"
+   },
+   {
+    "name": "Mark Levinson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Mark%20Levinson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1385956",
+   "hasScheduledVideos": false
+  }
+ }
+}

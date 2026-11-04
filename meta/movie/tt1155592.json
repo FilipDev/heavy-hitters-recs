@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 46 wins & 13 nominations total",
+  "cast": [
+   "Philippe Petit",
+   "Jean François Heckel",
+   "Jean-Louis Blondeau"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures pure, pointless, joyful daring — a crime with no victim and no motive except beauty. Philippe Petit's 1974 tightrope walk between the Twin Towers, told like a heist film by the crew who smuggled the rigging up.\n\nA look at tightrope walker Philippe Petit's daring, but illegal, high-wire routine performed between New York City's World Trade Center's twin towers in 1974, what some consider, \"the artistic crime of the century\".",
+  "director": [
+   "James Marsh"
+  ],
+  "dvdRelease": "2011-06-17T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt1155592",
+  "moviedb_id": 14048,
+  "name": "Man on Wire",
+  "popularity": 0.08217666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt1155592/img",
+  "released": "2008-08-29T00:00:00.000Z",
+  "runtime": "94 min",
+  "trailers": [
+   {
+    "source": "EIawNRm9NWM",
+    "type": "Trailer"
+   },
+   {
+    "source": "YW1b3G2MN3Q",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Philippe Petit"
+  ],
+  "year": "2008",
+  "background": "https://images.metahub.space/background/medium/tt1155592/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1155592/img",
+  "popularities": {
+   "moviedb": 2.4653,
+   "stremio": 0.08217666666666666,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/man-on-wire-1155592",
+  "id": "tt1155592",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "releaseInfo": "2008",
+  "trailerStreams": [
+   {
+    "title": "Man on Wire",
+    "ytId": "EIawNRm9NWM"
+   },
+   {
+    "title": "Man on Wire",
+    "ytId": "YW1b3G2MN3Q"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1155592"
+   },
+   {
+    "name": "Man on Wire",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/man-on-wire-1155592"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Philippe Petit",
+    "category": "Cast",
+    "url": "stremio:///search?search=Philippe%20Petit"
+   },
+   {
+    "name": "Jean François Heckel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean%20Fran%C3%A7ois%20Heckel"
+   },
+   {
+    "name": "Jean-Louis Blondeau",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Louis%20Blondeau"
+   },
+   {
+    "name": "Philippe Petit",
+    "category": "Writers",
+    "url": "stremio:///search?search=Philippe%20Petit"
+   },
+   {
+    "name": "James Marsh",
+    "category": "Directors",
+    "url": "stremio:///search?search=James%20Marsh"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1155592",
+   "hasScheduledVideos": false
+  }
+ }
+}

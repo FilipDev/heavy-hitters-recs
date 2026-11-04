@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "Nominated for 3 Oscars. 35 wins & 102 nominations total",
+  "cast": [
+   "Gary Oldman",
+   "Colin Firth",
+   "Tom Hardy"
+  ],
+  "country": "United Kingdom, France, Germany, United States, Hungary, Turkey",
+  "description": "Captures espionage as tired old men in bad rooms. A mole inside British intelligence, investigated through retirement-age sadness, Christmas parties and files — almost nothing explodes; the atmosphere is the action.\n\nIn the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet Agent within MI6.",
+  "director": [
+   "Tomas Alfredson"
+  ],
+  "dvdRelease": "2015-12-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "imdbRating": "7.0",
+  "imdb_id": "tt1340800",
+  "moviedb_id": 49517,
+  "name": "Tinker Tailor Soldier Spy",
+  "popularity": 0.26937333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt1340800/img",
+  "released": "2012-01-06T00:00:00.000Z",
+  "runtime": "127 min",
+  "trailers": [
+   {
+    "source": "VW-F1H-Nonk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "John le Carré",
+   "Bridget O&apos;Connor",
+   "Peter Straughan"
+  ],
+  "year": "2012",
+  "background": "https://images.metahub.space/background/medium/tt1340800/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1340800/img",
+  "popularities": {
+   "moviedb": 8.0812,
+   "stremio": 0.26937333333333335,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/tinker-tailor-soldier-spy-1340800",
+  "id": "tt1340800",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "releaseInfo": "2012",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Tinker Tailor Soldier Spy",
+    "ytId": "VW-F1H-Nonk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1340800"
+   },
+   {
+    "name": "Tinker Tailor Soldier Spy",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tinker-tailor-soldier-spy-1340800"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Gary Oldman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gary%20Oldman"
+   },
+   {
+    "name": "Colin Firth",
+    "category": "Cast",
+    "url": "stremio:///search?search=Colin%20Firth"
+   },
+   {
+    "name": "Tom Hardy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tom%20Hardy"
+   },
+   {
+    "name": "John le Carré",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20le%20Carr%C3%A9"
+   },
+   {
+    "name": "Bridget O&apos;Connor",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bridget%20O%26apos%3BConnor"
+   },
+   {
+    "name": "Peter Straughan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Peter%20Straughan"
+   },
+   {
+    "name": "Tomas Alfredson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Tomas%20Alfredson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1340800",
+   "hasScheduledVideos": false
+  }
+ }
+}

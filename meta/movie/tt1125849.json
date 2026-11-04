@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 58 wins & 93 nominations total",
+  "cast": [
+   "Mickey Rourke",
+   "Marisa Tomei",
+   "Evan Rachel Wood"
+  ],
+  "country": "United States, France",
+  "description": "Captures a body that only has value inside the ring. An ageing, hearing-damaged wrestler on supermarket shifts, trying with his daughter, and finding the crowd is the one place the world still makes sense to him.\n\nA faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.",
+  "director": [
+   "Darren Aronofsky"
+  ],
+  "dvdRelease": "2015-12-12T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Sport"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt1125849",
+  "moviedb_id": 12163,
+  "name": "The Wrestler",
+  "popularity": 0.19272,
+  "poster": "https://images.metahub.space/poster/small/tt1125849/img",
+  "released": "2009-01-30T00:00:00.000Z",
+  "runtime": "109 min",
+  "trailers": [
+   {
+    "source": "qjhGZhRJ3j0",
+    "type": "Trailer"
+   },
+   {
+    "source": "61-GFxjTyV0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Robert Siegel"
+  ],
+  "year": "2009",
+  "background": "https://images.metahub.space/background/medium/tt1125849/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1125849/img",
+  "popularities": {
+   "moviedb": 5.7816,
+   "stremio": 0.19272,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-wrestler-1125849",
+  "id": "tt1125849",
+  "genres": [
+   "Drama",
+   "Sport"
+  ],
+  "releaseInfo": "2009",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Wrestler",
+    "ytId": "qjhGZhRJ3j0"
+   },
+   {
+    "title": "The Wrestler",
+    "ytId": "61-GFxjTyV0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1125849"
+   },
+   {
+    "name": "The Wrestler",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-wrestler-1125849"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Mickey Rourke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mickey%20Rourke"
+   },
+   {
+    "name": "Marisa Tomei",
+    "category": "Cast",
+    "url": "stremio:///search?search=Marisa%20Tomei"
+   },
+   {
+    "name": "Evan Rachel Wood",
+    "category": "Cast",
+    "url": "stremio:///search?search=Evan%20Rachel%20Wood"
+   },
+   {
+    "name": "Robert Siegel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robert%20Siegel"
+   },
+   {
+    "name": "Darren Aronofsky",
+    "category": "Directors",
+    "url": "stremio:///search?search=Darren%20Aronofsky"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1125849",
+   "hasScheduledVideos": false
+  }
+ }
+}

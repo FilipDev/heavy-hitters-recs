@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "11 wins & 9 nominations total",
+  "cast": [
+   "Hiroshi Abe",
+   "Yui Natsukawa",
+   "You"
+  ],
+  "country": "Japan",
+  "description": "Captures a family organised around the son who isn't there. One summer day, a grown son visits parents who still prefer the dead favourite; corn fritters, a butterfly, things said by not being said.\n\nA family gathers together for a commemorative ritual whose nature only gradually becomes clear.",
+  "director": [
+   "Hirokazu Koreeda"
+  ],
+  "dvdRelease": "2016-07-23T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt1087578",
+  "moviedb_id": 25050,
+  "name": "Still Walking",
+  "popularity": 0.12788666666666665,
+  "poster": "https://images.metahub.space/poster/small/tt1087578/img",
+  "released": "2008-06-28T00:00:00.000Z",
+  "runtime": "114 min",
+  "trailers": [
+   {
+    "source": "9gPbHqmjhNU",
+    "type": "Trailer"
+   },
+   {
+    "source": "Id7tXouypEE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Hirokazu Koreeda"
+  ],
+  "year": "2008",
+  "popularities": {
+   "moviedb": 3.8366,
+   "stremio": 0.12788666666666665,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1087578/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1087578/img",
+  "slug": "movie/still-walking-1087578",
+  "id": "tt1087578",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2008",
+  "trailerStreams": [
+   {
+    "title": "Still Walking",
+    "ytId": "9gPbHqmjhNU"
+   },
+   {
+    "title": "Still Walking",
+    "ytId": "Id7tXouypEE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1087578"
+   },
+   {
+    "name": "Still Walking",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/still-walking-1087578"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Hiroshi Abe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hiroshi%20Abe"
+   },
+   {
+    "name": "Yui Natsukawa",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yui%20Natsukawa"
+   },
+   {
+    "name": "You",
+    "category": "Cast",
+    "url": "stremio:///search?search=You"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1087578",
+   "hasScheduledVideos": false
+  }
+ }
+}

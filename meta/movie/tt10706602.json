@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "imdb_id": "tt10706602",
+  "name": "Collective",
+  "country": "Romania, Luxembourg, Germany",
+  "description": "Captures corruption being dismantled in real time, and it plays like a thriller. After a Bucharest nightclub fire, burn victims start dying of infections in Romanian hospitals — and a sports newspaper, of all things, uncovers why.\n\nDirector Alexander Nanau follows a crack team of investigators at the Romanian newspaper Gazeta Sporturilor as they try to uncover a vast health-care fraud that enriched moguls and politicians and led to the deaths of innocent cit...",
+  "director": [
+   "Alexander Nanau"
+  ],
+  "genre": [
+   "Documentary",
+   "Crime"
+  ],
+  "imdbRating": "8.1",
+  "poster": "https://images.metahub.space/poster/small/tt10706602/img",
+  "released": "2020-11-20T00:00:00.000Z",
+  "runtime": "109 min",
+  "slug": "movie/collective-10706602",
+  "type": "movie",
+  "writer": [
+   "Alexander Nanau",
+   "Antoaneta Opris"
+  ],
+  "year": "2019",
+  "moviedb_id": 618363,
+  "popularities": {
+   "moviedb": 1.9895,
+   "stremio": 0.06631666666666666,
+   "stremio_lib": 0,
+   "trakt": 1
+  },
+  "trailers": [
+   {
+    "source": "KLgGoT7v3ro",
+    "type": "Trailer"
+   },
+   {
+    "source": "Q-NaUTg45I4",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Dan Alexandru Condrea",
+   "Liviu Iolu",
+   "Razvan Lutac"
+  ],
+  "awards": "Nominated for 2 Oscars. 37 wins & 55 nominations total",
+  "dvdRelease": "2020-11-20T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt10706602/img",
+  "logo": "https://images.metahub.space/logo/medium/tt10706602/img",
+  "popularity": 0.06631666666666666,
+  "id": "tt10706602",
+  "genres": [
+   "Documentary",
+   "Crime"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "Collective",
+    "ytId": "KLgGoT7v3ro"
+   },
+   {
+    "title": "Collective",
+    "ytId": "Q-NaUTg45I4"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt10706602"
+   },
+   {
+    "name": "Collective",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/collective-10706602"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Dan Alexandru Condrea",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dan%20Alexandru%20Condrea"
+   },
+   {
+    "name": "Liviu Iolu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Liviu%20Iolu"
+   },
+   {
+    "name": "Razvan Lutac",
+    "category": "Cast",
+    "url": "stremio:///search?search=Razvan%20Lutac"
+   },
+   {
+    "name": "Alexander Nanau",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alexander%20Nanau"
+   },
+   {
+    "name": "Antoaneta Opris",
+    "category": "Writers",
+    "url": "stremio:///search?search=Antoaneta%20Opris"
+   },
+   {
+    "name": "Alexander Nanau",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alexander%20Nanau"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt10706602",
+   "hasScheduledVideos": false
+  }
+ }
+}

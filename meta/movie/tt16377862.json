@@ -1,0 +1,97 @@
+{
+ "meta": {
+  "imdb_id": "tt16377862",
+  "name": "All That Breathes",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 1.7599,
+   "stremio": 0.05866333333333333,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "Nominated for 1 Oscar. 24 wins & 44 nominations total",
+  "cast": [
+   "Salik Rehman",
+   "Mohammad Saud",
+   "Nadeem Shehzad"
+  ],
+  "country": "United Kingdom, India, United States",
+  "description": "Captures caring for creatures everyone else steps over as a way of holding a world together. Two brothers in Delhi run a makeshift hospital for black kites falling out of a polluted sky while the city frays around them.\n\nAmidst the darkening backdrop of Delhi's apocalyptic air and escalating violence, two brothers devote their lives to protect one casualty of the turbulent times: the bird known as the Black Kite.",
+  "director": [
+   "Shaunak Sen"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.0",
+  "released": "2023-02-07T00:00:00.000Z",
+  "slug": "movie/all-that-breathes-16377862",
+  "year": "2023",
+  "moviedb_id": 913838,
+  "poster": "https://images.metahub.space/poster/small/tt16377862/img",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "DdjH0tfjbkQ",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "background": "https://images.metahub.space/background/medium/tt16377862/img",
+  "logo": "https://images.metahub.space/logo/medium/tt16377862/img",
+  "dvdRelease": "2023-02-07T00:00:00.000Z",
+  "popularity": 0.05866333333333333,
+  "id": "tt16377862",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2023",
+  "trailerStreams": [
+   {
+    "title": "All That Breathes",
+    "ytId": "DdjH0tfjbkQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt16377862"
+   },
+   {
+    "name": "All That Breathes",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/all-that-breathes-16377862"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Salik Rehman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Salik%20Rehman"
+   },
+   {
+    "name": "Mohammad Saud",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mohammad%20Saud"
+   },
+   {
+    "name": "Nadeem Shehzad",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nadeem%20Shehzad"
+   },
+   {
+    "name": "Shaunak Sen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Shaunak%20Sen"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt16377862",
+   "hasScheduledVideos": false
+  }
+ }
+}

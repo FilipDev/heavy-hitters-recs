@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 9 wins & 5 nominations total",
+  "cast": [
+   "James Balog",
+   "Svavar Jónatansson",
+   "Louie Psihoyos"
+  ],
+  "country": "United States",
+  "description": "Captures climate change made visible at human time-scale, no argument required. Time-lapse cameras planted on glaciers play back years of retreat in seconds — including a calving event the size of a city district, caught by chance.\n\nFollow National Geographic photographer James Balog across the Arctic as he deploys time-lapse cameras designed for one purpose: to capture a multi-year record of the world's changing glaciers.",
+  "director": [
+   "Jeff Orlowski-Yang"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt1579361",
+  "moviedb_id": 84185,
+  "name": "Chasing Ice",
+  "popularity": 0.06835333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt1579361/img",
+  "released": "2012-12-14T00:00:00.000Z",
+  "runtime": "74 min",
+  "trailers": [
+   {
+    "source": "eIZTMVNBjc4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Mark Monroe"
+  ],
+  "year": "2012",
+  "background": "https://images.metahub.space/background/medium/tt1579361/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1579361/img",
+  "popularities": {
+   "moviedb": 2.0506,
+   "stremio": 0.06835333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/chasing-ice-1579361",
+  "id": "tt1579361",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "2012",
+  "trailerStreams": [
+   {
+    "title": "Chasing Ice",
+    "ytId": "eIZTMVNBjc4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1579361"
+   },
+   {
+    "name": "Chasing Ice",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/chasing-ice-1579361"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "James Balog",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Balog"
+   },
+   {
+    "name": "Svavar Jónatansson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Svavar%20J%C3%B3natansson"
+   },
+   {
+    "name": "Louie Psihoyos",
+    "category": "Cast",
+    "url": "stremio:///search?search=Louie%20Psihoyos"
+   },
+   {
+    "name": "Mark Monroe",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mark%20Monroe"
+   },
+   {
+    "name": "Jeff Orlowski-Yang",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jeff%20Orlowski-Yang"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1579361",
+   "hasScheduledVideos": false
+  }
+ }
+}

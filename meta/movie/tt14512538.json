@@ -1,0 +1,97 @@
+{
+ "meta": {
+  "imdb_id": "tt14512538",
+  "name": "Roadrunner: A Film About Anthony Bourdain",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 2.7877,
+   "stremio": 0.09292333333333333,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "cast": [
+   "Asia Argento",
+   "Anthony Bourdain",
+   "Ariane Bourdain"
+  ],
+  "country": "United States",
+  "description": "Captures charisma as both the gift and the mechanism of self-destruction. Anthony Bourdain's rise and suicide, told by the friends and crew who travelled with him and remain angry and bewildered in roughly equal measure.\n\nA documentary about Anthony Bourdain and his career as a chef, writer and host, revered and renowned for his authentic approach to food, culture and travel.",
+  "director": [
+   "Morgan Neville"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.7",
+  "poster": "https://images.metahub.space/poster/small/tt14512538/img",
+  "released": "2021-07-16T00:00:00.000Z",
+  "runtime": "119 min",
+  "slug": "movie/roadrunner-a-film-about-anthony-bourdain-14512538",
+  "year": "2021",
+  "moviedb_id": 642732,
+  "trailers": [
+   {
+    "source": "ihEEjwRlghQ",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "dvdRelease": "2021-09-28T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt14512538/img",
+  "logo": "https://images.metahub.space/logo/medium/tt14512538/img",
+  "awards": "3 wins & 5 nominations total",
+  "popularity": 0.09292333333333333,
+  "id": "tt14512538",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "Roadrunner: A Film About Anthony Bourdain",
+    "ytId": "ihEEjwRlghQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt14512538"
+   },
+   {
+    "name": "Roadrunner: A Film About Anthony Bourdain",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/roadrunner-a-film-about-anthony-bourdain-14512538"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Asia Argento",
+    "category": "Cast",
+    "url": "stremio:///search?search=Asia%20Argento"
+   },
+   {
+    "name": "Anthony Bourdain",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anthony%20Bourdain"
+   },
+   {
+    "name": "Ariane Bourdain",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ariane%20Bourdain"
+   },
+   {
+    "name": "Morgan Neville",
+    "category": "Directors",
+    "url": "stremio:///search?search=Morgan%20Neville"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt14512538",
+   "hasScheduledVideos": false
+  }
+ }
+}

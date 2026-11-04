@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "19 wins & 21 nominations total",
+  "cast": [
+   "Anders Danielsen Lie",
+   "Hans Olav Brenner",
+   "Ingrid Olava"
+  ],
+  "country": "Norway, Denmark, Sweden",
+  "description": "Captures a man visiting his own life while on leave from rehab. Job interview, old friends, a party, the family home for sale — Oslo in late summer light, conversations so ordinary they are painful for what he hears in them.\n\nOne day in the life of Anders, a young recovering drug addict, who takes a brief leave from his treatment center to interview for a job and catch up with old friends in Oslo.",
+  "director": [
+   "Joachim Trier"
+  ],
+  "dvdRelease": "2017-04-05T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt1736633",
+  "moviedb_id": 75233,
+  "name": "Oslo, August 31st",
+  "popularity": 0.09947666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt1736633/img",
+  "released": "2011-08-31T00:00:00.000Z",
+  "runtime": "95 min",
+  "trailers": [
+   {
+    "source": "0QpTqYoEzto",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Joachim Trier",
+   "Pierre Drieu la Rochelle",
+   "Eskil Vogt"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1736633/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1736633/img",
+  "popularities": {
+   "moviedb": 2.9843,
+   "stremio": 0.09947666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/oslo-august-31st-1736633",
+  "id": "tt1736633",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2011",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Oslo, August 31st",
+    "ytId": "0QpTqYoEzto"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1736633"
+   },
+   {
+    "name": "Oslo, August 31st",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/oslo-august-31st-1736633"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Anders Danielsen Lie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anders%20Danielsen%20Lie"
+   },
+   {
+    "name": "Hans Olav Brenner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hans%20Olav%20Brenner"
+   },
+   {
+    "name": "Ingrid Olava",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ingrid%20Olava"
+   },
+   {
+    "name": "Joachim Trier",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joachim%20Trier"
+   },
+   {
+    "name": "Pierre Drieu la Rochelle",
+    "category": "Writers",
+    "url": "stremio:///search?search=Pierre%20Drieu%20la%20Rochelle"
+   },
+   {
+    "name": "Eskil Vogt",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eskil%20Vogt"
+   },
+   {
+    "name": "Joachim Trier",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joachim%20Trier"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1736633",
+   "hasScheduledVideos": false
+  }
+ }
+}

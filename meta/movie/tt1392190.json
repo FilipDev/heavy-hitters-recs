@@ -1,0 +1,154 @@
+{
+ "meta": {
+  "awards": "Won 6 Oscars. 246 wins & 240 nominations total",
+  "cast": [
+   "Tom Hardy",
+   "Charlize Theron",
+   "Nicholas Hoult"
+  ],
+  "country": "Australia, United States",
+  "description": "Captures momentum as a physical state. Almost no dialogue, one chase out and one chase back — speed, heat and desperation, with a war-rig as a whole society in miniature.\n\nIn a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+  "director": [
+   "George Miller"
+  ],
+  "dvdRelease": "2016-08-10T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt1392190",
+  "moviedb_id": 76341,
+  "name": "Mad Max: Fury Road",
+  "popularity": 0.9042233333333333,
+  "poster": "https://images.metahub.space/poster/small/tt1392190/img",
+  "released": "2015-05-15T00:00:00.000Z",
+  "runtime": "121 min",
+  "trailers": [
+   {
+    "source": "MonFNCgK4WE",
+    "type": "Trailer"
+   },
+   {
+    "source": "hEJnMQG9ev8",
+    "type": "Trailer"
+   },
+   {
+    "source": "YWNWi-ZWL3c",
+    "type": "Trailer"
+   },
+   {
+    "source": "akX3Is3qBpw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "George Miller",
+   "Brendan McCarthy",
+   "Nick Lathouris"
+  ],
+  "year": "2015",
+  "background": "https://images.metahub.space/background/medium/tt1392190/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1392190/img",
+  "popularities": {
+   "moviedb": 27.1267,
+   "stremio": 0.9042233333333333,
+   "trakt": 60,
+   "stremio_lib": 0
+  },
+  "slug": "movie/mad-max-fury-road-1392190",
+  "id": "tt1392190",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2015",
+  "trailerStreams": [
+   {
+    "title": "Mad Max: Fury Road",
+    "ytId": "MonFNCgK4WE"
+   },
+   {
+    "title": "Mad Max: Fury Road",
+    "ytId": "hEJnMQG9ev8"
+   },
+   {
+    "title": "Mad Max: Fury Road",
+    "ytId": "YWNWi-ZWL3c"
+   },
+   {
+    "title": "Mad Max: Fury Road",
+    "ytId": "akX3Is3qBpw"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1392190"
+   },
+   {
+    "name": "Mad Max: Fury Road",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/mad-max-fury-road-1392190"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Tom Hardy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tom%20Hardy"
+   },
+   {
+    "name": "Charlize Theron",
+    "category": "Cast",
+    "url": "stremio:///search?search=Charlize%20Theron"
+   },
+   {
+    "name": "Nicholas Hoult",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nicholas%20Hoult"
+   },
+   {
+    "name": "George Miller",
+    "category": "Writers",
+    "url": "stremio:///search?search=George%20Miller"
+   },
+   {
+    "name": "Brendan McCarthy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Brendan%20McCarthy"
+   },
+   {
+    "name": "Nick Lathouris",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nick%20Lathouris"
+   },
+   {
+    "name": "George Miller",
+    "category": "Directors",
+    "url": "stremio:///search?search=George%20Miller"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1392190",
+   "hasScheduledVideos": false
+  }
+ }
+}

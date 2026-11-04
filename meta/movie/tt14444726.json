@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "imdb_id": "tt14444726",
+  "name": "Tár",
+  "awards": "Nominated for 6 Oscars. 79 wins & 274 nominations total",
+  "cast": [
+   "Cate Blanchett",
+   "Noémie Merlant",
+   "Nina Hoss"
+  ],
+  "country": "United States",
+  "description": "Captures prestige as a system one woman believes she controls. A conductor at the top of classical music — Berlin, Mahler, acolytes — and a slow accumulation of recordings, edits and allegations, filmed with the cold precision its subject would admire.\n\nSet in the international world of Western classical music, the film centers on Lydia Tár, widely considered one of the greatest living composer-conductors and the very first female director of a major German orchestra.",
+  "director": [
+   "Todd Field"
+  ],
+  "genre": [
+   "Drama",
+   "Music"
+  ],
+  "imdbRating": "7.4",
+  "released": "2022-10-28T00:00:00.000Z",
+  "runtime": "158 min",
+  "slug": "movie/tr-14444726",
+  "type": "movie",
+  "writer": [
+   "Todd Field"
+  ],
+  "year": "2022",
+  "popularities": {
+   "stremio": 0.25859333333333334,
+   "stremio_lib": 0,
+   "moviedb": 7.7578,
+   "trakt": 2
+  },
+  "moviedb_id": 817758,
+  "poster": "https://images.metahub.space/poster/small/tt14444726/img",
+  "trailers": [
+   {
+    "source": "Na6gA1RehsU",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt14444726/img",
+  "logo": "https://images.metahub.space/logo/medium/tt14444726/img",
+  "popularity": 0.25859333333333334,
+  "id": "tt14444726",
+  "genres": [
+   "Drama",
+   "Music"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Tár",
+    "ytId": "Na6gA1RehsU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt14444726"
+   },
+   {
+    "name": "Tár",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tr-14444726"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Cate Blanchett",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cate%20Blanchett"
+   },
+   {
+    "name": "Noémie Merlant",
+    "category": "Cast",
+    "url": "stremio:///search?search=No%C3%A9mie%20Merlant"
+   },
+   {
+    "name": "Nina Hoss",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nina%20Hoss"
+   },
+   {
+    "name": "Todd Field",
+    "category": "Writers",
+    "url": "stremio:///search?search=Todd%20Field"
+   },
+   {
+    "name": "Todd Field",
+    "category": "Directors",
+    "url": "stremio:///search?search=Todd%20Field"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt14444726",
+   "hasScheduledVideos": false
+  }
+ }
+}

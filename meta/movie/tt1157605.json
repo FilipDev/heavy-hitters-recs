@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "23 wins & 21 nominations total",
+  "cast": [
+   "Robb Reiner",
+   "Steve &apos;Lips&apos; Kudlow",
+   "Tiziana Arrigoni"
+  ],
+  "country": "Canada",
+  "description": "Captures artistic persistence with no payoff in sight. Toronto's own Anvil: fifty-something metal pioneers who nearly made it in 1982, now delivering school lunches and playing to five people in Prague, still completely serious about the band.\n\nSince 1978, Anvil has become one of heavy metal's most influential yet commercially unsuccessful acts. In 2006, after a fledging European tour Anvil sets out to record their thirteenth album and continue to follow their dreams.",
+  "director": [
+   "Sacha Gervasi"
+  ],
+  "dvdRelease": "2017-04-26T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Drama"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt1157605",
+  "moviedb_id": 18094,
+  "name": "Anvil! The Story of Anvil",
+  "popularity": 0.06134666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt1157605/img",
+  "released": "2009-02-20T00:00:00.000Z",
+  "runtime": "81 min",
+  "trailers": [
+   {
+    "source": "t92nKWryKXw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "2009",
+  "popularities": {
+   "moviedb": 1.8404,
+   "stremio": 0.06134666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1157605/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1157605/img",
+  "slug": "movie/anvil-the-story-of-anvil-1157605",
+  "id": "tt1157605",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Drama"
+  ],
+  "releaseInfo": "2009",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Anvil: The Story of Anvil",
+    "ytId": "t92nKWryKXw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1157605"
+   },
+   {
+    "name": "Anvil: The Story of Anvil",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/anvil-the-story-of-anvil-1157605"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Robb Reiner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robb%20Reiner"
+   },
+   {
+    "name": "Steve &apos;Lips&apos; Kudlow",
+    "category": "Cast",
+    "url": "stremio:///search?search=Steve%20%26apos%3BLips%26apos%3B%20Kudlow"
+   },
+   {
+    "name": "Tiziana Arrigoni",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tiziana%20Arrigoni"
+   },
+   {
+    "name": "Sacha Gervasi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sacha%20Gervasi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1157605",
+   "hasScheduledVideos": false
+  }
+ }
+}

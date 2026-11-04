@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "imdb_id": "tt1556190",
+  "awards": "13 wins & 20 nominations",
+  "cast": [
+   "Gaspar Galaz",
+   "Lautaro Núñez",
+   "Luís Henríquez"
+  ],
+  "country": "France, Germany, Chile, Spain",
+  "description": "Captures two kinds of searching for the past happening in the same frame. In Chile's Atacama desert, astronomers scan the sky for the universe's origins while women sift the same soil for the bones of Pinochet's disappeared.\n\nA documentary about two different searches conducted in the Chilean Atacama Desert: one by astronomers looking for answers about the history of the cosmos, and one by women looking for the remains of loved ones killed by Pinochet'...",
+  "director": [
+   "Patricio Guzmán"
+  ],
+  "dvdRelease": "2016-05-10T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.6",
+  "name": "Nostalgia for the Light",
+  "poster": "https://images.metahub.space/poster/small/tt1556190/img",
+  "released": "2011-03-17T00:00:00.000Z",
+  "runtime": "93 min",
+  "slug": "movie/nostalgia-for-the-light-1556190",
+  "type": "movie",
+  "writer": [
+   "Patricio Guzmán"
+  ],
+  "year": "2010",
+  "moviedb_id": 72721,
+  "popularities": {
+   "moviedb": 2.1349,
+   "stremio": 0.07116333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "j6VDlxFYmKg",
+    "type": "Trailer"
+   },
+   {
+    "source": "0VEIeAa6DiM",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt1556190/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1556190/img",
+  "popularity": 0.07116333333333333,
+  "id": "tt1556190",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2010",
+  "trailerStreams": [
+   {
+    "title": "Nostalgia for the Light",
+    "ytId": "j6VDlxFYmKg"
+   },
+   {
+    "title": "Nostalgia for the Light",
+    "ytId": "0VEIeAa6DiM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1556190"
+   },
+   {
+    "name": "Nostalgia for the Light",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/nostalgia-for-the-light-1556190"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Gaspar Galaz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gaspar%20Galaz"
+   },
+   {
+    "name": "Lautaro Núñez",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lautaro%20N%C3%BA%C3%B1ez"
+   },
+   {
+    "name": "Luís Henríquez",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lu%C3%ADs%20Henr%C3%ADquez"
+   },
+   {
+    "name": "Patricio Guzmán",
+    "category": "Writers",
+    "url": "stremio:///search?search=Patricio%20Guzm%C3%A1n"
+   },
+   {
+    "name": "Patricio Guzmán",
+    "category": "Directors",
+    "url": "stremio:///search?search=Patricio%20Guzm%C3%A1n"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1556190",
+   "hasScheduledVideos": false
+  }
+ }
+}

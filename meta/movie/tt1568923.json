@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "6 wins & 11 nominations",
+  "cast": [
+   "Alexander Beyer",
+   "Rüdiger Vogler",
+   "Hanna Avrutzki"
+  ],
+  "country": "Germany, Israel",
+  "description": "Captures how a fabricated archive keeps passing as truth until someone watches it slowly enough. A Nazi propaganda film shot in the Warsaw Ghetto is taken apart shot by shot, including outtakes where the staging shows.\n\nA film about an unfinished film which portrays the people behind and before the camera in the Warsaw Ghetto, exposing the extent of the cinematic manipulation forever changing the way we look at historic images.",
+  "director": [
+   "Yael Hersonski"
+  ],
+  "dvdRelease": "2012-07-24T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt1568923",
+  "moviedb_id": 58772,
+  "name": "A Film Unfinished",
+  "popularity": 0.03551666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt1568923/img",
+  "released": null,
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "5Z7egcyAdbk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Yael Hersonski"
+  ],
+  "year": "2010",
+  "popularities": {
+   "moviedb": 1.0655,
+   "stremio": 0.03551666666666666,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/a-film-unfinished-1568923",
+  "background": "https://images.metahub.space/background/medium/tt1568923/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1568923/img",
+  "id": "tt1568923",
+  "genres": [
+   "Documentary",
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "2010",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "A Film Unfinished",
+    "ytId": "5Z7egcyAdbk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1568923"
+   },
+   {
+    "name": "A Film Unfinished",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-film-unfinished-1568923"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Alexander Beyer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alexander%20Beyer"
+   },
+   {
+    "name": "Rüdiger Vogler",
+    "category": "Cast",
+    "url": "stremio:///search?search=R%C3%BCdiger%20Vogler"
+   },
+   {
+    "name": "Hanna Avrutzki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hanna%20Avrutzki"
+   },
+   {
+    "name": "Yael Hersonski",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yael%20Hersonski"
+   },
+   {
+    "name": "Yael Hersonski",
+    "category": "Directors",
+    "url": "stremio:///search?search=Yael%20Hersonski"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1568923",
+   "hasScheduledVideos": false
+  }
+ }
+}

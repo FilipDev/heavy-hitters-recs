@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "11 wins & 25 nominations total",
+  "cast": [
+   "Thanapat Saisaymar",
+   "Jenjira Pongpas",
+   "Sakda Kaewbuadee"
+  ],
+  "country": "Thailand, United Kingdom, France, Germany, Spain, Netherlands, United States",
+  "description": "Captures an animist world where the supernatural needs no emphasis. A dying man in the Thai jungle is visited at dinner by his wife's ghost and his son returned as a monkey spirit, and everyone accepts this with total calm.\n\nDying of kidney disease, a man spends his last, somber days with family, including the ghost of his wife and a forest spirit who used to be his son, on a rural northern Thailand farm.",
+  "director": [
+   "Apichatpong Weerasethakul"
+  ],
+  "dvdRelease": "2017-03-10T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "6.7",
+  "imdb_id": "tt1588895",
+  "moviedb_id": 38368,
+  "name": "Uncle Boonmee Who Can Recall His Past Lives",
+  "popularity": 0.12027,
+  "poster": "https://images.metahub.space/poster/small/tt1588895/img",
+  "released": "2010-09-01T00:00:00.000Z",
+  "runtime": "114 min",
+  "trailers": [
+   {
+    "source": "gqlD_VnsM-k",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Phra Sripariyattiweti",
+   "Apichatpong Weerasethakul"
+  ],
+  "year": "2010",
+  "popularities": {
+   "moviedb": 3.6081,
+   "stremio": 0.12027,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/uncle-boonmee-who-can-recall-his-past-lives-1588895",
+  "background": "https://images.metahub.space/background/medium/tt1588895/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1588895/img",
+  "id": "tt1588895",
+  "genres": [
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "2010",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Uncle Boonmee Who Can Recall His Past Lives",
+    "ytId": "gqlD_VnsM-k"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1588895"
+   },
+   {
+    "name": "Uncle Boonmee Who Can Recall His Past Lives",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/uncle-boonmee-who-can-recall-his-past-lives-1588895"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Thanapat Saisaymar",
+    "category": "Cast",
+    "url": "stremio:///search?search=Thanapat%20Saisaymar"
+   },
+   {
+    "name": "Jenjira Pongpas",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jenjira%20Pongpas"
+   },
+   {
+    "name": "Sakda Kaewbuadee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sakda%20Kaewbuadee"
+   },
+   {
+    "name": "Phra Sripariyattiweti",
+    "category": "Writers",
+    "url": "stremio:///search?search=Phra%20Sripariyattiweti"
+   },
+   {
+    "name": "Apichatpong Weerasethakul",
+    "category": "Writers",
+    "url": "stremio:///search?search=Apichatpong%20Weerasethakul"
+   },
+   {
+    "name": "Apichatpong Weerasethakul",
+    "category": "Directors",
+    "url": "stremio:///search?search=Apichatpong%20Weerasethakul"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1588895",
+   "hasScheduledVideos": false
+  }
+ }
+}

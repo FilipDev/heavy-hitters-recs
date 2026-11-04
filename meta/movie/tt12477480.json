@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "imdb_id": "tt12477480",
+  "name": "Decision to Leave",
+  "cast": [
+   "Wei Tang",
+   "Park Hae-il",
+   "Lee Jung-hyun"
+  ],
+  "country": "South Korea",
+  "description": "Captures desire conducted through surveillance. A detective falls for the widow of the man whose death he's investigating, watching her through binoculars and translation apps. Park Chan-wook's most restrained and most romantic film.\n\nA detective investigating a man's death in the mountains meets the dead man's mysterious wife in the course of his dogged sleuthing.",
+  "director": [
+   "Park Chan-wook"
+  ],
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "7.2",
+  "poster": "https://images.metahub.space/poster/small/tt12477480/img",
+  "released": "2022-10-21T00:00:00.000Z",
+  "slug": "movie/decision-to-leave-12477480",
+  "type": "movie",
+  "writer": [
+   "Park Chan-wook",
+   "Chung Seo-kyung"
+  ],
+  "year": "2022",
+  "moviedb_id": 705996,
+  "popularities": {
+   "moviedb": 12.3472,
+   "stremio": 0.41157333333333335,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "trailers": [
+   {
+    "source": "xL5bU-M_qEg",
+    "type": "Trailer"
+   },
+   {
+    "source": "Bmoy73lhs-s",
+    "type": "Trailer"
+   },
+   {
+    "source": "QoRjPqstf0I",
+    "type": "Trailer"
+   },
+   {
+    "source": "97YCtcT470g",
+    "type": "Trailer"
+   }
+  ],
+  "awards": "Nominated for 2 BAFTA Awards. 76 wins & 153 nominations total",
+  "runtime": "139 min",
+  "background": "https://images.metahub.space/background/medium/tt12477480/img",
+  "logo": "https://images.metahub.space/logo/medium/tt12477480/img",
+  "popularity": 0.41157333333333335,
+  "id": "tt12477480",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Decision to Leave",
+    "ytId": "xL5bU-M_qEg"
+   },
+   {
+    "title": "Decision to Leave",
+    "ytId": "Bmoy73lhs-s"
+   },
+   {
+    "title": "Decision to Leave",
+    "ytId": "QoRjPqstf0I"
+   },
+   {
+    "title": "Decision to Leave",
+    "ytId": "97YCtcT470g"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt12477480"
+   },
+   {
+    "name": "Decision to Leave",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/decision-to-leave-12477480"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Wei Tang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Wei%20Tang"
+   },
+   {
+    "name": "Park Hae-il",
+    "category": "Cast",
+    "url": "stremio:///search?search=Park%20Hae-il"
+   },
+   {
+    "name": "Lee Jung-hyun",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lee%20Jung-hyun"
+   },
+   {
+    "name": "Park Chan-wook",
+    "category": "Writers",
+    "url": "stremio:///search?search=Park%20Chan-wook"
+   },
+   {
+    "name": "Chung Seo-kyung",
+    "category": "Writers",
+    "url": "stremio:///search?search=Chung%20Seo-kyung"
+   },
+   {
+    "name": "Park Chan-wook",
+    "category": "Directors",
+    "url": "stremio:///search?search=Park%20Chan-wook"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt12477480",
+   "hasScheduledVideos": false
+  }
+ }
+}

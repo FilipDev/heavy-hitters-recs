@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 84 wins & 111 nominations total",
+  "cast": [
+   "Jean-Louis Trintignant",
+   "Emmanuelle Riva",
+   "Isabelle Huppert"
+  ],
+  "country": "France, Germany, Austria",
+  "description": "Captures marriage at the point where love becomes physical care. An elderly Paris couple, a stroke, a promise not to go back to hospital, one apartment — no softening, and tender anyway.\n\nGeorges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tes...",
+  "director": [
+   "Michael Haneke"
+  ],
+  "dvdRelease": "2013-08-20T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt1602620",
+  "moviedb_id": 86837,
+  "name": "Amour",
+  "popularity": 0.26930333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt1602620/img",
+  "released": "2012-09-20T00:00:00.000Z",
+  "runtime": "127 min",
+  "trailers": [
+   {
+    "source": "VMOugpyFf3A",
+    "type": "Trailer"
+   },
+   {
+    "source": "QR1z7X4nSIQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Haneke"
+  ],
+  "year": "2012",
+  "background": "https://images.metahub.space/background/medium/tt1602620/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1602620/img",
+  "popularities": {
+   "moviedb": 8.0791,
+   "stremio": 0.26930333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/amour-1602620",
+  "id": "tt1602620",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2012",
+  "trailerStreams": [
+   {
+    "title": "Amour",
+    "ytId": "VMOugpyFf3A"
+   },
+   {
+    "title": "Amour",
+    "ytId": "QR1z7X4nSIQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1602620"
+   },
+   {
+    "name": "Amour",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/amour-1602620"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Jean-Louis Trintignant",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean-Louis%20Trintignant"
+   },
+   {
+    "name": "Emmanuelle Riva",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emmanuelle%20Riva"
+   },
+   {
+    "name": "Isabelle Huppert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Isabelle%20Huppert"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1602620",
+   "hasScheduledVideos": false
+  }
+ }
+}

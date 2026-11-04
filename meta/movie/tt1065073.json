@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 179 wins & 222 nominations total",
+  "cast": [
+   "Ellar Coltrane",
+   "Patricia Arquette",
+   "Ethan Hawke"
+  ],
+  "country": "United States",
+  "description": "Captures time itself. Shot with the same actors over 12 real years, so the kid actually grows up on screen; the plot is just childhood happening.\n\nThe life of Mason, from early childhood to his arrival at college.",
+  "director": [
+   "Richard Linklater"
+  ],
+  "dvdRelease": "2016-01-07T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt1065073",
+  "moviedb_id": 85350,
+  "name": "Boyhood",
+  "popularity": 0.2595866666666667,
+  "poster": "https://images.metahub.space/poster/small/tt1065073/img",
+  "released": "2014-08-15T00:00:00.000Z",
+  "runtime": "165 min",
+  "trailers": [
+   {
+    "source": "oNC3NYWh1vI",
+    "type": "Trailer"
+   },
+   {
+    "source": "Y0oX0xiwOv8",
+    "type": "Trailer"
+   },
+   {
+    "source": "Ys-mbHXyWX4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Richard Linklater"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt1065073/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1065073/img",
+  "popularities": {
+   "moviedb": 7.7876,
+   "stremio": 0.2595866666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/boyhood-1065073",
+  "id": "tt1065073",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Boyhood",
+    "ytId": "oNC3NYWh1vI"
+   },
+   {
+    "title": "Boyhood",
+    "ytId": "Y0oX0xiwOv8"
+   },
+   {
+    "title": "Boyhood",
+    "ytId": "Ys-mbHXyWX4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1065073"
+   },
+   {
+    "name": "Boyhood",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/boyhood-1065073"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Ellar Coltrane",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ellar%20Coltrane"
+   },
+   {
+    "name": "Patricia Arquette",
+    "category": "Cast",
+    "url": "stremio:///search?search=Patricia%20Arquette"
+   },
+   {
+    "name": "Ethan Hawke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ethan%20Hawke"
+   },
+   {
+    "name": "Richard Linklater",
+    "category": "Writers",
+    "url": "stremio:///search?search=Richard%20Linklater"
+   },
+   {
+    "name": "Richard Linklater",
+    "category": "Directors",
+    "url": "stremio:///search?search=Richard%20Linklater"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1065073",
+   "hasScheduledVideos": false
+  }
+ }
+}

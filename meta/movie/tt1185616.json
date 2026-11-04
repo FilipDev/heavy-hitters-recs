@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 46 wins & 63 nominations total",
+  "cast": [
+   "Ari Folman",
+   "Ron Ben-Yishai",
+   "Ronny Dayag"
+  ],
+  "country": "Israel, France, Germany, United States, Finland, Switzerland, Belgium, Australia",
+  "description": "Captures a soldier's memory with a hole in it. Animated interviews as the director tries to recover what he did in Beirut in 1982, ending with footage that breaks the animation open.\n\nAn Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
+  "director": [
+   "Ari Folman"
+  ],
+  "dvdRelease": "2012-04-16T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Animation",
+   "Biography"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt1185616",
+  "moviedb_id": 8885,
+  "name": "Waltz with Bashir",
+  "popularity": 0.13888666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt1185616/img",
+  "released": "2008-06-12T00:00:00.000Z",
+  "runtime": "90 min",
+  "trailers": [
+   {
+    "source": "XbXdwBNkCmk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ari Folman"
+  ],
+  "year": "2008",
+  "popularities": {
+   "moviedb": 4.1666,
+   "stremio": 0.13888666666666666,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt1185616/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1185616/img",
+  "slug": "movie/waltz-with-bashir-1185616",
+  "id": "tt1185616",
+  "genres": [
+   "Documentary",
+   "Animation",
+   "Biography"
+  ],
+  "releaseInfo": "2008",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Waltz with Bashir",
+    "ytId": "XbXdwBNkCmk"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1185616"
+   },
+   {
+    "name": "Waltz with Bashir",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/waltz-with-bashir-1185616"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Ari Folman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ari%20Folman"
+   },
+   {
+    "name": "Ron Ben-Yishai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ron%20Ben-Yishai"
+   },
+   {
+    "name": "Ronny Dayag",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ronny%20Dayag"
+   },
+   {
+    "name": "Ari Folman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ari%20Folman"
+   },
+   {
+    "name": "Ari Folman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ari%20Folman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1185616",
+   "hasScheduledVideos": false
+  }
+ }
+}

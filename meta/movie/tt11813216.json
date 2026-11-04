@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt11813216",
+  "name": "The Banshees of Inisherin",
+  "awards": "Nominated for 9 Oscars. 150 wins & 375 nominations total",
+  "cast": [
+   "Colin Farrell",
+   "Brendan Gleeson",
+   "Kerry Condon"
+  ],
+  "country": "Ireland, United Kingdom, United States",
+  "description": "Captures being dumped by a friend. One morning Colm simply doesn't want to talk to Pádraic anymore, and a whole island watches a small rejection escalate toward the mythic. Funny, until the exact moment it isn't.\n\nTwo lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+  "director": [
+   "Martin McDonagh"
+  ],
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "released": "2022-11-04T00:00:00.000Z",
+  "runtime": "114 min",
+  "slug": "movie/the-banshees-of-inisherin-11813216",
+  "type": "movie",
+  "writer": [
+   "Martin McDonagh"
+  ],
+  "year": "2022",
+  "popularities": {
+   "stremio": 0.28434333333333334,
+   "stremio_lib": 0,
+   "moviedb": 8.5303,
+   "trakt": 2
+  },
+  "moviedb_id": 674324,
+  "poster": "https://images.metahub.space/poster/small/tt11813216/img",
+  "trailers": [
+   {
+    "source": "9-R9u2UD3FU",
+    "type": "Trailer"
+   },
+   {
+    "source": "uRu3zLOJN2c",
+    "type": "Trailer"
+   }
+  ],
+  "dvdRelease": "2022-12-13T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt11813216/img",
+  "logo": "https://images.metahub.space/logo/medium/tt11813216/img",
+  "popularity": 0.28434333333333334,
+  "id": "tt11813216",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "The Banshees of Inisherin",
+    "ytId": "9-R9u2UD3FU"
+   },
+   {
+    "title": "The Banshees of Inisherin",
+    "ytId": "uRu3zLOJN2c"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt11813216"
+   },
+   {
+    "name": "The Banshees of Inisherin",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-banshees-of-inisherin-11813216"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Colin Farrell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Colin%20Farrell"
+   },
+   {
+    "name": "Brendan Gleeson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brendan%20Gleeson"
+   },
+   {
+    "name": "Kerry Condon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kerry%20Condon"
+   },
+   {
+    "name": "Martin McDonagh",
+    "category": "Writers",
+    "url": "stremio:///search?search=Martin%20McDonagh"
+   },
+   {
+    "name": "Martin McDonagh",
+    "category": "Directors",
+    "url": "stremio:///search?search=Martin%20McDonagh"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt11813216",
+   "hasScheduledVideos": false
+  }
+ }
+}

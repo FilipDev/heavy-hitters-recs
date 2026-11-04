@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt13238346",
+  "name": "Past Lives",
+  "type": "movie",
+  "awards": "Nominated for 2 Oscars. 83 wins & 240 nominations total",
+  "cast": [
+   "Greta Lee",
+   "Teo Yoo",
+   "John Magaro"
+  ],
+  "country": "United States, South Korea",
+  "description": "Captures the life that didn't happen, with nobody in the wrong. Childhood sweethearts from Seoul reconnect in New York 24 years later — she is happily married — and have kind, adult conversations about the road not taken.\n\nNora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+  "director": [
+   "Celine Song"
+  ],
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.8",
+  "released": "2023-06-23T00:00:00.000Z",
+  "slug": "movie/past-lives-13238346",
+  "writer": [
+   "Celine Song"
+  ],
+  "year": "2023",
+  "moviedb_id": 666277,
+  "popularities": {
+   "moviedb": 14.0048,
+   "stremio": 0.46682666666666667,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "poster": "https://images.metahub.space/poster/small/tt13238346/img",
+  "runtime": "106 min",
+  "trailers": [
+   {
+    "source": "kA244xewjcI",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt13238346/img",
+  "logo": "https://images.metahub.space/logo/medium/tt13238346/img",
+  "dvdRelease": "2023-08-22T00:00:00.000Z",
+  "popularity": 0.46682666666666667,
+  "id": "tt13238346",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2023",
+  "trailerStreams": [
+   {
+    "title": "Past Lives",
+    "ytId": "kA244xewjcI"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt13238346"
+   },
+   {
+    "name": "Past Lives",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/past-lives-13238346"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Greta Lee",
+    "category": "Cast",
+    "url": "stremio:///search?search=Greta%20Lee"
+   },
+   {
+    "name": "Teo Yoo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Teo%20Yoo"
+   },
+   {
+    "name": "John Magaro",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Magaro"
+   },
+   {
+    "name": "Celine Song",
+    "category": "Writers",
+    "url": "stremio:///search?search=Celine%20Song"
+   },
+   {
+    "name": "Celine Song",
+    "category": "Directors",
+    "url": "stremio:///search?search=Celine%20Song"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt13238346",
+   "hasScheduledVideos": false
+  }
+ }
+}

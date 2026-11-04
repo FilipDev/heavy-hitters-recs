@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 89 wins & 52 nominations total",
+  "cast": [
+   "Payman Maadi",
+   "Leila Hatami",
+   "Sareh Bayat"
+  ],
+  "country": "Iran, France, Australia",
+  "description": "Captures a fight where everyone is partly right. In Tehran a couple separate over leaving Iran versus staying for a father with Alzheimer's; a carer is hired, something happens off-camera, and every version of events is incomplete.\n\nA married couple have to decide whether to improve their daughter's life by moving abroad or to stay in Iran and look after a deteriorating parent with Alzheimer's disease.",
+  "director": [
+   "Asghar Farhadi"
+  ],
+  "dvdRelease": "2014-02-12T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt1832382",
+  "moviedb_id": 60243,
+  "name": "A Separation",
+  "popularity": 0.19236333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt1832382/img",
+  "released": "2011-03-16T00:00:00.000Z",
+  "runtime": "123 min",
+  "trailers": [
+   {
+    "source": "58Onuy5USTc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Asghar Farhadi"
+  ],
+  "year": "2011",
+  "background": "https://images.metahub.space/background/medium/tt1832382/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1832382/img",
+  "popularities": {
+   "moviedb": 5.7709,
+   "stremio": 0.19236333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/a-separation-1832382",
+  "id": "tt1832382",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "A Separation",
+    "ytId": "58Onuy5USTc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1832382"
+   },
+   {
+    "name": "A Separation",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-separation-1832382"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Payman Maadi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Payman%20Maadi"
+   },
+   {
+    "name": "Leila Hatami",
+    "category": "Cast",
+    "url": "stremio:///search?search=Leila%20Hatami"
+   },
+   {
+    "name": "Sareh Bayat",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sareh%20Bayat"
+   },
+   {
+    "name": "Asghar Farhadi",
+    "category": "Writers",
+    "url": "stremio:///search?search=Asghar%20Farhadi"
+   },
+   {
+    "name": "Asghar Farhadi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Asghar%20Farhadi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1832382",
+   "hasScheduledVideos": false
+  }
+ }
+}

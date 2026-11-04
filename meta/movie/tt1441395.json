@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 BAFTA Awards. 23 wins & 113 nominations total",
+  "cast": [
+   "Scarlett Johansson",
+   "Jeremy McWilliams",
+   "Lynsey Taylor Mackay"
+  ],
+  "country": "United Kingdom, Switzerland, United States",
+  "description": "Captures human beings seen from outside the species. A woman drives a van around Glasgow picking up men, in real streets with hidden cameras and non-actors, and something in the routine begins to fail — images that lodge permanently.\n\nA mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+  "director": [
+   "Jonathan Glazer"
+  ],
+  "dvdRelease": "2014-06-25T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "imdbRating": "6.3",
+  "imdb_id": "tt1441395",
+  "moviedb_id": 97370,
+  "name": "Under the Skin",
+  "popularity": 0.2985833333333333,
+  "poster": "https://images.metahub.space/poster/small/tt1441395/img",
+  "released": "2014-04-18T00:00:00.000Z",
+  "runtime": "108 min",
+  "trailers": [
+   {
+    "source": "J7bAZCOk0Sc",
+    "type": "Trailer"
+   },
+   {
+    "source": "zGx_SdgYF0o",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Walter Campbell",
+   "Jonathan Glazer",
+   "Michel Faber"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt1441395/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1441395/img",
+  "popularities": {
+   "moviedb": 8.9575,
+   "stremio": 0.2985833333333333,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/under-the-skin-1441395",
+  "id": "tt1441395",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Under the Skin",
+    "ytId": "J7bAZCOk0Sc"
+   },
+   {
+    "title": "Under the Skin",
+    "ytId": "zGx_SdgYF0o"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1441395"
+   },
+   {
+    "name": "Under the Skin",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/under-the-skin-1441395"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Scarlett Johansson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Scarlett%20Johansson"
+   },
+   {
+    "name": "Jeremy McWilliams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeremy%20McWilliams"
+   },
+   {
+    "name": "Lynsey Taylor Mackay",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lynsey%20Taylor%20Mackay"
+   },
+   {
+    "name": "Walter Campbell",
+    "category": "Writers",
+    "url": "stremio:///search?search=Walter%20Campbell"
+   },
+   {
+    "name": "Jonathan Glazer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jonathan%20Glazer"
+   },
+   {
+    "name": "Michel Faber",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michel%20Faber"
+   },
+   {
+    "name": "Jonathan Glazer",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jonathan%20Glazer"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1441395",
+   "hasScheduledVideos": false
+  }
+ }
+}

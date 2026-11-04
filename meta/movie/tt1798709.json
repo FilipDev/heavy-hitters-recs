@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 83 wins & 188 nominations total",
+  "cast": [
+   "Joaquin Phoenix",
+   "Amy Adams",
+   "Scarlett Johansson"
+  ],
+  "country": "United States",
+  "description": "Captures loneliness in a warm, well-designed future. A divorced man who writes other people's love letters for a living falls for a voice in his ear, and the film takes the relationship seriously enough to let it outgrow him.\n\nIn the near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+  "director": [
+   "Spike Jonze"
+  ],
+  "dvdRelease": "2015-09-28T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt1798709",
+  "moviedb_id": 152601,
+  "name": "Her",
+  "popularity": 0.5134433333333334,
+  "poster": "https://images.metahub.space/poster/small/tt1798709/img",
+  "released": "2014-01-10T00:00:00.000Z",
+  "runtime": "126 min",
+  "trailers": [
+   {
+    "source": "ne6p6MfLBxc",
+    "type": "Trailer"
+   },
+   {
+    "source": "XsQqMwacZQw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Spike Jonze"
+  ],
+  "year": "2014",
+  "background": "https://images.metahub.space/background/medium/tt1798709/img",
+  "logo": "https://images.metahub.space/logo/medium/tt1798709/img",
+  "popularities": {
+   "moviedb": 15.4033,
+   "stremio": 0.5134433333333334,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/her-1798709",
+  "id": "tt1798709",
+  "genres": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "2014",
+  "trailerStreams": [
+   {
+    "title": "Her",
+    "ytId": "ne6p6MfLBxc"
+   },
+   {
+    "title": "Her",
+    "ytId": "XsQqMwacZQw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt1798709"
+   },
+   {
+    "name": "Her",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/her-1798709"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "Joaquin Phoenix",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joaquin%20Phoenix"
+   },
+   {
+    "name": "Amy Adams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Amy%20Adams"
+   },
+   {
+    "name": "Scarlett Johansson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Scarlett%20Johansson"
+   },
+   {
+    "name": "Spike Jonze",
+    "category": "Writers",
+    "url": "stremio:///search?search=Spike%20Jonze"
+   },
+   {
+    "name": "Spike Jonze",
+    "category": "Directors",
+    "url": "stremio:///search?search=Spike%20Jonze"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt1798709",
+   "hasScheduledVideos": false
+  }
+ }
+}

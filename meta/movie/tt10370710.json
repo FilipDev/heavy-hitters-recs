@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "imdb_id": "tt10370710",
+  "name": "The Worst Person in the World",
+  "awards": "Nominated for 2 Oscars. 42 wins & 110 nominations total",
+  "cast": [
+   "Renate Reinsve",
+   "Anders Danielsen Lie",
+   "Herbert Nordrum"
+  ],
+  "country": "Norway, France, Sweden, Denmark",
+  "description": "Captures turning thirty with every option still open and none chosen. Oslo in twelve chapters: a woman cycles through careers and men, including a night that pauses the entire city so she can test a life before living it.\n\nThe chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
+  "director": [
+   "Joachim Trier"
+  ],
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.7",
+  "poster": "https://images.metahub.space/poster/small/tt10370710/img",
+  "released": "2021-10-13T00:00:00.000Z",
+  "runtime": "128 min",
+  "slug": "movie/the-worst-person-in-the-world-10370710",
+  "type": "movie",
+  "writer": [
+   "Eskil Vogt",
+   "Joachim Trier"
+  ],
+  "year": "2021",
+  "moviedb_id": 660120,
+  "popularities": {
+   "moviedb": 9.922,
+   "stremio": 0.3307333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "gpkQgk1Fi1Q",
+    "type": "Trailer"
+   },
+   {
+    "source": "w_cV1q02cyE",
+    "type": "Trailer"
+   },
+   {
+    "source": "42ouy74zntk",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt10370710/img",
+  "logo": "https://images.metahub.space/logo/medium/tt10370710/img",
+  "popularity": 0.3307333333333334,
+  "id": "tt10370710",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "The Worst Person in the World",
+    "ytId": "gpkQgk1Fi1Q"
+   },
+   {
+    "title": "The Worst Person in the World",
+    "ytId": "w_cV1q02cyE"
+   },
+   {
+    "title": "The Worst Person in the World",
+    "ytId": "42ouy74zntk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt10370710"
+   },
+   {
+    "name": "The Worst Person in the World",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-worst-person-in-the-world-10370710"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Renate Reinsve",
+    "category": "Cast",
+    "url": "stremio:///search?search=Renate%20Reinsve"
+   },
+   {
+    "name": "Anders Danielsen Lie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anders%20Danielsen%20Lie"
+   },
+   {
+    "name": "Herbert Nordrum",
+    "category": "Cast",
+    "url": "stremio:///search?search=Herbert%20Nordrum"
+   },
+   {
+    "name": "Eskil Vogt",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eskil%20Vogt"
+   },
+   {
+    "name": "Joachim Trier",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joachim%20Trier"
+   },
+   {
+    "name": "Joachim Trier",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joachim%20Trier"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt10370710",
+   "hasScheduledVideos": false
+  }
+ }
+}
