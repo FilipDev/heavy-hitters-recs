@@ -118,6 +118,74 @@
    "runtime": "86 min",
    "director": "Jan Švankmajer",
    "description": "Captures the folk tale as a child's-eye inventory of a household's dangerous things. Švankmajer's Alice moves through a Wonderland of taxidermy, bones and jam jars of pins, stop-motion objects that genuinely threaten her — Carroll's dream rebuilt from junk drawers.\n\nA surrealistic revision of Alice in Wonderland."
+  },
+  {
+   "id": "tt4772188",
+   "type": "movie",
+   "name": "Flow",
+   "poster": "https://images.metahub.space/poster/medium/tt4772188/img",
+   "background": "https://images.metahub.space/background/medium/tt4772188/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "85 min",
+   "director": "Gints Zilbalodis",
+   "description": "Captures animals cooperating after the humans vanish, with no speech and no villain. A cat that fears water survives a flood aboard a drifting boat shared with a capybara, a lemur, a secretary bird and a dog; made in Blender by a tiny Latvian team, and the water alone justifies it.\n\nCat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences."
+  },
+  {
+   "id": "tt0093342",
+   "type": "movie",
+   "name": "Where Is the Friend's House?",
+   "poster": "https://images.metahub.space/poster/medium/tt0093342/img",
+   "background": "https://images.metahub.space/background/medium/tt0093342/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "1987",
+   "year": 1987,
+   "runtime": "83 min",
+   "director": "Abbas Kiarostami",
+   "description": "Captures a child's errand at the scale of an epic. A boy takes the wrong notebook home from school and walks to the next village to return it before his friend is expelled; every adult is a locked door. The simplest film on this list and maybe the most suspenseful — proof of your own criterion, that simplicity captures as hard as complexity.\n\nEight-year-old Ahmed has mistakenly taken his friend Mohammad's notebook. He wants to return it, or else his friend will be expelled from school. The boy determinedly sets out to find Mohammad's home in the neighbouring village."
+  },
+  {
+   "id": "tt0113824",
+   "type": "movie",
+   "name": "Whisper of the Heart",
+   "poster": "https://images.metahub.space/poster/medium/tt0113824/img",
+   "background": "https://images.metahub.space/background/medium/tt0113824/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "111 min",
+   "director": "Yoshifumi Kondō",
+   "description": "Captures a girl reverse-engineering a boy from the checkout cards in library books. Shizuku notices the same name borrowed every book before her, and the hunt becomes a film about deciding to make things — she writes a novel to find out if she can. The gentlest entry here, and the one about your exact activity: building skill into a position.\n\nA love story between a girl who loves reading books and a boy who has previously checked out all of the library books she chooses."
+  },
+  {
+   "id": "tt3666024",
+   "type": "movie",
+   "name": "The Red Turtle",
+   "poster": "https://images.metahub.space/poster/medium/tt3666024/img",
+   "background": "https://images.metahub.space/background/medium/tt3666024/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "80 min",
+   "director": "Michael Dudok de Wit",
+   "description": "Captures a castaway's whole life on one island, without a word of dialogue. A man, a giant red turtle that keeps wrecking his rafts, and then a transformation the film simply places before you like weather. Ghibli co-produced; the water is drawn the way Parajanov drew cloth.\n\nA man is shipwrecked on a deserted island and encounters a big red turtle, which changes his life."
   }
  ]
 }

@@ -664,6 +664,647 @@
    "runtime": "74 min",
    "director": "Atom Egoyan",
    "description": "Captures diaspora as a loop of beautiful images you can't live inside. Egoyan sends a Canadian photographer to Armenia to shoot twelve ancient churches for a calendar, his marriage failing in the car between sites — then the ritual repeats, reframed, back in Toronto.\n\nA woman stays in Armenia after her photographer husband completes his assignment and returns home to Canada."
+  },
+  {
+   "id": "tt0063633",
+   "type": "movie",
+   "name": "The Cremator",
+   "poster": "https://images.metahub.space/poster/medium/tt0063633/img",
+   "background": "https://images.metahub.space/background/medium/tt0063633/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "95 min",
+   "director": "Juraj Herz",
+   "description": "Captures evil as a smiling civil servant. A Prague crematorium director absorbs Nazi ideology as a career opportunity and a philosophy of hygiene, in Karel Höger's unbearably gentle monotone.\n\nSet in Central Europe during World War II, a demented cremator believes cremation relieves earthly suffering and sets out to save the world."
+  },
+  {
+   "id": "tt0062480",
+   "type": "movie",
+   "name": "Weekend",
+   "poster": "https://images.metahub.space/poster/medium/tt0062480/img",
+   "background": "https://images.metahub.space/background/medium/tt0062480/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "105 min",
+   "director": "Jean-Luc Godard",
+   "description": "Captures a civilisation ending as a traffic jam. A bourgeois couple drives to collect an inheritance and the road fills with wrecks, corpses, cannibals and literary ghosts. Not the 2011 Weekend already at #145 — this is the other one, and it's feral.\n\nA surreal tale of a married couple going on a road trip to visit the wife's parents with the intention of killing them for the inheritance."
+  },
+  {
+   "id": "tt0071381",
+   "type": "movie",
+   "name": "Céline and Julie Go Boating",
+   "poster": "https://images.metahub.space/poster/medium/tt0071381/img",
+   "background": "https://images.metahub.space/background/medium/tt0071381/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1974",
+   "year": 1974,
+   "runtime": "193 min",
+   "director": "Jacques Rivette",
+   "description": "Captures two women hacking a melodrama from the audience seats. A librarian and a magician find a haunted house where the same Victorian drama replays daily; they enter it, swap places with its characters and start stealing the plot with the help of magic sweets.\n\nA mysteriously linked pair of young women find their daily lives preempted by a strange boudoir melodrama that plays itself out in a hallucinatory parallel reality."
+  },
+  {
+   "id": "tt0354668",
+   "type": "movie",
+   "name": "Save the Green Planet!",
+   "poster": "https://images.metahub.space/poster/medium/tt0354668/img",
+   "background": "https://images.metahub.space/background/medium/tt0354668/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "117 min",
+   "director": "Jang Joon-hwan",
+   "description": "Captures a conspiracy theorist who might be right, played at full scream. A beekeeper kidnaps a chemicals CEO he believes is an alien prince; comedy, torture chamber, police procedural and apocalypse keep swapping places until the film lands somewhere genuinely sad.\n\nByeong-gu believes that the world is on the verge of an alien invasion, and sets out to save the world."
+  },
+  {
+   "id": "tt0015324",
+   "type": "movie",
+   "name": "Sherlock Jr.",
+   "poster": "https://images.metahub.space/poster/medium/tt0015324/img",
+   "background": "https://images.metahub.space/background/medium/tt0015324/img",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+   ],
+   "releaseInfo": "1924",
+   "year": 1924,
+   "runtime": "45 min",
+   "director": "Buster Keaton",
+   "description": "Captures a projectionist climbing into the screen to fix the plot from inside. A century old and still the cleanest film ever made about wanting to live in the observed layer instead of the real one; the montage where the scenery changes around him mid-step has never been topped.\n\nA film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch."
+  },
+  {
+   "id": "tt0034240",
+   "type": "movie",
+   "name": "Sullivan's Travels",
+   "poster": "https://images.metahub.space/poster/medium/tt0034240/img",
+   "background": "https://images.metahub.space/background/medium/tt0034240/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1941",
+   "year": 1941,
+   "runtime": "90 min",
+   "director": "Preston Sturges",
+   "description": "Captures a comedy director who goes slumming to learn suffering and learns the value of comedy instead. He disguises himself as a tramp to research a serious film, gets the research, and the conclusion lands in a prison screening room full of laughing men.\n\nA Hollywood director sets out to experience life as a homeless person in order to gain relevant life experience for his next movie."
+  },
+  {
+   "id": "tt0086637",
+   "type": "movie",
+   "name": "Zelig",
+   "poster": "https://images.metahub.space/poster/medium/tt0086637/img",
+   "background": "https://images.metahub.space/background/medium/tt0086637/img",
+   "genres": [
+    "Comedy"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "79 min",
+   "director": "Woody Allen",
+   "description": "Captures a man whose personality is whoever is standing nearest. A mockumentary about a 1920s \"human chameleon\" who becomes a boxer beside boxers and a rabbi beside rabbis, assembled from fake newsreels and real historians playing along — conformity as a superpower and a diagnosis.\n\n\"Documentary\" about a man who can look and act like whoever he's around, and meets various famous people."
+  },
+  {
+   "id": "tt0089853",
+   "type": "movie",
+   "name": "The Purple Rose of Cairo",
+   "poster": "https://images.metahub.space/poster/medium/tt0089853/img",
+   "background": "https://images.metahub.space/background/medium/tt0089853/img",
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+   ],
+   "releaseInfo": "1985",
+   "year": 1985,
+   "runtime": "82 min",
+   "director": "Woody Allen",
+   "description": "Captures a film character noticing he's being watched, and stepping out. A Depression-era waitress goes to the same romance every day until its hero leaves the screen for her — and the other characters, stuck mid-plot, have to improvise without him.\n\nDuring the Depression in 1935 New Jersey, a lonely waitress with an abusive husband who takes comfort from the movies is stunned when a movie character walks off the screen and into the real world, offering her the hope of a happi..."
+  },
+  {
+   "id": "tt0107048",
+   "type": "movie",
+   "name": "Groundhog Day",
+   "poster": "https://images.metahub.space/poster/medium/tt0107048/img",
+   "background": "https://images.metahub.space/background/medium/tt0107048/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1993",
+   "year": 1993,
+   "runtime": "101 min",
+   "director": "Harold Ramis",
+   "description": "Captures a loop that turns out to be a curriculum. It wasn't in your 363, which surprised me too. A weatherman relives one day until the day is no longer the constraint — the rare infinitely-referenced film that is also exactly as good as its reputation.\n\nA curmudgeonly weatherman finds himself stuck in a time loop and is forced to relive the same day over and over again."
+  },
+  {
+   "id": "tt14500584",
+   "type": "movie",
+   "name": "Beyond the Infinite Two Minutes",
+   "poster": "https://images.metahub.space/poster/medium/tt14500584/img",
+   "background": "https://images.metahub.space/background/medium/tt14500584/img",
+   "genres": [
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "70 min",
+   "director": "Junta Yamaguchi",
+   "description": "Captures a café monitor that shows the room two minutes in the future. Shot on a phone in apparent single takes by a Kyoto theatre troupe; the staff keep feeding instructions to their past selves and the recursion stacks up like a card trick that keeps working.\n\nA cafe owner discovers that the TV in his cafe suddenly shows images from the future, but only two minutes into the future."
+  },
+  {
+   "id": "tt0120601",
+   "type": "movie",
+   "name": "Being John Malkovich",
+   "poster": "https://images.metahub.space/poster/medium/tt0120601/img",
+   "background": "https://images.metahub.space/background/medium/tt0120601/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "113 min",
+   "director": "Spike Jonze",
+   "description": "Captures a portal into someone else's head, rented out at $200 a session. A puppeteer finds a door on floor 7½ that drops you behind Malkovich's eyes for fifteen minutes — the transducer problem played as office farce, then as tragedy.\n\nA puppeteer discovers a portal that leads literally into the head of movie star John Malkovich."
+  },
+  {
+   "id": "tt1825157",
+   "type": "movie",
+   "name": "The Double",
+   "poster": "https://images.metahub.space/poster/medium/tt1825157/img",
+   "background": "https://images.metahub.space/background/medium/tt1825157/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "93 min",
+   "director": "Richard Ayoade",
+   "description": "Captures a man replaced by the version of himself with better settings. A clerk nobody notices meets his double, who is identical and effortlessly everything he isn't; Dostoevsky rebuilt as a clanking bureaucratic nightmare with Jesse Eisenberg against himself.\n\nThe unenviable life of a government-agency clerk takes a horrific turn with the arrival of a new co-worker who is both his exact physical double and his opposite otherwise--he's a confident, charismatic ladies' man."
+  },
+  {
+   "id": "tt0354899",
+   "type": "movie",
+   "name": "The Science of Sleep",
+   "poster": "https://images.metahub.space/poster/medium/tt0354899/img",
+   "background": "https://images.metahub.space/background/medium/tt0354899/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "105 min",
+   "director": "Michel Gondry",
+   "description": "Captures dreams as a handmade TV studio inside a shy man's skull. A Mexican illustrator in Paris can't keep his dream-logic — cardboard cameras, cellophane water, a one-second time machine — from leaking into the courtship he's botching while awake.\n\nA man entranced by his dreams and imagination is love-struck with a French woman and feels he can show her his world."
+  },
+  {
+   "id": "tt4457344",
+   "type": "movie",
+   "name": "Dave Made a Maze",
+   "poster": "https://images.metahub.space/poster/medium/tt4457344/img",
+   "background": "https://images.metahub.space/background/medium/tt4457344/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "80 min",
+   "director": "Bill Watterson",
+   "description": "Captures a living-room fort that is bigger, and lethal, inside. An artist builds a cardboard maze he claims he can't finish or escape; his girlfriend leads a rescue party in with documentary crew in tow. Every trap is cardboard. It kills people anyway.\n\nDave, an artist who has yet to complete anything significant in his career, builds a fort in his living room out of pure frustration, only to wind up trapped by the fantastical pitfalls, booby traps, and critters of his own creation."
+  },
+  {
+   "id": "tt7914416",
+   "type": "movie",
+   "name": "One Cut of the Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt7914416/img",
+   "background": "https://images.metahub.space/background/medium/tt7914416/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Horror"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "96 min",
+   "director": "Shin'ichirō Ueda",
+   "description": "Captures a film set surviving its own film. The first half-hour is a wobbly one-take zombie short; then the film rewinds and shows you the production, and every wobble becomes a joke with a fuse on it. Engineered joy — don't read anything else about it.\n\nThings go badly for a hack director and film crew shooting a low budget zombie movie in an abandoned WWII Japanese facility, when they are attacked by real zombies."
+  },
+  {
+   "id": "tt4034354",
+   "type": "movie",
+   "name": "Swiss Army Man",
+   "poster": "https://images.metahub.space/poster/medium/tt4034354/img",
+   "background": "https://images.metahub.space/background/medium/tt4034354/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "97 min",
+   "director": "Daniel Kwan, Daniel Scheinert",
+   "description": "Captures a friendship with a corpse who is also a toolkit. A castaway rides a flatulent body to shore and teaches it how to be a person — jet-ski farts, earnest puppet dioramas of ordinary life, and a sincerity that sneaks up on the gross-out premise.\n\nA hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home."
+  },
+  {
+   "id": "tt6710474",
+   "type": "movie",
+   "name": "Everything Everywhere All at Once",
+   "poster": "https://images.metahub.space/poster/medium/tt6710474/img",
+   "background": "https://images.metahub.space/background/medium/tt6710474/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "139 min",
+   "director": "Daniel Kwan, Daniel Scheinert",
+   "description": "Captures a multiverse used as a family argument. A laundromat owner audits her failed lives across universes — chef, starlet, rock, sausage-fingered pianist — and the loudest sci-fi machinery of the decade is aimed at a tax audit and a daughter. Absent from your 363; its absence was a gap, not a judgement.\n\nA middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led."
+  },
+  {
+   "id": "tt0805564",
+   "type": "movie",
+   "name": "Lars and the Real Girl",
+   "poster": "https://images.metahub.space/poster/medium/tt0805564/img",
+   "background": "https://images.metahub.space/background/medium/tt0805564/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "106 min",
+   "director": "Craig Gillespie",
+   "description": "Captures a town agreeing, as treatment, to believe. A painfully shy man orders a life-size doll and introduces her as his girlfriend; on a doctor's advice the whole town plays along — church seat, volunteer shifts, the works. The premise sounds like a sketch; the execution is a study in communal gentleness.\n\nA delusional young man strikes up an unconventional relationship with a doll he finds on the Internet."
+  },
+  {
+   "id": "tt5805752",
+   "type": "movie",
+   "name": "Brigsby Bear",
+   "poster": "https://images.metahub.space/poster/medium/tt5805752/img",
+   "background": "https://images.metahub.space/background/medium/tt5805752/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "97 min",
+   "director": "Dave McCary",
+   "description": "Captures fandom as a survival structure. A man raised in a bunker on a fake children's show — hundreds of episodes made only for him — is rescued into a world where the show never existed, and decides the only sane response is to film its finale himself.\n\nAfter being freed from his life in an underground bunker, a man sets out to make a movie of the only TV show he has ever known."
+  },
+  {
+   "id": "tt3416742",
+   "type": "movie",
+   "name": "What We Do in the Shadows",
+   "poster": "https://images.metahub.space/poster/medium/tt3416742/img",
+   "background": "https://images.metahub.space/background/medium/tt3416742/img",
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "86 min",
+   "director": "Jemaine Clement, Taika Waititi",
+   "description": "Captures four vampires failing at flatshare administration. Wellington's undead argue about the dishes roster, dress codes for clubs and a rival werewolf pack (\"we're werewolves, not swearwolves\") in deadpan documentary form. The lightest thing on this list, deliberately.\n\nViago, Deacon, and Vladislav are vampires who are struggling with the mundane aspects of modern life, like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts."
+  },
+  {
+   "id": "tt1816518",
+   "type": "movie",
+   "name": "Ernest & Celestine",
+   "poster": "https://images.metahub.space/poster/medium/tt1816518/img",
+   "background": "https://images.metahub.space/background/medium/tt1816518/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "80 min",
+   "director": "Stéphane Aubier, Vincent Patar, Benjamin Renner",
+   "description": "Captures a bear and a mouse outlawed by both their societies for the friendship. Bears live above, mice below, each raised on horror stories about the other; a watercolor heist and a double trial later, the film has made its whole case with a pencil line and a piano.\n\nThe story of an unlikely friendship between a bear, Ernest, and a young mouse named Celestine."
+  },
+  {
+   "id": "tt13429870",
+   "type": "movie",
+   "name": "Robot Dreams",
+   "poster": "https://images.metahub.space/poster/medium/tt13429870/img",
+   "background": "https://images.metahub.space/background/medium/tt13429870/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "103 min",
+   "director": "Pablo Berger",
+   "description": "Captures a friendship conducted entirely without dialogue, in 1980s New York, between a dog and a mail-order robot. They dance to Earth, Wind & Fire on roller skates; a beach closing separates them; the film then does the bravest thing a family film can do with its ending. Wordless, and it earns tears honestly.\n\nThe adventures and misfortunes of Dog and Robot in New York City during the 1980s."
+  },
+  {
+   "id": "tt15339456",
+   "type": "movie",
+   "name": "Marcel the Shell with Shoes On",
+   "poster": "https://images.metahub.space/poster/medium/tt15339456/img",
+   "background": "https://images.metahub.space/background/medium/tt15339456/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "90 min",
+   "director": "Dean Fleischer Camp",
+   "description": "Captures an inch-high shell with a breadcrumb for a hat, processing fame and loss at full sincerity. A documentarian films his tiny Airbnb cohabitant, whose missing community and ill grandmother turn stop-motion cuteness into something quietly devastating about scale and care.\n\nA cash-strapped documentary maker decides to make his newest documentary about a mollusk shell he finds living in his Airbnb with his friends."
+  },
+  {
+   "id": "tt0057710",
+   "type": "movie",
+   "name": "An Actor's Revenge",
+   "poster": "https://images.metahub.space/poster/medium/tt0057710/img",
+   "background": "https://images.metahub.space/background/medium/tt0057710/img",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1963",
+   "year": 1963,
+   "runtime": "115 min",
+   "director": "Kon Ichikawa",
+   "description": "Captures kabuki artifice turned into a weapon. An onnagata — a male actor who plays women — hunts the three men who destroyed his parents, never leaving character onstage or off; Ichikawa shoots it in widescreen tableaux where the theatrical sets and the \"real\" streets obey the same painted logic. Maximalism with a revenge plot for a spine.\n\nYukinojo, a Kabuki actor, seeks revenge by destroying the three men who caused the deaths of his parents. Also involved are the daughter of one of Yukinojo's targets, two master thieves, and a swordsman who himself is out to kill ..."
+  },
+  {
+   "id": "tt1172203",
+   "type": "movie",
+   "name": "Sita Sings the Blues",
+   "poster": "https://images.metahub.space/poster/medium/tt1172203/img",
+   "background": "https://images.metahub.space/background/medium/tt1172203/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "82 min",
+   "director": "Nina Paley",
+   "description": "Captures the Ramayana told four ways at once: 1920s blues vocals by Annette Hanshaw, shadow-puppet narrators bickering over the plot, lush vector animation, and the director's own breakup drawn in squiggles — the same story projected through four transducers, and they don't agree.\n\nAn animated version of the epic Indian tale of Ramayana set to the 1920s jazz vocals of Annette Hanshaw."
+  },
+  {
+   "id": "tt0452039",
+   "type": "movie",
+   "name": "Mind Game",
+   "poster": "https://images.metahub.space/poster/medium/tt0452039/img",
+   "background": "https://images.metahub.space/background/medium/tt0452039/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "releaseInfo": "2004",
+   "year": 2004,
+   "runtime": "103 min",
+   "director": "Masaaki Yuasa, Kōji Morimoto",
+   "description": "Captures a failed manga artist dying, telling God off, and clawing back to life at maximum velocity. The style mutates per scene — rotoscope, crayon, photo-collage — and the finale is a many-minute sprint through every life he hasn't lived yet. The anti-grit entry: pure forward motion.\n\nAfter a deadly encounter with two yakuza, a loser with a crush on his childhood girlfriend goes to heaven and back, embarking on a psychedelic self-discovery experience with her and his friends."
+  },
+  {
+   "id": "tt4171032",
+   "type": "movie",
+   "name": "World of Tomorrow",
+   "poster": "https://images.metahub.space/poster/medium/tt4171032/img",
+   "background": "https://images.metahub.space/background/medium/tt4171032/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "17 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a little girl visited by her own clone from 227 years later, who explains the future in a level, broken monotone. Seventeen minutes, stick figures, and the whole apparatus of memory-copying, failed immortality and inherited feeling. Your collection's shortest entries are 17 minutes; this is the other one that earns it.\n\nA little girl is taken on a mind-bending tour of her distant future."
+  },
+  {
+   "id": "tt2948372",
+   "type": "movie",
+   "name": "Soul",
+   "poster": "https://images.metahub.space/poster/medium/tt2948372/img",
+   "background": "https://images.metahub.space/background/medium/tt2948372/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "100 min",
+   "director": "Pete Docter, Kemp Powers",
+   "description": "Captures a jazz pianist who dies on the day of his break and has to argue his way out of the afterlife's intake office. The Great Before assigns personalities like case files; Joe's file keeps insisting the meaning was in the ordinary takes. Pixar's most explicit film about what a life is for, hidden inside its most musical one.\n\nJoe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz. But when he travels to another realm to help someone find their passion, he soon discovers what it means to have soul."
+  },
+  {
+   "id": "tt0123970",
+   "type": "movie",
+   "name": "Lily and Jim",
+   "poster": "https://images.metahub.space/poster/medium/tt0123970/img",
+   "background": "https://images.metahub.space/background/medium/tt0123970/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "13 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a blind date narrated by both daters at once, in split-screen stick figures, each privately misreading the other in real time. Thirteen minutes, made when he was barely out of film school, and the dual-internal-monologue structure is already fully his.\n\nA blind date ends in disaster."
+  },
+  {
+   "id": "tt0163982",
+   "type": "movie",
+   "name": "Billy's Balloon",
+   "poster": "https://images.metahub.space/poster/medium/tt0163982/img",
+   "background": "https://images.metahub.space/background/medium/tt0163982/img",
+   "genres": [
+    "Animation",
+    "Comedy"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "6 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures toddlers being attacked by their own balloons, for no reason, in a park, while the parents don't notice. Five minutes, student-film crude, and still the purest statement of his comic physics: the world is soft, round, and hostile.\n\nA boy and his balloon."
+  },
+  {
+   "id": "tt0234588",
+   "type": "movie",
+   "name": "Rejected",
+   "poster": "https://images.metahub.space/poster/medium/tt0234588/img",
+   "background": "https://images.metahub.space/background/medium/tt0234588/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "9 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures an animator's commissioned ad cartoons being rejected one by one as they — and he — visibly fall apart. It starts with a banana announcing \"my spoon is too big\" and ends with the paper universe collapsing, blood pooling in the margins. Oscar-nominated, quoted for a quarter century, and it still feels unstable.\n\nIn the spring of 1999, the Family Learning Channel commissioned animator Don Hertzfeldt to produce promotional segments for their network. The cartoons were completed in five weeks. The Family Learning Channel rejected all of them upon review, and they were never aired..."
+  },
+  {
+   "id": "tt0440972",
+   "type": "movie",
+   "name": "The Meaning of Life",
+   "poster": "https://images.metahub.space/poster/medium/tt0440972/img",
+   "background": "https://images.metahub.space/background/medium/tt0440972/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "12 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures all of evolution and human history as a twelve-minute time-lapse that refuses to land on us. Creatures morph across geological time, crowds become patterns, patterns become individuals again; the title is the dare, and the ending is the shrug the title earns.\n\nA sprawling look at the evolution of humankind, over the course of a billion years."
+  },
+  {
+   "id": "tt0887734",
+   "type": "movie",
+   "name": "Everything Will Be OK",
+   "poster": "https://images.metahub.space/poster/medium/tt0887734/img",
+   "background": "https://images.metahub.space/background/medium/tt0887734/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "17 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures Bill, an ordinary man whose days — window light, a cough, a strange feeling in the street — start arriving out of order as an unnamed illness takes his memory apart. Part one of the trilogy; alone, it's the sunniest of the three and the most quietly frightening.\n\nA series of dark and troubling events forces Bill to reckon with the meaning of his life - or lack thereof."
+  },
+  {
+   "id": "tt1282053",
+   "type": "movie",
+   "name": "I Am So Proud of You",
+   "poster": "https://images.metahub.space/poster/medium/tt1282053/img",
+   "background": "https://images.metahub.space/background/medium/tt1282053/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "22 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures Bill's family history told as a hereditary weather system: a mother, a man split into two by a train, a cousin in a rocket, the same darkness handed down like furniture. Part two of the trilogy, and the one where his prose — because by now the narration is prose — peaks."
+  },
+  {
+   "id": "tt1562926",
+   "type": "movie",
+   "name": "Wisdom Teeth",
+   "poster": "https://images.metahub.space/poster/medium/tt1562926/img",
+   "background": "https://images.metahub.space/background/medium/tt1562926/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Horror"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "6 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a man having a wisdom tooth pulled, and his friend asking to pull the stitches. Five minutes, one dental thread, escalating commitment to a single bad idea. The palate cleanser of the catalogue, placed here as programmed.\n\nNigel does his best to help with his friend's simple request."
+  },
+  {
+   "id": "tt7278178",
+   "type": "movie",
+   "name": "World of Tomorrow Episode Two: The Burden of Other People's Thoughts",
+   "poster": "https://images.metahub.space/poster/medium/tt7278178/img",
+   "background": "https://images.metahub.space/background/medium/tt7278178/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "23 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures little Emily travelling into the mind of her older clone, where memories are stored as literal rooms other people have moved into. The sequel to your #469 goes inward instead of forward: identity as a house full of other people's furniture.\n\nEmily is visited by a backup clone of herself from the even-more distant future, as they must venture into each other's psyches in order to restore the clone's deteriorating mind."
+  },
+  {
+   "id": "tt12837488",
+   "type": "movie",
+   "name": "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+   "poster": "https://images.metahub.space/poster/medium/tt12837488/img",
+   "background": "https://images.metahub.space/background/medium/tt12837488/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "34 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a time-travelling husband erased from his own timeline, sending instructions backward to a wife who no longer remembers him. The most intricate of the three episodes — a love story conducted entirely through messages left in the wrong years.\n\nA hidden memory sends David across the far reaches of time and space to solve a deadly mystery involving his time-traveling future selves."
+  },
+  {
+   "id": "tt31322480",
+   "type": "movie",
+   "name": "Me",
+   "poster": "https://images.metahub.space/poster/medium/tt31322480/img",
+   "background": "https://images.metahub.space/background/medium/tt31322480/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "22 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a musical about a self absorbing everything it touches, in twenty-two nearly wordless minutes. His newest: a round character rolls through a hand-drawn world converting people, places and finally the film itself into more of himself. After thirty years of drawing other people's inner lives, this is the one about the ego as a closed system — a transducer with the output looped to the input.\n\nA musical odyssey about generational trauma and the retreat of humanity into itself."
   }
  ]
 }

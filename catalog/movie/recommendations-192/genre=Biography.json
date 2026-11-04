@@ -797,6 +797,54 @@
    "runtime": "93 min",
    "director": "Derek Jarman",
    "description": "Captures a film thinking in paintings the way The Colour of Pomegranates does, but grubbier, queerer, and made for almost no money. Jarman stages the painter's life as living versions of his canvases, with calculators and motorbikes left sitting in the 1600s.\n\nA retelling of the life of the celebrated 17th-century painter through his brilliant, nearly blasphemous paintings and his flirtations with the underworld."
+  },
+  {
+   "id": "tt2147134",
+   "type": "movie",
+   "name": "56 Up",
+   "poster": "https://images.metahub.space/poster/medium/tt2147134/img",
+   "background": "https://images.metahub.space/background/medium/tt2147134/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "144 min",
+   "director": "Michael Apted, Paul Almond",
+   "description": "Captures time as the special effect. The same British children filmed every seven years from 1964, now 56: the class predictions of the first episode meeting five decades of actual lives. You can feel the series itself ageing.\n\nDirector Michael Apted revisits the same group of British-born adults after a seven-year wait. The subjects are interviewed as to the changes that have occurred in their lives during the last seven years."
+  },
+  {
+   "id": "tt1680114",
+   "type": "movie",
+   "name": "Snowtown",
+   "poster": "https://images.metahub.space/poster/medium/tt1680114/img",
+   "background": "https://images.metahub.space/background/medium/tt1680114/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "119 min",
+   "director": "Justin Kurzel",
+   "description": "Captures radicalisation as a domestic process. In Adelaide's poorest suburbs, a charismatic man absorbs a vulnerable teenager into his \"clean-up\" campaign; true story, almost no on-screen violence, dread in every kitchen scene.\n\nBased on true events, 16-year-old Jamie falls in with his mother's new boyfriend and his crowd of self-appointed neighborhood watchmen, a relationship that leads to a spree of torture and murder."
+  },
+  {
+   "id": "tt0105438",
+   "type": "movie",
+   "name": "The Quince Tree Sun",
+   "poster": "https://images.metahub.space/poster/medium/tt0105438/img",
+   "background": "https://images.metahub.space/background/medium/tt0105438/img",
+   "genres": [
+    "Biography"
+   ],
+   "releaseInfo": "1992",
+   "year": 1992,
+   "runtime": "133 min",
+   "director": "Víctor Erice",
+   "description": "Captures a painter racing light he knows he'll lose. Antonio López sets up his easel before a quince tree each autumn day, marking the fruit's fall with threads and plumb lines while the radio murmurs the world; a film about trying to fix an observable that changes by the hour. Process cinema at its most patient.\n\nThe artist Antonio López tries to capture the sunlight hitting his quince tree all autumn, but the struggle seems futile."
   }
  ]
 }

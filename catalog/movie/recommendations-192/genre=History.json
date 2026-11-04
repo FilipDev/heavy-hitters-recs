@@ -845,6 +845,23 @@
    "runtime": "186 min",
    "director": "Ermanno Olmi",
    "description": "Captures the folk world at the opposite end of the temperament scale from Parajanov — patient, plain, and quietly overwhelming. Olmi films Lombardy peasants playing their grandparents' generation: four families, one farm, a whole year of seasons, labour and ritual.\n\nPeasant life in a feudal farm in rural Italy at the end of the 19th century."
+  },
+  {
+   "id": "tt0053114",
+   "type": "movie",
+   "name": "The Human Condition",
+   "poster": "https://images.metahub.space/poster/medium/tt0053114/img",
+   "background": "https://images.metahub.space/background/medium/tt0053114/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1959",
+   "year": 1959,
+   "runtime": "579 min",
+   "director": "Masaki Kobayashi",
+   "description": "Captures a pacifist being processed by an empire. Nine and a half hours, three films: a humanist supervisor in a Manchurian labour camp tries to stay decent inside a system engineered to make decency indistinguishable from complicity. The marathon as moral instrument.\n\nA Japanese pacifist, unable to face the dire consequences of conscientious objection, is transformed by his attempts to compromise with the demands of war-time Japan."
   }
  ]
 }

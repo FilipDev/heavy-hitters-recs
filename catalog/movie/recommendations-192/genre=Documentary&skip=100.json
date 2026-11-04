@@ -227,6 +227,386 @@
    "runtime": "105 min",
    "director": "Benjamin Christensen",
    "description": "Captures a lecture dissolving into delirium. Christensen's silent Swedish study of witchcraft keeps abandoning its own lecture format for re-enactments — sabbaths, torture chambers, possessed nuns — and from 1922 remains wilder than most folk horror made since.\n\nFictionalized documentary showing the evolution of witchcraft, from its pagan roots to its confusion with hysteria in Eastern Europe."
+  },
+  {
+   "id": "tt1667905",
+   "type": "movie",
+   "name": "This Is Not a Film",
+   "poster": "https://images.metahub.space/poster/medium/tt1667905/img",
+   "background": "https://images.metahub.space/background/medium/tt1667905/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "75 min",
+   "director": "Mojtaba Mirtahmasb, Jafar Panahi",
+   "description": "Captures a banned director staging the film he's forbidden to make, in his living room, with tape marks on the carpet for sets. Smuggled out of Iran on a USB stick hidden in a cake; the title is the legal defence and the joke.\n\nIt's been months since Jafar Panahi, stuck in jail, has been awaiting a verdict by the appeals court. By depicting a day in his life, Panahi and Mojtaba Mirtahmasb try to portray the deprivations looming in contemporary Iranian ci..."
+  },
+  {
+   "id": "tt0389448",
+   "type": "movie",
+   "name": "West of the Tracks",
+   "poster": "https://images.metahub.space/poster/medium/tt0389448/img",
+   "background": "https://images.metahub.space/background/medium/tt0389448/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "551 min",
+   "director": "Wang Bing",
+   "description": "Captures an industrial civilisation ending in real time. Nine hours inside Shenyang's collapsing factory district: workers showering in the plant, waiting for wages that aren't coming, singing karaoke as the furnaces cool. Shot alone on a DV camera; the scale is the argument.\n\nAn orphaned young woman goes to Paris looking for work and love. Working as an au-pair, she is discovered by a fashion photographer and becomes a model. She falls in love with an architect but leaves him to marry a rich man."
+  },
+  {
+   "id": "tt0067324",
+   "type": "movie",
+   "name": "Land of Silence and Darkness",
+   "poster": "https://images.metahub.space/poster/medium/tt0067324/img",
+   "background": "https://images.metahub.space/background/medium/tt0067324/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "85 min",
+   "director": "Werner Herzog",
+   "description": "Captures communication at its minimum viable bandwidth. Fini Straubinger, deaf and blind, guides Herzog through a community touching hands to speak; one man was found at 30 having never learned any language at all.\n\nThrough examining Fini Straubinger, an old woman who has been deaf and blind since adolescence, and her work on behalf of other deaf and blind people, this film shows how the deaf and blind struggle to understand and accept a worl..."
+  },
+  {
+   "id": "tt0088196",
+   "type": "movie",
+   "name": "Streetwise",
+   "poster": "https://images.metahub.space/poster/medium/tt0088196/img",
+   "background": "https://images.metahub.space/background/medium/tt0088196/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "91 min",
+   "director": "Martin Bell",
+   "description": "Captures kids raising themselves in public. Seattle street teenagers — panhandling, hustling, checking on each other — filmed with a patience that never once turns them into a lesson. The girl called Tiny will stay with you.\n\nGritty documentary that looks at the lives of teenagers living on the streets of Seattle."
+  },
+  {
+   "id": "tt6634646",
+   "type": "movie",
+   "name": "Hale County This Morning, This Evening",
+   "poster": "https://images.metahub.space/poster/medium/tt6634646/img",
+   "background": "https://images.metahub.space/background/medium/tt6634646/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "76 min",
+   "director": "RaMell Ross",
+   "description": "Captures a place through accumulated glances instead of a story. Alabama's Black Belt in fragments — a toddler's run down a hallway, a basketball game, a solar eclipse — edited like memory actually works.\n\nA kaleidoscopic and humanistic view of the Black community in Hale County, Alabama."
+  },
+  {
+   "id": "tt19783948",
+   "type": "movie",
+   "name": "De Humani Corporis Fabrica",
+   "poster": "https://images.metahub.space/poster/medium/tt19783948/img",
+   "background": "https://images.metahub.space/background/medium/tt19783948/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "115 min",
+   "director": "Lucien Castaing-Taylor, Verena Paravel",
+   "description": "Captures the body as an unexplored continent. Surgical cameras inside eyes, arteries and skulls in Paris hospitals — from the Leviathan team; medicine becomes pure landscape, and the doctors' small talk becomes the soundtrack.\n\nAn extraordinary adventure through the interior of the human body; or the discovery of an alien landscape of unprecedented beauty."
+  },
+  {
+   "id": "tt0424024",
+   "type": "movie",
+   "name": "Darwin's Nightmare",
+   "poster": "https://images.metahub.space/poster/medium/tt0424024/img",
+   "background": "https://images.metahub.space/background/medium/tt0424024/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2004",
+   "year": 2004,
+   "runtime": "107 min",
+   "director": "Hubert Sauper",
+   "description": "Captures globalisation as a food chain with guns in it. Nile perch flown from Lake Victoria to European tables while the same planes fly weapons in and Mwanza's people get the fish heads. Every interview makes it worse, quietly.\n\nA documentary on the effect of fishing the Nile perch in Tanzania's Lake Victoria. The predatory fish, which has wiped out the native species, is sold in European supermarkets, while starving Tanzanian families have to make do wit..."
+  },
+  {
+   "id": "tt0765849",
+   "type": "movie",
+   "name": "Our Daily Bread",
+   "poster": "https://images.metahub.space/poster/medium/tt0765849/img",
+   "background": "https://images.metahub.space/background/medium/tt0765849/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "92 min",
+   "director": "Nikolaus Geyrhalter",
+   "description": "Captures industrial food with the commentary removed. No narration, no music: chick sorters, pig lines, salt mines, combine harvesters at night — just the sounds of the machinery and your own reaction, unassisted.\n\nOUR DAILY BREAD is a wide-screen tableau of a feast which isn't always easy to digest - and in which we all take part. A pure, meticulous and high-end film experience that enables the audience to form their own ideas."
+  },
+  {
+   "id": "tt2147134",
+   "type": "movie",
+   "name": "56 Up",
+   "poster": "https://images.metahub.space/poster/medium/tt2147134/img",
+   "background": "https://images.metahub.space/background/medium/tt2147134/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "144 min",
+   "director": "Michael Apted, Paul Almond",
+   "description": "Captures time as the special effect. The same British children filmed every seven years from 1964, now 56: the class predictions of the first episode meeting five decades of actual lives. You can feel the series itself ageing.\n\nDirector Michael Apted revisits the same group of British-born adults after a seven-year wait. The subjects are interviewed as to the changes that have occurred in their lives during the last seven years."
+  },
+  {
+   "id": "tt0478331",
+   "type": "movie",
+   "name": "Workingman's Death",
+   "poster": "https://images.metahub.space/poster/medium/tt0478331/img",
+   "background": "https://images.metahub.space/background/medium/tt0478331/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "122 min",
+   "director": "Michael Glawogger",
+   "description": "Captures labour that the modern world pretends is gone. Sulfur miners carrying loads up an Indonesian volcano, Nigerian slaughterhouse butchers, Pakistani shipbreakers — five portraits, no commentary, bodies doing what machines supposedly replaced.\n\nA documentary on the extremes to which workers will go to earn a living."
+  },
+  {
+   "id": "tt13621424",
+   "type": "movie",
+   "name": "Taming the Garden",
+   "poster": "https://images.metahub.space/poster/medium/tt13621424/img",
+   "background": "https://images.metahub.space/background/medium/tt13621424/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "91 min",
+   "director": "Salomé Jashi",
+   "description": "Captures wealth moving a landscape by force. Georgia's richest man buys century-old trees from coastal villages and has them dug up, trucked and ferried upright across the sea to his private garden. No commentary; the image of a tree sailing is the whole argument.\n\nDocumentary follows trees that are transported, at great expense and inconvenience, from the coast of the Republic of Georgia to the private garden of that country's former prime minister."
+  },
+  {
+   "id": "tt11394290",
+   "type": "movie",
+   "name": "The Earth Is Blue as an Orange",
+   "poster": "https://images.metahub.space/poster/medium/tt11394290/img",
+   "background": "https://images.metahub.space/background/medium/tt11394290/img",
+   "genres": [
+    "Documentary",
+    "War"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "74 min",
+   "director": "Iryna Tsilyk",
+   "description": "Captures a family directing its own war movie inside a real war. In the Donbas front-line town of Krasnohorivka, a mother and her kids shoot a fiction film about their lives between shelling — the camera as the household's way of staying sane, years before 2022 made the footage prophetic.\n\nTo cope with the daily trauma of living in a war-zone, Anna and her children are making a film together about their life in the most surreal surroundings."
+  },
+  {
+   "id": "tt3962828",
+   "type": "movie",
+   "name": "In the Basement",
+   "poster": "https://images.metahub.space/poster/medium/tt3962828/img",
+   "background": "https://images.metahub.space/background/medium/tt3962828/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "81 min",
+   "director": "Ulrich Seidl",
+   "description": "Captures what Austrians keep under the house. A documentary of suburban basements — Nazi memorabilia shrines, shooting ranges, doll collections, dungeons — each owner proudly giving the tour, each room arranged like a still life.\n\nA documentary that reveals what its subjects do in their respective basements."
+  },
+  {
+   "id": "tt0081055",
+   "type": "movie",
+   "name": "Lightning Over Water",
+   "poster": "https://images.metahub.space/poster/medium/tt0081055/img",
+   "background": "https://images.metahub.space/background/medium/tt0081055/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1980",
+   "year": 1980,
+   "runtime": "91 min",
+   "director": "Nicholas Ray, Wim Wenders",
+   "description": "Captures two directors filming a death, one of them the dying man. Ray, terminal with cancer, co-directs his own ending — rehearsals, hospital corridors, arguments about whether the camera should be there at all. The complicit-camera question, asked by the subject himself.\n\nDirector 'Nicholas Ray' is eager to complete a final film before his imminent death from cancer. Wim Wenders is working on his own film Hammett (1983) in Hollywood, but flies to New York to help Ray realize his final wish. Ray's original intent is to make a fiction film about a dying painter who sails to China to find a cure for his disease. He and Wenders discuss this idea, but it is obviously unrealistic given Ray's state of health."
+  },
+  {
+   "id": "tt0453795",
+   "type": "movie",
+   "name": "Oxhide",
+   "poster": "https://images.metahub.space/poster/medium/tt0453795/img",
+   "background": "https://images.metahub.space/background/medium/tt0453795/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "110 min",
+   "director": "Jiayin Liu",
+   "description": "Captures a family inside 50 square metres and one failing business. The director films her own parents in their Beijing apartment and leather shop, in nine static shots, playing a version of herself; the bag shop is dying and everyone discusses dinner instead.\n\nDirector Liu Jiayin casts her parents and herself as fictionalized members of a Beijing family that has fallen on hard times and ekes out an existence by making bags out of oxhide for sale."
+  },
+  {
+   "id": "tt0077598",
+   "type": "movie",
+   "name": "Gates of Heaven",
+   "poster": "https://images.metahub.space/poster/medium/tt0077598/img",
+   "background": "https://images.metahub.space/background/medium/tt0077598/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1978",
+   "year": 1978,
+   "runtime": "85 min",
+   "director": "Errol Morris",
+   "description": "Captures two pet cemeteries — one failed, one thriving — and the people who can explain everything except themselves. Morris points the camera, asks almost nothing, and owners, renderers and salesmen deliver monologues that keep slipping from pets into the meaning of a life. His first film; it made Herzog eat a shoe.\n\nA documentary about a pet cemetery in California, and the people who have pets buried there."
+  },
+  {
+   "id": "tt0119107",
+   "type": "movie",
+   "name": "Fast, Cheap & Out of Control",
+   "poster": "https://images.metahub.space/poster/medium/tt0119107/img",
+   "background": "https://images.metahub.space/background/medium/tt0119107/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "80 min",
+   "director": "Errol Morris",
+   "description": "Captures four obsessions rhyming: a lion tamer, a topiary gardener, a mole-rat scientist and a robot engineer, intercut until their separate monologues start answering each other. The most purely structural documentary on this list — meaning emerging from the cuts, which is close to a thesis statement for your whole collection.\n\nAn exploration of the careers of four unrelated professionals: a lion tamer, a robotics expert, a topiary gardener, and a naked mole rat specialist."
+  },
+  {
+   "id": "tt1253565",
+   "type": "movie",
+   "name": "Between the Folds",
+   "poster": "https://images.metahub.space/poster/medium/tt1253565/img",
+   "background": "https://images.metahub.space/background/medium/tt1253565/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "56 min",
+   "director": "Vanessa Gould",
+   "description": "Captures origami where it stops being a craft: physicists folding proteins and deployable space lenses, a man who folds a single sheet into a full orchestra, theorems proved with creases. Ten paper artists and scientists, one shared conviction that a fold is a way of thinking.\n\nDepicts a cast of fine artists and eccentric scientists (from MIT and NASA) who have devoted their lives to the unlikely medium of modern origami. Through their determination to reinterpret the world in paper, they arouse a fascin..."
+  },
+  {
+   "id": "tt9847360",
+   "type": "movie",
+   "name": "A Glitch in the Matrix",
+   "poster": "https://images.metahub.space/poster/medium/tt9847360/img",
+   "background": "https://images.metahub.space/background/medium/tt9847360/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "108 min",
+   "director": "Rodney Ascher",
+   "description": "Captures simulation theory as a belief system with adherents, not a thought experiment. Speakers testify through digital avatars — itself the film's best argument — while clips and Philip K. Dick's 1977 \"I am speaking to you from a replica\" speech do the rest. Your inversion framework, wearing a headset.\n\nDocumentary filmmaker Rodney Ascher tackles the question \"are we living in a simulation?\" with testimony, philosophical evidence and scientific explanation in his quest for the answer."
+  },
+  {
+   "id": "tt11394298",
+   "type": "movie",
+   "name": "The Mole Agent",
+   "poster": "https://images.metahub.space/poster/medium/tt11394298/img",
+   "background": "https://images.metahub.space/background/medium/tt11394298/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "84 min",
+   "director": "Maite Alberdi",
+   "description": "Captures an 83-year-old widower hired to infiltrate a nursing home as a spy, who keeps forgetting to spy because the residents need a friend. A detective kit, a private investigator, hidden-camera glasses — all of it slowly repurposed into an undercover operation against loneliness.\n\nA private investigator in Chile hires someone to work as a mole at a retirement home where a client of his suspects the caretakers of elder abuse."
+  },
+  {
+   "id": "tt0094745",
+   "type": "movie",
+   "name": "Images of the World and the Inscription of War",
+   "poster": "https://images.metahub.space/poster/medium/tt0094745/img",
+   "background": "https://images.metahub.space/background/medium/tt0094745/img",
+   "genres": [
+    "Documentary",
+    "War"
+   ],
+   "releaseInfo": "1989",
+   "year": 1989,
+   "runtime": "75 min",
+   "director": "Harun Farocki",
+   "description": "Captures the gap between what an image records and what anyone sees in it. Allied reconnaissance planes photographed Auschwitz in 1944 while aiming at a factory next door; the camps sat in the archive, fully observed and entirely unseen, for three decades. Farocki builds the whole film from that one distinction — this might be the closest any film gets to your projection framework, stated in evidence.\n\nFarocki’s intriguing and troubling film explores the processes of visual perception and how they affect our understanding of history and society. In a work reminiscent of the writings of Paul Virilio and Michel Foucault, Farocki examines a range of phenomena including aerial reconnaissance photos of the Auschwitz concentration camp."
+  },
+  {
+   "id": "tt0409965",
+   "type": "movie",
+   "name": "Five Dedicated to Ozu",
+   "poster": "https://images.metahub.space/poster/medium/tt0409965/img",
+   "background": "https://images.metahub.space/background/medium/tt0409965/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "74 min",
+   "director": "Abbas Kiarostami",
+   "description": "Captures the observable with the story removed. Five long static shots of the Caspian shore: waves, ducks, driftwood, a dog, the moon on water. No characters, no plot — just duration and attention, dedicated to the director who taught him both. The purest test in your collection of whether framing alone is enough.\n\nFive sequences : 1) A piece of driftwood on the seashore, carried about by the waves 2) People walking on the seashore. The oldest ones stop by, look at the sea, then go away 3) Blurry shapes on a winter beach. A herd of dogs. A l..."
+  },
+  {
+   "id": "tt0298597",
+   "type": "movie",
+   "name": "The Seasons",
+   "poster": "https://images.metahub.space/poster/medium/tt0298597/img",
+   "background": "https://images.metahub.space/background/medium/tt0298597/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "29 min",
+   "director": "Artavazd Peleshian",
+   "description": "Captures an Armenian mountain year as pure rhythm. Shepherds swept downriver clutching sheep, hay sleds flying downhill, a wedding, a flock pouring over a ridge — Pelechian's \"distance montage\" builds meaning between shots that never touch, the way your transducer chains build it between levels. Thirty minutes, no dialogue, elemental.\n\nFilm-essay about shepherds living in the Armenian highlands, about the contradiction and the harmony between man and nature."
+  },
+  {
+   "id": "tt6677224",
+   "type": "movie",
+   "name": "Histoire(s) du cinéma",
+   "poster": "https://images.metahub.space/poster/medium/tt6677224/img",
+   "background": "https://images.metahub.space/background/medium/tt6677224/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "267 min",
+   "director": "Jean-Luc Godard",
+   "description": "Captures one man spending a decade re-editing the entire century of cinema inside his own head. Eight parts of layered clips, paintings, text and whispered commentary: film history as a projection apparatus that showed everything and recognised almost nothing — your framework again, but as autobiography. The monument to close on; take it in parts, the way it was made.\n\nA cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE."
+  },
+  {
+   "id": "tt2852470",
+   "type": "movie",
+   "name": "The Missing Picture",
+   "poster": "https://images.metahub.space/poster/medium/tt2852470/img",
+   "background": "https://images.metahub.space/background/medium/tt2852470/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "92 min",
+   "director": "Rithy Panh",
+   "description": "Captures a genocide whose footage doesn't exist, rebuilt in clay. Panh's family died under the Khmer Rouge; the propaganda reels show smiling peasants, so he carves little clay figures and dioramas to stand where the record is missing. The observed archive versus the unrecorded real — the most literal film ever made about your framework, and it's a documentary.\n\nRithy Panh uses clay figures, archival footage, and his narration to recreate the atrocities Cambodia's Khmer Rouge committed between 1975 and 1979."
   }
  ]
 }
