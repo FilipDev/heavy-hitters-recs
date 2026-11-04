@@ -1,0 +1,166 @@
+{
+ "metas": [
+  {
+   "id": "tt0311113",
+   "type": "movie",
+   "name": "Master and Commander: The Far Side of the World",
+   "poster": "https://images.metahub.space/poster/medium/tt0311113/img",
+   "background": "https://images.metahub.space/background/medium/tt0311113/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "138 min",
+   "director": "Peter Weir",
+   "description": "Captures a ship as a complete working system. During the Napoleonic Wars a British frigate hunts a French ship around South America — seamanship, weather and hierarchy, and a captain whose naturalist friend would rather be cataloguing species in the Galápagos."
+  },
+  {
+   "id": "tt1392190",
+   "type": "movie",
+   "name": "Mad Max: Fury Road",
+   "poster": "https://images.metahub.space/poster/medium/tt1392190/img",
+   "background": "https://images.metahub.space/background/medium/tt1392190/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "120 min",
+   "director": "George Miller",
+   "description": "Captures momentum as a physical state. Almost no dialogue, one chase out and one chase back — speed, heat and desperation, with a war-rig as a whole society in miniature."
+  },
+  {
+   "id": "tt0056058",
+   "type": "movie",
+   "name": "Harakiri",
+   "poster": "https://images.metahub.space/poster/medium/tt0056058/img",
+   "background": "https://images.metahub.space/background/medium/tt0056058/img",
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "releaseInfo": "1962",
+   "year": 1962,
+   "runtime": "133 min",
+   "director": "Masaki Kobayashi",
+   "description": "Captures an honour code as bureaucratic cruelty. A penniless samurai asks to die at a clan house; the story he tells, and the one they tell back, dismantle the whole code — a courtroom film with swords."
+  },
+  {
+   "id": "tt4633694",
+   "type": "movie",
+   "name": "Spider-Man: Into the Spider-Verse",
+   "poster": "https://images.metahub.space/poster/medium/tt4633694/img",
+   "background": "https://images.metahub.space/background/medium/tt4633694/img",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "117 min",
+   "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+   "description": "Captures what a comic book actually feels like to read, in motion. Also a genuinely good story about a kid learning that anyone can wear the mask, by failing at it a lot."
+  },
+  {
+   "id": "tt0113277",
+   "type": "movie",
+   "name": "Heat",
+   "poster": "https://images.metahub.space/poster/medium/tt0113277/img",
+   "background": "https://images.metahub.space/background/medium/tt0113277/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "170 min",
+   "director": "Michael Mann",
+   "description": "Captures professionalism as a whole identity, on both sides of the law. A robber and a detective each incapable of a life outside the work, recognising themselves in each other over coffee."
+  },
+  {
+   "id": "tt0083190",
+   "type": "movie",
+   "name": "Thief",
+   "poster": "https://images.metahub.space/poster/medium/tt0083190/img",
+   "background": "https://images.metahub.space/background/medium/tt0083190/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1981",
+   "year": 1981,
+   "runtime": "123 min",
+   "director": "Michael Mann",
+   "description": "Captures a craftsman trying to buy a normal life with one last job. A Chicago safecracker with a collage of his dream life in his wallet, neon and rain, tools on metal filmed like jewellery-making."
+  },
+  {
+   "id": "tt0119698",
+   "type": "movie",
+   "name": "Princess Mononoke",
+   "poster": "https://images.metahub.space/poster/medium/tt0119698/img",
+   "background": "https://images.metahub.space/background/medium/tt0119698/img",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "134 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures an ecological war with no pure side. Iron Town needs the forest cut to survive; the forest gods need the humans gone; a prince cursed by a dying god tries to see with unclouded eyes."
+  },
+  {
+   "id": "tt3397884",
+   "type": "movie",
+   "name": "Sicario",
+   "poster": "https://images.metahub.space/poster/medium/tt3397884/img",
+   "background": "https://images.metahub.space/background/medium/tt3397884/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "121 min",
+   "director": "Denis Villeneuve",
+   "description": "Captures an idealist being used as a legal fig leaf. An FBI agent attached to a border operation she is not briefed on, a convoy into Juárez filmed like an occupying army, rules revealed only after she has broken them."
+  },
+  {
+   "id": "tt2582782",
+   "type": "movie",
+   "name": "Hell or High Water",
+   "poster": "https://images.metahub.space/poster/medium/tt2582782/img",
+   "background": "https://images.metahub.space/background/medium/tt2582782/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Western"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "102 min",
+   "director": "David Mackenzie",
+   "description": "Captures two brothers robbing the bank that is taking their family's land. West Texas, foreclosed ranches and debt-relief billboards, and two ageing Rangers following them at the speed of talk — a western wearing a recession."
+  }
+ ]
+}

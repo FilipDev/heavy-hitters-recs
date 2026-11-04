@@ -1,0 +1,199 @@
+{
+ "metas": [
+  {
+   "id": "tt0311113",
+   "type": "movie",
+   "name": "Master and Commander: The Far Side of the World",
+   "poster": "https://images.metahub.space/poster/medium/tt0311113/img",
+   "background": "https://images.metahub.space/background/medium/tt0311113/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "138 min",
+   "director": "Peter Weir",
+   "description": "Captures a ship as a complete working system. During the Napoleonic Wars a British frigate hunts a French ship around South America — seamanship, weather and hierarchy, and a captain whose naturalist friend would rather be cataloguing species in the Galápagos."
+  },
+  {
+   "id": "tt0076740",
+   "type": "movie",
+   "name": "Sorcerer",
+   "poster": "https://images.metahub.space/poster/medium/tt0076740/img",
+   "background": "https://images.metahub.space/background/medium/tt0076740/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1977",
+   "year": 1977,
+   "runtime": "121 min",
+   "director": "William Friedkin",
+   "description": "Captures pure physical tension. Four fugitives in South America take the only job out — hauling unstable nitroglycerin in old trucks through jungle — centred on getting a truck across a rotting rope bridge in a storm, in real time."
+  },
+  {
+   "id": "tt1392190",
+   "type": "movie",
+   "name": "Mad Max: Fury Road",
+   "poster": "https://images.metahub.space/poster/medium/tt1392190/img",
+   "background": "https://images.metahub.space/background/medium/tt1392190/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "120 min",
+   "director": "George Miller",
+   "description": "Captures momentum as a physical state. Almost no dialogue, one chase out and one chase back — speed, heat and desperation, with a war-rig as a whole society in miniature."
+  },
+  {
+   "id": "tt4633694",
+   "type": "movie",
+   "name": "Spider-Man: Into the Spider-Verse",
+   "poster": "https://images.metahub.space/poster/medium/tt4633694/img",
+   "background": "https://images.metahub.space/background/medium/tt4633694/img",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "117 min",
+   "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+   "description": "Captures what a comic book actually feels like to read, in motion. Also a genuinely good story about a kid learning that anyone can wear the mask, by failing at it a lot."
+  },
+  {
+   "id": "tt0072684",
+   "type": "movie",
+   "name": "Barry Lyndon",
+   "poster": "https://images.metahub.space/poster/medium/tt0072684/img",
+   "background": "https://images.metahub.space/background/medium/tt0072684/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "185 min",
+   "director": "Stanley Kubrick",
+   "description": "Captures a rise and fall narrated like fate already happened. An Irish opportunist climbs 18th-century society through duels, war and marriage, shot like paintings, with a narrator who keeps telling you the ending early."
+  },
+  {
+   "id": "tt0056172",
+   "type": "movie",
+   "name": "Lawrence of Arabia",
+   "poster": "https://images.metahub.space/poster/medium/tt0056172/img",
+   "background": "https://images.metahub.space/background/medium/tt0056172/img",
+   "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1962",
+   "year": 1962,
+   "runtime": "218 min",
+   "director": "David Lean",
+   "description": "Captures a man inventing himself at desert scale. Nearly four hours: the landscape is a character, and so is the gap between the legend being built and the person inside it."
+  },
+  {
+   "id": "tt0103074",
+   "type": "movie",
+   "name": "Thelma & Louise",
+   "poster": "https://images.metahub.space/poster/medium/tt0103074/img",
+   "background": "https://images.metahub.space/background/medium/tt0103074/img",
+   "genres": [
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1991",
+   "year": 1991,
+   "runtime": "130 min",
+   "director": "Ridley Scott",
+   "description": "Captures escape becoming irreversible, and friendship becoming absolute. A weekend trip, a parking lot, a gun — then two women driving west, getting freer and more cornered in the same scenes."
+  },
+  {
+   "id": "tt0112384",
+   "type": "movie",
+   "name": "Apollo 13",
+   "poster": "https://images.metahub.space/poster/medium/tt0112384/img",
+   "background": "https://images.metahub.space/background/medium/tt0112384/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "140 min",
+   "director": "Ron Howard",
+   "description": "Captures competence under constraint. An explosion in space, and the film becomes people in rooms with slide rules solving the next physical problem before the air runs out — the opposite of lone-hero cinema."
+  },
+  {
+   "id": "tt0119698",
+   "type": "movie",
+   "name": "Princess Mononoke",
+   "poster": "https://images.metahub.space/poster/medium/tt0119698/img",
+   "background": "https://images.metahub.space/background/medium/tt0119698/img",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "134 min",
+   "director": "Hayao Miyazaki",
+   "description": "Captures an ecological war with no pure side. Iron Town needs the forest cut to survive; the forest gods need the humans gone; a prince cursed by a dying god tries to see with unclouded eyes."
+  },
+  {
+   "id": "tt4468740",
+   "type": "movie",
+   "name": "Paddington 2",
+   "poster": "https://images.metahub.space/poster/medium/tt4468740/img",
+   "background": "https://images.metahub.space/background/medium/tt4468740/img",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "103 min",
+   "director": "Paul King",
+   "description": "Captures decency as something contagious. A bear framed for stealing the pop-up book he wanted to buy his aunt, sent to prison — and the prison improves because he is in it."
+  },
+  {
+   "id": "tt0285441",
+   "type": "movie",
+   "name": "Atanarjuat: The Fast Runner",
+   "poster": "https://images.metahub.space/poster/medium/tt0285441/img",
+   "background": "https://images.metahub.space/background/medium/tt0285441/img",
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2001",
+   "year": 2001,
+   "runtime": "172 min",
+   "director": "Zacharias Kunuk",
+   "description": "Captures an Inuit oral epic told by the community it belongs to. Made in Igloolik, in Inuktitut, with a largely Inuit cast and crew: a rivalry, a murder, and a naked run across the ice told for centuries."
+  }
+ ]
+}

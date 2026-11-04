@@ -1,0 +1,405 @@
+{
+ "metas": [
+  {
+   "id": "tt5247022",
+   "type": "movie",
+   "name": "Paterson",
+   "poster": "https://images.metahub.space/poster/medium/tt5247022/img",
+   "background": "https://images.metahub.space/background/medium/tt5247022/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "118 min",
+   "director": "Jim Jarmusch",
+   "description": "Captures a routine life as a work of art. One week with a bus driver named Paterson, in Paterson, who writes poems about matchboxes and waterfalls between shifts."
+  },
+  {
+   "id": "tt0092048",
+   "type": "movie",
+   "name": "Tampopo",
+   "poster": "https://images.metahub.space/poster/medium/tt0092048/img",
+   "background": "https://images.metahub.space/background/medium/tt0092048/img",
+   "genres": [
+    "Comedy",
+    "Western"
+   ],
+   "releaseInfo": "1985",
+   "year": 1985,
+   "runtime": "114 min",
+   "director": "Jūzō Itami",
+   "description": "Captures food as craft, sex, comedy and social ritual all at once. A truck driver mentors a widow until her ramen is perfect, cut with vignettes of people eating in every possible way."
+  },
+  {
+   "id": "tt0097216",
+   "type": "movie",
+   "name": "Do the Right Thing",
+   "poster": "https://images.metahub.space/poster/medium/tt0097216/img",
+   "background": "https://images.metahub.space/background/medium/tt0097216/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1989",
+   "year": 1989,
+   "runtime": "120 min",
+   "director": "Spike Lee",
+   "description": "Captures a neighbourhood on the hottest day of the year. A Brooklyn block and a pizzeria wall of fame, everyone funny and aggrieved in their own direction until the heat does what heat does."
+  },
+  {
+   "id": "tt0383028",
+   "type": "movie",
+   "name": "Synecdoche, New York",
+   "poster": "https://images.metahub.space/poster/medium/tt0383028/img",
+   "background": "https://images.metahub.space/background/medium/tt0383028/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "124 min",
+   "director": "Charlie Kaufman",
+   "description": "Captures a life trying to represent itself honestly, and drowning in the attempt. A theatre director builds a scale copy of his city inside a warehouse and keeps casting people to play people, including himself, for decades."
+  },
+  {
+   "id": "tt0073076",
+   "type": "movie",
+   "name": "Grey Gardens",
+   "poster": "https://images.metahub.space/poster/medium/tt0073076/img",
+   "background": "https://images.metahub.space/background/medium/tt0073076/img",
+   "genres": [
+    "Documentary",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "94 min",
+   "director": "Albert Maysles, David Maysles",
+   "description": "Captures a mother and daughter fused together in a decaying mansion. The Beales, relatives of Jackie Kennedy, singing, bickering and feeding raccoons in the attic — performing for the camera and trapped with each other."
+  },
+  {
+   "id": "tt0057012",
+   "type": "movie",
+   "name": "Dr. Strangelove",
+   "poster": "https://images.metahub.space/poster/medium/tt0057012/img",
+   "background": "https://images.metahub.space/background/medium/tt0057012/img",
+   "genres": [
+    "Comedy",
+    "War"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "95 min",
+   "director": "Stanley Kubrick",
+   "description": "Captures nuclear annihilation as a bureaucratic procedure. Generals, presidents and advisors in rooms — vain, procedural and insane — while the world ends by checklist."
+  },
+  {
+   "id": "tt4686844",
+   "type": "movie",
+   "name": "The Death of Stalin",
+   "poster": "https://images.metahub.space/poster/medium/tt4686844/img",
+   "background": "https://images.metahub.space/background/medium/tt4686844/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "107 min",
+   "director": "Armando Iannucci",
+   "description": "Captures absolute power as petty, terrified men improvising. Stalin drops dead and his inner circle plot, flatter and panic in the same breath — very funny, and people keep being shot between jokes."
+  },
+  {
+   "id": "tt0094336",
+   "type": "movie",
+   "name": "Withnail and I",
+   "poster": "https://images.metahub.space/poster/medium/tt0094336/img",
+   "background": "https://images.metahub.space/background/medium/tt0094336/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1987",
+   "year": 1987,
+   "runtime": "107 min",
+   "director": "Bruce Robinson",
+   "description": "Captures the end of youth as squalor and one great friendship rotting. Two out-of-work actors in 1969 London, a disastrous country holiday, and one of them beginning to leave the other behind."
+  },
+  {
+   "id": "tt0126886",
+   "type": "movie",
+   "name": "Election",
+   "poster": "https://images.metahub.space/poster/medium/tt0126886/img",
+   "background": "https://images.metahub.space/background/medium/tt0126886/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "103 min",
+   "director": "Alexander Payne",
+   "description": "Captures ambition so pure it becomes frightening, at a high school. A student election, a teacher who decides one candidate must be stopped, and everyone's voiceover giving their self-justifying version."
+  },
+  {
+   "id": "tt0109424",
+   "type": "movie",
+   "name": "Chungking Express",
+   "poster": "https://images.metahub.space/poster/medium/tt0109424/img",
+   "background": "https://images.metahub.space/background/medium/tt0109424/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "102 min",
+   "director": "Wong Kar-wai",
+   "description": "Captures city loneliness at pop speed. Hong Kong, two lovesick cops, expired pineapple cans, and a snack-bar girl breaking into a man's flat to clean it while 'California Dreamin'' loops."
+  },
+  {
+   "id": "tt7014006",
+   "type": "movie",
+   "name": "Eighth Grade",
+   "poster": "https://images.metahub.space/poster/medium/tt7014006/img",
+   "background": "https://images.metahub.space/background/medium/tt7014006/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "93 min",
+   "director": "Bo Burnham",
+   "description": "Captures social anxiety in the age of front-facing cameras, exactly. A girl filming confident advice videos she cannot follow, pool parties endured minute by minute, and a father scene near the end that rearranges parents."
+  },
+  {
+   "id": "tt0053604",
+   "type": "movie",
+   "name": "The Apartment",
+   "poster": "https://images.metahub.space/poster/medium/tt0053604/img",
+   "background": "https://images.metahub.space/background/medium/tt0053604/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1960",
+   "year": 1960,
+   "runtime": "125 min",
+   "director": "Billy Wilder",
+   "description": "Captures loneliness in a big company, and kindness as a decision. An insurance clerk lends his flat to executives for their affairs to get promoted, loves the elevator girl from afar, and hits Christmas at the lowest point of both."
+  },
+  {
+   "id": "tt0211915",
+   "type": "movie",
+   "name": "Amélie",
+   "poster": "https://images.metahub.space/poster/medium/tt0211915/img",
+   "background": "https://images.metahub.space/background/medium/tt0211915/img",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "releaseInfo": "2001",
+   "year": 2001,
+   "runtime": "122 min",
+   "director": "Jean-Pierre Jeunet",
+   "description": "Captures a lonely young woman engineering small happinesses for strangers. Montmartre, a tin of childhood treasures returned to its owner, and a heroine who can fix everyone's life except ask for anything in her own."
+  },
+  {
+   "id": "tt0045152",
+   "type": "movie",
+   "name": "Singin' in the Rain",
+   "poster": "https://images.metahub.space/poster/medium/tt0045152/img",
+   "background": "https://images.metahub.space/background/medium/tt0045152/img",
+   "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+   ],
+   "releaseInfo": "1952",
+   "year": 1952,
+   "runtime": "103 min",
+   "director": "Gene Kelly, Stanley Donen",
+   "description": "Captures pure performed joy, inside a story about an industry panicking. Hollywood switching to sound, a star with a terrible voice, and musical numbers that still feel like showing off for the love of it."
+  },
+  {
+   "id": "tt4468740",
+   "type": "movie",
+   "name": "Paddington 2",
+   "poster": "https://images.metahub.space/poster/medium/tt4468740/img",
+   "background": "https://images.metahub.space/background/medium/tt4468740/img",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "103 min",
+   "director": "Paul King",
+   "description": "Captures decency as something contagious. A bear framed for stealing the pop-up book he wanted to buy his aunt, sent to prison — and the prison improves because he is in it."
+  },
+  {
+   "id": "tt0115678",
+   "type": "movie",
+   "name": "Big Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0115678/img",
+   "background": "https://images.metahub.space/background/medium/tt0115678/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "109 min",
+   "director": "Campbell Scott, Stanley Tucci",
+   "description": "Captures two brothers arguing about whether a meal should be art or business. Italian immigrants, a failing restaurant, one elaborate dinner to save it, and a final wordless scene of one cooking breakfast for the other."
+  },
+  {
+   "id": "tt0128445",
+   "type": "movie",
+   "name": "Rushmore",
+   "poster": "https://images.metahub.space/poster/medium/tt0128445/img",
+   "background": "https://images.metahub.space/background/medium/tt0128445/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "93 min",
+   "director": "Wes Anderson",
+   "description": "Captures a precocious teenager's grandiosity as a grief strategy. A scholarship kid who runs every club and stages huge plays falls for a widowed teacher and goes to war with a sad industrialist who is, emotionally, the same age."
+  },
+  {
+   "id": "tt0070460",
+   "type": "movie",
+   "name": "Day for Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0070460/img",
+   "background": "https://images.metahub.space/background/medium/tt0070460/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "116 min",
+   "director": "François Truffaut",
+   "description": "Captures a film set as a chaotic temporary family. Truffaut plays the director of a mediocre melodrama, keeping affairs, breakdowns, accidents and deadlines moving toward a finished film nobody thinks is great and everybody needs."
+  },
+  {
+   "id": "tt0120382",
+   "type": "movie",
+   "name": "The Truman Show",
+   "poster": "https://images.metahub.space/poster/medium/tt0120382/img",
+   "background": "https://images.metahub.space/background/medium/tt0120382/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "103 min",
+   "director": "Peter Weir",
+   "description": "Captures a paranoia that turns out to be an accurate description. An insurance salesman in a seaside town so pleasant it feels laminated, a sky that malfunctions, and a dawning suspicion about everyone who loves him."
+  },
+  {
+   "id": "tt4925292",
+   "type": "movie",
+   "name": "Lady Bird",
+   "poster": "https://images.metahub.space/poster/medium/tt4925292/img",
+   "background": "https://images.metahub.space/background/medium/tt4925292/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "94 min",
+   "director": "Greta Gerwig",
+   "description": "Captures a mother and daughter who love each other in a way that keeps missing. Sacramento, a girl desperate to leave for the East Coast, a mother working double shifts, fights in moving cars, and a final voicemail that reframes every argument."
+  },
+  {
+   "id": "tt0274812",
+   "type": "movie",
+   "name": "Secretary",
+   "poster": "https://images.metahub.space/poster/medium/tt0274812/img",
+   "background": "https://images.metahub.space/background/medium/tt0274812/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "107 min",
+   "director": "Steven Shainberg",
+   "description": "Captures kink as, for one specific person, a form of self-knowledge. A young woman fresh out of hospital for self-harm takes a typing job with a demanding lawyer, in a relationship the film treats as tender rather than a diagnosis."
+  },
+  {
+   "id": "tt0070820",
+   "type": "movie",
+   "name": "Touki Bouki",
+   "poster": "https://images.metahub.space/poster/medium/tt0070820/img",
+   "background": "https://images.metahub.space/background/medium/tt0070820/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "85 min",
+   "director": "Djibril Diop Mambéty",
+   "description": "Captures two young people dreaming of Paris so hard the film itself starts hallucinating. Senegal: a cowherd and a student steal and scheme toward a ship, on a motorbike with a skull mounted on it, in editing that jumps like a skipping song."
+  },
+  {
+   "id": "tt0104467",
+   "type": "movie",
+   "name": "Hyenas",
+   "poster": "https://images.metahub.space/poster/medium/tt0104467/img",
+   "background": "https://images.metahub.space/background/medium/tt0104467/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1992",
+   "year": 1992,
+   "runtime": "110 min",
+   "director": "Djibril Diop Mambéty",
+   "description": "Captures a village discovering its price. A woman returns after decades, impossibly rich, offering her poor hometown a fortune for one act of 'justice' against the man who wronged her — while shops fill with goods bought on credit."
+  },
+  {
+   "id": "tt0119237",
+   "type": "movie",
+   "name": "Gummo",
+   "poster": "https://images.metahub.space/poster/medium/tt0119237/img",
+   "background": "https://images.metahub.space/background/medium/tt0119237/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "89 min",
+   "director": "Harmony Korine",
+   "description": "Captures boredom and poverty in an American town as unconnected afternoons. Xenia, Ohio, after a tornado: kids sniffing, selling dead cats, taped monologues, no plot arriving to save anyone."
+  }
+ ]
+}

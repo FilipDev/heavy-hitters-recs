@@ -1,0 +1,250 @@
+{
+ "metas": [
+  {
+   "id": "tt0166896",
+   "type": "movie",
+   "name": "The Straight Story",
+   "poster": "https://images.metahub.space/poster/medium/tt0166896/img",
+   "background": "https://images.metahub.space/background/medium/tt0166896/img",
+   "genres": [
+    "Biography",
+    "Drama"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "112 min",
+   "director": "David Lynch",
+   "description": "Captures sincerity with zero irony. An old man who cannot drive a car rides a lawnmower tractor across two states to see his estranged, dying brother — David Lynch's gentlest film."
+  },
+  {
+   "id": "tt1185616",
+   "type": "movie",
+   "name": "Waltz with Bashir",
+   "poster": "https://images.metahub.space/poster/medium/tt1185616/img",
+   "background": "https://images.metahub.space/background/medium/tt1185616/img",
+   "genres": [
+    "Animation",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "90 min",
+   "director": "Ari Folman",
+   "description": "Captures a soldier's memory with a hole in it. Animated interviews as the director tries to recover what he did in Beirut in 1982, ending with footage that breaks the animation open."
+  },
+  {
+   "id": "tt8430054",
+   "type": "movie",
+   "name": "Flee",
+   "poster": "https://images.metahub.space/poster/medium/tt8430054/img",
+   "background": "https://images.metahub.space/background/medium/tt8430054/img",
+   "genres": [
+    "Animation",
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "89 min",
+   "director": "Jonas Poher Rasmussen",
+   "description": "Captures telling a hidden life story for the first time. An animated documentary about a refugee from Afghanistan settled in Denmark, recounting flight, family separation and a secret he has kept from everyone."
+  },
+  {
+   "id": "tt1285016",
+   "type": "movie",
+   "name": "The Social Network",
+   "poster": "https://images.metahub.space/poster/medium/tt1285016/img",
+   "background": "https://images.metahub.space/background/medium/tt1285016/img",
+   "genres": [
+    "Biography",
+    "Drama"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "120 min",
+   "director": "David Fincher",
+   "description": "Captures a creation myth told as a betrayal. Facebook's founding at pure dialogue velocity — dorm rooms, depositions, and a friendship converted into equity."
+  },
+  {
+   "id": "tt0056172",
+   "type": "movie",
+   "name": "Lawrence of Arabia",
+   "poster": "https://images.metahub.space/poster/medium/tt0056172/img",
+   "background": "https://images.metahub.space/background/medium/tt0056172/img",
+   "genres": [
+    "Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1962",
+   "year": 1962,
+   "runtime": "218 min",
+   "director": "David Lean",
+   "description": "Captures a man inventing himself at desert scale. Nearly four hours: the landscape is a character, and so is the gap between the legend being built and the person inside it."
+  },
+  {
+   "id": "tt0072890",
+   "type": "movie",
+   "name": "Dog Day Afternoon",
+   "poster": "https://images.metahub.space/poster/medium/tt0072890/img",
+   "background": "https://images.metahub.space/background/medium/tt0072890/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "125 min",
+   "director": "Sidney Lumet",
+   "description": "Captures a bank robbery becoming a live street spectacle. One hot Brooklyn afternoon, Pacino working the crowd outside like a rally, and the reason for the robbery arriving piece by piece."
+  },
+  {
+   "id": "tt0443680",
+   "type": "movie",
+   "name": "The Assassination of Jesse James by the Coward Robert Ford",
+   "poster": "https://images.metahub.space/poster/medium/tt0443680/img",
+   "background": "https://images.metahub.space/background/medium/tt0443680/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History",
+    "Western"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "160 min",
+   "director": "Andrew Dominik",
+   "description": "Captures celebrity worship in 1882. A famous outlaw ageing and paranoid, and a young admirer who memorised his life from dime novels and moves into his orbit — slow, golden, narrated like a history book."
+  },
+  {
+   "id": "tt1213641",
+   "type": "movie",
+   "name": "First Man",
+   "poster": "https://images.metahub.space/poster/medium/tt1213641/img",
+   "background": "https://images.metahub.space/background/medium/tt1213641/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "141 min",
+   "director": "Damien Chazelle",
+   "description": "Captures the Moon landing from inside a grieving, taciturn man. Armstrong as an engineer who can land anything except in his own family's pain; the flights are rattling, cramped and procedural."
+  },
+  {
+   "id": "tt1424432",
+   "type": "movie",
+   "name": "Senna",
+   "poster": "https://images.metahub.space/poster/medium/tt1424432/img",
+   "background": "https://images.metahub.space/background/medium/tt1424432/img",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Sport"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "104 min",
+   "director": "Asif Kapadia",
+   "description": "Captures speed, faith and charisma, entirely from archive. Ayrton Senna's career built only from period footage and voices — rivalry with Prost, Brazil on his helmet, in-car laps that feel like prayer at 300 km/h."
+  },
+  {
+   "id": "tt0081398",
+   "type": "movie",
+   "name": "Raging Bull",
+   "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
+   "background": "https://images.metahub.space/background/medium/tt0081398/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+   ],
+   "releaseInfo": "1980",
+   "year": 1980,
+   "runtime": "129 min",
+   "director": "Martin Scorsese",
+   "description": "Captures self-destruction in a family kitchen as much as a ring. Jake LaMotta's jealousy and violence at home filmed with the same intensity as the fights; he can take any punch except accountability."
+  },
+  {
+   "id": "tt0074119",
+   "type": "movie",
+   "name": "All the President's Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0074119/img",
+   "background": "https://images.metahub.space/background/medium/tt0074119/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "releaseInfo": "1976",
+   "year": 1976,
+   "runtime": "138 min",
+   "director": "Alan J. Pakula",
+   "description": "Captures journalism as shoe leather. Watergate as phone calls, parking garages, notebooks and editors asking 'what else do you have?' — verification repeated until a presidency moves."
+  },
+  {
+   "id": "tt1895587",
+   "type": "movie",
+   "name": "Spotlight",
+   "poster": "https://images.metahub.space/poster/medium/tt1895587/img",
+   "background": "https://images.metahub.space/background/medium/tt1895587/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "129 min",
+   "director": "Tom McCarthy",
+   "description": "Captures an investigation as a team slowly realising the size of the room they're in. Boston Globe reporters, church abuse, sealed records, survivors telling it plainly — no heroics beyond persistence."
+  },
+  {
+   "id": "tt0140352",
+   "type": "movie",
+   "name": "The Insider",
+   "poster": "https://images.metahub.space/poster/medium/tt0140352/img",
+   "background": "https://images.metahub.space/background/medium/tt0140352/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "157 min",
+   "director": "Michael Mann",
+   "description": "Captures the cost of telling the truth inside two corporations at once. A tobacco scientist bound by confidentiality, a TV producer with a network to protect, and an interview everyone with money wants buried."
+  },
+  {
+   "id": "tt0100234",
+   "type": "movie",
+   "name": "Close-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0100234/img",
+   "background": "https://images.metahub.space/background/medium/tt0100234/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1990",
+   "year": 1990,
+   "runtime": "98 min",
+   "director": "Abbas Kiarostami",
+   "description": "Captures a poor film fan who wanted, briefly, to be the man whose name he borrowed. In Tehran a man impersonates a famous director to a family, is arrested, and then everyone involved re-enacts their own case, including the trial."
+  }
+ ]
+}

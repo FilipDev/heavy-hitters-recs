@@ -1,0 +1,550 @@
+{
+ "metas": [
+  {
+   "id": "tt8075192",
+   "type": "movie",
+   "name": "Shoplifters",
+   "poster": "https://images.metahub.space/poster/medium/tt8075192/img",
+   "background": "https://images.metahub.space/background/medium/tt8075192/img",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "121 min",
+   "director": "Hirokazu Kore-eda",
+   "description": "Captures a household that is a family and a crime at once. A poor Tokyo family who shoplift to get by take in a neglected little girl; shared croquettes and a beach day sit alongside the question of what they actually are to each other."
+  },
+  {
+   "id": "tt0113247",
+   "type": "movie",
+   "name": "La Haine",
+   "poster": "https://images.metahub.space/poster/medium/tt0113247/img",
+   "background": "https://images.metahub.space/background/medium/tt0113247/img",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "98 min",
+   "director": "Mathieu Kassovitz",
+   "description": "Captures a day with nowhere for the anger to go. Black-and-white, 24 hours in a Paris banlieue after a riot: three friends, one lost police revolver, a lot of waiting and joking, under its recurring falling-man line — 'so far, so good.'"
+  },
+  {
+   "id": "tt0317248",
+   "type": "movie",
+   "name": "City of God",
+   "poster": "https://images.metahub.space/poster/medium/tt0317248/img",
+   "background": "https://images.metahub.space/background/medium/tt0317248/img",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "130 min",
+   "director": "Fernando Meirelles, Kátia Lund",
+   "description": "Captures violence as a career ladder for children. A Rio favela across two decades, narrated by a kid who wants out via a camera while his peers climb by killing."
+  },
+  {
+   "id": "tt1235166",
+   "type": "movie",
+   "name": "A Prophet",
+   "poster": "https://images.metahub.space/poster/medium/tt1235166/img",
+   "background": "https://images.metahub.space/background/medium/tt1235166/img",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2009",
+   "year": 2009,
+   "runtime": "155 min",
+   "director": "Jacques Audiard",
+   "description": "Captures an education in power. A young illiterate man enters a French prison with nothing and learns languages, networks, violence and patience, scene by scene, until the hierarchy is his."
+  },
+  {
+   "id": "tt0353969",
+   "type": "movie",
+   "name": "Memories of Murder",
+   "poster": "https://images.metahub.space/poster/medium/tt0353969/img",
+   "background": "https://images.metahub.space/background/medium/tt0353969/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "131 min",
+   "director": "Bong Joon Ho",
+   "description": "Captures investigators failing, for real. South Korea's first serial murder case, 1986: local cops who beat confessions out of people, a Seoul detective who trusts evidence, and a country equipped for neither to work."
+  },
+  {
+   "id": "tt5727208",
+   "type": "movie",
+   "name": "Uncut Gems",
+   "poster": "https://images.metahub.space/poster/medium/tt5727208/img",
+   "background": "https://images.metahub.space/background/medium/tt5727208/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "135 min",
+   "director": "Josh Safdie, Benny Safdie",
+   "description": "Captures gambling mania as perpetual motion. A New York jeweller owes everyone and keeps placing the next bet to fix the last one; the film never lets him or you breathe for two hours."
+  },
+  {
+   "id": "tt2375605",
+   "type": "movie",
+   "name": "The Act of Killing",
+   "poster": "https://images.metahub.space/poster/medium/tt2375605/img",
+   "background": "https://images.metahub.space/background/medium/tt2375605/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "115 min",
+   "director": "Joshua Oppenheimer",
+   "description": "Captures impunity as performance. Indonesian mass killers, never punished and locally celebrated, gleefully re-stage their killings as Hollywood genres, until one man's body reacts before his conscience does."
+  },
+  {
+   "id": "tt0156887",
+   "type": "movie",
+   "name": "Perfect Blue",
+   "poster": "https://images.metahub.space/poster/medium/tt0156887/img",
+   "background": "https://images.metahub.space/background/medium/tt0156887/img",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "81 min",
+   "director": "Satoshi Kon",
+   "description": "Captures fame eating a person's grip on which self is hers. A pop idol turned actress, a stalker, and a fan site narrating her life in first person — the animated form is what makes the slippage work."
+  },
+  {
+   "id": "tt0113277",
+   "type": "movie",
+   "name": "Heat",
+   "poster": "https://images.metahub.space/poster/medium/tt0113277/img",
+   "background": "https://images.metahub.space/background/medium/tt0113277/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1995",
+   "year": 1995,
+   "runtime": "170 min",
+   "director": "Michael Mann",
+   "description": "Captures professionalism as a whole identity, on both sides of the law. A robber and a detective each incapable of a life outside the work, recognising themselves in each other over coffee."
+  },
+  {
+   "id": "tt0477348",
+   "type": "movie",
+   "name": "No Country for Old Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0477348/img",
+   "background": "https://images.metahub.space/background/medium/tt0477348/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "122 min",
+   "director": "Joel Coen, Ethan Coen",
+   "description": "Captures an older moral world realising it no longer applies. A man finds drug money, a killer flips coins, and a sheriff narrates his own obsolescence; it goes quiet exactly where other thrillers go loud."
+  },
+  {
+   "id": "tt0123948",
+   "type": "movie",
+   "name": "Cure",
+   "poster": "https://images.metahub.space/poster/medium/tt0123948/img",
+   "background": "https://images.metahub.space/background/medium/tt0123948/img",
+   "genres": [
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "111 min",
+   "director": "Kiyoshi Kurosawa",
+   "description": "Captures emptiness spreading from person to person. A Tokyo detective investigates murders where each killer is different, calm, and cannot explain themselves — hypnotic and grey rather than jumpy."
+  },
+  {
+   "id": "tt0101985",
+   "type": "movie",
+   "name": "A Brighter Summer Day",
+   "poster": "https://images.metahub.space/poster/medium/tt0101985/img",
+   "background": "https://images.metahub.space/background/medium/tt0101985/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1991",
+   "year": 1991,
+   "runtime": "237 min",
+   "director": "Edward Yang",
+   "description": "Captures adolescence inside a whole society holding its breath. Taipei, 1960 — exiled mainland families, street gangs, Elvis, a famous murder case — four hours that build a world rather than a plot."
+  },
+  {
+   "id": "tt0109424",
+   "type": "movie",
+   "name": "Chungking Express",
+   "poster": "https://images.metahub.space/poster/medium/tt0109424/img",
+   "background": "https://images.metahub.space/background/medium/tt0109424/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "102 min",
+   "director": "Wong Kar-wai",
+   "description": "Captures city loneliness at pop speed. Hong Kong, two lovesick cops, expired pineapple cans, and a snack-bar girl breaking into a man's flat to clean it while 'California Dreamin'' loops."
+  },
+  {
+   "id": "tt0062229",
+   "type": "movie",
+   "name": "Le Samouraï",
+   "poster": "https://images.metahub.space/poster/medium/tt0062229/img",
+   "background": "https://images.metahub.space/background/medium/tt0062229/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "105 min",
+   "director": "Jean-Pierre Melville",
+   "description": "Captures cool as ritual and solitude. A Paris hitman in a trench coat, a grey room, a bird in a cage, an alibi arranged like furniture — almost no psychology given, all behaviour."
+  },
+  {
+   "id": "tt0083190",
+   "type": "movie",
+   "name": "Thief",
+   "poster": "https://images.metahub.space/poster/medium/tt0083190/img",
+   "background": "https://images.metahub.space/background/medium/tt0083190/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1981",
+   "year": 1981,
+   "runtime": "123 min",
+   "director": "Michael Mann",
+   "description": "Captures a craftsman trying to buy a normal life with one last job. A Chicago safecracker with a collage of his dream life in his wallet, neon and rain, tools on metal filmed like jewellery-making."
+  },
+  {
+   "id": "tt0072890",
+   "type": "movie",
+   "name": "Dog Day Afternoon",
+   "poster": "https://images.metahub.space/poster/medium/tt0072890/img",
+   "background": "https://images.metahub.space/background/medium/tt0072890/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "125 min",
+   "director": "Sidney Lumet",
+   "description": "Captures a bank robbery becoming a live street spectacle. One hot Brooklyn afternoon, Pacino working the crowd outside like a rally, and the reason for the robbery arriving piece by piece."
+  },
+  {
+   "id": "tt0443680",
+   "type": "movie",
+   "name": "The Assassination of Jesse James by the Coward Robert Ford",
+   "poster": "https://images.metahub.space/poster/medium/tt0443680/img",
+   "background": "https://images.metahub.space/background/medium/tt0443680/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History",
+    "Western"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "160 min",
+   "director": "Andrew Dominik",
+   "description": "Captures celebrity worship in 1882. A famous outlaw ageing and paranoid, and a young admirer who memorised his life from dime novels and moves into his orbit — slow, golden, narrated like a history book."
+  },
+  {
+   "id": "tt0103074",
+   "type": "movie",
+   "name": "Thelma & Louise",
+   "poster": "https://images.metahub.space/poster/medium/tt0103074/img",
+   "background": "https://images.metahub.space/background/medium/tt0103074/img",
+   "genres": [
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1991",
+   "year": 1991,
+   "runtime": "130 min",
+   "director": "Ridley Scott",
+   "description": "Captures escape becoming irreversible, and friendship becoming absolute. A weekend trip, a parking lot, a gun — then two women driving west, getting freer and more cornered in the same scenes."
+  },
+  {
+   "id": "tt0053198",
+   "type": "movie",
+   "name": "The 400 Blows",
+   "poster": "https://images.metahub.space/poster/medium/tt0053198/img",
+   "background": "https://images.metahub.space/background/medium/tt0053198/img",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1959",
+   "year": 1959,
+   "runtime": "99 min",
+   "director": "François Truffaut",
+   "description": "Captures a boy being processed into a delinquent. Paris, a cramped flat, a teacher, small lies compounding into reform school — and a final run to the sea in one long take, ending on his face."
+  },
+  {
+   "id": "tt0048424",
+   "type": "movie",
+   "name": "The Night of the Hunter",
+   "poster": "https://images.metahub.space/poster/medium/tt0048424/img",
+   "background": "https://images.metahub.space/background/medium/tt0048424/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+   ],
+   "releaseInfo": "1955",
+   "year": 1955,
+   "runtime": "92 min",
+   "director": "Charles Laughton",
+   "description": "Captures childhood danger as a fairy tale. A preacher with LOVE and HATE tattooed on his knuckles hunts two children down a river for hidden money; they flee by boat through a dreamlike, animal-watched night."
+  },
+  {
+   "id": "tt1895587",
+   "type": "movie",
+   "name": "Spotlight",
+   "poster": "https://images.metahub.space/poster/medium/tt1895587/img",
+   "background": "https://images.metahub.space/background/medium/tt1895587/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "129 min",
+   "director": "Tom McCarthy",
+   "description": "Captures an investigation as a team slowly realising the size of the room they're in. Boston Globe reporters, church abuse, sealed records, survivors telling it plainly — no heroics beyond persistence."
+  },
+  {
+   "id": "tt0443706",
+   "type": "movie",
+   "name": "Zodiac",
+   "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
+   "background": "https://images.metahub.space/background/medium/tt0443706/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "History",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "157 min",
+   "director": "David Fincher",
+   "description": "Captures obsession with a case that will not close. San Francisco, years of codes, files, basements and false certainties; the killer fades and the men who chased him are what's left damaged."
+  },
+  {
+   "id": "tt3397884",
+   "type": "movie",
+   "name": "Sicario",
+   "poster": "https://images.metahub.space/poster/medium/tt3397884/img",
+   "background": "https://images.metahub.space/background/medium/tt3397884/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "121 min",
+   "director": "Denis Villeneuve",
+   "description": "Captures an idealist being used as a legal fig leaf. An FBI agent attached to a border operation she is not briefed on, a convoy into Juárez filmed like an occupying army, rules revealed only after she has broken them."
+  },
+  {
+   "id": "tt0100234",
+   "type": "movie",
+   "name": "Close-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0100234/img",
+   "background": "https://images.metahub.space/background/medium/tt0100234/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1990",
+   "year": 1990,
+   "runtime": "98 min",
+   "director": "Abbas Kiarostami",
+   "description": "Captures a poor film fan who wanted, briefly, to be the man whose name he borrowed. In Tehran a man impersonates a famous director to a family, is arrested, and then everyone involved re-enacts their own case, including the trial."
+  },
+  {
+   "id": "tt0119167",
+   "type": "movie",
+   "name": "Funny Games",
+   "poster": "https://images.metahub.space/poster/medium/tt0119167/img",
+   "background": "https://images.metahub.space/background/medium/tt0119167/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "111 min",
+   "director": "Michael Haneke",
+   "description": "Captures the audience's appetite, by refusing to feed it the usual way. Two polite young men hold a family at their holiday house; violence happens off-screen or gets rewound, and the film keeps asking why you're still watching."
+  },
+  {
+   "id": "tt0048021",
+   "type": "movie",
+   "name": "Rififi",
+   "poster": "https://images.metahub.space/poster/medium/tt0048021/img",
+   "background": "https://images.metahub.space/background/medium/tt0048021/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+   ],
+   "releaseInfo": "1955",
+   "year": 1955,
+   "runtime": "118 min",
+   "director": "Jules Dassin",
+   "description": "Captures a robbery as manual labour. A Paris jewel heist whose centrepiece is roughly half an hour with no dialogue and no score — umbrellas, drills, plaster dust, men breathing — that every heist film since is quoting."
+  },
+  {
+   "id": "tt0049406",
+   "type": "movie",
+   "name": "The Killing",
+   "poster": "https://images.metahub.space/poster/medium/tt0049406/img",
+   "background": "https://images.metahub.space/background/medium/tt0049406/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+   ],
+   "releaseInfo": "1956",
+   "year": 1956,
+   "runtime": "84 min",
+   "director": "Stanley Kubrick",
+   "description": "Captures a perfect plan told in pieces that don't line up in time. A racetrack robbery replayed from each participant's angle, a suitcase of money, and an airport finale involving a small dog."
+  },
+  {
+   "id": "tt0203119",
+   "type": "movie",
+   "name": "Sexy Beast",
+   "poster": "https://images.metahub.space/poster/medium/tt0203119/img",
+   "background": "https://images.metahub.space/background/medium/tt0203119/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "89 min",
+   "director": "Jonathan Glazer",
+   "description": "Captures menace arriving in a holiday villa. A retired gangster, happily fat and sunburned in Spain, and Ben Kingsley's Don Logan flying in to scream him back to London for one job — the terror is mostly conversational."
+  },
+  {
+   "id": "tt0454848",
+   "type": "movie",
+   "name": "Inside Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0454848/img",
+   "background": "https://images.metahub.space/background/medium/tt0454848/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "129 min",
+   "director": "Spike Lee",
+   "description": "Captures a bank robbery as theatre with a purpose you have to wait for. Manhattan hostages dressed identically to the robbers, a detective and a fixer circling each other, and a heist whose real target isn't the money."
+  },
+  {
+   "id": "tt2582782",
+   "type": "movie",
+   "name": "Hell or High Water",
+   "poster": "https://images.metahub.space/poster/medium/tt2582782/img",
+   "background": "https://images.metahub.space/background/medium/tt2582782/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Western"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "102 min",
+   "director": "David Mackenzie",
+   "description": "Captures two brothers robbing the bank that is taking their family's land. West Texas, foreclosed ranches and debt-relief billboards, and two ageing Rangers following them at the speed of talk — a western wearing a recession."
+  },
+  {
+   "id": "tt3409392",
+   "type": "movie",
+   "name": "Timbuktu",
+   "poster": "https://images.metahub.space/poster/medium/tt3409392/img",
+   "background": "https://images.metahub.space/background/medium/tt3409392/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "94 min",
+   "director": "Abderrahmane Sissako",
+   "description": "Captures occupation resisted through music, football and dignity. Jihadists take a Malian town and ban singing and soccer; people comply in public, sing quietly at night, and play a match with an invisible ball."
+  }
+ ]
+}
