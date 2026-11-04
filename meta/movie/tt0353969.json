@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "34 wins & 13 nominations total",
+  "cast": [
+   "Song Kang-ho",
+   "Kim Sang-kyung",
+   "Kim Roe-ha"
+  ],
+  "country": "South Korea",
+  "description": "Captures investigators failing, for real. South Korea's first serial murder case, 1986: local cops who beat confessions out of people, a Seoul detective who trusts evidence, and a country equipped for neither to work.\n\nIn a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+  "director": [
+   "Bong Joon Ho"
+  ],
+  "dvdRelease": "1991-06-12T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0353969",
+  "moviedb_id": 11423,
+  "name": "Memories of Murder",
+  "popularity": 0.47606333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0353969/img",
+  "released": "2003-05-02T00:00:00.000Z",
+  "runtime": "131 min",
+  "trailers": [
+   {
+    "source": "0n_HQwQU8ls",
+    "type": "Trailer"
+   },
+   {
+    "source": "pliylHilD_U",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Bong Joon Ho",
+   "Kwang-rim Kim",
+   "Sung-bo Shim"
+  ],
+  "year": "2003",
+  "background": "https://images.metahub.space/background/medium/tt0353969/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0353969/img",
+  "popularities": {
+   "moviedb": 14.2819,
+   "stremio": 0.47606333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/memories-of-murder-0353969",
+  "id": "tt0353969",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2003",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Memories of Murder",
+    "ytId": "0n_HQwQU8ls"
+   },
+   {
+    "title": "Memories of Murder",
+    "ytId": "pliylHilD_U"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0353969"
+   },
+   {
+    "name": "Memories of Murder",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/memories-of-murder-0353969"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Song Kang-ho",
+    "category": "Cast",
+    "url": "stremio:///search?search=Song%20Kang-ho"
+   },
+   {
+    "name": "Kim Sang-kyung",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kim%20Sang-kyung"
+   },
+   {
+    "name": "Kim Roe-ha",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kim%20Roe-ha"
+   },
+   {
+    "name": "Bong Joon Ho",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bong%20Joon%20Ho"
+   },
+   {
+    "name": "Kwang-rim Kim",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kwang-rim%20Kim"
+   },
+   {
+    "name": "Sung-bo Shim",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sung-bo%20Shim"
+   },
+   {
+    "name": "Bong Joon Ho",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bong%20Joon%20Ho"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0353969",
+   "hasScheduledVideos": false
+  }
+ }
+}

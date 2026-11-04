@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 BAFTA Awards. 31 wins & 60 nominations total",
+  "cast": [
+   "Tony Leung Chiu-wai",
+   "Wei Tang",
+   "Joan Chen"
+  ],
+  "country": "Taiwan, United States, Hong Kong, China",
+  "description": "Captures an espionage performance becoming the real feeling it was faking. In occupied Shanghai, a student actress is assigned to seduce a collaborationist official so he can be killed, over years of mahjong games and assignations.\n\nDuring World War II era, a young woman, Wang Jiazhi, gets swept up in a dangerous game of emotional intrigue with a powerful political figure, Mr. Yee.",
+  "director": [
+   "Ang Lee"
+  ],
+  "dvdRelease": "2015-08-27T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "History",
+   "Romance"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0808357",
+  "moviedb_id": 4588,
+  "name": "Lust, Caution",
+  "popularity": 0.38216333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0808357/img",
+  "released": "2007-10-26T00:00:00.000Z",
+  "runtime": "158 min",
+  "trailers": [
+   {
+    "source": "XPUIXdpImF0",
+    "type": "Trailer"
+   },
+   {
+    "source": "CizN-DvGhrc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Eileen Chang",
+   "James Schamus",
+   "Hui-Ling Wang"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0808357/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0808357/img",
+  "popularities": {
+   "moviedb": 11.4649,
+   "stremio": 0.38216333333333335,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/lust-caution-0808357",
+  "id": "tt0808357",
+  "genres": [
+   "Drama",
+   "History",
+   "Romance"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Lust, Caution",
+    "ytId": "XPUIXdpImF0"
+   },
+   {
+    "title": "Lust, Caution",
+    "ytId": "CizN-DvGhrc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0808357"
+   },
+   {
+    "name": "Lust, Caution",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/lust-caution-0808357"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Tony Leung Chiu-wai",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tony%20Leung%20Chiu-wai"
+   },
+   {
+    "name": "Wei Tang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Wei%20Tang"
+   },
+   {
+    "name": "Joan Chen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joan%20Chen"
+   },
+   {
+    "name": "Eileen Chang",
+    "category": "Writers",
+    "url": "stremio:///search?search=Eileen%20Chang"
+   },
+   {
+    "name": "James Schamus",
+    "category": "Writers",
+    "url": "stremio:///search?search=James%20Schamus"
+   },
+   {
+    "name": "Hui-Ling Wang",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hui-Ling%20Wang"
+   },
+   {
+    "name": "Ang Lee",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ang%20Lee"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0808357",
+   "hasScheduledVideos": false
+  }
+ }
+}

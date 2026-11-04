@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "awards": "18 wins & 23 nominations total",
+  "cast": [
+   "Nien-Jen Wu",
+   "Elaine Jin",
+   "Issey Ogata"
+  ],
+  "country": "Taiwan, China, Japan",
+  "description": "Captures every age of a family seeing only one side of life. Taipei, three hours, a wedding at the start and a funeral at the end — including a little son photographing the backs of people's heads so they can see what they can't.\n\nPortrait of a middle-class family in Taipei. A man in his forties, his teenage daughter and his eight-year-old son experience life, navigating between remorse, hope and disappointment.",
+  "director": [
+   "Edward Yang"
+  ],
+  "dvdRelease": "2007-06-12T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0244316",
+  "moviedb_id": 25538,
+  "name": "Yi Yi",
+  "popularity": 0.19170333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0244316/img",
+  "released": "2000-12-16T00:00:00.000Z",
+  "runtime": "174 min",
+  "trailers": [
+   {
+    "source": "PxgrzNFwyqY",
+    "type": "Trailer"
+   },
+   {
+    "source": "4SCs_jbdHwg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Edward Yang"
+  ],
+  "year": "2000",
+  "popularities": {
+   "moviedb": 5.7511,
+   "stremio": 0.19170333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "background": "https://images.metahub.space/background/medium/tt0244316/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0244316/img",
+  "slug": "movie/yi-yi-0244316",
+  "id": "tt0244316",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2000",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Yi Yi",
+    "ytId": "PxgrzNFwyqY"
+   },
+   {
+    "title": "Yi Yi",
+    "ytId": "4SCs_jbdHwg"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0244316"
+   },
+   {
+    "name": "Yi Yi",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/yi-yi-0244316"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Nien-Jen Wu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nien-Jen%20Wu"
+   },
+   {
+    "name": "Elaine Jin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Elaine%20Jin"
+   },
+   {
+    "name": "Issey Ogata",
+    "category": "Cast",
+    "url": "stremio:///search?search=Issey%20Ogata"
+   },
+   {
+    "name": "Edward Yang",
+    "category": "Writers",
+    "url": "stremio:///search?search=Edward%20Yang"
+   },
+   {
+    "name": "Edward Yang",
+    "category": "Directors",
+    "url": "stremio:///search?search=Edward%20Yang"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0244316",
+   "hasScheduledVideos": false
+  }
+ }
+}

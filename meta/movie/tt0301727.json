@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 5 wins & 16 nominations total",
+  "cast": [
+   "Jacques Perrin",
+   "Philippe Labro"
+  ],
+  "country": "France, Germany, Switzerland, Spain, Italy",
+  "description": "Captures migration from the bird's side of it. Cameras fly inside migrating flocks over years and continents, close enough to hear wingbeats — endurance as the most ordinary thing in the world.\n\nDocumentary on the migratory patterns of birds, shot over the course of three years on all seven continents.",
+  "director": [
+   "Jacques Cluzaud",
+   "Michel Debats",
+   "Jacques Perrin"
+  ],
+  "dvdRelease": "2012-05-01T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0301727",
+  "moviedb_id": 11516,
+  "name": "Winged Migration",
+  "popularity": 0.14586,
+  "poster": "https://images.metahub.space/poster/small/tt0301727/img",
+  "released": "2003-08-29T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "w_0kMdH0FLA",
+    "type": "Trailer"
+   },
+   {
+    "source": "Pc_qpk2d-ao",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jacques Perrin",
+   "Stéphane Durand",
+   "Jean Dorst"
+  ],
+  "year": "2003",
+  "popularities": {
+   "moviedb": 4.3758,
+   "stremio": 0.14586,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0301727/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0301727/img",
+  "slug": "movie/winged-migration-0301727",
+  "id": "tt0301727",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2003",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Winged Migration",
+    "ytId": "w_0kMdH0FLA"
+   },
+   {
+    "title": "Winged Migration",
+    "ytId": "Pc_qpk2d-ao"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0301727"
+   },
+   {
+    "name": "Winged Migration",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/winged-migration-0301727"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Jacques Perrin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacques%20Perrin"
+   },
+   {
+    "name": "Philippe Labro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Philippe%20Labro"
+   },
+   {
+    "name": "Jacques Perrin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jacques%20Perrin"
+   },
+   {
+    "name": "Stéphane Durand",
+    "category": "Writers",
+    "url": "stremio:///search?search=St%C3%A9phane%20Durand"
+   },
+   {
+    "name": "Jean Dorst",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jean%20Dorst"
+   },
+   {
+    "name": "Jacques Cluzaud",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jacques%20Cluzaud"
+   },
+   {
+    "name": "Michel Debats",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michel%20Debats"
+   },
+   {
+    "name": "Jacques Perrin",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jacques%20Perrin"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0301727",
+   "hasScheduledVideos": false
+  }
+ }
+}

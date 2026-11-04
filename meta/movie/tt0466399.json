@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "awards": "17 wins & 9 nominations",
+  "cast": [
+   "Crusoe Kurddal",
+   "Jamie Gulpilil",
+   "Richard Birrinbirrin"
+  ],
+  "country": "Australia",
+  "description": "Captures oral tradition's actual structure. In Arnhem Land, an elder tells a young man a cautionary ancestral tale inside which another tale is told, while they hunt goose eggs in the swamp — stories nested for a practical moral purpose, with jokes.\n\nIn Australia's Northern Territory, a man tells us a story of his people and his land. It's about an older man, Minygululu, who has three wives and realizes that his younger brother Dayindi may try to steal away the youngest wife.",
+  "director": [
+   "Rolf de Heer",
+   "Peter Djigirr"
+  ],
+  "dvdRelease": "2007-09-25T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "6.9",
+  "imdb_id": "tt0466399",
+  "moviedb_id": 14064,
+  "name": "Ten Canoes",
+  "popularity": 0.048293333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0466399/img",
+  "released": "2006-06-29T00:00:00.000Z",
+  "runtime": "90 min",
+  "trailers": [
+   {
+    "source": "tH_MY8FJuYo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Rolf de Heer"
+  ],
+  "year": "2006",
+  "popularities": {
+   "moviedb": 1.4488,
+   "stremio": 0.048293333333333334,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0466399/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0466399/img",
+  "slug": "movie/ten-canoes-0466399",
+  "id": "tt0466399",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2006",
+  "trailerStreams": [
+   {
+    "title": "Ten Canoes",
+    "ytId": "tH_MY8FJuYo"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0466399"
+   },
+   {
+    "name": "Ten Canoes",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ten-canoes-0466399"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Crusoe Kurddal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Crusoe%20Kurddal"
+   },
+   {
+    "name": "Jamie Gulpilil",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jamie%20Gulpilil"
+   },
+   {
+    "name": "Richard Birrinbirrin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Richard%20Birrinbirrin"
+   },
+   {
+    "name": "Rolf de Heer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Rolf%20de%20Heer"
+   },
+   {
+    "name": "Rolf de Heer",
+    "category": "Directors",
+    "url": "stremio:///search?search=Rolf%20de%20Heer"
+   },
+   {
+    "name": "Peter Djigirr",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Djigirr"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0466399",
+   "hasScheduledVideos": false
+  }
+ }
+}

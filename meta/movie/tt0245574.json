@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 39 wins & 48 nominations total",
+  "cast": [
+   "Maribel Verdú",
+   "Gael García Bernal",
+   "Daniel Giménez Cacho"
+  ],
+  "country": "Mexico",
+  "description": "Captures youth burning brightly over a country it isn't looking at. Two teenage boys and an older woman drive to a beach that may not exist, while the narrator quietly tells you the futures and the roadside Mexico they pass.\n\nIn Mexico, two teenage boys and an older woman embark on a road trip and learn a thing or two about life and each other.",
+  "director": [
+   "Alfonso Cuarón"
+  ],
+  "dvdRelease": "2016-09-27T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0245574",
+  "moviedb_id": 1391,
+  "name": "Y Tu Mamá También",
+  "popularity": 0.32227,
+  "poster": "https://images.metahub.space/poster/small/tt0245574/img",
+  "released": "2001-06-08T00:00:00.000Z",
+  "runtime": "106 min",
+  "trailers": [
+   {
+    "source": "inc0vS58ZKg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Carlos Cuarón",
+   "Alfonso Cuarón"
+  ],
+  "year": "2001",
+  "background": "https://images.metahub.space/background/medium/tt0245574/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0245574/img",
+  "popularities": {
+   "moviedb": 9.6681,
+   "stremio": 0.32227,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/y-tu-mam-tambin-0245574",
+  "id": "tt0245574",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2001",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Y tu mamá también",
+    "ytId": "inc0vS58ZKg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0245574"
+   },
+   {
+    "name": "Y tu mamá también",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/y-tu-mam-tambin-0245574"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Maribel Verdú",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maribel%20Verd%C3%BA"
+   },
+   {
+    "name": "Gael García Bernal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gael%20Garc%C3%ADa%20Bernal"
+   },
+   {
+    "name": "Daniel Giménez Cacho",
+    "category": "Cast",
+    "url": "stremio:///search?search=Daniel%20Gim%C3%A9nez%20Cacho"
+   },
+   {
+    "name": "Carlos Cuarón",
+    "category": "Writers",
+    "url": "stremio:///search?search=Carlos%20Cuar%C3%B3n"
+   },
+   {
+    "name": "Alfonso Cuarón",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alfonso%20Cuar%C3%B3n"
+   },
+   {
+    "name": "Alfonso Cuarón",
+    "category": "Directors",
+    "url": "stremio:///search?search=Alfonso%20Cuar%C3%B3n"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0245574",
+   "hasScheduledVideos": false
+  }
+ }
+}

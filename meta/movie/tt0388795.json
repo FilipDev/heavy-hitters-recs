@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "awards": "Won 3 Oscars. 141 wins & 133 nominations total",
+  "cast": [
+   "Jake Gyllenhaal",
+   "Heath Ledger",
+   "Michelle Williams"
+  ],
+  "country": "Canada, United States",
+  "description": "Captures a love conducted in a few weeks a year, across twenty years. Wyoming herders, marriages and children in between, and a shirt kept in a closet doing more work than any speech.\n\nTwo shepherds fall for each other, but their relationship becomes complicated when they both get married to their respective girlfriends.",
+  "director": [
+   "Ang Lee"
+  ],
+  "dvdRelease": "2015-02-11T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0388795",
+  "moviedb_id": 142,
+  "name": "Brokeback Mountain",
+  "popularity": 0.5324766666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0388795/img",
+  "released": "2006-01-13T00:00:00.000Z",
+  "runtime": "134 min",
+  "trailers": [
+   {
+    "source": "xZvu-SczR1Y",
+    "type": "Trailer"
+   },
+   {
+    "source": "0RsIi3WH7Gk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Annie Proulx",
+   "Larry McMurtry",
+   "Diana Ossana"
+  ],
+  "year": "2006",
+  "background": "https://images.metahub.space/background/medium/tt0388795/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0388795/img",
+  "popularities": {
+   "moviedb": 15.9743,
+   "stremio": 0.5324766666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/brokeback-mountain-0388795",
+  "id": "tt0388795",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2006",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Brokeback Mountain",
+    "ytId": "xZvu-SczR1Y"
+   },
+   {
+    "title": "Brokeback Mountain",
+    "ytId": "0RsIi3WH7Gk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0388795"
+   },
+   {
+    "name": "Brokeback Mountain",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/brokeback-mountain-0388795"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Jake Gyllenhaal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jake%20Gyllenhaal"
+   },
+   {
+    "name": "Heath Ledger",
+    "category": "Cast",
+    "url": "stremio:///search?search=Heath%20Ledger"
+   },
+   {
+    "name": "Michelle Williams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michelle%20Williams"
+   },
+   {
+    "name": "Annie Proulx",
+    "category": "Writers",
+    "url": "stremio:///search?search=Annie%20Proulx"
+   },
+   {
+    "name": "Larry McMurtry",
+    "category": "Writers",
+    "url": "stremio:///search?search=Larry%20McMurtry"
+   },
+   {
+    "name": "Diana Ossana",
+    "category": "Writers",
+    "url": "stremio:///search?search=Diana%20Ossana"
+   },
+   {
+    "name": "Ang Lee",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ang%20Lee"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0388795",
+   "hasScheduledVideos": false
+  }
+ }
+}

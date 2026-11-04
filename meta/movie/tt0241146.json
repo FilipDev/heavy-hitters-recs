@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "imdb_id": "tt0241146",
+  "cast": [
+   "Hiroshi Araki"
+  ],
+  "country": "Japan",
+  "description": "Captures the banal interior of a demonised group: Mori films young Aum Shinrikyo believers doing chores after the sarin attack, sincere and confused, while the media siege outside performs its own hysteria.\n\nAum Shinrikyo, the Buddhist sect led by Shoko Asahara and responsible for the 1995 Sarin gas attack on a Tokyo subway, becomes the subject of this documentary.",
+  "director": [
+   "Tatsuya Mori"
+  ],
+  "dvdRelease": "2020-10-05T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "6.9",
+  "name": "A",
+  "poster": "https://images.metahub.space/poster/small/tt0241146/img",
+  "released": null,
+  "runtime": "136 min",
+  "slug": "movie/a-0241146",
+  "type": "movie",
+  "year": "1998",
+  "moviedb_id": 24791,
+  "popularities": {
+   "moviedb": 1.2131,
+   "stremio": 0.04043666666666667,
+   "stremio_lib": 0
+  },
+  "trailers": [],
+  "writer": [],
+  "background": "https://images.metahub.space/background/medium/tt0241146/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0241146/img",
+  "popularity": 0.04043666666666667,
+  "id": "tt0241146",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1998",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0241146"
+   },
+   {
+    "name": "A",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-0241146"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Hiroshi Araki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hiroshi%20Araki"
+   },
+   {
+    "name": "Tatsuya Mori",
+    "category": "Directors",
+    "url": "stremio:///search?search=Tatsuya%20Mori"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0241146",
+   "hasScheduledVideos": false
+  }
+ }
+}

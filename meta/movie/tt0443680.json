@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "Nominated for 2 Oscars. 25 wins & 69 nominations total",
+  "cast": [
+   "Brad Pitt",
+   "Casey Affleck",
+   "Sam Shepard"
+  ],
+  "country": "United States, Canada",
+  "description": "Captures celebrity worship in 1882. A famous outlaw ageing and paranoid, and a young admirer who memorised his life from dime novels and moves into his orbit — slow, golden, narrated like a history book.\n\nRobert Ford, who has idolized Jesse James since childhood, tries hard to join the resurgent gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.",
+  "director": [
+   "Andrew Dominik"
+  ],
+  "dvdRelease": "2009-12-01T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0443680",
+  "moviedb_id": 4512,
+  "name": "The Assassination of Jesse James by the Coward Robert Ford",
+  "popularity": 0.2625633333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0443680/img",
+  "released": "2007-10-19T00:00:00.000Z",
+  "runtime": "160 min",
+  "trailers": [
+   {
+    "source": "SrGmmitc62Q",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Andrew Dominik",
+   "Ron Hansen"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0443680/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0443680/img",
+  "popularities": {
+   "moviedb": 7.8769,
+   "stremio": 0.2625633333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-assassination-of-jesse-james-by-the-coward-robert-ford-0443680",
+  "id": "tt0443680",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "ytId": "SrGmmitc62Q"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0443680"
+   },
+   {
+    "name": "The Assassination of Jesse James by the Coward Robert Ford",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-assassination-of-jesse-james-by-the-coward-robert-ford-0443680"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Brad Pitt",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brad%20Pitt"
+   },
+   {
+    "name": "Casey Affleck",
+    "category": "Cast",
+    "url": "stremio:///search?search=Casey%20Affleck"
+   },
+   {
+    "name": "Sam Shepard",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sam%20Shepard"
+   },
+   {
+    "name": "Andrew Dominik",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrew%20Dominik"
+   },
+   {
+    "name": "Ron Hansen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ron%20Hansen"
+   },
+   {
+    "name": "Andrew Dominik",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andrew%20Dominik"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0443680",
+   "hasScheduledVideos": false
+  }
+ }
+}

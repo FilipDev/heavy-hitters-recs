@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 4 Oscars. 76 wins & 50 nominations total",
+  "cast": [
+   "Alexandre Rodrigues",
+   "Leandro Firmino",
+   "Matheus Nachtergaele"
+  ],
+  "country": "Brazil",
+  "description": "Captures violence as a career ladder for children. A Rio favela across two decades, narrated by a kid who wants out via a camera while his peers climb by killing.\n\nIn the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+  "director": [
+   "Kátia Lund",
+   "Fernando Meirelles"
+  ],
+  "dvdRelease": "2015-12-17T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.6",
+  "imdb_id": "tt0317248",
+  "moviedb_id": 598,
+  "name": "City of God",
+  "popularity": 0.5036133333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0317248/img",
+  "released": "2004-02-13T00:00:00.000Z",
+  "runtime": "129 min",
+  "trailers": [
+   {
+    "source": "dcUOO4Itgmw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Bráulio Mantovani",
+   "Paulo Lins"
+  ],
+  "year": "2004",
+  "background": "https://images.metahub.space/background/medium/tt0317248/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0317248/img",
+  "popularities": {
+   "moviedb": 15.1084,
+   "stremio": 0.5036133333333334,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/city-of-god-0317248",
+  "id": "tt0317248",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "2004",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "City of God",
+    "ytId": "dcUOO4Itgmw"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0317248"
+   },
+   {
+    "name": "City of God",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/city-of-god-0317248"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Alexandre Rodrigues",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alexandre%20Rodrigues"
+   },
+   {
+    "name": "Leandro Firmino",
+    "category": "Cast",
+    "url": "stremio:///search?search=Leandro%20Firmino"
+   },
+   {
+    "name": "Matheus Nachtergaele",
+    "category": "Cast",
+    "url": "stremio:///search?search=Matheus%20Nachtergaele"
+   },
+   {
+    "name": "Bráulio Mantovani",
+    "category": "Writers",
+    "url": "stremio:///search?search=Br%C3%A1ulio%20Mantovani"
+   },
+   {
+    "name": "Paulo Lins",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paulo%20Lins"
+   },
+   {
+    "name": "Kátia Lund",
+    "category": "Directors",
+    "url": "stremio:///search?search=K%C3%A1tia%20Lund"
+   },
+   {
+    "name": "Fernando Meirelles",
+    "category": "Directors",
+    "url": "stremio:///search?search=Fernando%20Meirelles"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0317248",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "awards": "Won 3 Oscars. 109 wins & 115 nominations total",
+  "cast": [
+   "Ivana Baquero",
+   "Ariadna Gil",
+   "Sergi López"
+  ],
+  "country": "Mexico, Spain",
+  "description": "Captures a child's fantasy as the only available resistance. Spain, 1944: a girl with a fascist stepfather descends to a faun's tasks while the adult war continues above ground, and fantasy is never 'just' escape.\n\nIn 1944 Francoist Spain, an imaginative young girl meets a faun who tells her she's a princess and that she must prove her worthiness by completing three dangerous tasks.",
+  "director": [
+   "Guillermo del Toro"
+  ],
+  "dvdRelease": "2010-08-01T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "War"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0457430",
+  "moviedb_id": 1417,
+  "name": "Pan's Labyrinth",
+  "popularity": 0.79516,
+  "poster": "https://images.metahub.space/poster/small/tt0457430/img",
+  "released": "2007-01-19T00:00:00.000Z",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "OBGKGm3RYos",
+    "type": "Trailer"
+   },
+   {
+    "source": "6tYUOAMsydg",
+    "type": "Trailer"
+   },
+   {
+    "source": "jVZRnnVSQ8k",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Guillermo del Toro"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0457430/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0457430/img",
+  "popularities": {
+   "moviedb": 23.8548,
+   "stremio": 0.79516,
+   "trakt": 36,
+   "stremio_lib": 0
+  },
+  "slug": "movie/pans-labyrinth-0457430",
+  "id": "tt0457430",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "War"
+  ],
+  "releaseInfo": "2007",
+  "trailerStreams": [
+   {
+    "title": "Pan's Labyrinth",
+    "ytId": "OBGKGm3RYos"
+   },
+   {
+    "title": "Pan's Labyrinth",
+    "ytId": "6tYUOAMsydg"
+   },
+   {
+    "title": "Pan's Labyrinth",
+    "ytId": "jVZRnnVSQ8k"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0457430"
+   },
+   {
+    "name": "Pan's Labyrinth",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/pans-labyrinth-0457430"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Ivana Baquero",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ivana%20Baquero"
+   },
+   {
+    "name": "Ariadna Gil",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ariadna%20Gil"
+   },
+   {
+    "name": "Sergi López",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sergi%20L%C3%B3pez"
+   },
+   {
+    "name": "Guillermo del Toro",
+    "category": "Writers",
+    "url": "stremio:///search?search=Guillermo%20del%20Toro"
+   },
+   {
+    "name": "Guillermo del Toro",
+    "category": "Directors",
+    "url": "stremio:///search?search=Guillermo%20del%20Toro"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0457430",
+   "hasScheduledVideos": false
+  }
+ }
+}

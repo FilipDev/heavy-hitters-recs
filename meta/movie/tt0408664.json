@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": "13 wins & 10 nominations total",
+  "cast": [
+   "Yûya Yagira",
+   "Ayu Kitaura",
+   "Hiei Kimura"
+  ],
+  "country": "Japan",
+  "description": "Captures children keeping a household going after the adults vanish. Four kids alone in a Tokyo apartment, the eldest rationing money and hiding it from the landlord, seasons passing in small changes.\n\nIn a small Tokyo apartment, twelve-year-old Akira must care for his younger siblings after their mother leaves them and shows no sign of returning.",
+  "director": [
+   "Hirokazu Koreeda"
+  ],
+  "dvdRelease": "2017-01-19T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0408664",
+  "moviedb_id": 2517,
+  "name": "Nobody Knows",
+  "popularity": 0.32907333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0408664/img",
+  "released": "2004-10-21T00:00:00.000Z",
+  "runtime": "141 min",
+  "trailers": [
+   {
+    "source": "ThksKmIMGAM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Hirokazu Koreeda"
+  ],
+  "year": "2004",
+  "popularities": {
+   "moviedb": 9.8722,
+   "stremio": 0.32907333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/nobody-knows-0408664",
+  "background": "https://images.metahub.space/background/medium/tt0408664/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0408664/img",
+  "id": "tt0408664",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2004",
+  "trailerStreams": [
+   {
+    "title": "Nobody Knows",
+    "ytId": "ThksKmIMGAM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0408664"
+   },
+   {
+    "name": "Nobody Knows",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/nobody-knows-0408664"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Yûya Yagira",
+    "category": "Cast",
+    "url": "stremio:///search?search=Y%C3%BBya%20Yagira"
+   },
+   {
+    "name": "Ayu Kitaura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ayu%20Kitaura"
+   },
+   {
+    "name": "Hiei Kimura",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hiei%20Kimura"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0408664",
+   "hasScheduledVideos": false
+  }
+ }
+}

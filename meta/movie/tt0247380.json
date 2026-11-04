@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "16 wins & 3 nominations total",
+  "cast": [
+   "François Wertheimer",
+   "Agnès Varda",
+   "Jean La Planche"
+  ],
+  "country": "France",
+  "description": "Captures resourcefulness as a whole philosophy of life, at the gentlest possible intensity. Agnès Varda follows people who live off what's left behind — fields, markets, bins — and turns her little digital camera on her own ageing hands.\n\nVarda films and interviews gleaners in France in all forms, from those picking fields after the harvest to those scouring the dumpsters of Paris.",
+  "director": [
+   "Agnès Varda"
+  ],
+  "dvdRelease": "2017-01-11T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0247380",
+  "moviedb_id": 44379,
+  "name": "The Gleaners and I",
+  "popularity": 0.08862666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0247380/img",
+  "released": "2000-07-07T00:00:00.000Z",
+  "runtime": "82 min",
+  "trailers": [
+   {
+    "source": "XZF3VRGgxTU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Agnès Varda"
+  ],
+  "year": "2000",
+  "popularities": {
+   "moviedb": 2.6588,
+   "stremio": 0.08862666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-gleaners-i-0247380",
+  "background": "https://images.metahub.space/background/medium/tt0247380/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0247380/img",
+  "id": "tt0247380",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2000",
+  "trailerStreams": [
+   {
+    "title": "The Gleaners & I",
+    "ytId": "XZF3VRGgxTU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0247380"
+   },
+   {
+    "name": "The Gleaners & I",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-gleaners-i-0247380"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "François Wertheimer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fran%C3%A7ois%20Wertheimer"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   },
+   {
+    "name": "Jean La Planche",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jean%20La%20Planche"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0247380",
+   "hasScheduledVideos": false
+  }
+ }
+}

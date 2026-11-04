@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination total",
+  "cast": [
+   "Encke King",
+   "Ben Alexander",
+   "Jim Backus"
+  ],
+  "country": "United States",
+  "description": "Captures a city through the lies movies told about it. A video essay built entirely from clips — how Los Angeles is used as backdrop, villain and stand-in for everywhere else — narrated by a resident who loves it and resents all of it.\n\nA documentary on how Los Angeles has been used and depicted in the movies.",
+  "director": [
+   "Thom Andersen"
+  ],
+  "dvdRelease": "2014-10-14T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0379357",
+  "moviedb_id": 38643,
+  "name": "Los Angeles Plays Itself",
+  "popularity": 0.05063333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0379357/img",
+  "released": "2004-01-01T00:00:00.000Z",
+  "runtime": "169 min",
+  "trailers": [
+   {
+    "source": "K-DWcJLrSuU",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Thom Andersen"
+  ],
+  "year": "2003",
+  "popularities": {
+   "moviedb": 1.519,
+   "stremio": 0.05063333333333333,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0379357/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0379357/img",
+  "slug": "movie/los-angeles-plays-itself-0379357",
+  "id": "tt0379357",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "2003",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Los Angeles Plays Itself",
+    "ytId": "K-DWcJLrSuU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0379357"
+   },
+   {
+    "name": "Los Angeles Plays Itself",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/los-angeles-plays-itself-0379357"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Encke King",
+    "category": "Cast",
+    "url": "stremio:///search?search=Encke%20King"
+   },
+   {
+    "name": "Ben Alexander",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ben%20Alexander"
+   },
+   {
+    "name": "Jim Backus",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jim%20Backus"
+   },
+   {
+    "name": "Thom Andersen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Thom%20Andersen"
+   },
+   {
+    "name": "Thom Andersen",
+    "category": "Directors",
+    "url": "stremio:///search?search=Thom%20Andersen"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0379357",
+   "hasScheduledVideos": false
+  }
+ }
+}

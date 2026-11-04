@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "29 wins & 37 nominations total",
+  "cast": [
+   "Daniel Auteuil",
+   "Juliette Binoche",
+   "Maurice Bénichou"
+  ],
+  "country": "France, Austria, Germany, Italy",
+  "description": "Captures guilt that refuses to identify itself. A Paris family receives surveillance tapes of their own house with no demands attached; Haneke never says who sent them, because the film is about what the husband already knows.\n\nA married couple is terrorized by a series of surveillance videotapes left on their front porch.",
+  "director": [
+   "Michael Haneke"
+  ],
+  "dvdRelease": "2012-04-16T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0387898",
+  "moviedb_id": 445,
+  "name": "Caché",
+  "popularity": 0.12632666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0387898/img",
+  "released": "2006-02-17T00:00:00.000Z",
+  "runtime": "118 min",
+  "trailers": [
+   {
+    "source": "pvT_9TqIEtM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Haneke"
+  ],
+  "year": "2006",
+  "background": "https://images.metahub.space/background/medium/tt0387898/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0387898/img",
+  "popularities": {
+   "moviedb": 3.7898,
+   "stremio": 0.12632666666666667,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/cach-0387898",
+  "id": "tt0387898",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "releaseInfo": "2006",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Caché",
+    "ytId": "pvT_9TqIEtM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0387898"
+   },
+   {
+    "name": "Caché",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/cach-0387898"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Daniel Auteuil",
+    "category": "Cast",
+    "url": "stremio:///search?search=Daniel%20Auteuil"
+   },
+   {
+    "name": "Juliette Binoche",
+    "category": "Cast",
+    "url": "stremio:///search?search=Juliette%20Binoche"
+   },
+   {
+    "name": "Maurice Bénichou",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maurice%20B%C3%A9nichou"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   },
+   {
+    "name": "Michael Haneke",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Haneke"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0387898",
+   "hasScheduledVideos": false
+  }
+ }
+}

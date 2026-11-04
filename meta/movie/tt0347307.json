@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "id": "tt0347307",
+  "imdb_id": "tt0347307",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0347307/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0347307/img",
+  "background": "https://live.metahub.space/background/medium/tt0347307/img",
+  "moviedb_id": 249586,
+  "name": "Stone Cross",
+  "description": "Captures farewell as a whole way of life ending. A Ukrainian peasant spends his last night before emigrating to Canada saying goodbye, and carves himself a stone cross — the austere black-and-white twin of Shadows, from the same national school.\n\nIn 1890s Western Ukraine, Ivan Didukh, a proud and ripe Galician farmer, has decided to abandon his ancestral home to emigrate to Canada in search of a better life. His final hours are clouded by both internal and communal discord as his village convenes to ceremonially mark his departure. The celebrations that echo those of a funeral, forecast the imminent death of a man estranged from his motherland, and of an antiquated way of life on the cusp of obsoletion.",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1968",
+  "runtime": "76 min",
+  "trailers": [],
+  "cast": [
+   "Danylo Ilchenko",
+   "Kateryna Mateyko",
+   "Boryslav Brondukov"
+  ],
+  "credits_cast": [
+   {
+    "character": "Ivan",
+    "name": "Danylo Ilchenko",
+    "profile_path": "/xaM7qE3utmIAwigZ5YPvWztHgxb.jpg",
+    "id": 1284884
+   },
+   {
+    "character": "Ivanikha",
+    "name": "Kateryna Mateyko",
+    "profile_path": null,
+    "id": 1284885
+   },
+   {
+    "character": "Boryslav Brondukov",
+    "name": "Boryslav Brondukov",
+    "profile_path": "/jmlXem2LTnkCkTcZnouPC44hoyt.jpg",
+    "id": 1082612
+   },
+   {
+    "character": "Mykola",
+    "name": "Ivan Mykolaichuk",
+    "profile_path": "/pac3Mi3RFqYxMf3VSPrAKLyuYAa.jpg",
+    "id": 96209
+   },
+   {
+    "character": "Mykhailo",
+    "name": "Kostiantyn Stepankov",
+    "profile_path": "/ikClq1NtRmVCsyGc2K2rSRDyH3n.jpg",
+    "id": 1166328
+   },
+   {
+    "character": "Gazda Heorhiy",
+    "name": "Vasyl Symchych",
+    "profile_path": "/gAjgKdkyXaKqdz5XJXw42wIohHn.jpg",
+    "id": 1333035
+   },
+   {
+    "character": "Dmytro",
+    "name": "Borys Savchenko",
+    "profile_path": "/pm3UV3DisvIBlpRu9WzllIezDnN.jpg",
+    "id": 1280560
+   },
+   {
+    "character": "Son",
+    "name": "Oleksa Atamanyuk",
+    "profile_path": "/cBWyoNwfHsn6Xxxk6zkoqVDSWuO.jpg",
+    "id": 3181557
+   },
+   {
+    "character": "Antonina",
+    "name": "Antonina Leftiy",
+    "profile_path": "/f8tKgrTr3fmfMmRQihxBYHYgPU4.jpg",
+    "id": 1744168
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Leonid Osyka",
+    "profile_path": "/A7SoXl3xhRGLdjIhSOQRihHW59L.jpg",
+    "id": 1284883
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Ivan Drach",
+    "profile_path": "/fiemR4TsT0d8AX4Ar0QC2hpsEPT.jpg",
+    "id": 1079944
+   }
+  ],
+  "director": [
+   "Leonid Osyka"
+  ],
+  "imdbRating": "7.5",
+  "language": "Ukrainian",
+  "country": "Soviet Union",
+  "slug": "movie/the-stone-cross-0347307",
+  "behaviorHints": {
+   "defaultVideoId": "tt0347307",
+   "hasScheduledVideos": false
+  }
+ }
+}

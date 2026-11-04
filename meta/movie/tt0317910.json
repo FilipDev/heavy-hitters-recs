@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 14 wins & 16 nominations total",
+  "cast": [
+   "Robert McNamara",
+   "John F. Kennedy",
+   "Fidel Castro"
+  ],
+  "country": "United States",
+  "description": "Captures a brilliant man half-confessing to catastrophe. Robert McNamara, architect of Vietnam escalation, now in his eighties, lays out eleven lessons from his life in power — you decide whether the other half is honesty or self-defence.\n\nThe story of America as seen through the eyes of the former Secretary of Defense under President John F. Kennedy and President Lyndon B. Johnson, Robert McNamara.",
+  "director": [
+   "Errol Morris"
+  ],
+  "dvdRelease": "2012-04-16T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "imdbRating": "8.0",
+  "imdb_id": "tt0317910",
+  "moviedb_id": 12698,
+  "name": "The Fog of War",
+  "popularity": 0.12614,
+  "poster": "https://images.metahub.space/poster/small/tt0317910/img",
+  "released": "2004-03-05T00:00:00.000Z",
+  "runtime": "107 min",
+  "trailers": [
+   {
+    "source": "1WMmpqMaQYI",
+    "type": "Trailer"
+   },
+   {
+    "source": "VgA98V1Ubk8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "2004",
+  "background": "https://images.metahub.space/background/medium/tt0317910/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0317910/img",
+  "popularities": {
+   "moviedb": 3.7842,
+   "stremio": 0.12614,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-fog-of-war-0317910",
+  "id": "tt0317910",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "releaseInfo": "2004",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Fog of War",
+    "ytId": "1WMmpqMaQYI"
+   },
+   {
+    "title": "The Fog of War",
+    "ytId": "VgA98V1Ubk8"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0317910"
+   },
+   {
+    "name": "The Fog of War",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-fog-of-war-0317910"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Robert McNamara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20McNamara"
+   },
+   {
+    "name": "John F. Kennedy",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20F.%20Kennedy"
+   },
+   {
+    "name": "Fidel Castro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fidel%20Castro"
+   },
+   {
+    "name": "Errol Morris",
+    "category": "Directors",
+    "url": "stremio:///search?search=Errol%20Morris"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0317910",
+   "hasScheduledVideos": false
+  }
+ }
+}

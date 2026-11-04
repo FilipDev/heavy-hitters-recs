@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "2 wins & 4 nominations",
+  "cast": [
+   "Aileen Wuornos",
+   "Nick Broomfield",
+   "Terry Humphreys-Slay"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures the confrontational filmmaker finding his limit: Broomfield builds a real relationship with death-row killer Aileen Wuornos, testifies in her case, and films a final interview in which she is plainly no longer competent.\n\nNick Broomfield's second documentary about serial killer Aileen Wuornos, focusing on her mental state on death row.",
+  "director": [
+   "Nick Broomfield",
+   "Joan Churchill"
+  ],
+  "dvdRelease": "2016-11-05T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Crime"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0364930",
+  "moviedb_id": 37088,
+  "name": "Aileen: Life and Death of a Serial Killer",
+  "popularity": 0.056536666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0364930/img",
+  "released": "2003-11-21T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "rExhihAZGxg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "2003",
+  "popularities": {
+   "moviedb": 1.6961,
+   "stremio": 0.056536666666666666,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0364930/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0364930/img",
+  "slug": "movie/aileen-life-and-death-of-a-serial-killer-0364930",
+  "id": "tt0364930",
+  "genres": [
+   "Documentary",
+   "Crime"
+  ],
+  "releaseInfo": "2003",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Aileen: Life and Death of a Serial Killer",
+    "ytId": "rExhihAZGxg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0364930"
+   },
+   {
+    "name": "Aileen: Life and Death of a Serial Killer",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/aileen-life-and-death-of-a-serial-killer-0364930"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Aileen Wuornos",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aileen%20Wuornos"
+   },
+   {
+    "name": "Nick Broomfield",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nick%20Broomfield"
+   },
+   {
+    "name": "Terry Humphreys-Slay",
+    "category": "Cast",
+    "url": "stremio:///search?search=Terry%20Humphreys-Slay"
+   },
+   {
+    "name": "Nick Broomfield",
+    "category": "Directors",
+    "url": "stremio:///search?search=Nick%20Broomfield"
+   },
+   {
+    "name": "Joan Churchill",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joan%20Churchill"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0364930",
+   "hasScheduledVideos": false
+  }
+ }
+}

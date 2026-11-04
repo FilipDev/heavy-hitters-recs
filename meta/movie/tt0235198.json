@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "awards": "5 wins & 5 nominations total",
+  "cast": [
+   "Ryô Ishibashi",
+   "Eihi Shiina",
+   "Tetsu Sawaki"
+  ],
+  "country": "Japan",
+  "description": "Captures loneliness curdling into horror by changing genre mid-film. A widower holds fake auditions to find a wife; the first hour is a sad, gentle drama before the film reveals what it actually was.\n\nA widower has his film producer friend organize a fake audition as a means of helping him find a new girlfriend, but the woman he selects is not who she appears to be.",
+  "director": [
+   "Takashi Miike"
+  ],
+  "dvdRelease": "2015-02-19T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "imdbRating": "7.1",
+  "imdb_id": "tt0235198",
+  "moviedb_id": 11075,
+  "name": "Audition",
+  "popularity": 0.2509266666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0235198/img",
+  "released": "2000-03-03T00:00:00.000Z",
+  "runtime": "115 min",
+  "trailers": [
+   {
+    "source": "2wr_om5LsuI",
+    "type": "Trailer"
+   },
+   {
+    "source": "EBQHp2__AVQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "G-kMokjYL5A",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ryu Murakami",
+   "Daisuke Tengan"
+  ],
+  "year": "2000",
+  "background": "https://images.metahub.space/background/medium/tt0235198/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0235198/img",
+  "popularities": {
+   "moviedb": 7.5278,
+   "stremio": 0.2509266666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/audition-0235198",
+  "id": "tt0235198",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "releaseInfo": "2000",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Audition",
+    "ytId": "2wr_om5LsuI"
+   },
+   {
+    "title": "Audition",
+    "ytId": "EBQHp2__AVQ"
+   },
+   {
+    "title": "Audition",
+    "ytId": "G-kMokjYL5A"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0235198"
+   },
+   {
+    "name": "Audition",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/audition-0235198"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Ryô Ishibashi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ry%C3%B4%20Ishibashi"
+   },
+   {
+    "name": "Eihi Shiina",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eihi%20Shiina"
+   },
+   {
+    "name": "Tetsu Sawaki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tetsu%20Sawaki"
+   },
+   {
+    "name": "Ryu Murakami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ryu%20Murakami"
+   },
+   {
+    "name": "Daisuke Tengan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Daisuke%20Tengan"
+   },
+   {
+    "name": "Takashi Miike",
+    "category": "Directors",
+    "url": "stremio:///search?search=Takashi%20Miike"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0235198",
+   "hasScheduledVideos": false
+  }
+ }
+}

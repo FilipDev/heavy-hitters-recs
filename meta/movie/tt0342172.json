@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt0342172",
+  "popularities": {
+   "moviedb": 1.6233,
+   "stremio": 0.05411,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "name": "Capturing the Friedmans",
+  "year": "2003",
+  "runtime": "107 min",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "released": "2003-07-18T00:00:00.000Z",
+  "director": [
+   "Andrew Jarecki"
+  ],
+  "writer": null,
+  "cast": [
+   "Arnold Friedman",
+   "Jesse Friedman",
+   "David Friedman"
+  ],
+  "imdbRating": "7.6",
+  "poster": "https://images.metahub.space/poster/small/tt0342172/img",
+  "description": "Captures a family performing normality for a camera while everything underneath it collapses. A family accused of horrific crimes, told largely through their own compulsive home videos, which keep contradicting the legal case and each other.\n\nFollows the Friedmans, a seemingly typical, upper-middle-class Jewish family whose world is instantly transformed when the father and his youngest son are arrested and charged with shocking and horrible crimes.",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 25 wins & 16 nominations total",
+  "dvdRelease": "2018-06-01T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "g6g5atTyjG8",
+    "type": "Trailer"
+   },
+   {
+    "source": "DGrD_vVE5bQ",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 2260,
+  "background": "https://images.metahub.space/background/medium/tt0342172/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0342172/img",
+  "slug": "movie/capturing-the-friedmans-0342172",
+  "popularity": 0.05411,
+  "id": "tt0342172",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Crime"
+  ],
+  "releaseInfo": "2003",
+  "trailerStreams": [
+   {
+    "title": "Capturing the Friedmans",
+    "ytId": "g6g5atTyjG8"
+   },
+   {
+    "title": "Capturing the Friedmans",
+    "ytId": "DGrD_vVE5bQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0342172"
+   },
+   {
+    "name": "Capturing the Friedmans",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/capturing-the-friedmans-0342172"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Arnold Friedman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arnold%20Friedman"
+   },
+   {
+    "name": "Jesse Friedman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jesse%20Friedman"
+   },
+   {
+    "name": "David Friedman",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Friedman"
+   },
+   {
+    "name": "Andrew Jarecki",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andrew%20Jarecki"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0342172",
+   "hasScheduledVideos": false
+  }
+ }
+}

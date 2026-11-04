@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "Won 2 Oscars. 23 wins & 90 nominations total",
+  "cast": [
+   "Russell Crowe",
+   "Paul Bettany",
+   "Billy Boyd"
+  ],
+  "country": "United States",
+  "description": "Captures a ship as a complete working system. During the Napoleonic Wars a British frigate hunts a French ship around South America — seamanship, weather and hierarchy, and a captain whose naturalist friend would rather be cataloguing species in the Galápagos.\n\nDuring the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.",
+  "director": [
+   "Peter Weir"
+  ],
+  "dvdRelease": "2013-03-01T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0311113",
+  "moviedb_id": 8619,
+  "name": "Master and Commander: The Far Side of the World",
+  "popularity": 0.2701366666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0311113/img",
+  "released": "2003-11-14T00:00:00.000Z",
+  "runtime": "138 min",
+  "trailers": [
+   {
+    "source": "tHTHCNYiiHk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Patrick O&apos;Brian",
+   "Peter Weir",
+   "John Collee"
+  ],
+  "year": "2003",
+  "background": "https://images.metahub.space/background/medium/tt0311113/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0311113/img",
+  "popularities": {
+   "moviedb": 8.1041,
+   "stremio": 0.2701366666666667,
+   "trakt": 53,
+   "stremio_lib": 0
+  },
+  "slug": "movie/master-and-commander-the-far-side-of-the-world-0311113",
+  "id": "tt0311113",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "2003",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Master and Commander: The Far Side of the World",
+    "ytId": "tHTHCNYiiHk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0311113"
+   },
+   {
+    "name": "Master and Commander: The Far Side of the World",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/master-and-commander-the-far-side-of-the-world-0311113"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Russell Crowe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Russell%20Crowe"
+   },
+   {
+    "name": "Paul Bettany",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Bettany"
+   },
+   {
+    "name": "Billy Boyd",
+    "category": "Cast",
+    "url": "stremio:///search?search=Billy%20Boyd"
+   },
+   {
+    "name": "Patrick O&apos;Brian",
+    "category": "Writers",
+    "url": "stremio:///search?search=Patrick%20O%26apos%3BBrian"
+   },
+   {
+    "name": "Peter Weir",
+    "category": "Writers",
+    "url": "stremio:///search?search=Peter%20Weir"
+   },
+   {
+    "name": "John Collee",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20Collee"
+   },
+   {
+    "name": "Peter Weir",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Weir"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0311113",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "awards": "1 nomination total",
+  "cast": [
+   "Rosie Traynor",
+   "David Pledger",
+   "Martin Sharpe"
+  ],
+  "country": "Australia",
+  "description": "Captures grief in the form of a family documentary. Found footage, but the subject is not the ghost — it is parents and a brother in interviews, months after a drowning, still looking for anything.\n\nStrange things start happening after a girl is found drowned in a lake.",
+  "director": [
+   "Joel Anderson"
+  ],
+  "dvdRelease": "2010-03-23T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "imdbRating": "6.2",
+  "imdb_id": "tt0816556",
+  "moviedb_id": 27374,
+  "name": "Lake Mungo",
+  "popularity": 0.14025666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0816556/img",
+  "released": "2010-01-29T00:00:00.000Z",
+  "runtime": "87 min",
+  "trailers": [
+   {
+    "source": "s-KnomEI6NE",
+    "type": "Trailer"
+   },
+   {
+    "source": "wxWtJMgPOmY",
+    "type": "Trailer"
+   },
+   {
+    "source": "4n8WNQ9kOac",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Joel Anderson"
+  ],
+  "year": "2010",
+  "background": "https://images.metahub.space/background/medium/tt0816556/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0816556/img",
+  "popularities": {
+   "moviedb": 4.2077,
+   "stremio": 0.14025666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/lake-mungo-0816556",
+  "id": "tt0816556",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "releaseInfo": "2010",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Lake Mungo",
+    "ytId": "s-KnomEI6NE"
+   },
+   {
+    "title": "Lake Mungo",
+    "ytId": "wxWtJMgPOmY"
+   },
+   {
+    "title": "Lake Mungo",
+    "ytId": "4n8WNQ9kOac"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0816556"
+   },
+   {
+    "name": "Lake Mungo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/lake-mungo-0816556"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Rosie Traynor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Rosie%20Traynor"
+   },
+   {
+    "name": "David Pledger",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Pledger"
+   },
+   {
+    "name": "Martin Sharpe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Martin%20Sharpe"
+   },
+   {
+    "name": "Joel Anderson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joel%20Anderson"
+   },
+   {
+    "name": "Joel Anderson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Joel%20Anderson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0816556",
+   "hasScheduledVideos": false
+  }
+ }
+}

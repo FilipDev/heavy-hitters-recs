@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "imdb_id": "tt10272386",
+  "name": "The Father",
+  "cast": [
+   "Anthony Hopkins",
+   "Olivia Colman",
+   "Mark Gatiss"
+  ],
+  "country": "United Kingdom, France, United States",
+  "description": "Captures dementia by making the film itself unreliable. Anthony Hopkins in a flat that keeps changing its layout, furniture and occupants — you're not watching his confusion, you're inside it.\n\nA man refuses all assistance from his daughter as he ages. When he tries to understand what is happening around him, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+  "director": [
+   "Florian Zeller"
+  ],
+  "genre": [
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "8.2",
+  "released": "2021-02-26T00:00:00.000Z",
+  "runtime": "97 min",
+  "slug": "movie/the-father-10272386",
+  "type": "movie",
+  "writer": [
+   "Christopher Hampton",
+   "Florian Zeller"
+  ],
+  "year": "2021",
+  "moviedb_id": 600354,
+  "popularities": {
+   "moviedb": 9.7699,
+   "stremio": 0.3256633333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "g0ox9ExOA1M",
+    "type": "Trailer"
+   },
+   {
+    "source": "OFnoRaLAclg",
+    "type": "Trailer"
+   },
+   {
+    "source": "4TZb7YfK-JI",
+    "type": "Trailer"
+   }
+  ],
+  "poster": "https://images.metahub.space/poster/small/tt10272386/img",
+  "awards": "Won 2 Oscars. 39 wins & 171 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt10272386/img",
+  "logo": "https://images.metahub.space/logo/medium/tt10272386/img",
+  "dvdRelease": "2021-03-25T00:00:00.000Z",
+  "popularity": 0.3256633333333333,
+  "id": "tt10272386",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2021",
+  "trailerStreams": [
+   {
+    "title": "The Father",
+    "ytId": "g0ox9ExOA1M"
+   },
+   {
+    "title": "The Father",
+    "ytId": "OFnoRaLAclg"
+   },
+   {
+    "title": "The Father",
+    "ytId": "4TZb7YfK-JI"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt10272386"
+   },
+   {
+    "name": "The Father",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-father-10272386"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Anthony Hopkins",
+    "category": "Cast",
+    "url": "stremio:///search?search=Anthony%20Hopkins"
+   },
+   {
+    "name": "Olivia Colman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olivia%20Colman"
+   },
+   {
+    "name": "Mark Gatiss",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mark%20Gatiss"
+   },
+   {
+    "name": "Christopher Hampton",
+    "category": "Writers",
+    "url": "stremio:///search?search=Christopher%20Hampton"
+   },
+   {
+    "name": "Florian Zeller",
+    "category": "Writers",
+    "url": "stremio:///search?search=Florian%20Zeller"
+   },
+   {
+    "name": "Florian Zeller",
+    "category": "Directors",
+    "url": "stremio:///search?search=Florian%20Zeller"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt10272386",
+   "hasScheduledVideos": false
+  }
+ }
+}

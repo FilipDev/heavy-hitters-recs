@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "awards": "10 wins & 15 nominations",
+  "cast": [
+   "Sergey Dreyden",
+   "Mariya Kuznetsova",
+   "Leonid Mozgovoy"
+  ],
+  "country": "Russia, Germany, Japan, Canada, Finland, Denmark",
+  "description": "Captures 300 years of history in one held breath. A single unbroken shot drifts through the Hermitage, past czars and ballrooms, with the camera as a ghost nobody quite sees.\n\nA 19th century French aristocrat, notorious for his scathing memoirs about life in Russia, travels through the Russian State Hermitage Museum and encounters historical figures from the last 200+ years.",
+  "director": [
+   "Aleksandr Sokurov"
+  ],
+  "dvdRelease": "2020-04-17T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "History"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0318034",
+  "moviedb_id": 16646,
+  "name": "Russian Ark",
+  "popularity": 0.08744666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0318034/img",
+  "released": "2003-04-19T00:00:00.000Z",
+  "runtime": "99 min",
+  "trailers": [
+   {
+    "source": "hafub802VOw",
+    "type": "Trailer"
+   },
+   {
+    "source": "ZV1kphEEXn8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Boris Khaimsky",
+   "Anatoli Nikiforov",
+   "Svetlana Proskurina"
+  ],
+  "year": "2002",
+  "popularities": {
+   "moviedb": 2.6234,
+   "stremio": 0.08744666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/russian-ark-0318034",
+  "background": "https://images.metahub.space/background/medium/tt0318034/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0318034/img",
+  "id": "tt0318034",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "History"
+  ],
+  "releaseInfo": "2002",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Russian Ark",
+    "ytId": "hafub802VOw"
+   },
+   {
+    "title": "Russian Ark",
+    "ytId": "ZV1kphEEXn8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0318034"
+   },
+   {
+    "name": "Russian Ark",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/russian-ark-0318034"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Sergey Dreyden",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sergey%20Dreyden"
+   },
+   {
+    "name": "Mariya Kuznetsova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mariya%20Kuznetsova"
+   },
+   {
+    "name": "Leonid Mozgovoy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Leonid%20Mozgovoy"
+   },
+   {
+    "name": "Boris Khaimsky",
+    "category": "Writers",
+    "url": "stremio:///search?search=Boris%20Khaimsky"
+   },
+   {
+    "name": "Anatoli Nikiforov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Anatoli%20Nikiforov"
+   },
+   {
+    "name": "Svetlana Proskurina",
+    "category": "Writers",
+    "url": "stremio:///search?search=Svetlana%20Proskurina"
+   },
+   {
+    "name": "Aleksandr Sokurov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Aleksandr%20Sokurov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0318034",
+   "hasScheduledVideos": false
+  }
+ }
+}

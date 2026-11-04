@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "6 wins & 5 nominations total",
+  "cast": [
+   "Megumi Hayashibara",
+   "Tôru Emori",
+   "Katsunosuke Hori"
+  ],
+  "country": "Japan",
+  "description": "Captures dreams invading waking life as a parade. A device that lets therapists enter dreams is stolen, and reality dissolves into a marching band of refrigerators and dolls; Inception's debt is on screen.\n\nWhen a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist, Paprika, can stop it.",
+  "director": [
+   "Satoshi Kon"
+  ],
+  "dvdRelease": "2018-04-23T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0851578",
+  "moviedb_id": 4977,
+  "name": "Paprika",
+  "popularity": 0.33662,
+  "poster": "https://images.metahub.space/poster/small/tt0851578/img",
+  "released": "2007-06-22T00:00:00.000Z",
+  "runtime": "90 min",
+  "trailers": [
+   {
+    "source": "a6avI9oPgnw",
+    "type": "Trailer"
+   },
+   {
+    "source": "PIUqozzyW2k",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Yasutaka Tsutsui",
+   "Seishi Minakami",
+   "Satoshi Kon"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0851578/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0851578/img",
+  "popularities": {
+   "moviedb": 10.0986,
+   "stremio": 0.33662,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/paprika-0851578",
+  "id": "tt0851578",
+  "genres": [
+   "Animation",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Paprika",
+    "ytId": "a6avI9oPgnw"
+   },
+   {
+    "title": "Paprika",
+    "ytId": "PIUqozzyW2k"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0851578"
+   },
+   {
+    "name": "Paprika",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/paprika-0851578"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Megumi Hayashibara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Megumi%20Hayashibara"
+   },
+   {
+    "name": "Tôru Emori",
+    "category": "Cast",
+    "url": "stremio:///search?search=T%C3%B4ru%20Emori"
+   },
+   {
+    "name": "Katsunosuke Hori",
+    "category": "Cast",
+    "url": "stremio:///search?search=Katsunosuke%20Hori"
+   },
+   {
+    "name": "Yasutaka Tsutsui",
+    "category": "Writers",
+    "url": "stremio:///search?search=Yasutaka%20Tsutsui"
+   },
+   {
+    "name": "Seishi Minakami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Seishi%20Minakami"
+   },
+   {
+    "name": "Satoshi Kon",
+    "category": "Writers",
+    "url": "stremio:///search?search=Satoshi%20Kon"
+   },
+   {
+    "name": "Satoshi Kon",
+    "category": "Directors",
+    "url": "stremio:///search?search=Satoshi%20Kon"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0851578",
+   "hasScheduledVideos": false
+  }
+ }
+}

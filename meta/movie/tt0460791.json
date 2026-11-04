@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "4 wins & 11 nominations total",
+  "cast": [
+   "Lee Pace",
+   "Catinca Untaru",
+   "Justine Waddell"
+  ],
+  "country": "United States, South Africa, India",
+  "description": "Captures storytelling as barter. Tarsem spent years shooting a suicidal stuntman's improvised fairy tale to a little girl in a 1920s hospital, across two dozen countries with no green screen; he needs her help, and she keeps changing the story by listening.\n\nIn 1920s Los Angeles, a bedridden patient in a hospital captivates a young girl with a fantastic tale of heroes, myths, and villains on a desert island.",
+  "director": [
+   "Tarsem Singh"
+  ],
+  "dvdRelease": "2014-01-09T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0460791",
+  "moviedb_id": 14784,
+  "name": "The Fall",
+  "popularity": 0.27407,
+  "poster": "https://images.metahub.space/poster/small/tt0460791/img",
+  "released": "2008-05-30T00:00:00.000Z",
+  "runtime": "117 min",
+  "trailers": [
+   {
+    "source": "sDs4Mwme-DM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Dan Gilroy",
+   "Nico Soultanakis",
+   "Tarsem Singh"
+  ],
+  "year": "2008",
+  "background": "https://images.metahub.space/background/medium/tt0460791/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0460791/img",
+  "popularities": {
+   "moviedb": 8.2221,
+   "stremio": 0.27407,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-fall-0460791",
+  "id": "tt0460791",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "2008",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Fall",
+    "ytId": "sDs4Mwme-DM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0460791"
+   },
+   {
+    "name": "The Fall",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-fall-0460791"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Lee Pace",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lee%20Pace"
+   },
+   {
+    "name": "Catinca Untaru",
+    "category": "Cast",
+    "url": "stremio:///search?search=Catinca%20Untaru"
+   },
+   {
+    "name": "Justine Waddell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Justine%20Waddell"
+   },
+   {
+    "name": "Dan Gilroy",
+    "category": "Writers",
+    "url": "stremio:///search?search=Dan%20Gilroy"
+   },
+   {
+    "name": "Nico Soultanakis",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nico%20Soultanakis"
+   },
+   {
+    "name": "Tarsem Singh",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tarsem%20Singh"
+   },
+   {
+    "name": "Tarsem Singh",
+    "category": "Directors",
+    "url": "stremio:///search?search=Tarsem%20Singh"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0460791",
+   "hasScheduledVideos": false
+  }
+ }
+}

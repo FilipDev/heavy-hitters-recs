@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "imdb_id": "tt0296881",
+  "awards": "2 wins total",
+  "cast": [
+   "Patricia Ree Gilbert",
+   "Don Fellows",
+   "Jonathan Gordon"
+  ],
+  "country": "United States",
+  "description": "Captures a production seizing itself: Greaves films actors rehearsing a breakup while his crew, instructed to film everything, records its own growing revolt against him — and the revolt becomes the film, decades before the form existed.\n\nFilmmaker William Greaves auditioned acting students for a fictional drama, while simultaneously shooting the behind-the-scenes drama taking place.",
+  "director": [
+   "William Greaves"
+  ],
+  "dvdRelease": "2020-10-15T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.2",
+  "name": "Symbiopsychotaxiplasm: Take One",
+  "poster": "https://images.metahub.space/poster/small/tt0296881/img",
+  "released": "1968-10-28T00:00:00.000Z",
+  "runtime": "75 min",
+  "slug": "movie/symbiopsychotaxiplasm-take-one-0296881",
+  "type": "movie",
+  "writer": [
+   "William Greaves"
+  ],
+  "year": "1968",
+  "moviedb_id": 44783,
+  "popularities": {
+   "moviedb": 1.4498,
+   "stremio": 0.048326666666666664,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "yn4rJLzv4Jk",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt0296881/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0296881/img",
+  "popularity": 0.048326666666666664,
+  "id": "tt0296881",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1968",
+  "trailerStreams": [
+   {
+    "title": "Symbiopsychotaxiplasm: Take One",
+    "ytId": "yn4rJLzv4Jk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0296881"
+   },
+   {
+    "name": "Symbiopsychotaxiplasm: Take One",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/symbiopsychotaxiplasm-take-one-0296881"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Patricia Ree Gilbert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Patricia%20Ree%20Gilbert"
+   },
+   {
+    "name": "Don Fellows",
+    "category": "Cast",
+    "url": "stremio:///search?search=Don%20Fellows"
+   },
+   {
+    "name": "Jonathan Gordon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jonathan%20Gordon"
+   },
+   {
+    "name": "William Greaves",
+    "category": "Writers",
+    "url": "stremio:///search?search=William%20Greaves"
+   },
+   {
+    "name": "William Greaves",
+    "category": "Directors",
+    "url": "stremio:///search?search=William%20Greaves"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0296881",
+   "hasScheduledVideos": false
+  }
+ }
+}

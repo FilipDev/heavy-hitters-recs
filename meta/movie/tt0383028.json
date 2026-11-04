@@ -1,0 +1,105 @@
+{
+ "meta": {
+  "awards": "8 wins & 29 nominations total",
+  "cast": [
+   "Philip Seymour Hoffman",
+   "Samantha Morton",
+   "Michelle Williams"
+  ],
+  "country": "United States",
+  "description": "Captures a life trying to represent itself honestly, and drowning in the attempt. A theatre director builds a scale copy of his city inside a warehouse and keeps casting people to play people, including himself, for decades.\n\nA theater director struggles with his work and the women in his life as he creates a life-size replica of New York City inside a warehouse as part of his new play.",
+  "director": [
+   "Charlie Kaufman"
+  ],
+  "dvdRelease": "2009-04-24T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0383028",
+  "moviedb_id": 4960,
+  "name": "Synecdoche, New York",
+  "popularity": 0.18506333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0383028/img",
+  "released": "2009-02-05T00:00:00.000Z",
+  "runtime": "124 min",
+  "trailers": [
+   {
+    "source": "i2q8F0yRmrs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Charlie Kaufman"
+  ],
+  "year": "2009",
+  "background": "https://images.metahub.space/background/medium/tt0383028/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0383028/img",
+  "popularities": {
+   "moviedb": 5.5519,
+   "stremio": 0.18506333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/synecdoche-new-york-0383028",
+  "id": "tt0383028",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2009",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Synecdoche, New York",
+    "ytId": "i2q8F0yRmrs"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0383028"
+   },
+   {
+    "name": "Synecdoche, New York",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/synecdoche-new-york-0383028"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Philip Seymour Hoffman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Philip%20Seymour%20Hoffman"
+   },
+   {
+    "name": "Samantha Morton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Samantha%20Morton"
+   },
+   {
+    "name": "Michelle Williams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michelle%20Williams"
+   },
+   {
+    "name": "Charlie Kaufman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Charlie%20Kaufman"
+   },
+   {
+    "name": "Charlie Kaufman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Charlie%20Kaufman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0383028",
+   "hasScheduledVideos": false
+  }
+ }
+}

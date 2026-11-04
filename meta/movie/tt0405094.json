@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 80 wins & 38 nominations total",
+  "cast": [
+   "Ulrich Mühe",
+   "Martina Gedeck",
+   "Sebastian Koch"
+  ],
+  "country": "Germany, France",
+  "description": "Captures a surveillance officer changed by the lives he's assigned to transcribe. East Berlin, 1984: a Stasi captain bugs a playwright's flat, types his reports, and quietly begins to edit what the state gets to know.\n\nIn 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.",
+  "director": [
+   "Florian Henckel von Donnersmarck"
+  ],
+  "dvdRelease": "2007-10-20T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "imdbRating": "8.4",
+  "imdb_id": "tt0405094",
+  "moviedb_id": 582,
+  "name": "The Lives of Others",
+  "popularity": 0.3705466666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0405094/img",
+  "released": "2007-03-30T00:00:00.000Z",
+  "runtime": "137 min",
+  "trailers": [
+   {
+    "source": "n3_iLOp6IhM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Florian Henckel von Donnersmarck"
+  ],
+  "year": "2007",
+  "background": "https://images.metahub.space/background/medium/tt0405094/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0405094/img",
+  "popularities": {
+   "moviedb": 11.1164,
+   "stremio": 0.3705466666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-lives-of-others-0405094",
+  "id": "tt0405094",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "releaseInfo": "2007",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Lives of Others",
+    "ytId": "n3_iLOp6IhM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0405094"
+   },
+   {
+    "name": "The Lives of Others",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-lives-of-others-0405094"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Ulrich Mühe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ulrich%20M%C3%BChe"
+   },
+   {
+    "name": "Martina Gedeck",
+    "category": "Cast",
+    "url": "stremio:///search?search=Martina%20Gedeck"
+   },
+   {
+    "name": "Sebastian Koch",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sebastian%20Koch"
+   },
+   {
+    "name": "Florian Henckel von Donnersmarck",
+    "category": "Writers",
+    "url": "stremio:///search?search=Florian%20Henckel%20von%20Donnersmarck"
+   },
+   {
+    "name": "Florian Henckel von Donnersmarck",
+    "category": "Directors",
+    "url": "stremio:///search?search=Florian%20Henckel%20von%20Donnersmarck"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0405094",
+   "hasScheduledVideos": false
+  }
+ }
+}

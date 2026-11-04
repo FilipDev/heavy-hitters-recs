@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "imdb_id": "tt0368954",
+  "name": "S-21: The Khmer Rouge Killing Machine",
+  "year": "2003",
+  "runtime": "101 min",
+  "genre": [
+   "Documentary",
+   "History",
+   "War"
+  ],
+  "released": "2004-02-11T00:00:00.000Z",
+  "director": [
+   "Rithy Panh"
+  ],
+  "writer": [
+   "Rithy Panh"
+  ],
+  "cast": [
+   "Khieu 'Poev' Ches",
+   "Yeay Cheu",
+   "Nhem En"
+  ],
+  "imdbRating": "7.2",
+  "poster": "https://images.metahub.space/poster/small/tt0368954/img",
+  "description": "Captures atrocity recalled as office procedure: survivor Vann Nath brings former Tuol Sleng guards back into the prison, where they re-enact their daily routines of shackling and paperwork and find nothing dramatic in their own memories.\n\nA unique documentary on the notorious S-21 prison, today the Tuol Sleng Genocide Museum in Phnom Penh, Cambodia, with testimony by the only surviving prisoners and former Khmer Rouge guards.",
+  "country": "Cambodia, France, Belgium, Canada, Australia, Switzerland, Czech Republic, Finland",
+  "awards": "13 wins & 4 nominations",
+  "dvdRelease": "2017-06-07T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [],
+  "moviedb_id": 43936,
+  "popularities": {
+   "moviedb": 1.3253,
+   "stremio": 0.04417666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/s21-the-khmer-rouge-killing-machine-0368954",
+  "background": "https://images.metahub.space/background/medium/tt0368954/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0368954/img",
+  "popularity": 0.04417666666666666,
+  "id": "tt0368954",
+  "genres": [
+   "Documentary",
+   "History",
+   "War"
+  ],
+  "releaseInfo": "2003",
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0368954"
+   },
+   {
+    "name": "S21: The Khmer Rouge Killing Machine",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/s21-the-khmer-rouge-killing-machine-0368954"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Khieu 'Poev' Ches",
+    "category": "Cast",
+    "url": "stremio:///search?search=Khieu%20'Poev'%20Ches"
+   },
+   {
+    "name": "Yeay Cheu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yeay%20Cheu"
+   },
+   {
+    "name": "Nhem En",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nhem%20En"
+   },
+   {
+    "name": "Rithy Panh",
+    "category": "Writers",
+    "url": "stremio:///search?search=Rithy%20Panh"
+   },
+   {
+    "name": "Rithy Panh",
+    "category": "Directors",
+    "url": "stremio:///search?search=Rithy%20Panh"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0368954",
+   "hasScheduledVideos": false
+  }
+ }
+}

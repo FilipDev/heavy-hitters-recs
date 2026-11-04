@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "awards": "26 wins & 20 nominations total",
+  "cast": [
+   "Natar Ungalaaq",
+   "Sylvia Ivalu",
+   "Peter-Henry Arnatsiaq"
+  ],
+  "country": "Canada",
+  "description": "Captures an Inuit oral epic told by the community it belongs to. Made in Igloolik, in Inuktitut, with a largely Inuit cast and crew: a rivalry, a murder, and a naked run across the ice told for centuries.\n\nThe telling of an Inuit legend of an evil spirit causing strife in the community and one warrior's endurance and battle of its menace.",
+  "director": [
+   "Zacharias Kunuk"
+  ],
+  "dvdRelease": "2018-02-05T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt0285441",
+  "moviedb_id": 13245,
+  "name": "Atanarjuat: The Fast Runner",
+  "popularity": 0.06755333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0285441/img",
+  "released": "2002-07-26T00:00:00.000Z",
+  "runtime": "172 min",
+  "trailers": [
+   {
+    "source": "Z9mrR0hu-Eo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Paul Apak Angilirq",
+   "Norman Cohn",
+   "Zacharias Kunuk"
+  ],
+  "year": "2002",
+  "popularities": {
+   "moviedb": 2.0266,
+   "stremio": 0.06755333333333334,
+   "stremio_lib": 0
+  },
+  "slug": "movie/atanarjuat-the-fast-runner-0285441",
+  "background": "https://images.metahub.space/background/medium/tt0285441/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0285441/img",
+  "id": "tt0285441",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2002",
+  "trailerStreams": [
+   {
+    "title": "Atanarjuat: The Fast Runner",
+    "ytId": "Z9mrR0hu-Eo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0285441"
+   },
+   {
+    "name": "Atanarjuat: The Fast Runner",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/atanarjuat-the-fast-runner-0285441"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Natar Ungalaaq",
+    "category": "Cast",
+    "url": "stremio:///search?search=Natar%20Ungalaaq"
+   },
+   {
+    "name": "Sylvia Ivalu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sylvia%20Ivalu"
+   },
+   {
+    "name": "Peter-Henry Arnatsiaq",
+    "category": "Cast",
+    "url": "stremio:///search?search=Peter-Henry%20Arnatsiaq"
+   },
+   {
+    "name": "Paul Apak Angilirq",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paul%20Apak%20Angilirq"
+   },
+   {
+    "name": "Norman Cohn",
+    "category": "Writers",
+    "url": "stremio:///search?search=Norman%20Cohn"
+   },
+   {
+    "name": "Zacharias Kunuk",
+    "category": "Writers",
+    "url": "stremio:///search?search=Zacharias%20Kunuk"
+   },
+   {
+    "name": "Zacharias Kunuk",
+    "category": "Directors",
+    "url": "stremio:///search?search=Zacharias%20Kunuk"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0285441",
+   "hasScheduledVideos": false
+  }
+ }
+}

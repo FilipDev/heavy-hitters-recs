@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "5 wins & 12 nominations total",
+  "cast": [
+   "Denzel Washington",
+   "Clive Owen",
+   "Jodie Foster"
+  ],
+  "country": "United States",
+  "description": "Captures a bank robbery as theatre with a purpose you have to wait for. Manhattan hostages dressed identically to the robbers, a detective and a fixer circling each other, and a heist whose real target isn't the money.\n\nA police detective, a bank robber and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+  "director": [
+   "Spike Lee"
+  ],
+  "dvdRelease": "2016-04-03T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0454848",
+  "moviedb_id": 388,
+  "name": "Inside Man",
+  "popularity": 0.36706333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0454848/img",
+  "released": "2006-03-24T00:00:00.000Z",
+  "runtime": "129 min",
+  "trailers": [
+   {
+    "source": "4G7n7O5pel0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Russell Gewirtz"
+  ],
+  "year": "2006",
+  "background": "https://images.metahub.space/background/medium/tt0454848/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0454848/img",
+  "popularities": {
+   "moviedb": 11.0119,
+   "stremio": 0.36706333333333335,
+   "trakt": 11,
+   "stremio_lib": 0
+  },
+  "slug": "movie/inside-man-0454848",
+  "id": "tt0454848",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "releaseInfo": "2006",
+  "trailerStreams": [
+   {
+    "title": "Inside Man",
+    "ytId": "4G7n7O5pel0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0454848"
+   },
+   {
+    "name": "Inside Man",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/inside-man-0454848"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Denzel Washington",
+    "category": "Cast",
+    "url": "stremio:///search?search=Denzel%20Washington"
+   },
+   {
+    "name": "Clive Owen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Clive%20Owen"
+   },
+   {
+    "name": "Jodie Foster",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jodie%20Foster"
+   },
+   {
+    "name": "Russell Gewirtz",
+    "category": "Writers",
+    "url": "stremio:///search?search=Russell%20Gewirtz"
+   },
+   {
+    "name": "Spike Lee",
+    "category": "Directors",
+    "url": "stremio:///search?search=Spike%20Lee"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0454848",
+   "hasScheduledVideos": false
+  }
+ }
+}

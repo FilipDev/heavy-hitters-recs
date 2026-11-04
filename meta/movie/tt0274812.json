@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "15 wins & 26 nominations total",
+  "cast": [
+   "James Spader",
+   "Maggie Gyllenhaal",
+   "Jeremy Davies"
+  ],
+  "country": "United States",
+  "description": "Captures kink as, for one specific person, a form of self-knowledge. A young woman fresh out of hospital for self-harm takes a typing job with a demanding lawyer, in a relationship the film treats as tender rather than a diagnosis.\n\nA timid young woman starts working for a demanding lawyer and finds a new way to deal with her self-harming urges.",
+  "director": [
+   "Steven Shainberg"
+  ],
+  "dvdRelease": "2015-12-20T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "6.8",
+  "imdb_id": "tt0274812",
+  "moviedb_id": 11013,
+  "name": "Secretary",
+  "popularity": 0.30829,
+  "poster": "https://images.metahub.space/poster/small/tt0274812/img",
+  "released": "2002-10-11T00:00:00.000Z",
+  "runtime": "111 min",
+  "trailers": [
+   {
+    "source": "00zGV6p-dKc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Erin Cressida Wilson",
+   "Mary Gaitskill",
+   "Steven Shainberg"
+  ],
+  "year": "2002",
+  "background": "https://images.metahub.space/background/medium/tt0274812/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0274812/img",
+  "popularities": {
+   "moviedb": 9.2487,
+   "stremio": 0.30829,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/secretary-0274812",
+  "id": "tt0274812",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2002",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Secretary",
+    "ytId": "00zGV6p-dKc"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0274812"
+   },
+   {
+    "name": "Secretary",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/secretary-0274812"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "James Spader",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Spader"
+   },
+   {
+    "name": "Maggie Gyllenhaal",
+    "category": "Cast",
+    "url": "stremio:///search?search=Maggie%20Gyllenhaal"
+   },
+   {
+    "name": "Jeremy Davies",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeremy%20Davies"
+   },
+   {
+    "name": "Erin Cressida Wilson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Erin%20Cressida%20Wilson"
+   },
+   {
+    "name": "Mary Gaitskill",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mary%20Gaitskill"
+   },
+   {
+    "name": "Steven Shainberg",
+    "category": "Writers",
+    "url": "stremio:///search?search=Steven%20Shainberg"
+   },
+   {
+    "name": "Steven Shainberg",
+    "category": "Directors",
+    "url": "stremio:///search?search=Steven%20Shainberg"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0274812",
+   "hasScheduledVideos": false
+  }
+ }
+}

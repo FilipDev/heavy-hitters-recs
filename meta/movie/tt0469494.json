@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "awards": "Won 2 Oscars. 114 wins & 138 nominations total",
+  "cast": [
+   "Daniel Day-Lewis",
+   "Paul Dano",
+   "Ciarán Hinds"
+  ],
+  "country": "United States",
+  "description": "Captures acquisition as a religion with one worshipper. An oil prospector buys land, builds derricks, adopts a son as a prop, spars with a preacher, and hollows out in proportion to his success.\n\nA story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+  "director": [
+   "Paul Thomas Anderson"
+  ],
+  "dvdRelease": "2012-02-24T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0469494",
+  "moviedb_id": 7345,
+  "name": "There Will Be Blood",
+  "popularity": 0.5241466666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0469494/img",
+  "released": "2008-01-25T00:00:00.000Z",
+  "runtime": "158 min",
+  "trailers": [
+   {
+    "source": "-bEwlq_7f4s",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Paul Thomas Anderson",
+   "Upton Sinclair"
+  ],
+  "year": "2008",
+  "background": "https://images.metahub.space/background/medium/tt0469494/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0469494/img",
+  "popularities": {
+   "moviedb": 15.7244,
+   "stremio": 0.5241466666666666,
+   "trakt": 12,
+   "stremio_lib": 0
+  },
+  "slug": "movie/there-will-be-blood-0469494",
+  "id": "tt0469494",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2008",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "There Will Be Blood",
+    "ytId": "-bEwlq_7f4s"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0469494"
+   },
+   {
+    "name": "There Will Be Blood",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/there-will-be-blood-0469494"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Daniel Day-Lewis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Daniel%20Day-Lewis"
+   },
+   {
+    "name": "Paul Dano",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Dano"
+   },
+   {
+    "name": "Ciarán Hinds",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ciar%C3%A1n%20Hinds"
+   },
+   {
+    "name": "Paul Thomas Anderson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Paul%20Thomas%20Anderson"
+   },
+   {
+    "name": "Upton Sinclair",
+    "category": "Writers",
+    "url": "stremio:///search?search=Upton%20Sinclair"
+   },
+   {
+    "name": "Paul Thomas Anderson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Paul%20Thomas%20Anderson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0469494",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "id": "tt0336693",
+  "imdb_id": "tt0336693",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0336693/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0336693/img",
+  "background": "https://live.metahub.space/background/medium/tt0336693/img",
+  "moviedb_id": 44065,
+  "name": "The House Is Black",
+  "description": "Captures the refusal to look away turned tender: poet Forugh Farrokhzad films inside an Iranian leper colony — classes, a wedding, prayer — reading her own poetry over faces the world had agreed not to see.\n\nSet in a leper colony in the north of Iran, The House is Black juxtaposes \"ugliness,\" of which there is much in the world as stated in the opening scenes, with religion and gratitude.",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1963",
+  "runtime": "21 min",
+  "trailers": [],
+  "cast": [
+   "Forugh Farrokhzad",
+   "Ebrahim Golestan",
+   "Hossein Mansouri"
+  ],
+  "credits_cast": [
+   {
+    "character": "Narrator (voice) (uncredited)",
+    "name": "Forugh Farrokhzad",
+    "profile_path": "/ovU6BfjCpoXLxWYcBMoogMOiju7.jpg",
+    "id": 1174367
+   },
+   {
+    "character": "Narrator (voice) (uncredited)",
+    "name": "Ebrahim Golestan",
+    "profile_path": "/fRX25Y4CQJ4tQivoLrbBuQG3n7p.jpg",
+    "id": 1128485
+   },
+   {
+    "character": "Self (uncredited)",
+    "name": "Hossein Mansouri",
+    "profile_path": null,
+    "id": 1876244
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Forugh Farrokhzad",
+    "profile_path": "/ovU6BfjCpoXLxWYcBMoogMOiju7.jpg",
+    "id": 1174367
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Forugh Farrokhzad",
+    "profile_path": "/ovU6BfjCpoXLxWYcBMoogMOiju7.jpg",
+    "id": 1174367
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Ebrahim Golestan",
+    "profile_path": "/fRX25Y4CQJ4tQivoLrbBuQG3n7p.jpg",
+    "id": 1128485
+   }
+  ],
+  "director": [
+   "Forugh Farrokhzad"
+  ],
+  "imdbRating": "7.8",
+  "language": "Persian",
+  "country": "Iran",
+  "slug": "movie/the-house-is-black-0336693",
+  "behaviorHints": {
+   "defaultVideoId": "tt0336693",
+   "hasScheduledVideos": false
+  }
+ }
+}

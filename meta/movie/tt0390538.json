@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "imdb_id": "tt0390538",
+  "popularities": {
+   "moviedb": 2.3671,
+   "stremio": 0.07890333333333334,
+   "stremio_lib": 0
+  },
+  "name": "Tarnation",
+  "year": "2003",
+  "runtime": "91 min",
+  "genre": [
+   "Documentary",
+   "Biography"
+  ],
+  "released": "2004-11-10T00:00:00.000Z",
+  "director": [
+   "Jonathan Caouette"
+  ],
+  "writer": [
+   "Jonathan Caouette"
+  ],
+  "cast": [
+   "Jonathan Caouette",
+   "Renee Leblanc",
+   "Adolph Davis"
+  ],
+  "imdbRating": "7.1",
+  "poster": "https://images.metahub.space/poster/small/tt0390538/img",
+  "description": "Captures self-documentation as survival strategy. Caouette assembles his life from family photos, answering-machine tapes and home video — a mother destroyed by shock treatments and lithium, a childhood spent performing for cameras — edited on iMovie for a few hundred dollars.\n\nFilmmaker Jonathan Caouette's documentary on growing up with his schizophrenic mother -- a mixture of snapshots, Super-8 film, answering machine messages, video diaries, early short films, and more - culled from nineteen years of ...",
+  "country": "United States",
+  "awards": "9 wins & 12 nominations",
+  "dvdRelease": "2005-05-17T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "Gz74_hpl9bU",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 1435,
+  "slug": "movie/tarnation-0390538",
+  "background": "https://images.metahub.space/background/medium/tt0390538/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0390538/img",
+  "popularity": 0.07890333333333334,
+  "id": "tt0390538",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "releaseInfo": "2003",
+  "trailerStreams": [
+   {
+    "title": "Tarnation",
+    "ytId": "Gz74_hpl9bU"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0390538"
+   },
+   {
+    "name": "Tarnation",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tarnation-0390538"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Jonathan Caouette",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jonathan%20Caouette"
+   },
+   {
+    "name": "Renee Leblanc",
+    "category": "Cast",
+    "url": "stremio:///search?search=Renee%20Leblanc"
+   },
+   {
+    "name": "Adolph Davis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adolph%20Davis"
+   },
+   {
+    "name": "Jonathan Caouette",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jonathan%20Caouette"
+   },
+   {
+    "name": "Jonathan Caouette",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jonathan%20Caouette"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0390538",
+   "hasScheduledVideos": false
+  }
+ }
+}
