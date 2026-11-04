@@ -11,8 +11,13 @@ Documentary to two, and the base catalog to four).
 
 Every entry carries its verified IMDb ID, poster/backdrop (via
 images.metahub.space), year, genres, runtime, director and the
-“powerfully captures…” description from the dashboard. Streams, casting
-and Add to Library are Stremio's own — this addon is catalog-only.
+“powerfully captures…” description from the dashboard. The addon also
+serves each film's detail page (the `meta` resource, one static file per
+film under `meta/movie/<tt>.json`): the description there combines the
+“powerfully captures…” note with the IMDb synopsis, and the remaining
+detail data (rating, cast, links) is Cinemeta's own meta, preserved
+as-is. Streams and casting are Stremio's own — this addon provides the
+catalog and film details only.
 
 ## Files
 

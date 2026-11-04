@@ -26,6 +26,22 @@ films, _ = json.JSONDecoder().raw_decode(s[i:])
 assert len(films) == 363, len(films)
 assert len({f['imdb'] for f in films}) == 363
 
+# Cinemeta harvest (IMDb synopses + full Cinemeta meta), built by
+# ../movie-fold/harvest_cinemeta.py. Used to merge descriptions and to
+# serve the meta resource, so a film's Stremio page shows BOTH the
+# "powerfully captures..." note and the IMDb synopsis.
+_cache_path = os.path.join(HERE, '..', 'movie-fold', 'cinemeta-cache.json')
+CINEMETA = {}
+if os.path.exists(_cache_path):
+    CINEMETA = json.load(open(_cache_path))
+
+def merged_desc(f):
+    ours = f['desc']
+    theirs = (CINEMETA.get(f['imdb']) or {}).get('description')
+    if theirs and theirs.strip() and theirs.strip() not in ours:
+        return ours + '\n\n' + theirs.strip()
+    return ours
+
 def meta(f):
     tt = f['imdb']
     return {
@@ -39,8 +55,21 @@ def meta(f):
         'year': f['y'],
         'runtime': f"{f['m']} min",
         'director': f['d'],
-        'description': f['desc'],
+        'description': merged_desc(f),
     }
+
+def full_meta(f):
+    """Detail-page meta: Cinemeta's own meta (rating, cast, links) with the
+    description replaced by the merged one; the catalog meta as fallback."""
+    cm = (CINEMETA.get(f['imdb']) or {}).get('meta')
+    if not cm:
+        return meta(f)
+    m = dict(cm)
+    m['id'] = f['imdb']
+    m['type'] = 'movie'
+    m['name'] = f['t']
+    m['description'] = merged_desc(f)
+    return m
 
 genres = sorted({g for f in films for g in f['g']})
 
@@ -78,10 +107,10 @@ for g in genres:
 
 manifest = {
     'id': 'community.recommendations192',
-    'version': '1.2.0',
+    'version': '1.3.0',
     'name': 'Heavy Hitters',
-    'description': 'Heavy Hitters: a personally curated list of films, each one chosen because it powerfully captures something specific — searing documentaries, poetic world cinema, confrontational classics and quiet masterpieces, spanning a century of film and every emotional intensity. One catalog, browsable by genre in Stremio\'s Discover. Catalog only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
-    'resources': ['catalog'],
+    'description': 'Heavy Hitters: a personally curated list of films, each one chosen because it powerfully captures something specific — searing documentaries, poetic world cinema, confrontational classics and quiet masterpieces, spanning a century of film and every emotional intensity. One catalog, browsable by genre in Stremio\'s Discover. Catalog and film details only: streams come from your other Stremio addons, and every film can be played, cast and added to your library natively in Stremio.',
+    'resources': ['catalog', 'meta'],
     'types': ['movie'],
     'idPrefixes': ['tt'],
     'catalogs': [
@@ -96,6 +125,14 @@ manifest = {
 }
 with open(os.path.join(HERE, 'manifest.json'), 'w') as fh:
     json.dump(manifest, fh, ensure_ascii=False, indent=1)
+
+# Detail-page metas: meta/movie/<tt>.json, one per film
+metadir = os.path.join(HERE, 'meta', 'movie')
+shutil.rmtree(os.path.join(HERE, 'meta'), ignore_errors=True)
+os.makedirs(metadir, exist_ok=True)
+for f in films:
+    with open(os.path.join(metadir, f"{f['imdb']}.json"), 'w') as fh:
+        json.dump({'meta': full_meta(f)}, fh, ensure_ascii=False, indent=1)
 
 print(f'films=363 genres={len(genres)}')
 print('genre counts:', json.dumps(genre_counts, ensure_ascii=False))
