@@ -1,6 +1,6 @@
 # Heavy Hitters — static Stremio catalog addon
 
-A purely static Stremio addon (no server code) that publishes the 363-film
+A purely static Stremio addon (no server code) that publishes the
 recommendation list as ONE catalog, **Heavy Hitters**
 (`recommendations-192`). The manifest declares a `genre` extra with all
 23 genres in the list, so Stremio's Discover page offers a genre selector
