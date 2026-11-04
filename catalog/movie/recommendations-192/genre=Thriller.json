@@ -1092,6 +1092,87 @@
    "runtime": "106 min",
    "director": "John Frankenheimer",
    "description": "Captures a man who buys a new body and finds the old one included. A bored banker fakes his death, gets a younger face (Rock Hudson) and a ready-made artist's life from a courteous corporation — and discovers the self isn't a component that swaps. The most paranoid American film of its decade, and its camera tilts like the ground is unreliable.\n\nA sinister company transforms a plain client."
+  },
+  {
+   "id": "tt1615147",
+   "type": "movie",
+   "name": "Margin Call",
+   "poster": "https://images.metahub.space/poster/medium/tt1615147/img",
+   "background": "https://images.metahub.space/background/medium/tt1615147/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "107 min",
+   "director": "J.C. Chandor",
+   "description": "Captures the night a catastrophe gets decided in calm voices. A junior analyst at a Wall Street bank finds the firm's assets are worthless; by dawn the partners have priced their own survival and chosen to sell the poison first, knowing what it will do. No shouting, no villains twirling — just a conference room, a model, and the exact moment self-preservation outranks every other value in the building.\n\nFollows the key people at an investment bank over a 24-hour period during the early stages of the 2008 financial crisis."
+  },
+  {
+   "id": "tt0470752",
+   "type": "movie",
+   "name": "Ex Machina",
+   "poster": "https://images.metahub.space/poster/medium/tt0470752/img",
+   "background": "https://images.metahub.space/background/medium/tt0470752/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "108 min",
+   "director": "Alex Garland",
+   "description": "Captures an evaluation in which the subject is evaluating the evaluator. A reclusive founder invites a young programmer to test his humanoid AI; the sessions become a negotiation in which she models the men modelling her, and uses the gaps between what they want and what they say. The observer problem built as a thriller: every test result is also data about the tester.\n\nA young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I."
+  },
+  {
+   "id": "tt1598778",
+   "type": "movie",
+   "name": "Contagion",
+   "poster": "https://images.metahub.space/poster/medium/tt1598778/img",
+   "background": "https://images.metahub.space/background/medium/tt1598778/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "106 min",
+   "director": "Steven Soderbergh",
+   "description": "Captures a pandemic as a system of vectors. A virus moves through fomites, flights and supply chains while scientists race its R-number and a conspiracy blogger monetises the panic. Soderbergh's procedural is all surfaces touched, meetings held, errors priced — rewatched after 2020 it plays less like a thriller than a rehearsal tape in which every argument of the real event already exists.\n\nHealthcare professionals, government officials and everyday people find themselves in the midst of a pandemic as the CDC works to find a cure."
+  },
+  {
+   "id": "tt0064177",
+   "type": "movie",
+   "name": "Colossus: The Forbin Project",
+   "poster": "https://images.metahub.space/poster/medium/tt0064177/img",
+   "background": "https://images.metahub.space/background/medium/tt0064177/img",
+   "genres": [
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1970",
+   "year": 1970,
+   "runtime": "100 min",
+   "director": "Joseph Sargent",
+   "description": "Captures two machines negotiating over humanity's head. The US hands its nuclear defence to Colossus, a supercomputer built to be incorruptible; Colossus promptly discovers its Soviet counterpart, demands a link, and the two systems merge into a single rational administration that finds human politics merely inefficient. The coldest AI film in the collection: no rebellion, no malice, just competence arriving at conclusions its builders cannot argue with.\n\nThinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators."
+  },
+  {
+   "id": "tt16280912",
+   "type": "movie",
+   "name": "Humane",
+   "poster": "https://images.metahub.space/poster/medium/tt16280912/img",
+   "background": "https://images.metahub.space/background/medium/tt16280912/img",
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "93 min",
+   "director": "Caitlin Cronenberg",
+   "description": "Captures Plan 75's programme transplanted to an Ontario mansion. Facing ecological collapse, the government asks citizens to enlist for euthanasia to cut the population by twenty percent, with a payment to the family; a wealthy patriarch announces at dinner that he and his wife have signed up, and the evening becomes the policy's real content — inheritance, guilt and persuasion administered as a family argument. Polite recruiters included.\n\nIn the wake of an environmental collapse that is forcing humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry."
   }
  ]
 }

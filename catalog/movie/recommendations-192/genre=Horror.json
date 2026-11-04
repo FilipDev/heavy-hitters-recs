@@ -498,6 +498,22 @@
    "runtime": "6 min",
    "director": "Don Hertzfeldt",
    "description": "Captures a man having a wisdom tooth pulled, and his friend asking to pull the stitches. Five minutes, one dental thread, escalating commitment to a single bad idea. The palate cleanser of the catalogue, placed here as programmed.\n\nNigel does his best to help with his friend's simple request."
+  },
+  {
+   "id": "tt16280912",
+   "type": "movie",
+   "name": "Humane",
+   "poster": "https://images.metahub.space/poster/medium/tt16280912/img",
+   "background": "https://images.metahub.space/background/medium/tt16280912/img",
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "93 min",
+   "director": "Caitlin Cronenberg",
+   "description": "Captures Plan 75's programme transplanted to an Ontario mansion. Facing ecological collapse, the government asks citizens to enlist for euthanasia to cut the population by twenty percent, with a payment to the family; a wealthy patriarch announces at dinner that he and his wife have signed up, and the evening becomes the policy's real content — inheritance, guilt and persuasion administered as a family argument. Polite recruiters included.\n\nIn the wake of an environmental collapse that is forcing humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry."
   }
  ]
 }

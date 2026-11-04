@@ -1,0 +1,105 @@
+{
+ "metas": [
+  {
+   "id": "tt0120885",
+   "type": "movie",
+   "name": "Wag the Dog",
+   "poster": "https://images.metahub.space/poster/medium/tt0120885/img",
+   "background": "https://images.metahub.space/background/medium/tt0120885/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "97 min",
+   "director": "Barry Levinson",
+   "description": "Captures a war invented as a news product. Days before an election, a spin doctor and a Hollywood producer fabricate a conflict with Albania — studio footage, a theme song, a hero — and the media system amplifies it because it fits the format. Made in 1997 with fax-era technology and exact about every mechanism that matters now: the invented event is cheaper, cleaner and more narratable than the real one.\n\nShortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal."
+  },
+  {
+   "id": "tt5688932",
+   "type": "movie",
+   "name": "Sorry to Bother You",
+   "poster": "https://images.metahub.space/poster/medium/tt5688932/img",
+   "background": "https://images.metahub.space/background/medium/tt5688932/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "112 min",
+   "director": "Boots Riley",
+   "description": "Captures code-switching as survival technology. A broke Oakland telemarketer is taught to use his \"white voice\" and rockets up the company — floor by floor, perk by perk — toward the literal endgame of platform labour, where the worker himself becomes the asset. Boots Riley's satire escalates by following the incentive one step further each time, until the absurdity is just the business model with the lights on.\n\nIn an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success--that propels him into a universe of greed."
+  },
+  {
+   "id": "tt0258153",
+   "type": "movie",
+   "name": "S1m0ne",
+   "poster": "https://images.metahub.space/poster/medium/tt0258153/img",
+   "background": "https://images.metahub.space/background/medium/tt0258153/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "117 min",
+   "director": "Andrew Niccol",
+   "description": "Captures a synthetic person the public prefers to a real one. A producer whose star actress walks out replaces her with Simulation One — a digital performer assembled from the greats — and the forgery becomes the bigger star, demanding interviews, an Oscar, a life. Niccol made it in 2002, before deepfakes, virtual influencers and AI actresses; the satire has spent twenty years quietly becoming a documentary premise.\n\nA producer's film is endangered when his star walks off, so he decides to digitally create an actress to substitute for the star, becoming an overnight sensation that everyone thinks is a real person."
+  },
+  {
+   "id": "tt10110614",
+   "type": "movie",
+   "name": "Apples",
+   "poster": "https://images.metahub.space/poster/medium/tt10110614/img",
+   "background": "https://images.metahub.space/background/medium/tt10110614/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "91 min",
+   "director": "Christos Nikou",
+   "description": "Captures a self issued by a bureaucracy. An epidemic of sudden, permanent amnesia leaves the unclaimed amnesiacs to a state programme that rebuilds their identities from cassette-tape instructions: ride a bike, eat an apple, jump from a height, record it all on Polaroids. Nikou's deadpan Greek dystopia is about what a person is when their past arrives as a form to complete — memory as paperwork, completed diligently.\n\nAmidst a worldwide pandemic that causes sudden amnesia, middle-aged Aris finds himself enrolled in a recovery program designed to help unclaimed patients build new identities."
+  },
+  {
+   "id": "tt9005184",
+   "type": "movie",
+   "name": "Dual",
+   "poster": "https://images.metahub.space/poster/medium/tt9005184/img",
+   "background": "https://images.metahub.space/background/medium/tt9005184/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "94 min",
+   "director": "Riley Stearns",
+   "description": "Captures cloning as a consumer service with terms and conditions. Told she is dying, a woman purchases a double to take over her life — trained, delivered, hers — then recovers, and learns the contract's other clause: one of them must be removed, in a court-ordered duel a year later. Stearns shoots every step as a transaction handled by calm professionals; the deadpan is the critique.\n\nA woman opts for a cloning procedure after she receives a terminal diagnosis but when she recovers her attempts to have her clone decommissioned fail, leading to a court-mandated duel to the death."
+  },
+  {
+   "id": "tt15768848",
+   "type": "movie",
+   "name": "The Pod Generation",
+   "poster": "https://images.metahub.space/poster/medium/tt15768848/img",
+   "background": "https://images.metahub.space/background/medium/tt15768848/img",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "110 min",
+   "director": "Sophie Barthes",
+   "description": "Captures a radical change arriving as a corporate benefit. In a near-future New York where natural pregnancy is inefficient, risky and increasingly uninsurable, couples gestate in detachable pods supplied by a tech company — the womb as a managed device with an app, a waiting list and a brand. Softer than the other dystopias in this batch, and exact about the mechanism: nothing is imposed, everything is offered, and the offer is very good.\n\nIn a not-so-distant future, tech giant Pegazus offers couples the opportunity to share their pregnancies via detachable artificial wombs or pods. And so begins Rachel and Alvy's wild ride to parenthood in this brave new world."
+  }
+ ]
+}

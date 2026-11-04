@@ -1294,6 +1294,57 @@
    "runtime": "109 min",
    "director": "Ingmar Bergman",
    "description": "Captures Bergman being funny, which turns out to mean Bergman being exact about desire instead of death. Couples mismatched by age and appetite rotate through a country weekend engineered by a grandmother and a bottle of wine; by dawn the pairings have re-sorted. The light register of the director your list knows at his heaviest — proof the same precision plays as farce.\n\nIn Sweden at the turn of the century, members of the upper class and their servants find themselves in a romantic tangle that they try to work out amidst jealousy and heartbreak."
+  },
+  {
+   "id": "tt13968674",
+   "type": "movie",
+   "name": "Fingernails",
+   "poster": "https://images.metahub.space/poster/medium/tt13968674/img",
+   "background": "https://images.metahub.space/background/medium/tt13968674/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "113 min",
+   "director": "Christos Nikou",
+   "description": "Captures love administered as certification. An institute can prove, by matching fingernails pulled from both partners, whether a couple is truly in love — positive, negative, or the dreaded half-positive — and couples take its courses, do its exercises and risk the nail to pass. From the director of Apples: the same administered interiority, now with a test, a score, and a training programme for feelings.\n\nAnna and Ryan have found true love, and it's proven by a controversial new technology. There's just one problem, as Anna still isn't sure. Then she takes a position at a love testing institute and meets Amir."
+  },
+  {
+   "id": "tt1334260",
+   "type": "movie",
+   "name": "Never Let Me Go",
+   "poster": "https://images.metahub.space/poster/medium/tt1334260/img",
+   "background": "https://images.metahub.space/background/medium/tt1334260/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "103 min",
+   "director": "Mark Romanek",
+   "description": "Captures a monstrous policy absorbed into timetables and good manners. Children cloned to become organ donors are raised at an English boarding school that teaches them to be proud of their purpose; grown, they mostly do not rebel — they apply, through the proper channels, for deferrals. Ishiguro's premise filmed at the temperature of a school story: the foundational text of the administered dystopia, and the quietest film in this batch.\n\nThe lives of three friends, from their early school days into young adulthood, when the reality of the world they live in comes knocking."
+  },
+  {
+   "id": "tt15768848",
+   "type": "movie",
+   "name": "The Pod Generation",
+   "poster": "https://images.metahub.space/poster/medium/tt15768848/img",
+   "background": "https://images.metahub.space/background/medium/tt15768848/img",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "110 min",
+   "director": "Sophie Barthes",
+   "description": "Captures a radical change arriving as a corporate benefit. In a near-future New York where natural pregnancy is inefficient, risky and increasingly uninsurable, couples gestate in detachable pods supplied by a tech company — the womb as a managed device with an app, a waiting list and a brand. Softer than the other dystopias in this batch, and exact about the mechanism: nothing is imposed, everything is offered, and the offer is very good.\n\nIn a not-so-distant future, tech giant Pegazus offers couples the opportunity to share their pregnancies via detachable artificial wombs or pods. And so begins Rachel and Alvy's wild ride to parenthood in this brave new world."
   }
  ]
 }

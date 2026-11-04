@@ -879,6 +879,23 @@
    "runtime": "96 min",
    "director": "Marjane Satrapi & Vincent Paronnaud",
    "description": "Captures a girlhood unfolding against a revolution, drawn in stark black and white. Marji in Tehran: veils imposed, uncles disappearing, contraband Iron Maiden, exile to Vienna, return, depression, departure again. The flat graphic style does what live action couldn't — a child's-eye scale where a key to paradise and a punk cassette are the same size, because to her they were.\n\nA precocious and outspoken Iranian girl grows up during the Islamic Revolution."
+  },
+  {
+   "id": "tt1596363",
+   "type": "movie",
+   "name": "The Big Short",
+   "poster": "https://images.metahub.space/poster/medium/tt1596363/img",
+   "background": "https://images.metahub.space/background/medium/tt1596363/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "130 min",
+   "director": "Adam McKay",
+   "description": "Captures a true signal that nobody could afford to believe. A handful of outsiders read the US housing market correctly — the loans were fraudulent, the bonds were poison, the ratings were bought — and discover that being right early looks identical to being wrong, and costs the same. The companion piece to Inside Job: that film shows the machine, this one shows what the machine does to accurate information.\n\nPrior to the 2008 financial crisis, a group of investors bet against the US mortgage market and are stunned by the corruption they uncover through their research."
   }
  ]
 }

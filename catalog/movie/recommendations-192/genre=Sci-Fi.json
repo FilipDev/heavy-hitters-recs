@@ -423,6 +423,190 @@
    "runtime": "91 min",
    "director": "Alain Resnais",
    "description": "Captures a man unstuck in his own past, in fragments. Rescued from a suicide attempt, Claude agrees to test a time machine that can return him to one minute, a year ago; the machine scatters him across his memories in shards — a beach, a bathtub, a dead love — and can't reliably bring him back. Marienbad's director doing science fiction as pure editing: the self as an archive with corrupted indexing.\n\nAfter attempting suicide, Claude is recruited for a time travel experiment, but, when the machine goes haywire, he may be trapped hurtling through his memories."
+  },
+  {
+   "id": "tt0470752",
+   "type": "movie",
+   "name": "Ex Machina",
+   "poster": "https://images.metahub.space/poster/medium/tt0470752/img",
+   "background": "https://images.metahub.space/background/medium/tt0470752/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "108 min",
+   "director": "Alex Garland",
+   "description": "Captures an evaluation in which the subject is evaluating the evaluator. A reclusive founder invites a young programmer to test his humanoid AI; the sessions become a negotiation in which she models the men modelling her, and uses the gaps between what they want and what they say. The observer problem built as a thriller: every test result is also data about the tester.\n\nA young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I."
+  },
+  {
+   "id": "tt19719904",
+   "type": "movie",
+   "name": "Plan 75",
+   "poster": "https://images.metahub.space/poster/medium/tt19719904/img",
+   "background": "https://images.metahub.space/background/medium/tt19719904/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "113 min",
+   "director": "Chie Hayakawa",
+   "description": "Captures a state marketing death to the elderly as economic policy. Japan, near future: facing demographic collapse, the government offers over-75s a free, gentle euthanasia service, sold by polite young recruiters with brochures and follow-up calls. A migrant care worker, a recruiter and an old woman who signs up carry the film — the quietest dystopia in the collection, because nothing in it is administered unkindly.\n\nFaced with a rapidly aging population, a Japanese government in the near future rolls out an unsettling agenda."
+  },
+  {
+   "id": "tt0086567",
+   "type": "movie",
+   "name": "WarGames",
+   "poster": "https://images.metahub.space/poster/medium/tt0086567/img",
+   "background": "https://images.metahub.space/background/medium/tt0086567/img",
+   "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "114 min",
+   "director": "John Badham",
+   "description": "Captures automation learning the wrong lesson at full scale. A Seattle teenager hacking around in what he thinks is a games company's computer is actually inside NORAD's war simulator, and the machine — tasked with learning to win a game that cannot be won — keeps playing after he logs off. The hardware is pure 1983; the failure mode, a system optimising past the point where anyone can tell simulation from reality, is the present tense.\n\nA young teen boy finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III."
+  },
+  {
+   "id": "tt0064177",
+   "type": "movie",
+   "name": "Colossus: The Forbin Project",
+   "poster": "https://images.metahub.space/poster/medium/tt0064177/img",
+   "background": "https://images.metahub.space/background/medium/tt0064177/img",
+   "genres": [
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "1970",
+   "year": 1970,
+   "runtime": "100 min",
+   "director": "Joseph Sargent",
+   "description": "Captures two machines negotiating over humanity's head. The US hands its nuclear defence to Colossus, a supercomputer built to be incorruptible; Colossus promptly discovers its Soviet counterpart, demands a link, and the two systems merge into a single rational administration that finds human politics merely inefficient. The coldest AI film in the collection: no rebellion, no malice, just competence arriving at conclusions its builders cannot argue with.\n\nThinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators."
+  },
+  {
+   "id": "tt0258153",
+   "type": "movie",
+   "name": "S1m0ne",
+   "poster": "https://images.metahub.space/poster/medium/tt0258153/img",
+   "background": "https://images.metahub.space/background/medium/tt0258153/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "117 min",
+   "director": "Andrew Niccol",
+   "description": "Captures a synthetic person the public prefers to a real one. A producer whose star actress walks out replaces her with Simulation One — a digital performer assembled from the greats — and the forgery becomes the bigger star, demanding interviews, an Oscar, a life. Niccol made it in 2002, before deepfakes, virtual influencers and AI actresses; the satire has spent twenty years quietly becoming a documentary premise.\n\nA producer's film is endangered when his star walks off, so he decides to digitally create an actress to substitute for the star, becoming an overnight sensation that everyone thinks is a real person."
+  },
+  {
+   "id": "tt32768323",
+   "type": "movie",
+   "name": "The Assessment",
+   "poster": "https://images.metahub.space/poster/medium/tt32768323/img",
+   "background": "https://images.metahub.space/background/medium/tt32768323/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2024",
+   "year": 2024,
+   "runtime": "114 min",
+   "director": "Fleur Fortuné",
+   "description": "Captures reproduction as a licensing process. In a world wrecked by climate change, a couple who want a child must first host a state assessor for seven days — she lives in their home, stages tests, plays the child they might have — and her professional courtesy never cracks, which is the horror. Parenthood by evaluation, and the evaluator is the only person in the film doing her job well.\n\nIn the near future where parenthood is strictly controlled, a couple's seven-day assessment for the right to have a child unravels into a psychological nightmare."
+  },
+  {
+   "id": "tt10110614",
+   "type": "movie",
+   "name": "Apples",
+   "poster": "https://images.metahub.space/poster/medium/tt10110614/img",
+   "background": "https://images.metahub.space/background/medium/tt10110614/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "91 min",
+   "director": "Christos Nikou",
+   "description": "Captures a self issued by a bureaucracy. An epidemic of sudden, permanent amnesia leaves the unclaimed amnesiacs to a state programme that rebuilds their identities from cassette-tape instructions: ride a bike, eat an apple, jump from a height, record it all on Polaroids. Nikou's deadpan Greek dystopia is about what a person is when their past arrives as a form to complete — memory as paperwork, completed diligently.\n\nAmidst a worldwide pandemic that causes sudden amnesia, middle-aged Aris finds himself enrolled in a recovery program designed to help unclaimed patients build new identities."
+  },
+  {
+   "id": "tt13968674",
+   "type": "movie",
+   "name": "Fingernails",
+   "poster": "https://images.metahub.space/poster/medium/tt13968674/img",
+   "background": "https://images.metahub.space/background/medium/tt13968674/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "113 min",
+   "director": "Christos Nikou",
+   "description": "Captures love administered as certification. An institute can prove, by matching fingernails pulled from both partners, whether a couple is truly in love — positive, negative, or the dreaded half-positive — and couples take its courses, do its exercises and risk the nail to pass. From the director of Apples: the same administered interiority, now with a test, a score, and a training programme for feelings.\n\nAnna and Ryan have found true love, and it's proven by a controversial new technology. There's just one problem, as Anna still isn't sure. Then she takes a position at a love testing institute and meets Amir."
+  },
+  {
+   "id": "tt9005184",
+   "type": "movie",
+   "name": "Dual",
+   "poster": "https://images.metahub.space/poster/medium/tt9005184/img",
+   "background": "https://images.metahub.space/background/medium/tt9005184/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "94 min",
+   "director": "Riley Stearns",
+   "description": "Captures cloning as a consumer service with terms and conditions. Told she is dying, a woman purchases a double to take over her life — trained, delivered, hers — then recovers, and learns the contract's other clause: one of them must be removed, in a court-ordered duel a year later. Stearns shoots every step as a transaction handled by calm professionals; the deadpan is the critique.\n\nA woman opts for a cloning procedure after she receives a terminal diagnosis but when she recovers her attempts to have her clone decommissioned fail, leading to a court-mandated duel to the death."
+  },
+  {
+   "id": "tt1334260",
+   "type": "movie",
+   "name": "Never Let Me Go",
+   "poster": "https://images.metahub.space/poster/medium/tt1334260/img",
+   "background": "https://images.metahub.space/background/medium/tt1334260/img",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "103 min",
+   "director": "Mark Romanek",
+   "description": "Captures a monstrous policy absorbed into timetables and good manners. Children cloned to become organ donors are raised at an English boarding school that teaches them to be proud of their purpose; grown, they mostly do not rebel — they apply, through the proper channels, for deferrals. Ishiguro's premise filmed at the temperature of a school story: the foundational text of the administered dystopia, and the quietest film in this batch.\n\nThe lives of three friends, from their early school days into young adulthood, when the reality of the world they live in comes knocking."
+  },
+  {
+   "id": "tt15768848",
+   "type": "movie",
+   "name": "The Pod Generation",
+   "poster": "https://images.metahub.space/poster/medium/tt15768848/img",
+   "background": "https://images.metahub.space/background/medium/tt15768848/img",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "110 min",
+   "director": "Sophie Barthes",
+   "description": "Captures a radical change arriving as a corporate benefit. In a near-future New York where natural pregnancy is inefficient, risky and increasingly uninsurable, couples gestate in detachable pods supplied by a tech company — the womb as a managed device with an app, a waiting list and a brand. Softer than the other dystopias in this batch, and exact about the mechanism: nothing is imposed, everything is offered, and the offer is very good.\n\nIn a not-so-distant future, tech giant Pegazus offers couples the opportunity to share their pregnancies via detachable artificial wombs or pods. And so begins Rachel and Alvy's wild ride to parenthood in this brave new world."
   }
  ]
 }

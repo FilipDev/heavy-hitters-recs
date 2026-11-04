@@ -671,6 +671,21 @@
    "runtime": "70 min",
    "director": "Corneliu Porumboiu",
    "description": "Captures a man who has spent thirty years redesigning football. After an injury ended his career, Laurențiu Ginghină concluded the rules themselves were at fault — too much running, too many collisions — and has been revising them ever since, explaining octagonal pitches to indulgent officials. A deadpan documentary about systems-thinking as a life's consolation: the local instance of a universal type.\n\nThey talk about the beautiful game, but for Laurentiu Ginghina, it's not enough. Football must be modified, streamlined, freed from restraints; corners are to be rounded off, players assigned to zones and subteams, norms revised. ..."
+  },
+  {
+   "id": "tt6156350",
+   "type": "movie",
+   "name": "HyperNormalisation",
+   "poster": "https://images.metahub.space/poster/medium/tt6156350/img",
+   "background": "https://images.metahub.space/background/medium/tt6156350/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "166 min",
+   "director": "Adam Curtis",
+   "description": "Captures a world governed by a story nobody believes anymore. Adam Curtis's essay film: after the 1970s, politicians, financiers and then tech platforms built a simplified, manageable fake version of reality — and eventually everyone, including its builders, lost the ability to act outside it. Syria, Putin, Trump, Brexit and the algorithm feed as symptoms of one condition: hypernormalisation, where the fake is known to be fake and continues anyway.\n\nAdam Curtis explains how, at a time of confusing and inexplicable world events, politicians and the people they represent have retreated in to a damaging over-simplified version of what is happening."
   }
  ]
 }

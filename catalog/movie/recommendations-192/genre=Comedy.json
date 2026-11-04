@@ -1652,6 +1652,23 @@
    "runtime": "109 min",
    "director": "Ingmar Bergman",
    "description": "Captures Bergman being funny, which turns out to mean Bergman being exact about desire instead of death. Couples mismatched by age and appetite rotate through a country weekend engineered by a grandmother and a bottle of wine; by dawn the pairings have re-sorted. The light register of the director your list knows at his heaviest — proof the same precision plays as farce.\n\nIn Sweden at the turn of the century, members of the upper class and their servants find themselves in a romantic tangle that they try to work out amidst jealousy and heartbreak."
+  },
+  {
+   "id": "tt1596363",
+   "type": "movie",
+   "name": "The Big Short",
+   "poster": "https://images.metahub.space/poster/medium/tt1596363/img",
+   "background": "https://images.metahub.space/background/medium/tt1596363/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "130 min",
+   "director": "Adam McKay",
+   "description": "Captures a true signal that nobody could afford to believe. A handful of outsiders read the US housing market correctly — the loans were fraudulent, the bonds were poison, the ratings were bought — and discover that being right early looks identical to being wrong, and costs the same. The companion piece to Inside Job: that film shows the machine, this one shows what the machine does to accurate information.\n\nPrior to the 2008 financial crisis, a group of investors bet against the US mortgage market and are stunned by the corruption they uncover through their research."
   }
  ]
 }
