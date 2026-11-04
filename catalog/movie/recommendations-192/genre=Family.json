@@ -67,6 +67,57 @@
    "runtime": "94 min",
    "director": "Abderrahmane Sissako",
    "description": "Captures occupation resisted through music, football and dignity. Jihadists take a Malian town and ban singing and soccer; people comply in public, sing quietly at night, and play a match with an invisible ball."
+  },
+  {
+   "id": "tt2576852",
+   "type": "movie",
+   "name": "The Tale of the Princess Kaguya",
+   "poster": "https://images.metahub.space/poster/medium/tt2576852/img",
+   "background": "https://images.metahub.space/background/medium/tt2576852/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "137 min",
+   "director": "Isao Takahata",
+   "description": "Captures joy being disciplined out of a girl. A bamboo cutter raises a moon princess and watches court life sand down the wild child she was, until the watercolour lines themselves start to run."
+  },
+  {
+   "id": "tt0084390",
+   "type": "movie",
+   "name": "The Ballad of Narayama",
+   "poster": "https://images.metahub.space/poster/medium/tt0084390/img",
+   "background": "https://images.metahub.space/background/medium/tt0084390/img",
+   "genres": [
+    "Drama",
+    "Family",
+    "Mystery"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "130 min",
+   "director": "Shōhei Imamura",
+   "description": "Captures a folk custom at full earthiness. Imamura's mountain village carries its old people up the peak to die at seventy, filmed with his usual gusto for sex, cruelty and teeming nature — ritual without a trace of reverence."
+  },
+  {
+   "id": "tt0095715",
+   "type": "movie",
+   "name": "Alice",
+   "poster": "https://images.metahub.space/poster/medium/tt0095715/img",
+   "background": "https://images.metahub.space/background/medium/tt0095715/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "86 min",
+   "director": "Jan Švankmajer",
+   "description": "Captures the folk tale as a child's-eye inventory of a household's dangerous things. Švankmajer's Alice moves through a Wonderland of taxidermy, bones and jam jars of pins, stop-motion objects that genuinely threaten her — Carroll's dream rebuilt from junk drawers."
   }
  ]
 }

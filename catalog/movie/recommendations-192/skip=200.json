@@ -1,0 +1,1617 @@
+{
+ "metas": [
+  {
+   "id": "tt0235198",
+   "type": "movie",
+   "name": "Audition",
+   "poster": "https://images.metahub.space/poster/medium/tt0235198/img",
+   "background": "https://images.metahub.space/background/medium/tt0235198/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "115 min",
+   "director": "Takashi Miike",
+   "description": "Captures loneliness curdling into horror by changing genre mid-film. A widower holds fake auditions to find a wife; the first hour is a sad, gentle drama before the film reveals what it actually was."
+  },
+  {
+   "id": "tt0318034",
+   "type": "movie",
+   "name": "Russian Ark",
+   "poster": "https://images.metahub.space/poster/medium/tt0318034/img",
+   "background": "https://images.metahub.space/background/medium/tt0318034/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "History"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "99 min",
+   "director": "Aleksandr Sokurov",
+   "description": "Captures 300 years of history in one held breath. A single unbroken shot drifts through the Hermitage, past czars and ballrooms, with the camera as a ghost nobody quite sees."
+  },
+  {
+   "id": "tt0387898",
+   "type": "movie",
+   "name": "Caché",
+   "poster": "https://images.metahub.space/poster/medium/tt0387898/img",
+   "background": "https://images.metahub.space/background/medium/tt0387898/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "117 min",
+   "director": "Michael Haneke",
+   "description": "Captures guilt that refuses to identify itself. A Paris family receives surveillance tapes of their own house with no demands attached; Haneke never says who sent them, because the film is about what the husband already knows."
+  },
+  {
+   "id": "tt0851578",
+   "type": "movie",
+   "name": "Paprika",
+   "poster": "https://images.metahub.space/poster/medium/tt0851578/img",
+   "background": "https://images.metahub.space/background/medium/tt0851578/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "90 min",
+   "director": "Satoshi Kon",
+   "description": "Captures dreams invading waking life as a parade. A device that lets therapists enter dreams is stolen, and reality dissolves into a marching band of refrigerators and dolls; Inception's debt is on screen."
+  },
+  {
+   "id": "tt1087578",
+   "type": "movie",
+   "name": "Still Walking",
+   "poster": "https://images.metahub.space/poster/medium/tt1087578/img",
+   "background": "https://images.metahub.space/background/medium/tt1087578/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "115 min",
+   "director": "Hirokazu Koreeda",
+   "description": "Captures a family organised around the son who isn't there. One summer day, a grown son visits parents who still prefer the dead favourite; corn fritters, a butterfly, things said by not being said."
+  },
+  {
+   "id": "tt2396224",
+   "type": "movie",
+   "name": "It's Such a Beautiful Day",
+   "poster": "https://images.metahub.space/poster/medium/tt2396224/img",
+   "background": "https://images.metahub.space/background/medium/tt2396224/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "62 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a mind coming apart, drawn with stick figures. Hertzfeldt narrates a man with a failing brain in three chapters — funny, fragmented, and by the end genuinely cosmic."
+  },
+  {
+   "id": "tt2576852",
+   "type": "movie",
+   "name": "The Tale of the Princess Kaguya",
+   "poster": "https://images.metahub.space/poster/medium/tt2576852/img",
+   "background": "https://images.metahub.space/background/medium/tt2576852/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "137 min",
+   "director": "Isao Takahata",
+   "description": "Captures joy being disciplined out of a girl. A bamboo cutter raises a moon princess and watches court life sand down the wild child she was, until the watercolour lines themselves start to run."
+  },
+  {
+   "id": "tt4048272",
+   "type": "movie",
+   "name": "Toni Erdmann",
+   "poster": "https://images.metahub.space/poster/medium/tt4048272/img",
+   "background": "https://images.metahub.space/background/medium/tt4048272/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "162 min",
+   "director": "Maren Ade",
+   "description": "Captures a father trying to joke his daughter back to life. A prankster dad with false teeth infiltrates his consultant daughter's sterile Bucharest existence — a comedy that keeps tipping into grief and back."
+  },
+  {
+   "id": "tt5083738",
+   "type": "movie",
+   "name": "The Favourite",
+   "poster": "https://images.metahub.space/poster/medium/tt5083738/img",
+   "background": "https://images.metahub.space/background/medium/tt5083738/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "119 min",
+   "director": "Yorgos Lanthimos",
+   "description": "Captures court power as intimate warfare. Two women compete to be Queen Anne's favourite — her bed, her ear, her rabbits — through fisheye candlelit corridors, with a lonely, raging queen at the centre."
+  },
+  {
+   "id": "tt5363618",
+   "type": "movie",
+   "name": "Sound of Metal",
+   "poster": "https://images.metahub.space/poster/medium/tt5363618/img",
+   "background": "https://images.metahub.space/background/medium/tt5363618/img",
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "120 min",
+   "director": "Darius Marder",
+   "description": "Captures hearing loss from inside the head. A metal drummer goes deaf and the sound design puts you in his skull — muffled, ringing — then the strange peace of a deaf community that doesn't treat deafness as damage."
+  },
+  {
+   "id": "tt7984734",
+   "type": "movie",
+   "name": "The Lighthouse",
+   "poster": "https://images.metahub.space/poster/medium/tt7984734/img",
+   "background": "https://images.metahub.space/background/medium/tt7984734/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "109 min",
+   "director": "Robert Eggers",
+   "description": "Captures two men rotting in each other's company. A rock in a storm, gaslight, seagull taboos, and two keepers descending into myth, flatulence and murder inside a frame almost square enough to be a trap."
+  },
+  {
+   "id": "tt8991268",
+   "type": "movie",
+   "name": "Honeyland",
+   "poster": "https://images.metahub.space/poster/medium/tt8991268/img",
+   "background": "https://images.metahub.space/background/medium/tt8991268/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "89 min",
+   "director": "Tamara Kotevska, Ljubomir Stefanov",
+   "description": "Captures a whole economy in one woman's beehives. A Macedonian beekeeper lives by one rule — take half the honey, leave half — until new neighbours arrive who take everything. A documentary that plays like an unscripted parable."
+  },
+  {
+   "id": "tt10633456",
+   "type": "movie",
+   "name": "Minari",
+   "poster": "https://images.metahub.space/poster/medium/tt10633456/img",
+   "background": "https://images.metahub.space/background/medium/tt10633456/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "115 min",
+   "director": "Lee Isaac Chung",
+   "description": "Captures starting over as a thing that happens to children too. A Korean family buys Arkansas land, a stubborn father bets everything on a well, and a grandmother plants minari by the creek where it can't fail."
+  },
+  {
+   "id": "tt10272386",
+   "type": "movie",
+   "name": "The Father",
+   "poster": "https://images.metahub.space/poster/medium/tt10272386/img",
+   "background": "https://images.metahub.space/background/medium/tt10272386/img",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "97 min",
+   "director": "Florian Zeller",
+   "description": "Captures dementia by making the film itself unreliable. Anthony Hopkins in a flat that keeps changing its layout, furniture and occupants — you're not watching his confusion, you're inside it."
+  },
+  {
+   "id": "tt8633462",
+   "type": "movie",
+   "name": "Quo Vadis, Aida?",
+   "poster": "https://images.metahub.space/poster/medium/tt8633462/img",
+   "background": "https://images.metahub.space/background/medium/tt8633462/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "101 min",
+   "director": "Jasmila Zbanic",
+   "description": "Captures catastrophe processed as procedure. Srebrenica, 1995, through a UN translator moving names between lists, gates and buses — horror administered in queues and stamps, with everyone following protocol."
+  },
+  {
+   "id": "tt5198068",
+   "type": "movie",
+   "name": "Wolfwalkers",
+   "poster": "https://images.metahub.space/poster/medium/tt5198068/img",
+   "background": "https://images.metahub.space/background/medium/tt5198068/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "103 min",
+   "director": "Tomm Moore, Ross Stewart",
+   "description": "Captures the wild being hunted in the name of order. Kilkenny, 1650: a hunter's daughter befriends a girl who becomes a wolf in her sleep, and Cartoon Saloon's hand-drawn forest keeps breaking out of the town's straight lines."
+  },
+  {
+   "id": "tt14039582",
+   "type": "movie",
+   "name": "Drive My Car",
+   "poster": "https://images.metahub.space/poster/medium/tt14039582/img",
+   "background": "https://images.metahub.space/background/medium/tt14039582/img",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "179 min",
+   "director": "Ryūsuke Hamaguchi",
+   "description": "Captures grief rehearsed until it can be said. A theatre director who lost his wife stages Chekhov in Hiroshima with a young driver he didn't want; three hours, mostly conversations in a red Saab, and it earns every minute."
+  },
+  {
+   "id": "tt10370710",
+   "type": "movie",
+   "name": "The Worst Person in the World",
+   "poster": "https://images.metahub.space/poster/medium/tt10370710/img",
+   "background": "https://images.metahub.space/background/medium/tt10370710/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "128 min",
+   "director": "Joachim Trier",
+   "description": "Captures turning thirty with every option still open and none chosen. Oslo in twelve chapters: a woman cycles through careers and men, including a night that pauses the entire city so she can test a life before living it."
+  },
+  {
+   "id": "tt8178634",
+   "type": "movie",
+   "name": "RRR",
+   "poster": "https://images.metahub.space/poster/medium/tt8178634/img",
+   "background": "https://images.metahub.space/background/medium/tt8178634/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "187 min",
+   "director": "S.S. Rajamouli",
+   "description": "Captures male friendship at blockbuster maximum. Two revolutionaries, a rescue on a collapsing bridge, a dance-off against the British, a man carrying a leopard into a party — three hours that never once do anything at half scale."
+  },
+  {
+   "id": "tt11813216",
+   "type": "movie",
+   "name": "The Banshees of Inisherin",
+   "poster": "https://images.metahub.space/poster/medium/tt11813216/img",
+   "background": "https://images.metahub.space/background/medium/tt11813216/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "114 min",
+   "director": "Martin McDonagh",
+   "description": "Captures being dumped by a friend. One morning Colm simply doesn't want to talk to Pádraic anymore, and a whole island watches a small rejection escalate toward the mythic. Funny, until the exact moment it isn't."
+  },
+  {
+   "id": "tt12477480",
+   "type": "movie",
+   "name": "Decision to Leave",
+   "poster": "https://images.metahub.space/poster/medium/tt12477480/img",
+   "background": "https://images.metahub.space/background/medium/tt12477480/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "139 min",
+   "director": "Park Chan-wook",
+   "description": "Captures desire conducted through surveillance. A detective falls for the widow of the man whose death he's investigating, watching her through binoculars and translation apps. Park Chan-wook's most restrained and most romantic film."
+  },
+  {
+   "id": "tt17009710",
+   "type": "movie",
+   "name": "Anatomy of a Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+   "background": "https://images.metahub.space/background/medium/tt17009710/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "151 min",
+   "director": "Justine Triet",
+   "description": "Captures a marriage being reverse-engineered in a courtroom. A husband falls from a chalet roof; his wife's trial becomes an autopsy of their relationship, conducted through recordings, translations and a dog who may be the only witness."
+  },
+  {
+   "id": "tt7160372",
+   "type": "movie",
+   "name": "The Zone of Interest",
+   "poster": "https://images.metahub.space/poster/medium/tt7160372/img",
+   "background": "https://images.metahub.space/background/medium/tt7160372/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "105 min",
+   "director": "Jonathan Glazer",
+   "description": "Captures evil as a domestic soundscape. The Höss family gardens, swims and hosts lunches on the other side of the Auschwitz wall; you see almost nothing of the camp and hear it in every scene."
+  },
+  {
+   "id": "tt23289160",
+   "type": "movie",
+   "name": "Godzilla Minus One",
+   "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+   "background": "https://images.metahub.space/background/medium/tt23289160/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "124 min",
+   "director": "Takashi Yamazaki",
+   "description": "Captures a nation with nothing left being asked to fight again. Postwar Japan, a kamikaze pilot who couldn't do it the first time, and a monster film whose human scenes work as well as its spectacle."
+  },
+  {
+   "id": "tt0048434",
+   "type": "movie",
+   "name": "Night and Fog",
+   "poster": "https://images.metahub.space/poster/medium/tt0048434/img",
+   "background": "https://images.metahub.space/background/medium/tt0048434/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1956",
+   "year": 1956,
+   "runtime": "32 min",
+   "director": "Alain Resnais",
+   "description": "Captures the Holocaust through the quiet, empty camps a decade later rather than footage of the killing itself: grass growing over atrocity, and how quickly a society decides to move on. Resnais' 32-minute essay remains documentary's foundational act of memory."
+  },
+  {
+   "id": "tt0054745",
+   "type": "movie",
+   "name": "Chronicle of a Summer",
+   "poster": "https://images.metahub.space/poster/medium/tt0054745/img",
+   "background": "https://images.metahub.space/background/medium/tt0054745/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1961",
+   "year": 1961,
+   "runtime": "85 min",
+   "director": "Edgar Morin, Jean Rouch",
+   "description": "Captures the moment documentary stopped pretending the camera wasn't in the room. Rouch and Morin ask Parisians 'Are you happy?', then film themselves arguing over whether the answers were real — cinéma vérité examining its own honesty."
+  },
+  {
+   "id": "tt0062374",
+   "type": "movie",
+   "name": "Titicut Follies",
+   "poster": "https://images.metahub.space/poster/medium/tt0062374/img",
+   "background": "https://images.metahub.space/background/medium/tt0062374/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "84 min",
+   "director": "Frederick Wiseman",
+   "description": "Captures what an institution does to people when nobody outside is watching. Wiseman inside a Massachusetts asylum for the criminally insane: no narration, no interviews, no mercy — a film banned for decades for what it showed."
+  },
+  {
+   "id": "tt0064921",
+   "type": "movie",
+   "name": "Salesman",
+   "poster": "https://images.metahub.space/poster/medium/tt0064921/img",
+   "background": "https://images.metahub.space/background/medium/tt0064921/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "91 min",
+   "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+   "description": "Captures a man whose self-belief is running out, one rejected doorstep at a time. The Maysles brothers follow a Bible salesman through Boston and Florida as his pitch slowly stops working and the road stops feeling like hope."
+  },
+  {
+   "id": "tt0065780",
+   "type": "movie",
+   "name": "Gimme Shelter",
+   "poster": "https://images.metahub.space/poster/medium/tt0065780/img",
+   "background": "https://images.metahub.space/background/medium/tt0065780/img",
+   "genres": [
+    "Documentary",
+    "Music",
+    "Thriller"
+   ],
+   "releaseInfo": "1970",
+   "year": 1970,
+   "runtime": "91 min",
+   "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+   "description": "Captures the precise frame where the 1960s dream curdles: Altamont, a fan stabbed to death in front of the stage, and the Rolling Stones afterwards watching the footage of it, not knowing what to say."
+  },
+  {
+   "id": "tt0071604",
+   "type": "movie",
+   "name": "Hearts and Minds",
+   "poster": "https://images.metahub.space/poster/medium/tt0071604/img",
+   "background": "https://images.metahub.space/background/medium/tt0071604/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1974",
+   "year": 1974,
+   "runtime": "112 min",
+   "director": "Peter Davis",
+   "description": "Captures how a country talks itself into a war and then can't talk itself out of the damage. Vietnam told by everyone it passed through — generals, pilots, Vietnamese villagers, American POWs and grieving parents."
+  },
+  {
+   "id": "tt0083702",
+   "type": "movie",
+   "name": "Burden of Dreams",
+   "poster": "https://images.metahub.space/poster/medium/tt0083702/img",
+   "background": "https://images.metahub.space/background/medium/tt0083702/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1982",
+   "year": 1982,
+   "runtime": "95 min",
+   "director": "Les Blank",
+   "description": "Captures obsession becoming indistinguishable from the thing it depicts. Les Blank films Werner Herzog dragging a steamship over an Amazonian mountain to make Fitzcarraldo, losing his mind in exactly the way his character does."
+  },
+  {
+   "id": "tt0090015",
+   "type": "movie",
+   "name": "Shoah",
+   "poster": "https://images.metahub.space/poster/medium/tt0090015/img",
+   "background": "https://images.metahub.space/background/medium/tt0090015/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1985",
+   "year": 1985,
+   "runtime": "566 min",
+   "director": "Claude Lanzmann",
+   "description": "Captures memory itself as evidence. Nine and a half hours with not one frame of archival footage — only survivors, bystanders and perpetrators talking in the present tense, in the places where it happened. The most demanding film in the collection."
+  },
+  {
+   "id": "tt0096257",
+   "type": "movie",
+   "name": "The Thin Blue Line",
+   "poster": "https://images.metahub.space/poster/medium/tt0096257/img",
+   "background": "https://images.metahub.space/background/medium/tt0096257/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "101 min",
+   "director": "Errol Morris",
+   "description": "Captures how 'eyewitness truth' is mostly people confidently describing things that never happened. Errol Morris reconstructs a policeman's murder through conflicting accounts and stylised re-enactments — and the film's evidence helped free the man convicted of it."
+  },
+  {
+   "id": "tt0109508",
+   "type": "movie",
+   "name": "Crumb",
+   "poster": "https://images.metahub.space/poster/medium/tt0109508/img",
+   "background": "https://images.metahub.space/background/medium/tt0109508/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "119 min",
+   "director": "Terry Zwigoff",
+   "description": "Captures how the same upbringing produces a famous artist, a broken man, and something in between. Cartoonist R. Crumb and his two brothers, all shaped by one brutal household, in Terry Zwigoff's unsparing family portrait."
+  },
+  {
+   "id": "tt0181288",
+   "type": "movie",
+   "name": "American Movie",
+   "poster": "https://images.metahub.space/poster/medium/tt0181288/img",
+   "background": "https://images.metahub.space/background/medium/tt0181288/img",
+   "genres": [
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "107 min",
+   "director": "Chris Smith",
+   "description": "Captures delusion and genuine talent living in the same person. Mark Borchardt, a Wisconsin sanitation worker with debts and a drinking problem, tries to finish a horror short to fund his dream feature — very funny until, suddenly, it isn't."
+  },
+  {
+   "id": "tt0247380",
+   "type": "movie",
+   "name": "The Gleaners and I",
+   "poster": "https://images.metahub.space/poster/medium/tt0247380/img",
+   "background": "https://images.metahub.space/background/medium/tt0247380/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2000",
+   "year": 2000,
+   "runtime": "82 min",
+   "director": "Agnès Varda",
+   "description": "Captures resourcefulness as a whole philosophy of life, at the gentlest possible intensity. Agnès Varda follows people who live off what's left behind — fields, markets, bins — and turns her little digital camera on her own ageing hands."
+  },
+  {
+   "id": "tt0342172",
+   "type": "movie",
+   "name": "Capturing the Friedmans",
+   "poster": "https://images.metahub.space/poster/medium/tt0342172/img",
+   "background": "https://images.metahub.space/background/medium/tt0342172/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "107 min",
+   "director": "Andrew Jarecki",
+   "description": "Captures a family performing normality for a camera while everything underneath it collapses. A family accused of horrific crimes, told largely through their own compulsive home videos, which keep contradicting the legal case and each other."
+  },
+  {
+   "id": "tt0317910",
+   "type": "movie",
+   "name": "The Fog of War",
+   "poster": "https://images.metahub.space/poster/medium/tt0317910/img",
+   "background": "https://images.metahub.space/background/medium/tt0317910/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "107 min",
+   "director": "Errol Morris",
+   "description": "Captures a brilliant man half-confessing to catastrophe. Robert McNamara, architect of Vietnam escalation, now in his eighties, lays out eleven lessons from his life in power — you decide whether the other half is honesty or self-defence."
+  },
+  {
+   "id": "tt0427312",
+   "type": "movie",
+   "name": "Grizzly Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0427312/img",
+   "background": "https://images.metahub.space/background/medium/tt0427312/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "103 min",
+   "director": "Werner Herzog",
+   "description": "Captures a man narrating himself into a story nature never agreed to be part of. Herzog assembles Timothy Treadwell's own footage: thirteen summers living among Alaskan bears he insisted loved him, before one of them killed him."
+  },
+  {
+   "id": "tt1152758",
+   "type": "movie",
+   "name": "Dear Zachary: A Letter to a Son About His Father",
+   "poster": "https://images.metahub.space/poster/medium/tt1152758/img",
+   "background": "https://images.metahub.space/background/medium/tt1152758/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "95 min",
+   "director": "Kurt Kuenne",
+   "description": "Captures grief and legal-system failure like nothing else here. It begins as a film for a baby about the father he'll never meet, murdered before he was born — then the case takes a turn mid-production that is almost unbearable."
+  },
+  {
+   "id": "tt1155592",
+   "type": "movie",
+   "name": "Man on Wire",
+   "poster": "https://images.metahub.space/poster/medium/tt1155592/img",
+   "background": "https://images.metahub.space/background/medium/tt1155592/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "94 min",
+   "director": "James Marsh",
+   "description": "Captures pure, pointless, joyful daring — a crime with no victim and no motive except beauty. Philippe Petit's 1974 tightrope walk between the Twin Towers, told like a heist film by the crew who smuggled the rigging up."
+  },
+  {
+   "id": "tt1556190",
+   "type": "movie",
+   "name": "Nostalgia for the Light",
+   "poster": "https://images.metahub.space/poster/medium/tt1556190/img",
+   "background": "https://images.metahub.space/background/medium/tt1556190/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "90 min",
+   "director": "Patricio Guzmán",
+   "description": "Captures two kinds of searching for the past happening in the same frame. In Chile's Atacama desert, astronomers scan the sky for the universe's origins while women sift the same soil for the bones of Pinochet's disappeared."
+  },
+  {
+   "id": "tt1966604",
+   "type": "movie",
+   "name": "The Imposter",
+   "poster": "https://images.metahub.space/poster/medium/tt1966604/img",
+   "background": "https://images.metahub.space/background/medium/tt1966604/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "99 min",
+   "director": "Bart Layton",
+   "description": "Captures how badly people want a story to be true. A missing Texas teenager 'returns' three years later, older and with a French accent — and his family accepts him. The man himself explains exactly how he did it."
+  },
+  {
+   "id": "tt4044364",
+   "type": "movie",
+   "name": "Citizenfour",
+   "poster": "https://images.metahub.space/poster/medium/tt4044364/img",
+   "background": "https://images.metahub.space/background/medium/tt4044364/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "114 min",
+   "director": "Laura Poitras",
+   "description": "Captures history happening at the speed of a man checking over his shoulder. Laura Poitras was already filming when Edward Snowden contacted her, so the leak of the century unfolds in a Hong Kong hotel room in real time."
+  },
+  {
+   "id": "tt2870648",
+   "type": "movie",
+   "name": "Amy",
+   "poster": "https://images.metahub.space/poster/medium/tt2870648/img",
+   "background": "https://images.metahub.space/background/medium/tt2870648/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "128 min",
+   "director": "Asif Kapadia",
+   "description": "Captures the machinery of fame eating a person whose talent is right there on screen the whole time. Amy Winehouse's rise and destruction assembled from home video, voicemails and the tabloid footage that hunted her."
+  },
+  {
+   "id": "tt3652526",
+   "type": "movie",
+   "name": "Fire at Sea",
+   "poster": "https://images.metahub.space/poster/medium/tt3652526/img",
+   "background": "https://images.metahub.space/background/medium/tt3652526/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "114 min",
+   "director": "Gianfranco Rosi",
+   "description": "Captures the surreal normality of living next door to catastrophe. Lampedusa, where Europe's refugee crisis washes ashore, filmed alongside the utterly ordinary life of a local boy slingshotting cacti and listening to the radio."
+  },
+  {
+   "id": "tt5804038",
+   "type": "movie",
+   "name": "I Am Not Your Negro",
+   "poster": "https://images.metahub.space/poster/medium/tt5804038/img",
+   "background": "https://images.metahub.space/background/medium/tt5804038/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "93 min",
+   "director": "Raoul Peck",
+   "description": "Captures a writer so precise that footage from decades after his death still fits his sentences. James Baldwin's unfinished manuscript on the murders of Medgar Evers, Malcolm X and Martin Luther King, read over a century of American images."
+  },
+  {
+   "id": "tt5275892",
+   "type": "movie",
+   "name": "O.J.: Made in America",
+   "poster": "https://images.metahub.space/poster/medium/tt5275892/img",
+   "background": "https://images.metahub.space/background/medium/tt5275892/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "467 min",
+   "director": "Ezra Edelman",
+   "description": "Captures a whole country's contradictions in one man's story. Nearly eight hours, and not really about a murder trial: Los Angeles, race, celebrity and policing across fifty years, with Simpson as the thread running through all of it."
+  },
+  {
+   "id": "tt5598102",
+   "type": "movie",
+   "name": "Faces Places",
+   "poster": "https://images.metahub.space/poster/medium/tt5598102/img",
+   "background": "https://images.metahub.space/background/medium/tt5598102/img",
+   "genres": [
+    "Adventure",
+    "Documentary"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "94 min",
+   "director": "JR, Agnès Varda",
+   "description": "Captures art as an excuse to pay attention to people — the lightest, warmest film in this batch. Varda, 88 and going blind, tours rural France with photographer JR, pasting giant portraits of villagers onto their own villages."
+  },
+  {
+   "id": "tt7476236",
+   "type": "movie",
+   "name": "Minding the Gap",
+   "poster": "https://images.metahub.space/poster/medium/tt7476236/img",
+   "background": "https://images.metahub.space/background/medium/tt7476236/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "93 min",
+   "director": "Bing Liu",
+   "description": "Captures the moment a documentarian has to point the camera at himself. Bing Liu films his skateboarder friends in their rust-belt hometown over years, then slowly realises the film is about the violence they all grew up in — including his own."
+  },
+  {
+   "id": "tt8760684",
+   "type": "movie",
+   "name": "Apollo 11",
+   "poster": "https://images.metahub.space/poster/medium/tt8760684/img",
+   "background": "https://images.metahub.space/background/medium/tt8760684/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "93 min",
+   "director": "Todd Douglas Miller",
+   "description": "Captures the sheer procedural calm of the Moon landing. Rebuilt entirely from restored 70mm footage and audio — no narration, no talking heads — just thousands of people doing small jobs correctly until a man is standing on the Moon."
+  },
+  {
+   "id": "tt9617456",
+   "type": "movie",
+   "name": "For Sama",
+   "poster": "https://images.metahub.space/poster/medium/tt9617456/img",
+   "background": "https://images.metahub.space/background/medium/tt9617456/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "War"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "100 min",
+   "director": "Waad Al-Kateab, Edward Watts",
+   "description": "Captures war from inside a family instead of inside a news report. Waad Al-Kateab films five years of the siege of Aleppo as a letter to her baby daughter, explaining why they stayed."
+  },
+  {
+   "id": "tt10706602",
+   "type": "movie",
+   "name": "Collective",
+   "poster": "https://images.metahub.space/poster/medium/tt10706602/img",
+   "background": "https://images.metahub.space/background/medium/tt10706602/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "109 min",
+   "director": "Alexander Nanau",
+   "description": "Captures corruption being dismantled in real time, and it plays like a thriller. After a Bucharest nightclub fire, burn victims start dying of infections in Romanian hospitals — and a sports newspaper, of all things, uncovers why."
+  },
+  {
+   "id": "tt11394180",
+   "type": "movie",
+   "name": "Dick Johnson Is Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt11394180/img",
+   "background": "https://images.metahub.space/background/medium/tt11394180/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "89 min",
+   "director": "Kirsten Johnson",
+   "description": "Captures dying approached with slapstick, tenderness and total honesty at once. Kirsten Johnson stages elaborate fake deaths for her psychiatrist father, who has dementia, so the two of them can rehearse losing each other."
+  },
+  {
+   "id": "tt16227014",
+   "type": "movie",
+   "name": "Fire of Love",
+   "poster": "https://images.metahub.space/poster/medium/tt16227014/img",
+   "background": "https://images.metahub.space/background/medium/tt16227014/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "98 min",
+   "director": "Sara Dosa",
+   "description": "Captures a love story where the third party is the Earth itself. Volcanologists Katia and Maurice Krafft filmed each other at the edge of eruptions for twenty years, knowing the work would probably kill them. It did, together, in 1991."
+  },
+  {
+   "id": "tt24082438",
+   "type": "movie",
+   "name": "20 Days in Mariupol",
+   "poster": "https://images.metahub.space/poster/medium/tt24082438/img",
+   "background": "https://images.metahub.space/background/medium/tt24082438/img",
+   "genres": [
+    "Documentary",
+    "War"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "97 min",
+   "director": "Mstyslav Chernov",
+   "description": "Captures the 2022 siege of Mariupol as the people inside it actually experienced its first twenty days. AP journalists trapped in the city keep filming because getting the footage out is the only thing that makes staying mean anything."
+  },
+  {
+   "id": "tt0092963",
+   "type": "movie",
+   "name": "The Emperor's Naked Army Marches On",
+   "poster": "https://images.metahub.space/poster/medium/tt0092963/img",
+   "background": "https://images.metahub.space/background/medium/tt0092963/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1987",
+   "year": 1987,
+   "runtime": "122 min",
+   "director": "Kazuo Hara",
+   "description": "Captures one man's war that never ended: veteran Kenzo Okuzaki tours Japan forcing his former officers to answer on camera for executions and cannibalism in New Guinea, while director Kazuo Hara's crew effectively enlists in his campaign."
+  },
+  {
+   "id": "tt0233809",
+   "type": "movie",
+   "name": "Extreme Private Eros: Love Song 1974",
+   "poster": "https://images.metahub.space/poster/medium/tt0233809/img",
+   "background": "https://images.metahub.space/background/medium/tt0233809/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1974",
+   "year": 1974,
+   "runtime": "98 min",
+   "director": "Kazuo Hara",
+   "description": "Captures a filmmaker turning his merciless method on himself: Hara follows his ex-wife, radical feminist Miyuki Takeda, through lovers, communes and an unassisted birth, while his new partner records the sound — intimacy documented past every comfortable limit."
+  },
+  {
+   "id": "tt0234669",
+   "type": "movie",
+   "name": "Goodbye CP",
+   "poster": "https://images.metahub.space/poster/medium/tt0234669/img",
+   "background": "https://images.metahub.space/background/medium/tt0234669/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1972",
+   "year": 1972,
+   "runtime": "82 min",
+   "director": "Kazuo Hara",
+   "description": "Captures subjects seizing the documentary itself: activists with cerebral palsy refuse every framing offered them, demanding to be looked at directly and confronting Hara's camera about what it wants from them."
+  },
+  {
+   "id": "tt0062043",
+   "type": "movie",
+   "name": "A Man Vanishes",
+   "poster": "https://images.metahub.space/poster/medium/tt0062043/img",
+   "background": "https://images.metahub.space/background/medium/tt0062043/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "130 min",
+   "director": "Shōhei Imamura",
+   "description": "Captures a documentary dissolving into fiction: Imamura investigates a missing salesman, but the fiancée and the lead actress fall for each other, and he pulls the set apart on camera to admit the investigation has become something else."
+  },
+  {
+   "id": "tt0241146",
+   "type": "movie",
+   "name": "A",
+   "poster": "https://images.metahub.space/poster/medium/tt0241146/img",
+   "background": "https://images.metahub.space/background/medium/tt0241146/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1998",
+   "year": 1998,
+   "runtime": "136 min",
+   "director": "Tatsuya Mori",
+   "description": "Captures the banal interior of a demonised group: Mori films young Aum Shinrikyo believers doing chores after the sarin attack, sincere and confused, while the media siege outside performs its own hysteria."
+  },
+  {
+   "id": "tt0068951",
+   "type": "movie",
+   "name": "Minamata: The Victims and Their World",
+   "poster": "https://images.metahub.space/poster/medium/tt0068951/img",
+   "background": "https://images.metahub.space/background/medium/tt0068951/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "105 min",
+   "director": "Noriaki Tsuchimoto",
+   "description": "Captures resistance as a way of life: Tsuchimoto lives with Minamata's mercury-poisoned fishing families as they confront the Chisso corporation, sit in at shareholder meetings and refuse, for years, to go away."
+  },
+  {
+   "id": "tt3521134",
+   "type": "movie",
+   "name": "The Look of Silence",
+   "poster": "https://images.metahub.space/poster/medium/tt3521134/img",
+   "background": "https://images.metahub.space/background/medium/tt3521134/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "103 min",
+   "director": "Joshua Oppenheimer",
+   "description": "Captures confrontation inverted: Adi, whose brother was murdered in Indonesia's 1965 purges, visits the killers under cover of eye exams and asks about the killings to their faces — no shouting, only unbearable quiet where they still hold power."
+  },
+  {
+   "id": "tt0368954",
+   "type": "movie",
+   "name": "S-21: The Khmer Rouge Killing Machine",
+   "poster": "https://images.metahub.space/poster/medium/tt0368954/img",
+   "background": "https://images.metahub.space/background/medium/tt0368954/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "101 min",
+   "director": "Rithy Panh",
+   "description": "Captures atrocity recalled as office procedure: survivor Vann Nath brings former Tuol Sleng guards back into the prison, where they re-enact their daily routines of shackling and paperwork and find nothing dramatic in their own memories."
+  },
+  {
+   "id": "tt0296881",
+   "type": "movie",
+   "name": "Symbiopsychotaxiplasm: Take One",
+   "poster": "https://images.metahub.space/poster/medium/tt0296881/img",
+   "background": "https://images.metahub.space/background/medium/tt0296881/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1968",
+   "year": 1968,
+   "runtime": "75 min",
+   "director": "William Greaves",
+   "description": "Captures a production seizing itself: Greaves films actors rehearsing a breakup while his crew, instructed to film everything, records its own growing revolt against him — and the revolt becomes the film, decades before the form existed."
+  },
+  {
+   "id": "tt0062144",
+   "type": "movie",
+   "name": "Portrait of Jason",
+   "poster": "https://images.metahub.space/poster/medium/tt0062144/img",
+   "background": "https://images.metahub.space/background/medium/tt0062144/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "105 min",
+   "director": "Shirley Clarke",
+   "description": "Captures the point where performance stops protecting a man: hustler and would-be cabaret act Jason Holliday performs his life all night for Shirley Clarke's provoking camera, until the act slowly, visibly cracks."
+  },
+  {
+   "id": "tt0062474",
+   "type": "movie",
+   "name": "Warrendale",
+   "poster": "https://images.metahub.space/poster/medium/tt0062474/img",
+   "background": "https://images.metahub.space/background/medium/tt0062474/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "100 min",
+   "director": "Allan King",
+   "description": "Captures institutional care running out of composure: King's cameras live inside a Toronto home for emotionally disturbed children through tenderness, chaos and a staff member's sudden death — footage the CBC commissioned, then refused to air."
+  },
+  {
+   "id": "tt0023037",
+   "type": "movie",
+   "name": "Land Without Bread",
+   "poster": "https://images.metahub.space/poster/medium/tt0023037/img",
+   "background": "https://images.metahub.space/background/medium/tt0023037/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1933",
+   "year": 1933,
+   "runtime": "30 min",
+   "director": "Luis Buñuel",
+   "description": "Captures documentary dishonesty itself: Buñuel's authoritative 'ethnography' of a destitute Spanish region stages scenes, lets animals die for the camera and lies in a straight-faced voiceover — in 1933, before the form had even settled."
+  },
+  {
+   "id": "tt0041842",
+   "type": "movie",
+   "name": "Blood of the Beasts",
+   "poster": "https://images.metahub.space/poster/medium/tt0041842/img",
+   "background": "https://images.metahub.space/background/medium/tt0041842/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1949",
+   "year": 1949,
+   "runtime": "22 min",
+   "director": "Georges Franju",
+   "description": "Captures the calm labour beneath a city's breakfast: Franju intercuts Paris waking at dawn with slaughterhouses already methodically killing horses and calves, workers chatting through the work, in twenty unflinching minutes."
+  },
+  {
+   "id": "tt0140788",
+   "type": "movie",
+   "name": "The Act of Seeing with One's Own Eyes",
+   "poster": "https://images.metahub.space/poster/medium/tt0140788/img",
+   "background": "https://images.metahub.space/background/medium/tt0140788/img",
+   "genres": [
+    "Documentary",
+    "Horror"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "32 min",
+   "director": "Stan Brakhage",
+   "description": "Captures the camera reduced to pure looking: Brakhage films autopsies in a Pittsburgh morgue silently and in close-up, with no commentary to hide behind, asking whether there is anything a camera should refuse to see."
+  },
+  {
+   "id": "tt0050800",
+   "type": "movie",
+   "name": "On the Bowery",
+   "poster": "https://images.metahub.space/poster/medium/tt0050800/img",
+   "background": "https://images.metahub.space/background/medium/tt0050800/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1956",
+   "year": 1956,
+   "runtime": "65 min",
+   "director": "Lionel Rogosin",
+   "description": "Captures neo-realist method eating its own ethics: Rogosin lived among New York's skid-row alcoholics, then had them play themselves in a story built from their lives, as the production's own drinking blurred every line."
+  },
+  {
+   "id": "tt0336693",
+   "type": "movie",
+   "name": "The House Is Black",
+   "poster": "https://images.metahub.space/poster/medium/tt0336693/img",
+   "background": "https://images.metahub.space/background/medium/tt0336693/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1962",
+   "year": 1962,
+   "runtime": "20 min",
+   "director": "Forugh Farrokhzad",
+   "description": "Captures the refusal to look away turned tender: poet Forugh Farrokhzad films inside an Iranian leper colony — classes, a wedding, prayer — reading her own poetry over faces the world had agreed not to see."
+  },
+  {
+   "id": "tt0078516",
+   "type": "movie",
+   "name": "From a Night Porter's Point of View",
+   "poster": "https://images.metahub.space/poster/medium/tt0078516/img",
+   "background": "https://images.metahub.space/background/medium/tt0078516/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1977",
+   "year": 1977,
+   "runtime": "17 min",
+   "director": "Krzysztof Kieślowski",
+   "description": "Captures an authoritarian personality describing itself as common sense: Kieślowski gives a factory night porter who adores rules, informers and surveillance enough rope to explain his whole worldview, delighted with himself throughout."
+  },
+  {
+   "id": "tt0067633",
+   "type": "movie",
+   "name": "Punishment Park",
+   "poster": "https://images.metahub.space/poster/medium/tt0067633/img",
+   "background": "https://images.metahub.space/background/medium/tt0067633/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "91 min",
+   "director": "Peter Watkins",
+   "description": "Captures a camera crew admitting it has a side: Watkins' fake documentary follows political prisoners running fifty miles through desert toward a flag while police hunt them, and the crew ends up screaming at the officers."
+  },
+  {
+   "id": "tt0364930",
+   "type": "movie",
+   "name": "Aileen: Life and Death of a Serial Killer",
+   "poster": "https://images.metahub.space/poster/medium/tt0364930/img",
+   "background": "https://images.metahub.space/background/medium/tt0364930/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "93 min",
+   "director": "Nick Broomfield, Joan Churchill",
+   "description": "Captures the confrontational filmmaker finding his limit: Broomfield builds a real relationship with death-row killer Aileen Wuornos, testifies in her case, and films a final interview in which she is plainly no longer competent."
+  },
+  {
+   "id": "tt0799954",
+   "type": "movie",
+   "name": "The Bridge",
+   "poster": "https://images.metahub.space/poster/medium/tt0799954/img",
+   "background": "https://images.metahub.space/background/medium/tt0799954/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "94 min",
+   "director": "Eric Steel",
+   "description": "Captures the complicity question in its purest form: Steel filmed the Golden Gate Bridge for a year, recording suicides, without telling families what the footage was for — when the camera keeps rolling, what exactly is it doing?"
+  },
+  {
+   "id": "tt5278506",
+   "type": "movie",
+   "name": "Tickled",
+   "poster": "https://images.metahub.space/poster/medium/tt5278506/img",
+   "background": "https://images.metahub.space/background/medium/tt5278506/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "92 min",
+   "director": "David Farrier, Dylan Reeve",
+   "description": "Captures an investigation whose subject fights back in real time: journalist David Farrier asks a cheerful question about 'competitive endurance tickling' videos and receives legal threats so disproportionate that following them becomes the film."
+  },
+  {
+   "id": "tt5375040",
+   "type": "movie",
+   "name": "Cameraperson",
+   "poster": "https://images.metahub.space/poster/medium/tt5375040/img",
+   "background": "https://images.metahub.space/background/medium/tt5375040/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "102 min",
+   "director": "Kirsten Johnson",
+   "description": "Captures a career of looking, reckoned with: Kirsten Johnson cuts decades of outtakes from other people's difficult documentaries — Bosnia, Darfur, her own mother's decline — into a memoir about what pointing a camera at someone's worst day costs."
+  },
+  {
+   "id": "tt6333060",
+   "type": "movie",
+   "name": "Icarus",
+   "poster": "https://images.metahub.space/poster/medium/tt6333060/img",
+   "background": "https://images.metahub.space/background/medium/tt6333060/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "120 min",
+   "director": "Bryan Fogel",
+   "description": "Captures a documentary swallowed by its own story: Fogel films himself doping to expose how easy cheating is, but his Russian scientist accomplice sits at the centre of a state doping programme, and the film becomes his escape plan."
+  },
+  {
+   "id": "tt5873150",
+   "type": "movie",
+   "name": "Strong Island",
+   "poster": "https://images.metahub.space/poster/medium/tt5873150/img",
+   "background": "https://images.metahub.space/background/medium/tt5873150/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "107 min",
+   "director": "Yance Ford",
+   "description": "Captures grief conducted as cross-examination: Yance Ford investigates his brother's killing and the grand jury that declined to indict, addressing the camera directly and interrogating his own family's silence as hard as the legal system's."
+  },
+  {
+   "id": "tt0072685",
+   "type": "movie",
+   "name": "The Battle of Chile",
+   "poster": "https://images.metahub.space/poster/medium/tt0072685/img",
+   "background": "https://images.metahub.space/background/medium/tt0072685/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "265 min",
+   "director": "Patricio Guzmán",
+   "description": "Captures a revolution and its destruction filmed by people unsure which they were recording: Guzmán's crew shoots Allende's final year in Chile's streets across three parts, as mass rallies and strikes give way to the coup arriving around the camera."
+  },
+  {
+   "id": "tt0103905",
+   "type": "movie",
+   "name": "Man Bites Dog",
+   "poster": "https://images.metahub.space/poster/medium/tt0103905/img",
+   "background": "https://images.metahub.space/background/medium/tt0103905/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1992",
+   "year": 1992,
+   "runtime": "95 min",
+   "director": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
+   "description": "Captures the complicity problem pushed to its logical endpoint — the cluster's one fiction: a student crew follows a charming serial killer for a documentary, graduating from filming him, to holding the camera steady, to helping."
+  },
+  {
+   "id": "tt0103767",
+   "type": "movie",
+   "name": "Baraka",
+   "poster": "https://images.metahub.space/poster/medium/tt0103767/img",
+   "background": "https://images.metahub.space/background/medium/tt0103767/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1992",
+   "year": 1992,
+   "runtime": "96 min",
+   "director": "Ron Fricke",
+   "description": "Captures humanity as a planetary process. Shot in 70mm across 24 countries with no narration and no plot — prayer, factories, volcanoes, crowds moving like weather systems — beautiful and faintly horrifying in the same shots."
+  },
+  {
+   "id": "tt0301727",
+   "type": "movie",
+   "name": "Winged Migration",
+   "poster": "https://images.metahub.space/poster/medium/tt0301727/img",
+   "background": "https://images.metahub.space/background/medium/tt0301727/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2001",
+   "year": 2001,
+   "runtime": "89 min",
+   "director": "Jacques Perrin, Jacques Cluzaud, Michel Debats",
+   "description": "Captures migration from the bird's side of it. Cameras fly inside migrating flocks over years and continents, close enough to hear wingbeats — endurance as the most ordinary thing in the world."
+  },
+  {
+   "id": "tt11464016",
+   "type": "movie",
+   "name": "Gunda",
+   "poster": "https://images.metahub.space/poster/medium/tt11464016/img",
+   "background": "https://images.metahub.space/background/medium/tt11464016/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "93 min",
+   "director": "Victor Kossakovsky",
+   "description": "Captures a farm animal's inner life opening up when a film refuses to narrate it. Black and white, no music, no dialogue: a sow and her piglets, chickens and cows, at their own pace and eye level."
+  },
+  {
+   "id": "tt16377862",
+   "type": "movie",
+   "name": "All That Breathes",
+   "poster": "https://images.metahub.space/poster/medium/tt16377862/img",
+   "background": "https://images.metahub.space/background/medium/tt16377862/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "97 min",
+   "director": "Shaunak Sen",
+   "description": "Captures caring for creatures everyone else steps over as a way of holding a world together. Two brothers in Delhi run a makeshift hospital for black kites falling out of a polluted sky while the city frays around them."
+  },
+  {
+   "id": "tt1579361",
+   "type": "movie",
+   "name": "Chasing Ice",
+   "poster": "https://images.metahub.space/poster/medium/tt1579361/img",
+   "background": "https://images.metahub.space/background/medium/tt1579361/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "75 min",
+   "director": "Jeff Orlowski-Yang",
+   "description": "Captures climate change made visible at human time-scale, no argument required. Time-lapse cameras planted on glaciers play back years of retreat in seconds — including a calving event the size of a city district, caught by chance."
+  },
+  {
+   "id": "tt3674140",
+   "type": "movie",
+   "name": "The Salt of the Earth",
+   "poster": "https://images.metahub.space/poster/medium/tt3674140/img",
+   "background": "https://images.metahub.space/background/medium/tt3674140/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "110 min",
+   "director": "Juliano Ribeiro Salgado, Wim Wenders",
+   "description": "Captures what a lifetime of looking at suffering does to a person, and one answer to it. Photographer Sebastião Salgado walks through forty years of famine, war and exodus in his own images, then turns to restoring a dead forest — and it works."
+  },
+  {
+   "id": "tt1385956",
+   "type": "movie",
+   "name": "Particle Fever",
+   "poster": "https://images.metahub.space/poster/medium/tt1385956/img",
+   "background": "https://images.metahub.space/background/medium/tt1385956/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "99 min",
+   "director": "Mark Levinson",
+   "description": "Captures big science's actual emotional texture: boredom, terror, and a party when the bump appears in the data. The Large Hadron Collider's first runs filmed from inside the collaboration, theorists not knowing if thirty years of work is about to collapse."
+  },
+  {
+   "id": "tt6223974",
+   "type": "movie",
+   "name": "The Farthest",
+   "poster": "https://images.metahub.space/poster/medium/tt6223974/img",
+   "background": "https://images.metahub.space/background/medium/tt6223974/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "121 min",
+   "director": "Emer Reynolds",
+   "description": "Captures the most optimistic object our species has ever made, and the scientists ageing alongside it. The Voyager probes, told by the people who built them, carrying a golden record of human greetings out of the solar system."
+  },
+  {
+   "id": "tt14179942",
+   "type": "movie",
+   "name": "Good Night Oppy",
+   "poster": "https://images.metahub.space/poster/medium/tt14179942/img",
+   "background": "https://images.metahub.space/background/medium/tt14179942/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "105 min",
+   "director": "Ryan White",
+   "description": "Captures engineers grieving a machine, completely sincerely, and earning it. Mars rover Opportunity, built for 90 days, worked for 15 years; the JPL team's attachment stops being a joke about anthropomorphism around year ten."
+  },
+  {
+   "id": "tt6700846",
+   "type": "movie",
+   "name": "AlphaGo",
+   "poster": "https://images.metahub.space/poster/medium/tt6700846/img",
+   "background": "https://images.metahub.space/background/medium/tt6700846/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "90 min",
+   "director": "Greg Kohs",
+   "description": "Captures the exact historical moment a machine did something its makers couldn't explain. DeepMind's system against Lee Sedol in Seoul, filmed in both camps; Move 37 lands and the human experts go quiet."
+  },
+  {
+   "id": "tt5275828",
+   "type": "movie",
+   "name": "Lo and Behold: Reveries of the Connected World",
+   "poster": "https://images.metahub.space/poster/medium/tt5275828/img",
+   "background": "https://images.metahub.space/background/medium/tt5275828/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "98 min",
+   "director": "Werner Herzog",
+   "description": "Captures the internet as something stranger and more fragile than either its utopians or critics describe. Herzog wanders its birthplace, a monastery of monks with smartphones, a family hounded by trolls, and asks if the network dreams of itself."
+  },
+  {
+   "id": "tt0083590",
+   "type": "movie",
+   "name": "The Atomic Cafe",
+   "poster": "https://images.metahub.space/poster/medium/tt0083590/img",
+   "background": "https://images.metahub.space/background/medium/tt0083590/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1982",
+   "year": 1982,
+   "runtime": "86 min",
+   "director": "Jayne Loader, Kevin Rafferty, Pierce Rafferty",
+   "description": "Captures a state lying to its citizens in its own cheerful voice. Nothing but 1940s–50s American government films, ads and newsreels about the bomb, cut together with no narration: duck and cover, soldiers reassured about fallout."
+  },
+  {
+   "id": "tt7905466",
+   "type": "movie",
+   "name": "They Shall Not Grow Old",
+   "poster": "https://images.metahub.space/poster/medium/tt7905466/img",
+   "background": "https://images.metahub.space/background/medium/tt7905466/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "99 min",
+   "director": "Peter Jackson",
+   "description": "Captures the trenches suddenly populated by recognisable young men instead of ghosts. Peter Jackson restores jerky silent WWI footage to correct speed, colourises it, and adds voices reconstructed from veterans' interviews and lip-reading."
+  },
+  {
+   "id": "tt1568923",
+   "type": "movie",
+   "name": "A Film Unfinished",
+   "poster": "https://images.metahub.space/poster/medium/tt1568923/img",
+   "background": "https://images.metahub.space/background/medium/tt1568923/img",
+   "genres": [
+    "Documentary",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "88 min",
+   "director": "Yael Hersonski",
+   "description": "Captures how a fabricated archive keeps passing as truth until someone watches it slowly enough. A Nazi propaganda film shot in the Warsaw Ghetto is taken apart shot by shot, including outtakes where the staging shows."
+  },
+  {
+   "id": "tt4908644",
+   "type": "movie",
+   "name": "Winter on Fire: Ukraine's Fight for Freedom",
+   "poster": "https://images.metahub.space/poster/medium/tt4908644/img",
+   "background": "https://images.metahub.space/background/medium/tt4908644/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "102 min",
+   "director": "Evgeny Afineevsky",
+   "description": "Captures a protest becoming a revolution in real time, and what it costs the people who refuse to leave. Kyiv's Euromaidan over 93 days, from student demonstration to a government shooting its own citizens, filmed inside the square."
+  },
+  {
+   "id": "tt5895028",
+   "type": "movie",
+   "name": "13th",
+   "poster": "https://images.metahub.space/poster/medium/tt5895028/img",
+   "background": "https://images.metahub.space/background/medium/tt5895028/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "100 min",
+   "director": "Ava DuVernay",
+   "description": "Captures the essay-documentary at maximum force — a thesis you can feel being assembled. DuVernay builds one chain from the Thirteenth Amendment's exception clause through convict leasing, Jim Crow and the war on drugs to mass incarceration."
+  },
+  {
+   "id": "tt1645089",
+   "type": "movie",
+   "name": "Inside Job",
+   "poster": "https://images.metahub.space/poster/medium/tt1645089/img",
+   "background": "https://images.metahub.space/background/medium/tt1645089/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "109 min",
+   "director": "Charles Ferguson",
+   "description": "Captures elite impunity as a tone of voice. The 2008 financial crisis explained with unusual clarity and barely suppressed fury, including interviews where the architects keep incriminating themselves with total calm."
+  },
+  {
+   "id": "tt0117293",
+   "type": "movie",
+   "name": "Paradise Lost: The Child Murders at Robin Hood Hills",
+   "poster": "https://images.metahub.space/poster/medium/tt0117293/img",
+   "background": "https://images.metahub.space/background/medium/tt0117293/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "150 min",
+   "director": "Joe Berlinger, Bruce Sinofsky",
+   "description": "Captures a Satanic-panic prosecution from the inside; the film itself became evidence in the decades-long fight over the case. Three Arkansas teenagers convicted of murder largely for liking Metallica and black clothes, filmed through the trial with access to every family."
+  }
+ ]
+}

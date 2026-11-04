@@ -1,0 +1,21 @@
+{
+ "metas": [
+  {
+   "id": "tt0054205",
+   "type": "movie",
+   "name": "Primary",
+   "poster": "https://images.metahub.space/poster/medium/tt0054205/img",
+   "background": "https://images.metahub.space/background/medium/tt0054205/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "News"
+   ],
+   "releaseInfo": "1960",
+   "year": 1960,
+   "runtime": "60 min",
+   "director": "Robert Drew",
+   "description": "Captures the moment politics and television fused, visible as it happens. The film that invented American cinéma vérité: newly portable sync-sound cameras follow Kennedy and Humphrey through the 1960 Wisconsin primary, into rooms no camera had entered before."
+  }
+ ]
+}

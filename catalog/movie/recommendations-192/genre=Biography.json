@@ -245,6 +245,558 @@
    "runtime": "98 min",
    "director": "Abbas Kiarostami",
    "description": "Captures a poor film fan who wanted, briefly, to be the man whose name he borrowed. In Tehran a man impersonates a famous director to a family, is arrested, and then everyone involved re-enacts their own case, including the trial."
+  },
+  {
+   "id": "tt0063555",
+   "type": "movie",
+   "name": "The Colour of Pomegranates",
+   "poster": "https://images.metahub.space/poster/medium/tt0063555/img",
+   "background": "https://images.metahub.space/background/medium/tt0063555/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "79 min",
+   "director": "Sergei Parajanov",
+   "description": "Captures a poet's life as a series of icons instead of events. An Armenian troubadour rendered in tableaux — books, blood, grapes, lace — with almost no dialogue and no interest in explaining itself."
+  },
+  {
+   "id": "tt5083738",
+   "type": "movie",
+   "name": "The Favourite",
+   "poster": "https://images.metahub.space/poster/medium/tt5083738/img",
+   "background": "https://images.metahub.space/background/medium/tt5083738/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "119 min",
+   "director": "Yorgos Lanthimos",
+   "description": "Captures court power as intimate warfare. Two women compete to be Queen Anne's favourite — her bed, her ear, her rabbits — through fisheye candlelit corridors, with a lonely, raging queen at the centre."
+  },
+  {
+   "id": "tt0109508",
+   "type": "movie",
+   "name": "Crumb",
+   "poster": "https://images.metahub.space/poster/medium/tt0109508/img",
+   "background": "https://images.metahub.space/background/medium/tt0109508/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "119 min",
+   "director": "Terry Zwigoff",
+   "description": "Captures how the same upbringing produces a famous artist, a broken man, and something in between. Cartoonist R. Crumb and his two brothers, all shaped by one brutal household, in Terry Zwigoff's unsparing family portrait."
+  },
+  {
+   "id": "tt0342172",
+   "type": "movie",
+   "name": "Capturing the Friedmans",
+   "poster": "https://images.metahub.space/poster/medium/tt0342172/img",
+   "background": "https://images.metahub.space/background/medium/tt0342172/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "107 min",
+   "director": "Andrew Jarecki",
+   "description": "Captures a family performing normality for a camera while everything underneath it collapses. A family accused of horrific crimes, told largely through their own compulsive home videos, which keep contradicting the legal case and each other."
+  },
+  {
+   "id": "tt0317910",
+   "type": "movie",
+   "name": "The Fog of War",
+   "poster": "https://images.metahub.space/poster/medium/tt0317910/img",
+   "background": "https://images.metahub.space/background/medium/tt0317910/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "107 min",
+   "director": "Errol Morris",
+   "description": "Captures a brilliant man half-confessing to catastrophe. Robert McNamara, architect of Vietnam escalation, now in his eighties, lays out eleven lessons from his life in power — you decide whether the other half is honesty or self-defence."
+  },
+  {
+   "id": "tt0427312",
+   "type": "movie",
+   "name": "Grizzly Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0427312/img",
+   "background": "https://images.metahub.space/background/medium/tt0427312/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "103 min",
+   "director": "Werner Herzog",
+   "description": "Captures a man narrating himself into a story nature never agreed to be part of. Herzog assembles Timothy Treadwell's own footage: thirteen summers living among Alaskan bears he insisted loved him, before one of them killed him."
+  },
+  {
+   "id": "tt1152758",
+   "type": "movie",
+   "name": "Dear Zachary: A Letter to a Son About His Father",
+   "poster": "https://images.metahub.space/poster/medium/tt1152758/img",
+   "background": "https://images.metahub.space/background/medium/tt1152758/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "95 min",
+   "director": "Kurt Kuenne",
+   "description": "Captures grief and legal-system failure like nothing else here. It begins as a film for a baby about the father he'll never meet, murdered before he was born — then the case takes a turn mid-production that is almost unbearable."
+  },
+  {
+   "id": "tt1155592",
+   "type": "movie",
+   "name": "Man on Wire",
+   "poster": "https://images.metahub.space/poster/medium/tt1155592/img",
+   "background": "https://images.metahub.space/background/medium/tt1155592/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "94 min",
+   "director": "James Marsh",
+   "description": "Captures pure, pointless, joyful daring — a crime with no victim and no motive except beauty. Philippe Petit's 1974 tightrope walk between the Twin Towers, told like a heist film by the crew who smuggled the rigging up."
+  },
+  {
+   "id": "tt1966604",
+   "type": "movie",
+   "name": "The Imposter",
+   "poster": "https://images.metahub.space/poster/medium/tt1966604/img",
+   "background": "https://images.metahub.space/background/medium/tt1966604/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "99 min",
+   "director": "Bart Layton",
+   "description": "Captures how badly people want a story to be true. A missing Texas teenager 'returns' three years later, older and with a French accent — and his family accepts him. The man himself explains exactly how he did it."
+  },
+  {
+   "id": "tt4044364",
+   "type": "movie",
+   "name": "Citizenfour",
+   "poster": "https://images.metahub.space/poster/medium/tt4044364/img",
+   "background": "https://images.metahub.space/background/medium/tt4044364/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "114 min",
+   "director": "Laura Poitras",
+   "description": "Captures history happening at the speed of a man checking over his shoulder. Laura Poitras was already filming when Edward Snowden contacted her, so the leak of the century unfolds in a Hong Kong hotel room in real time."
+  },
+  {
+   "id": "tt2870648",
+   "type": "movie",
+   "name": "Amy",
+   "poster": "https://images.metahub.space/poster/medium/tt2870648/img",
+   "background": "https://images.metahub.space/background/medium/tt2870648/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "128 min",
+   "director": "Asif Kapadia",
+   "description": "Captures the machinery of fame eating a person whose talent is right there on screen the whole time. Amy Winehouse's rise and destruction assembled from home video, voicemails and the tabloid footage that hunted her."
+  },
+  {
+   "id": "tt5275892",
+   "type": "movie",
+   "name": "O.J.: Made in America",
+   "poster": "https://images.metahub.space/poster/medium/tt5275892/img",
+   "background": "https://images.metahub.space/background/medium/tt5275892/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "467 min",
+   "director": "Ezra Edelman",
+   "description": "Captures a whole country's contradictions in one man's story. Nearly eight hours, and not really about a murder trial: Los Angeles, race, celebrity and policing across fifty years, with Simpson as the thread running through all of it."
+  },
+  {
+   "id": "tt9617456",
+   "type": "movie",
+   "name": "For Sama",
+   "poster": "https://images.metahub.space/poster/medium/tt9617456/img",
+   "background": "https://images.metahub.space/background/medium/tt9617456/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "War"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "100 min",
+   "director": "Waad Al-Kateab, Edward Watts",
+   "description": "Captures war from inside a family instead of inside a news report. Waad Al-Kateab films five years of the siege of Aleppo as a letter to her baby daughter, explaining why they stayed."
+  },
+  {
+   "id": "tt11394180",
+   "type": "movie",
+   "name": "Dick Johnson Is Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt11394180/img",
+   "background": "https://images.metahub.space/background/medium/tt11394180/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "89 min",
+   "director": "Kirsten Johnson",
+   "description": "Captures dying approached with slapstick, tenderness and total honesty at once. Kirsten Johnson stages elaborate fake deaths for her psychiatrist father, who has dementia, so the two of them can rehearse losing each other."
+  },
+  {
+   "id": "tt16227014",
+   "type": "movie",
+   "name": "Fire of Love",
+   "poster": "https://images.metahub.space/poster/medium/tt16227014/img",
+   "background": "https://images.metahub.space/background/medium/tt16227014/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "98 min",
+   "director": "Sara Dosa",
+   "description": "Captures a love story where the third party is the Earth itself. Volcanologists Katia and Maurice Krafft filmed each other at the edge of eruptions for twenty years, knowing the work would probably kill them. It did, together, in 1991."
+  },
+  {
+   "id": "tt0092963",
+   "type": "movie",
+   "name": "The Emperor's Naked Army Marches On",
+   "poster": "https://images.metahub.space/poster/medium/tt0092963/img",
+   "background": "https://images.metahub.space/background/medium/tt0092963/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1987",
+   "year": 1987,
+   "runtime": "122 min",
+   "director": "Kazuo Hara",
+   "description": "Captures one man's war that never ended: veteran Kenzo Okuzaki tours Japan forcing his former officers to answer on camera for executions and cannibalism in New Guinea, while director Kazuo Hara's crew effectively enlists in his campaign."
+  },
+  {
+   "id": "tt0233809",
+   "type": "movie",
+   "name": "Extreme Private Eros: Love Song 1974",
+   "poster": "https://images.metahub.space/poster/medium/tt0233809/img",
+   "background": "https://images.metahub.space/background/medium/tt0233809/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1974",
+   "year": 1974,
+   "runtime": "98 min",
+   "director": "Kazuo Hara",
+   "description": "Captures a filmmaker turning his merciless method on himself: Hara follows his ex-wife, radical feminist Miyuki Takeda, through lovers, communes and an unassisted birth, while his new partner records the sound — intimacy documented past every comfortable limit."
+  },
+  {
+   "id": "tt3521134",
+   "type": "movie",
+   "name": "The Look of Silence",
+   "poster": "https://images.metahub.space/poster/medium/tt3521134/img",
+   "background": "https://images.metahub.space/background/medium/tt3521134/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "103 min",
+   "director": "Joshua Oppenheimer",
+   "description": "Captures confrontation inverted: Adi, whose brother was murdered in Indonesia's 1965 purges, visits the killers under cover of eye exams and asks about the killings to their faces — no shouting, only unbearable quiet where they still hold power."
+  },
+  {
+   "id": "tt0062144",
+   "type": "movie",
+   "name": "Portrait of Jason",
+   "poster": "https://images.metahub.space/poster/medium/tt0062144/img",
+   "background": "https://images.metahub.space/background/medium/tt0062144/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "105 min",
+   "director": "Shirley Clarke",
+   "description": "Captures the point where performance stops protecting a man: hustler and would-be cabaret act Jason Holliday performs his life all night for Shirley Clarke's provoking camera, until the act slowly, visibly cracks."
+  },
+  {
+   "id": "tt5375040",
+   "type": "movie",
+   "name": "Cameraperson",
+   "poster": "https://images.metahub.space/poster/medium/tt5375040/img",
+   "background": "https://images.metahub.space/background/medium/tt5375040/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "102 min",
+   "director": "Kirsten Johnson",
+   "description": "Captures a career of looking, reckoned with: Kirsten Johnson cuts decades of outtakes from other people's difficult documentaries — Bosnia, Darfur, her own mother's decline — into a memoir about what pointing a camera at someone's worst day costs."
+  },
+  {
+   "id": "tt1579361",
+   "type": "movie",
+   "name": "Chasing Ice",
+   "poster": "https://images.metahub.space/poster/medium/tt1579361/img",
+   "background": "https://images.metahub.space/background/medium/tt1579361/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "75 min",
+   "director": "Jeff Orlowski-Yang",
+   "description": "Captures climate change made visible at human time-scale, no argument required. Time-lapse cameras planted on glaciers play back years of retreat in seconds — including a calving event the size of a city district, caught by chance."
+  },
+  {
+   "id": "tt3674140",
+   "type": "movie",
+   "name": "The Salt of the Earth",
+   "poster": "https://images.metahub.space/poster/medium/tt3674140/img",
+   "background": "https://images.metahub.space/background/medium/tt3674140/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "110 min",
+   "director": "Juliano Ribeiro Salgado, Wim Wenders",
+   "description": "Captures what a lifetime of looking at suffering does to a person, and one answer to it. Photographer Sebastião Salgado walks through forty years of famine, war and exodus in his own images, then turns to restoring a dead forest — and it works."
+  },
+  {
+   "id": "tt2125608",
+   "type": "movie",
+   "name": "Searching for Sugar Man",
+   "poster": "https://images.metahub.space/poster/medium/tt2125608/img",
+   "background": "https://images.metahub.space/background/medium/tt2125608/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "86 min",
+   "director": "Malik Bendjelloul",
+   "description": "Captures fame existing in full, in a place the famous person never knew about. Detroit singer Rodriguez, a flop at home in the 1970s and rumoured dead, was bigger than Elvis in apartheid South Africa. The most joyful film in its batch."
+  },
+  {
+   "id": "tt1157605",
+   "type": "movie",
+   "name": "Anvil! The Story of Anvil",
+   "poster": "https://images.metahub.space/poster/medium/tt1157605/img",
+   "background": "https://images.metahub.space/background/medium/tt1157605/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "80 min",
+   "director": "Sacha Gervasi",
+   "description": "Captures artistic persistence with no payoff in sight. Toronto's own Anvil: fifty-something metal pioneers who nearly made it in 1982, now delivering school lunches and playing to five people in Prague, still completely serious about the band."
+  },
+  {
+   "id": "tt7681902",
+   "type": "movie",
+   "name": "Won't You Be My Neighbor?",
+   "poster": "https://images.metahub.space/poster/medium/tt7681902/img",
+   "background": "https://images.metahub.space/background/medium/tt7681902/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "95 min",
+   "director": "Morgan Neville",
+   "description": "Captures gentleness deployed as a discipline, not a temperament. Fred Rogers turns out to have been exactly as radical as he appeared: using children's television to insist, slowly and on purpose, that every child is lovable as they are."
+  },
+  {
+   "id": "tt5433114",
+   "type": "movie",
+   "name": "Diego Maradona",
+   "poster": "https://images.metahub.space/poster/medium/tt5433114/img",
+   "background": "https://images.metahub.space/background/medium/tt5433114/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "130 min",
+   "director": "Asif Kapadia",
+   "description": "Captures fame as a hostage situation where the hostage keeps scoring goals. Kapadia builds Maradona's Naples years entirely from archive: adored as a god, pulled into the Camorra's orbit, collapsing under a worship no person could survive."
+  },
+  {
+   "id": "tt0091943",
+   "type": "movie",
+   "name": "Sherman's March",
+   "poster": "https://images.metahub.space/poster/medium/tt0091943/img",
+   "background": "https://images.metahub.space/background/medium/tt0091943/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1986",
+   "year": 1986,
+   "runtime": "157 min",
+   "director": "Ross McElwee",
+   "description": "Captures the personal documentary being invented out of failure. McElwee sets out to film Sherman's Civil War campaign, gets dumped before shooting starts, and the film becomes his disastrous search for love among old flames, narrated in a deadpan spiral."
+  },
+  {
+   "id": "tt0390538",
+   "type": "movie",
+   "name": "Tarnation",
+   "poster": "https://images.metahub.space/poster/medium/tt0390538/img",
+   "background": "https://images.metahub.space/background/medium/tt0390538/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "88 min",
+   "director": "Jonathan Caouette",
+   "description": "Captures self-documentation as survival strategy. Caouette assembles his life from family photos, answering-machine tapes and home video — a mother destroyed by shock treatments and lithium, a childhood spent performing for cameras — edited on iMovie for a few hundred dollars."
+  },
+  {
+   "id": "tt0078850",
+   "type": "movie",
+   "name": "Best Boy",
+   "poster": "https://images.metahub.space/poster/medium/tt0078850/img",
+   "background": "https://images.metahub.space/background/medium/tt0078850/img",
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "releaseInfo": "1979",
+   "year": 1979,
+   "runtime": "111 min",
+   "director": "Ira Wohl",
+   "description": "Captures love expressed as letting go, at the lowest possible volume. Philly, a developmentally disabled man in his fifties whose elderly parents have done everything for him, is gently taught to live more independently — because they won't always be there."
+  },
+  {
+   "id": "tt0060107",
+   "type": "movie",
+   "name": "Andrei Rublev",
+   "poster": "https://images.metahub.space/poster/medium/tt0060107/img",
+   "background": "https://images.metahub.space/background/medium/tt0060107/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "205 min",
+   "director": "Andrei Tarkovsky",
+   "description": "Captures an artist trying to make images of faith in a world of mud and violence. Medieval Russia through its greatest icon painter: raids, pagan festivals, and a boy casting a bell he may not know how to cast."
+  },
+  {
+   "id": "tt0064815",
+   "type": "movie",
+   "name": "Pirosmani",
+   "poster": "https://images.metahub.space/poster/medium/tt0064815/img",
+   "background": "https://images.metahub.space/background/medium/tt0064815/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "85 min",
+   "director": "Giorgi Shengelaia",
+   "description": "Captures a film learning to see the way its subject painted. Georgian folk painter Niko Pirosmani's life built from his own canvases — taverns, feasts, animals, a man painting signs for food and dying unrecognised."
+  },
+  {
+   "id": "tt0068182",
+   "type": "movie",
+   "name": "Aguirre, the Wrath of God",
+   "poster": "https://images.metahub.space/poster/medium/tt0068182/img",
+   "background": "https://images.metahub.space/background/medium/tt0068182/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Biography"
+   ],
+   "releaseInfo": "1972",
+   "year": 1972,
+   "runtime": "95 min",
+   "director": "Werner Herzog",
+   "description": "Captures conquest as a fever that keeps marching after its purpose has rotted. Herzog takes a conquistador expedition down the Amazon until the jungle, the raft and Klaus Kinski's face are all dissolving at the same rate."
+  },
+  {
+   "id": "tt0090798",
+   "type": "movie",
+   "name": "Caravaggio",
+   "poster": "https://images.metahub.space/poster/medium/tt0090798/img",
+   "background": "https://images.metahub.space/background/medium/tt0090798/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1986",
+   "year": 1986,
+   "runtime": "93 min",
+   "director": "Derek Jarman",
+   "description": "Captures a film thinking in paintings the way The Colour of Pomegranates does, but grubbier, queerer, and made for almost no money. Jarman stages the painter's life as living versions of his canvases, with calculators and motorbikes left sitting in the 1600s."
   }
  ]
 }

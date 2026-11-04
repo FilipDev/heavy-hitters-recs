@@ -194,6 +194,242 @@
    "runtime": "172 min",
    "director": "Zacharias Kunuk",
    "description": "Captures an Inuit oral epic told by the community it belongs to. Made in Igloolik, in Inuktitut, with a largely Inuit cast and crew: a rivalry, a murder, and a naked run across the ice told for centuries."
+  },
+  {
+   "id": "tt5198068",
+   "type": "movie",
+   "name": "Wolfwalkers",
+   "poster": "https://images.metahub.space/poster/medium/tt5198068/img",
+   "background": "https://images.metahub.space/background/medium/tt5198068/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "103 min",
+   "director": "Tomm Moore, Ross Stewart",
+   "description": "Captures the wild being hunted in the name of order. Kilkenny, 1650: a hunter's daughter befriends a girl who becomes a wolf in her sleep, and Cartoon Saloon's hand-drawn forest keeps breaking out of the town's straight lines."
+  },
+  {
+   "id": "tt8178634",
+   "type": "movie",
+   "name": "RRR",
+   "poster": "https://images.metahub.space/poster/medium/tt8178634/img",
+   "background": "https://images.metahub.space/background/medium/tt8178634/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "187 min",
+   "director": "S.S. Rajamouli",
+   "description": "Captures male friendship at blockbuster maximum. Two revolutionaries, a rescue on a collapsing bridge, a dance-off against the British, a man carrying a leopard into a party — three hours that never once do anything at half scale."
+  },
+  {
+   "id": "tt23289160",
+   "type": "movie",
+   "name": "Godzilla Minus One",
+   "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+   "background": "https://images.metahub.space/background/medium/tt23289160/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "124 min",
+   "director": "Takashi Yamazaki",
+   "description": "Captures a nation with nothing left being asked to fight again. Postwar Japan, a kamikaze pilot who couldn't do it the first time, and a monster film whose human scenes work as well as its spectacle."
+  },
+  {
+   "id": "tt5598102",
+   "type": "movie",
+   "name": "Faces Places",
+   "poster": "https://images.metahub.space/poster/medium/tt5598102/img",
+   "background": "https://images.metahub.space/background/medium/tt5598102/img",
+   "genres": [
+    "Adventure",
+    "Documentary"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "94 min",
+   "director": "JR, Agnès Varda",
+   "description": "Captures art as an excuse to pay attention to people — the lightest, warmest film in this batch. Varda, 88 and going blind, tours rural France with photographer JR, pasting giant portraits of villagers onto their own villages."
+  },
+  {
+   "id": "tt0066516",
+   "type": "movie",
+   "name": "Valerie and Her Week of Wonders",
+   "poster": "https://images.metahub.space/poster/medium/tt0066516/img",
+   "background": "https://images.metahub.space/background/medium/tt0066516/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1970",
+   "year": 1970,
+   "runtime": "77 min",
+   "director": "Jaromil Jireš",
+   "description": "Captures puberty as a village fairy tale. A thirteen-year-old's coming-of-age rendered as folk-horror dream logic — vampire grandmothers, lecherous priests, possibly magic earrings — where every adult is a monster of one kind or another."
+  },
+  {
+   "id": "tt0059643",
+   "type": "movie",
+   "name": "The Saragossa Manuscript",
+   "poster": "https://images.metahub.space/poster/medium/tt0059643/img",
+   "background": "https://images.metahub.space/background/medium/tt0059643/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1965",
+   "year": 1965,
+   "runtime": "182 min",
+   "director": "Wojciech Has",
+   "description": "Captures storytelling itself as a folk labyrinth. A Napoleonic officer finds a manuscript and falls into tales within tales within tales — gypsies, kabbalists, ghosts, duels — for three hours in Wojciech Has's nested Polish epic."
+  },
+  {
+   "id": "tt0466399",
+   "type": "movie",
+   "name": "Ten Canoes",
+   "poster": "https://images.metahub.space/poster/medium/tt0466399/img",
+   "background": "https://images.metahub.space/background/medium/tt0466399/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "90 min",
+   "director": "Rolf de Heer, Peter Djigirr",
+   "description": "Captures oral tradition's actual structure. In Arnhem Land, an elder tells a young man a cautionary ancestral tale inside which another tale is told, while they hunt goose eggs in the swamp — stories nested for a practical moral purpose, with jokes."
+  },
+  {
+   "id": "tt0067959",
+   "type": "movie",
+   "name": "Walkabout",
+   "poster": "https://images.metahub.space/poster/medium/tt0067959/img",
+   "background": "https://images.metahub.space/background/medium/tt0067959/img",
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "100 min",
+   "director": "Nicolas Roeg",
+   "description": "Captures two cosmologies meeting in a landscape older than both. Two white children lost in the Australian outback are found by an Aboriginal boy on his walkabout; Eden and catastrophe share every frame."
+  },
+  {
+   "id": "tt0068182",
+   "type": "movie",
+   "name": "Aguirre, the Wrath of God",
+   "poster": "https://images.metahub.space/poster/medium/tt0068182/img",
+   "background": "https://images.metahub.space/background/medium/tt0068182/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Biography"
+   ],
+   "releaseInfo": "1972",
+   "year": 1972,
+   "runtime": "95 min",
+   "director": "Werner Herzog",
+   "description": "Captures conquest as a fever that keeps marching after its purpose has rotted. Herzog takes a conquistador expedition down the Amazon until the jungle, the raft and Klaus Kinski's face are all dissolving at the same rate."
+  },
+  {
+   "id": "tt0071615",
+   "type": "movie",
+   "name": "The Holy Mountain",
+   "poster": "https://images.metahub.space/poster/medium/tt0071615/img",
+   "background": "https://images.metahub.space/background/medium/tt0071615/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "114 min",
+   "director": "Alejandro Jodorowsky",
+   "description": "Captures meaning stacked in images until it overloads. Jodorowsky's alchemical procession — a Christ figure and seven archetypes played by industrialists and generals — assembles some of the densest tableaux ever put on film, grotesque and deliberate."
+  },
+  {
+   "id": "tt0460791",
+   "type": "movie",
+   "name": "The Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt0460791/img",
+   "background": "https://images.metahub.space/background/medium/tt0460791/img",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "117 min",
+   "director": "Tarsem Singh",
+   "description": "Captures storytelling as barter. Tarsem spent years shooting a suicidal stuntman's improvised fairy tale to a little girl in a 1920s hospital, across two dozen countries with no green screen; he needs her help, and she keeps changing the story by listening."
+  },
+  {
+   "id": "tt0064451",
+   "type": "movie",
+   "name": "A Touch of Zen",
+   "poster": "https://images.metahub.space/poster/medium/tt0064451/img",
+   "background": "https://images.metahub.space/background/medium/tt0064451/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "200 min",
+   "director": "King Hu",
+   "description": "Captures combat choreographed as calligraphy, then dropped entirely for transcendence. King Hu's wuxia epic follows a scholar drawn into a fugitive's fight against the imperial secret police, ascending through a bamboo-forest duel toward something close to enlightenment."
+  },
+  {
+   "id": "tt0058006",
+   "type": "movie",
+   "name": "Black God, White Devil",
+   "poster": "https://images.metahub.space/poster/medium/tt0058006/img",
+   "background": "https://images.metahub.space/background/medium/tt0058006/img",
+   "genres": [
+    "Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "120 min",
+   "director": "Glauber Rocha",
+   "description": "Captures a peasant world where religion and violence are the only available languages. Rocha's Brazilian sertão — a hired killer, a self-proclaimed saint gathering followers, a blind bandit-prophet — is filmed like a folk ballad being sung at gunpoint, in glare and dust."
+  },
+  {
+   "id": "tt0095715",
+   "type": "movie",
+   "name": "Alice",
+   "poster": "https://images.metahub.space/poster/medium/tt0095715/img",
+   "background": "https://images.metahub.space/background/medium/tt0095715/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "86 min",
+   "director": "Jan Švankmajer",
+   "description": "Captures the folk tale as a child's-eye inventory of a household's dangerous things. Švankmajer's Alice moves through a Wonderland of taxidermy, bones and jam jars of pins, stop-motion objects that genuinely threaten her — Carroll's dream rebuilt from junk drawers."
   }
  ]
 }

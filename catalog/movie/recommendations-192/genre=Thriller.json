@@ -893,6 +893,105 @@
    "runtime": "84 min",
    "director": "Darren Aronofsky",
    "description": "Captures obsession with a pattern, filmed on grain. A mathematician in a tiny New York apartment with computers made of junk, a number that Wall Street and a Hasidic sect both want, and migraines rendered as drill sounds."
+  },
+  {
+   "id": "tt0058625",
+   "type": "movie",
+   "name": "Woman in the Dunes",
+   "poster": "https://images.metahub.space/poster/medium/tt0058625/img",
+   "background": "https://images.metahub.space/background/medium/tt0058625/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "147 min",
+   "director": "Hiroshi Teshigahara",
+   "description": "Captures entrapment becoming routine. A man is lowered into a sand pit to shovel beside the woman who already lives there; escape stays theoretically possible while the days quietly become a life."
+  },
+  {
+   "id": "tt0096163",
+   "type": "movie",
+   "name": "The Vanishing",
+   "poster": "https://images.metahub.space/poster/medium/tt0096163/img",
+   "background": "https://images.metahub.space/background/medium/tt0096163/img",
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "107 min",
+   "director": "George Sluizer",
+   "description": "Captures the need to know as a trap. Not a whodunit but a how-and-why: a man's obsession with his girlfriend's disappearance, and the ordinary, methodical man who offers him the answer at a price."
+  },
+  {
+   "id": "tt0387898",
+   "type": "movie",
+   "name": "Caché",
+   "poster": "https://images.metahub.space/poster/medium/tt0387898/img",
+   "background": "https://images.metahub.space/background/medium/tt0387898/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "117 min",
+   "director": "Michael Haneke",
+   "description": "Captures guilt that refuses to identify itself. A Paris family receives surveillance tapes of their own house with no demands attached; Haneke never says who sent them, because the film is about what the husband already knows."
+  },
+  {
+   "id": "tt0065780",
+   "type": "movie",
+   "name": "Gimme Shelter",
+   "poster": "https://images.metahub.space/poster/medium/tt0065780/img",
+   "background": "https://images.metahub.space/background/medium/tt0065780/img",
+   "genres": [
+    "Documentary",
+    "Music",
+    "Thriller"
+   ],
+   "releaseInfo": "1970",
+   "year": 1970,
+   "runtime": "91 min",
+   "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+   "description": "Captures the precise frame where the 1960s dream curdles: Altamont, a fan stabbed to death in front of the stage, and the Rolling Stones afterwards watching the footage of it, not knowing what to say."
+  },
+  {
+   "id": "tt0067633",
+   "type": "movie",
+   "name": "Punishment Park",
+   "poster": "https://images.metahub.space/poster/medium/tt0067633/img",
+   "background": "https://images.metahub.space/background/medium/tt0067633/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "91 min",
+   "director": "Peter Watkins",
+   "description": "Captures a camera crew admitting it has a side: Watkins' fake documentary follows political prisoners running fifty miles through desert toward a flag while police hunt them, and the crew ends up screaming at the officers."
+  },
+  {
+   "id": "tt0070917",
+   "type": "movie",
+   "name": "The Wicker Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0070917/img",
+   "background": "https://images.metahub.space/background/medium/tt0070917/img",
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "88 min",
+   "director": "Robin Hardy",
+   "description": "Captures paganism not as horror but as joy. A devout Christian policeman arrives on a Scottish island where the harvest failed and the old religion quietly resumed — and the islanders keep bursting into song, which is what makes the ending land."
   }
  ]
 }

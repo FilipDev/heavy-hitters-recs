@@ -223,6 +223,190 @@
    "runtime": "157 min",
    "director": "Ang Lee",
    "description": "Captures an espionage performance becoming the real feeling it was faking. In occupied Shanghai, a student actress is assigned to seduce a collaborationist official so he can be killed, over years of mahjong games and assignations."
+  },
+  {
+   "id": "tt0059527",
+   "type": "movie",
+   "name": "The Shop on Main Street",
+   "poster": "https://images.metahub.space/poster/medium/tt0059527/img",
+   "background": "https://images.metahub.space/background/medium/tt0059527/img",
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1965",
+   "year": 1965,
+   "runtime": "128 min",
+   "director": "Ján Kadár, Elmar Klos",
+   "description": "Captures collaboration at its smallest and most cowardly. A Slovak carpenter handed a Jewish widow's button shop under Aryanization laws hides her instead of profiting — comic and gentle, until the roundup comes anyway."
+  },
+  {
+   "id": "tt8633462",
+   "type": "movie",
+   "name": "Quo Vadis, Aida?",
+   "poster": "https://images.metahub.space/poster/medium/tt8633462/img",
+   "background": "https://images.metahub.space/background/medium/tt8633462/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "101 min",
+   "director": "Jasmila Zbanic",
+   "description": "Captures catastrophe processed as procedure. Srebrenica, 1995, through a UN translator moving names between lists, gates and buses — horror administered in queues and stamps, with everyone following protocol."
+  },
+  {
+   "id": "tt7160372",
+   "type": "movie",
+   "name": "The Zone of Interest",
+   "poster": "https://images.metahub.space/poster/medium/tt7160372/img",
+   "background": "https://images.metahub.space/background/medium/tt7160372/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "105 min",
+   "director": "Jonathan Glazer",
+   "description": "Captures evil as a domestic soundscape. The Höss family gardens, swims and hosts lunches on the other side of the Auschwitz wall; you see almost nothing of the camp and hear it in every scene."
+  },
+  {
+   "id": "tt0071604",
+   "type": "movie",
+   "name": "Hearts and Minds",
+   "poster": "https://images.metahub.space/poster/medium/tt0071604/img",
+   "background": "https://images.metahub.space/background/medium/tt0071604/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1974",
+   "year": 1974,
+   "runtime": "112 min",
+   "director": "Peter Davis",
+   "description": "Captures how a country talks itself into a war and then can't talk itself out of the damage. Vietnam told by everyone it passed through — generals, pilots, Vietnamese villagers, American POWs and grieving parents."
+  },
+  {
+   "id": "tt0090015",
+   "type": "movie",
+   "name": "Shoah",
+   "poster": "https://images.metahub.space/poster/medium/tt0090015/img",
+   "background": "https://images.metahub.space/background/medium/tt0090015/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1985",
+   "year": 1985,
+   "runtime": "566 min",
+   "director": "Claude Lanzmann",
+   "description": "Captures memory itself as evidence. Nine and a half hours with not one frame of archival footage — only survivors, bystanders and perpetrators talking in the present tense, in the places where it happened. The most demanding film in the collection."
+  },
+  {
+   "id": "tt9617456",
+   "type": "movie",
+   "name": "For Sama",
+   "poster": "https://images.metahub.space/poster/medium/tt9617456/img",
+   "background": "https://images.metahub.space/background/medium/tt9617456/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "War"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "100 min",
+   "director": "Waad Al-Kateab, Edward Watts",
+   "description": "Captures war from inside a family instead of inside a news report. Waad Al-Kateab films five years of the siege of Aleppo as a letter to her baby daughter, explaining why they stayed."
+  },
+  {
+   "id": "tt24082438",
+   "type": "movie",
+   "name": "20 Days in Mariupol",
+   "poster": "https://images.metahub.space/poster/medium/tt24082438/img",
+   "background": "https://images.metahub.space/background/medium/tt24082438/img",
+   "genres": [
+    "Documentary",
+    "War"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "97 min",
+   "director": "Mstyslav Chernov",
+   "description": "Captures the 2022 siege of Mariupol as the people inside it actually experienced its first twenty days. AP journalists trapped in the city keep filming because getting the footage out is the only thing that makes staying mean anything."
+  },
+  {
+   "id": "tt0368954",
+   "type": "movie",
+   "name": "S-21: The Khmer Rouge Killing Machine",
+   "poster": "https://images.metahub.space/poster/medium/tt0368954/img",
+   "background": "https://images.metahub.space/background/medium/tt0368954/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "101 min",
+   "director": "Rithy Panh",
+   "description": "Captures atrocity recalled as office procedure: survivor Vann Nath brings former Tuol Sleng guards back into the prison, where they re-enact their daily routines of shackling and paperwork and find nothing dramatic in their own memories."
+  },
+  {
+   "id": "tt7905466",
+   "type": "movie",
+   "name": "They Shall Not Grow Old",
+   "poster": "https://images.metahub.space/poster/medium/tt7905466/img",
+   "background": "https://images.metahub.space/background/medium/tt7905466/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "99 min",
+   "director": "Peter Jackson",
+   "description": "Captures the trenches suddenly populated by recognisable young men instead of ghosts. Peter Jackson restores jerky silent WWI footage to correct speed, colourises it, and adds voices reconstructed from veterans' interviews and lip-reading."
+  },
+  {
+   "id": "tt0165636",
+   "type": "movie",
+   "name": "The White Bird Marked with Black",
+   "poster": "https://images.metahub.space/poster/medium/tt0165636/img",
+   "background": "https://images.metahub.space/background/medium/tt0165636/img",
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "99 min",
+   "director": "Yuri Ilyenko",
+   "description": "Captures folk culture being torn by history. In the same Hutsul Carpathians as Shadows, four brothers in a village band end up on opposite sides of every border the war years drag across their valley, in images just as saturated."
+  },
+  {
+   "id": "tt0059776",
+   "type": "movie",
+   "name": "The Round-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0059776/img",
+   "background": "https://images.metahub.space/background/medium/tt0059776/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "90 min",
+   "director": "Miklós Jancsó",
+   "description": "Captures power as folk dance. On an endless white plain, authorities process prisoners from a peasant uprising through rituals of selection and betrayal, in Jancsó's choreographed long takes — nobody's psychology is explained, and the rituals are the point."
   }
  ]
 }

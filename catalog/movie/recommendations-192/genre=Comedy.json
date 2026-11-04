@@ -400,6 +400,270 @@
    "runtime": "89 min",
    "director": "Harmony Korine",
    "description": "Captures boredom and poverty in an American town as unconnected afternoons. Xenia, Ohio, after a tornado: kids sniffing, selling dead cats, taped monologues, no plot arriving to save anyone."
+  },
+  {
+   "id": "tt0060959",
+   "type": "movie",
+   "name": "Daisies",
+   "poster": "https://images.metahub.space/poster/medium/tt0060959/img",
+   "background": "https://images.metahub.space/background/medium/tt0060959/img",
+   "genres": [
+    "Comedy"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "75 min",
+   "director": "Vera Chytilová",
+   "description": "Captures two girls deciding the world is spoiled, so they'll be spoiled too. A Czech New Wave food-fight against everything — banquets wrecked, scissors, fire, a chandelier swing — anarchy as pure visual mischief."
+  },
+  {
+   "id": "tt0062136",
+   "type": "movie",
+   "name": "Playtime",
+   "poster": "https://images.metahub.space/poster/medium/tt0062136/img",
+   "background": "https://images.metahub.space/background/medium/tt0062136/img",
+   "genres": [
+    "Comedy"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "155 min",
+   "director": "Jacques Tati",
+   "description": "Captures modern architecture failing to be lived in. Tati wanders a Paris of glass and identical cubicles where the jokes happen at the edges of the frame, all at once, none of them underlined."
+  },
+  {
+   "id": "tt0070334",
+   "type": "movie",
+   "name": "The Long Goodbye",
+   "poster": "https://images.metahub.space/poster/medium/tt0070334/img",
+   "background": "https://images.metahub.space/background/medium/tt0070334/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "112 min",
+   "director": "Robert Altman",
+   "description": "Captures a decent man out of sync with his decade. Altman's Philip Marlowe shuffles through sunlit, corrupt Los Angeles in a rumpled suit, the last person still taking loyalty seriously."
+  },
+  {
+   "id": "tt2396224",
+   "type": "movie",
+   "name": "It's Such a Beautiful Day",
+   "poster": "https://images.metahub.space/poster/medium/tt2396224/img",
+   "background": "https://images.metahub.space/background/medium/tt2396224/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "62 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a mind coming apart, drawn with stick figures. Hertzfeldt narrates a man with a failing brain in three chapters — funny, fragmented, and by the end genuinely cosmic."
+  },
+  {
+   "id": "tt4048272",
+   "type": "movie",
+   "name": "Toni Erdmann",
+   "poster": "https://images.metahub.space/poster/medium/tt4048272/img",
+   "background": "https://images.metahub.space/background/medium/tt4048272/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "162 min",
+   "director": "Maren Ade",
+   "description": "Captures a father trying to joke his daughter back to life. A prankster dad with false teeth infiltrates his consultant daughter's sterile Bucharest existence — a comedy that keeps tipping into grief and back."
+  },
+  {
+   "id": "tt5083738",
+   "type": "movie",
+   "name": "The Favourite",
+   "poster": "https://images.metahub.space/poster/medium/tt5083738/img",
+   "background": "https://images.metahub.space/background/medium/tt5083738/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "119 min",
+   "director": "Yorgos Lanthimos",
+   "description": "Captures court power as intimate warfare. Two women compete to be Queen Anne's favourite — her bed, her ear, her rabbits — through fisheye candlelit corridors, with a lonely, raging queen at the centre."
+  },
+  {
+   "id": "tt10370710",
+   "type": "movie",
+   "name": "The Worst Person in the World",
+   "poster": "https://images.metahub.space/poster/medium/tt10370710/img",
+   "background": "https://images.metahub.space/background/medium/tt10370710/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "128 min",
+   "director": "Joachim Trier",
+   "description": "Captures turning thirty with every option still open and none chosen. Oslo in twelve chapters: a woman cycles through careers and men, including a night that pauses the entire city so she can test a life before living it."
+  },
+  {
+   "id": "tt11813216",
+   "type": "movie",
+   "name": "The Banshees of Inisherin",
+   "poster": "https://images.metahub.space/poster/medium/tt11813216/img",
+   "background": "https://images.metahub.space/background/medium/tt11813216/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "114 min",
+   "director": "Martin McDonagh",
+   "description": "Captures being dumped by a friend. One morning Colm simply doesn't want to talk to Pádraic anymore, and a whole island watches a small rejection escalate toward the mythic. Funny, until the exact moment it isn't."
+  },
+  {
+   "id": "tt0109508",
+   "type": "movie",
+   "name": "Crumb",
+   "poster": "https://images.metahub.space/poster/medium/tt0109508/img",
+   "background": "https://images.metahub.space/background/medium/tt0109508/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "119 min",
+   "director": "Terry Zwigoff",
+   "description": "Captures how the same upbringing produces a famous artist, a broken man, and something in between. Cartoonist R. Crumb and his two brothers, all shaped by one brutal household, in Terry Zwigoff's unsparing family portrait."
+  },
+  {
+   "id": "tt0181288",
+   "type": "movie",
+   "name": "American Movie",
+   "poster": "https://images.metahub.space/poster/medium/tt0181288/img",
+   "background": "https://images.metahub.space/background/medium/tt0181288/img",
+   "genres": [
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "107 min",
+   "director": "Chris Smith",
+   "description": "Captures delusion and genuine talent living in the same person. Mark Borchardt, a Wisconsin sanitation worker with debts and a drinking problem, tries to finish a horror short to fund his dream feature — very funny until, suddenly, it isn't."
+  },
+  {
+   "id": "tt0103905",
+   "type": "movie",
+   "name": "Man Bites Dog",
+   "poster": "https://images.metahub.space/poster/medium/tt0103905/img",
+   "background": "https://images.metahub.space/background/medium/tt0103905/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1992",
+   "year": 1992,
+   "runtime": "95 min",
+   "director": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
+   "description": "Captures the complicity problem pushed to its logical endpoint — the cluster's one fiction: a student crew follows a charming serial killer for a documentary, graduating from filming him, to holding the camera steady, to helping."
+  },
+  {
+   "id": "tt0091943",
+   "type": "movie",
+   "name": "Sherman's March",
+   "poster": "https://images.metahub.space/poster/medium/tt0091943/img",
+   "background": "https://images.metahub.space/background/medium/tt0091943/img",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+   ],
+   "releaseInfo": "1986",
+   "year": 1986,
+   "runtime": "157 min",
+   "director": "Ross McElwee",
+   "description": "Captures the personal documentary being invented out of failure. McElwee sets out to film Sherman's Civil War campaign, gets dumped before shooting starts, and the film becomes his disastrous search for love among old flames, narrated in a deadpan spiral."
+  },
+  {
+   "id": "tt0097223",
+   "type": "movie",
+   "name": "Time of the Gypsies",
+   "poster": "https://images.metahub.space/poster/medium/tt0097223/img",
+   "background": "https://images.metahub.space/background/medium/tt0097223/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "142 min",
+   "director": "Emir Kusturica",
+   "description": "Captures folk storytelling surviving, barely, inside modern crime. A Romani teenager with telekinetic powers is lured into a smuggling life in Italy, half narrated by Goran Bregović's score — Petrović's world taken into magical realism."
+  },
+  {
+   "id": "tt0466399",
+   "type": "movie",
+   "name": "Ten Canoes",
+   "poster": "https://images.metahub.space/poster/medium/tt0466399/img",
+   "background": "https://images.metahub.space/background/medium/tt0466399/img",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "90 min",
+   "director": "Rolf de Heer, Peter Djigirr",
+   "description": "Captures oral tradition's actual structure. In Arnhem Land, an elder tells a young man a cautionary ancestral tale inside which another tale is told, while they hunt goose eggs in the swamp — stories nested for a practical moral purpose, with jokes."
+  },
+  {
+   "id": "tt0071129",
+   "type": "movie",
+   "name": "Amarcord",
+   "poster": "https://images.metahub.space/poster/medium/tt0071129/img",
+   "background": "https://images.metahub.space/background/medium/tt0071129/img",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "123 min",
+   "director": "Federico Fellini",
+   "description": "Captures a community remembering itself, every ritual half affection and half mockery. Fellini rebuilds his hometown of Rimini as permanent carnival: fascist rallies, family dinners, a peacock in the snow, a whole town rowing out to greet an ocean liner."
+  },
+  {
+   "id": "tt0106504",
+   "type": "movie",
+   "name": "Calendar",
+   "poster": "https://images.metahub.space/poster/medium/tt0106504/img",
+   "background": "https://images.metahub.space/background/medium/tt0106504/img",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1993",
+   "year": 1993,
+   "runtime": "74 min",
+   "director": "Atom Egoyan",
+   "description": "Captures diaspora as a loop of beautiful images you can't live inside. Egoyan sends a Canadian photographer to Armenia to shoot twelve ancient churches for a calendar, his marriage failing in the car between sites — then the ritual repeats, reframed, back in Toronto."
   }
  ]
 }

@@ -1533,6 +1533,134 @@
    "runtime": "89 min",
    "director": "David Gordon Green",
    "description": "Captures rural Southern childhood in the long light after something goes wrong. Kids in a decaying town carry an accident together, and a boy in a cape wants to be a hero — all voiceover and golden fields."
+  },
+  {
+   "id": "tt0037558",
+   "type": "movie",
+   "name": "Brief Encounter",
+   "poster": "https://images.metahub.space/poster/medium/tt0037558/img",
+   "background": "https://images.metahub.space/background/medium/tt0037558/img",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1945",
+   "year": 1945,
+   "runtime": "86 min",
+   "director": "David Lean",
+   "description": "Captures desire that obeys the rules anyway. A doctor and a housewife meet in a railway station café, fall in love in weekly instalments, and give each other up — two ordinary people torn apart by behaving well."
+  },
+  {
+   "id": "tt0058625",
+   "type": "movie",
+   "name": "Woman in the Dunes",
+   "poster": "https://images.metahub.space/poster/medium/tt0058625/img",
+   "background": "https://images.metahub.space/background/medium/tt0058625/img",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "147 min",
+   "director": "Hiroshi Teshigahara",
+   "description": "Captures entrapment becoming routine. A man is lowered into a sand pit to shovel beside the woman who already lives there; escape stays theoretically possible while the days quietly become a life."
+  },
+  {
+   "id": "tt0059527",
+   "type": "movie",
+   "name": "The Shop on Main Street",
+   "poster": "https://images.metahub.space/poster/medium/tt0059527/img",
+   "background": "https://images.metahub.space/background/medium/tt0059527/img",
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "releaseInfo": "1965",
+   "year": 1965,
+   "runtime": "128 min",
+   "director": "Ján Kadár, Elmar Klos",
+   "description": "Captures collaboration at its smallest and most cowardly. A Slovak carpenter handed a Jewish widow's button shop under Aryanization laws hides her instead of profiting — comic and gentle, until the roundup comes anyway."
+  },
+  {
+   "id": "tt0060959",
+   "type": "movie",
+   "name": "Daisies",
+   "poster": "https://images.metahub.space/poster/medium/tt0060959/img",
+   "background": "https://images.metahub.space/background/medium/tt0060959/img",
+   "genres": [
+    "Comedy"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "75 min",
+   "director": "Vera Chytilová",
+   "description": "Captures two girls deciding the world is spoiled, so they'll be spoiled too. A Czech New Wave food-fight against everything — banquets wrecked, scissors, fire, a chandelier swing — anarchy as pure visual mischief."
+  },
+  {
+   "id": "tt0062136",
+   "type": "movie",
+   "name": "Playtime",
+   "poster": "https://images.metahub.space/poster/medium/tt0062136/img",
+   "background": "https://images.metahub.space/background/medium/tt0062136/img",
+   "genres": [
+    "Comedy"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "155 min",
+   "director": "Jacques Tati",
+   "description": "Captures modern architecture failing to be lived in. Tati wanders a Paris of glass and identical cubicles where the jokes happen at the edges of the frame, all at once, none of them underlined."
+  },
+  {
+   "id": "tt0063555",
+   "type": "movie",
+   "name": "The Colour of Pomegranates",
+   "poster": "https://images.metahub.space/poster/medium/tt0063555/img",
+   "background": "https://images.metahub.space/background/medium/tt0063555/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "79 min",
+   "director": "Sergei Parajanov",
+   "description": "Captures a poet's life as a series of icons instead of events. An Armenian troubadour rendered in tableaux — books, blood, grapes, lace — with almost no dialogue and no interest in explaining itself."
+  },
+  {
+   "id": "tt0070334",
+   "type": "movie",
+   "name": "The Long Goodbye",
+   "poster": "https://images.metahub.space/poster/medium/tt0070334/img",
+   "background": "https://images.metahub.space/background/medium/tt0070334/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "112 min",
+   "director": "Robert Altman",
+   "description": "Captures a decent man out of sync with his decade. Altman's Philip Marlowe shuffles through sunlit, corrupt Los Angeles in a rumpled suit, the last person still taking loyalty seriously."
+  },
+  {
+   "id": "tt0096163",
+   "type": "movie",
+   "name": "The Vanishing",
+   "poster": "https://images.metahub.space/poster/medium/tt0096163/img",
+   "background": "https://images.metahub.space/background/medium/tt0096163/img",
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "107 min",
+   "director": "George Sluizer",
+   "description": "Captures the need to know as a trap. Not a whodunit but a how-and-why: a man's obsession with his girlfriend's disappearance, and the ordinary, methodical man who offers him the answer at a price."
   }
  ]
 }

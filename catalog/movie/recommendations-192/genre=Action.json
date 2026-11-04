@@ -161,6 +161,91 @@
    "runtime": "102 min",
    "director": "David Mackenzie",
    "description": "Captures two brothers robbing the bank that is taking their family's land. West Texas, foreclosed ranches and debt-relief billboards, and two ageing Rangers following them at the speed of talk — a western wearing a recession."
+  },
+  {
+   "id": "tt5198068",
+   "type": "movie",
+   "name": "Wolfwalkers",
+   "poster": "https://images.metahub.space/poster/medium/tt5198068/img",
+   "background": "https://images.metahub.space/background/medium/tt5198068/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "103 min",
+   "director": "Tomm Moore, Ross Stewart",
+   "description": "Captures the wild being hunted in the name of order. Kilkenny, 1650: a hunter's daughter befriends a girl who becomes a wolf in her sleep, and Cartoon Saloon's hand-drawn forest keeps breaking out of the town's straight lines."
+  },
+  {
+   "id": "tt8178634",
+   "type": "movie",
+   "name": "RRR",
+   "poster": "https://images.metahub.space/poster/medium/tt8178634/img",
+   "background": "https://images.metahub.space/background/medium/tt8178634/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "187 min",
+   "director": "S.S. Rajamouli",
+   "description": "Captures male friendship at blockbuster maximum. Two revolutionaries, a rescue on a collapsing bridge, a dance-off against the British, a man carrying a leopard into a party — three hours that never once do anything at half scale."
+  },
+  {
+   "id": "tt23289160",
+   "type": "movie",
+   "name": "Godzilla Minus One",
+   "poster": "https://images.metahub.space/poster/medium/tt23289160/img",
+   "background": "https://images.metahub.space/background/medium/tt23289160/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "124 min",
+   "director": "Takashi Yamazaki",
+   "description": "Captures a nation with nothing left being asked to fight again. Postwar Japan, a kamikaze pilot who couldn't do it the first time, and a monster film whose human scenes work as well as its spectacle."
+  },
+  {
+   "id": "tt0068182",
+   "type": "movie",
+   "name": "Aguirre, the Wrath of God",
+   "poster": "https://images.metahub.space/poster/medium/tt0068182/img",
+   "background": "https://images.metahub.space/background/medium/tt0068182/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Biography"
+   ],
+   "releaseInfo": "1972",
+   "year": 1972,
+   "runtime": "95 min",
+   "director": "Werner Herzog",
+   "description": "Captures conquest as a fever that keeps marching after its purpose has rotted. Herzog takes a conquistador expedition down the Amazon until the jungle, the raft and Klaus Kinski's face are all dissolving at the same rate."
+  },
+  {
+   "id": "tt0064451",
+   "type": "movie",
+   "name": "A Touch of Zen",
+   "poster": "https://images.metahub.space/poster/medium/tt0064451/img",
+   "background": "https://images.metahub.space/background/medium/tt0064451/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "200 min",
+   "director": "King Hu",
+   "description": "Captures combat choreographed as calligraphy, then dropped entirely for transcendence. King Hu's wuxia epic follows a scholar drawn into a fugitive's fight against the imperial secret police, ascending through a bamboo-forest duel toward something close to enlightenment."
   }
  ]
 }

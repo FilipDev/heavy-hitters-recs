@@ -246,6 +246,605 @@
    "runtime": "161 min",
    "director": "Martin Scorsese",
    "description": "Captures faith tested by other people's suffering, not your own. Jesuit priests in 17th-century Japan, where Christians are tortured to make them apostatise and God does not answer — Scorsese's quietest, most unresolved film."
+  },
+  {
+   "id": "tt0063555",
+   "type": "movie",
+   "name": "The Colour of Pomegranates",
+   "poster": "https://images.metahub.space/poster/medium/tt0063555/img",
+   "background": "https://images.metahub.space/background/medium/tt0063555/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "79 min",
+   "director": "Sergei Parajanov",
+   "description": "Captures a poet's life as a series of icons instead of events. An Armenian troubadour rendered in tableaux — books, blood, grapes, lace — with almost no dialogue and no interest in explaining itself."
+  },
+  {
+   "id": "tt0318034",
+   "type": "movie",
+   "name": "Russian Ark",
+   "poster": "https://images.metahub.space/poster/medium/tt0318034/img",
+   "background": "https://images.metahub.space/background/medium/tt0318034/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "History"
+   ],
+   "releaseInfo": "2002",
+   "year": 2002,
+   "runtime": "99 min",
+   "director": "Aleksandr Sokurov",
+   "description": "Captures 300 years of history in one held breath. A single unbroken shot drifts through the Hermitage, past czars and ballrooms, with the camera as a ghost nobody quite sees."
+  },
+  {
+   "id": "tt8633462",
+   "type": "movie",
+   "name": "Quo Vadis, Aida?",
+   "poster": "https://images.metahub.space/poster/medium/tt8633462/img",
+   "background": "https://images.metahub.space/background/medium/tt8633462/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "101 min",
+   "director": "Jasmila Zbanic",
+   "description": "Captures catastrophe processed as procedure. Srebrenica, 1995, through a UN translator moving names between lists, gates and buses — horror administered in queues and stamps, with everyone following protocol."
+  },
+  {
+   "id": "tt7160372",
+   "type": "movie",
+   "name": "The Zone of Interest",
+   "poster": "https://images.metahub.space/poster/medium/tt7160372/img",
+   "background": "https://images.metahub.space/background/medium/tt7160372/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "105 min",
+   "director": "Jonathan Glazer",
+   "description": "Captures evil as a domestic soundscape. The Höss family gardens, swims and hosts lunches on the other side of the Auschwitz wall; you see almost nothing of the camp and hear it in every scene."
+  },
+  {
+   "id": "tt0048434",
+   "type": "movie",
+   "name": "Night and Fog",
+   "poster": "https://images.metahub.space/poster/medium/tt0048434/img",
+   "background": "https://images.metahub.space/background/medium/tt0048434/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1956",
+   "year": 1956,
+   "runtime": "32 min",
+   "director": "Alain Resnais",
+   "description": "Captures the Holocaust through the quiet, empty camps a decade later rather than footage of the killing itself: grass growing over atrocity, and how quickly a society decides to move on. Resnais' 32-minute essay remains documentary's foundational act of memory."
+  },
+  {
+   "id": "tt0054745",
+   "type": "movie",
+   "name": "Chronicle of a Summer",
+   "poster": "https://images.metahub.space/poster/medium/tt0054745/img",
+   "background": "https://images.metahub.space/background/medium/tt0054745/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1961",
+   "year": 1961,
+   "runtime": "85 min",
+   "director": "Edgar Morin, Jean Rouch",
+   "description": "Captures the moment documentary stopped pretending the camera wasn't in the room. Rouch and Morin ask Parisians 'Are you happy?', then film themselves arguing over whether the answers were real — cinéma vérité examining its own honesty."
+  },
+  {
+   "id": "tt0071604",
+   "type": "movie",
+   "name": "Hearts and Minds",
+   "poster": "https://images.metahub.space/poster/medium/tt0071604/img",
+   "background": "https://images.metahub.space/background/medium/tt0071604/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1974",
+   "year": 1974,
+   "runtime": "112 min",
+   "director": "Peter Davis",
+   "description": "Captures how a country talks itself into a war and then can't talk itself out of the damage. Vietnam told by everyone it passed through — generals, pilots, Vietnamese villagers, American POWs and grieving parents."
+  },
+  {
+   "id": "tt0090015",
+   "type": "movie",
+   "name": "Shoah",
+   "poster": "https://images.metahub.space/poster/medium/tt0090015/img",
+   "background": "https://images.metahub.space/background/medium/tt0090015/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1985",
+   "year": 1985,
+   "runtime": "566 min",
+   "director": "Claude Lanzmann",
+   "description": "Captures memory itself as evidence. Nine and a half hours with not one frame of archival footage — only survivors, bystanders and perpetrators talking in the present tense, in the places where it happened. The most demanding film in the collection."
+  },
+  {
+   "id": "tt0317910",
+   "type": "movie",
+   "name": "The Fog of War",
+   "poster": "https://images.metahub.space/poster/medium/tt0317910/img",
+   "background": "https://images.metahub.space/background/medium/tt0317910/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "107 min",
+   "director": "Errol Morris",
+   "description": "Captures a brilliant man half-confessing to catastrophe. Robert McNamara, architect of Vietnam escalation, now in his eighties, lays out eleven lessons from his life in power — you decide whether the other half is honesty or self-defence."
+  },
+  {
+   "id": "tt5804038",
+   "type": "movie",
+   "name": "I Am Not Your Negro",
+   "poster": "https://images.metahub.space/poster/medium/tt5804038/img",
+   "background": "https://images.metahub.space/background/medium/tt5804038/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "93 min",
+   "director": "Raoul Peck",
+   "description": "Captures a writer so precise that footage from decades after his death still fits his sentences. James Baldwin's unfinished manuscript on the murders of Medgar Evers, Malcolm X and Martin Luther King, read over a century of American images."
+  },
+  {
+   "id": "tt8760684",
+   "type": "movie",
+   "name": "Apollo 11",
+   "poster": "https://images.metahub.space/poster/medium/tt8760684/img",
+   "background": "https://images.metahub.space/background/medium/tt8760684/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "93 min",
+   "director": "Todd Douglas Miller",
+   "description": "Captures the sheer procedural calm of the Moon landing. Rebuilt entirely from restored 70mm footage and audio — no narration, no talking heads — just thousands of people doing small jobs correctly until a man is standing on the Moon."
+  },
+  {
+   "id": "tt3521134",
+   "type": "movie",
+   "name": "The Look of Silence",
+   "poster": "https://images.metahub.space/poster/medium/tt3521134/img",
+   "background": "https://images.metahub.space/background/medium/tt3521134/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "103 min",
+   "director": "Joshua Oppenheimer",
+   "description": "Captures confrontation inverted: Adi, whose brother was murdered in Indonesia's 1965 purges, visits the killers under cover of eye exams and asks about the killings to their faces — no shouting, only unbearable quiet where they still hold power."
+  },
+  {
+   "id": "tt0368954",
+   "type": "movie",
+   "name": "S-21: The Khmer Rouge Killing Machine",
+   "poster": "https://images.metahub.space/poster/medium/tt0368954/img",
+   "background": "https://images.metahub.space/background/medium/tt0368954/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "101 min",
+   "director": "Rithy Panh",
+   "description": "Captures atrocity recalled as office procedure: survivor Vann Nath brings former Tuol Sleng guards back into the prison, where they re-enact their daily routines of shackling and paperwork and find nothing dramatic in their own memories."
+  },
+  {
+   "id": "tt5375040",
+   "type": "movie",
+   "name": "Cameraperson",
+   "poster": "https://images.metahub.space/poster/medium/tt5375040/img",
+   "background": "https://images.metahub.space/background/medium/tt5375040/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "102 min",
+   "director": "Kirsten Johnson",
+   "description": "Captures a career of looking, reckoned with: Kirsten Johnson cuts decades of outtakes from other people's difficult documentaries — Bosnia, Darfur, her own mother's decline — into a memoir about what pointing a camera at someone's worst day costs."
+  },
+  {
+   "id": "tt0072685",
+   "type": "movie",
+   "name": "The Battle of Chile",
+   "poster": "https://images.metahub.space/poster/medium/tt0072685/img",
+   "background": "https://images.metahub.space/background/medium/tt0072685/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "265 min",
+   "director": "Patricio Guzmán",
+   "description": "Captures a revolution and its destruction filmed by people unsure which they were recording: Guzmán's crew shoots Allende's final year in Chile's streets across three parts, as mass rallies and strikes give way to the coup arriving around the camera."
+  },
+  {
+   "id": "tt3674140",
+   "type": "movie",
+   "name": "The Salt of the Earth",
+   "poster": "https://images.metahub.space/poster/medium/tt3674140/img",
+   "background": "https://images.metahub.space/background/medium/tt3674140/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "110 min",
+   "director": "Juliano Ribeiro Salgado, Wim Wenders",
+   "description": "Captures what a lifetime of looking at suffering does to a person, and one answer to it. Photographer Sebastião Salgado walks through forty years of famine, war and exodus in his own images, then turns to restoring a dead forest — and it works."
+  },
+  {
+   "id": "tt6223974",
+   "type": "movie",
+   "name": "The Farthest",
+   "poster": "https://images.metahub.space/poster/medium/tt6223974/img",
+   "background": "https://images.metahub.space/background/medium/tt6223974/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "121 min",
+   "director": "Emer Reynolds",
+   "description": "Captures the most optimistic object our species has ever made, and the scientists ageing alongside it. The Voyager probes, told by the people who built them, carrying a golden record of human greetings out of the solar system."
+  },
+  {
+   "id": "tt0083590",
+   "type": "movie",
+   "name": "The Atomic Cafe",
+   "poster": "https://images.metahub.space/poster/medium/tt0083590/img",
+   "background": "https://images.metahub.space/background/medium/tt0083590/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "1982",
+   "year": 1982,
+   "runtime": "86 min",
+   "director": "Jayne Loader, Kevin Rafferty, Pierce Rafferty",
+   "description": "Captures a state lying to its citizens in its own cheerful voice. Nothing but 1940s–50s American government films, ads and newsreels about the bomb, cut together with no narration: duck and cover, soldiers reassured about fallout."
+  },
+  {
+   "id": "tt7905466",
+   "type": "movie",
+   "name": "They Shall Not Grow Old",
+   "poster": "https://images.metahub.space/poster/medium/tt7905466/img",
+   "background": "https://images.metahub.space/background/medium/tt7905466/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "99 min",
+   "director": "Peter Jackson",
+   "description": "Captures the trenches suddenly populated by recognisable young men instead of ghosts. Peter Jackson restores jerky silent WWI footage to correct speed, colourises it, and adds voices reconstructed from veterans' interviews and lip-reading."
+  },
+  {
+   "id": "tt1568923",
+   "type": "movie",
+   "name": "A Film Unfinished",
+   "poster": "https://images.metahub.space/poster/medium/tt1568923/img",
+   "background": "https://images.metahub.space/background/medium/tt1568923/img",
+   "genres": [
+    "Documentary",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "88 min",
+   "director": "Yael Hersonski",
+   "description": "Captures how a fabricated archive keeps passing as truth until someone watches it slowly enough. A Nazi propaganda film shot in the Warsaw Ghetto is taken apart shot by shot, including outtakes where the staging shows."
+  },
+  {
+   "id": "tt4908644",
+   "type": "movie",
+   "name": "Winter on Fire: Ukraine's Fight for Freedom",
+   "poster": "https://images.metahub.space/poster/medium/tt4908644/img",
+   "background": "https://images.metahub.space/background/medium/tt4908644/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "102 min",
+   "director": "Evgeny Afineevsky",
+   "description": "Captures a protest becoming a revolution in real time, and what it costs the people who refuse to leave. Kyiv's Euromaidan over 93 days, from student demonstration to a government shooting its own citizens, filmed inside the square."
+  },
+  {
+   "id": "tt5895028",
+   "type": "movie",
+   "name": "13th",
+   "poster": "https://images.metahub.space/poster/medium/tt5895028/img",
+   "background": "https://images.metahub.space/background/medium/tt5895028/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "100 min",
+   "director": "Ava DuVernay",
+   "description": "Captures the essay-documentary at maximum force — a thesis you can feel being assembled. DuVernay builds one chain from the Thirteenth Amendment's exception clause through convict leasing, Jim Crow and the war on drugs to mass incarceration."
+  },
+  {
+   "id": "tt7681902",
+   "type": "movie",
+   "name": "Won't You Be My Neighbor?",
+   "poster": "https://images.metahub.space/poster/medium/tt7681902/img",
+   "background": "https://images.metahub.space/background/medium/tt7681902/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "95 min",
+   "director": "Morgan Neville",
+   "description": "Captures gentleness deployed as a discipline, not a temperament. Fred Rogers turns out to have been exactly as radical as he appeared: using children's television to insist, slowly and on purpose, that every child is lovable as they are."
+  },
+  {
+   "id": "tt3089388",
+   "type": "movie",
+   "name": "Tim's Vermeer",
+   "poster": "https://images.metahub.space/poster/medium/tt3089388/img",
+   "background": "https://images.metahub.space/background/medium/tt3089388/img",
+   "genres": [
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "80 min",
+   "director": "Teller",
+   "description": "Captures obsession as method: an engineering argument settled by actually doing the thing. Inventor Tim Jenison, who can't paint, spends years testing his theory that Vermeer used optical devices — by building the device and painting a Vermeer with it."
+  },
+  {
+   "id": "tt0054205",
+   "type": "movie",
+   "name": "Primary",
+   "poster": "https://images.metahub.space/poster/medium/tt0054205/img",
+   "background": "https://images.metahub.space/background/medium/tt0054205/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "News"
+   ],
+   "releaseInfo": "1960",
+   "year": 1960,
+   "runtime": "60 min",
+   "director": "Robert Drew",
+   "description": "Captures the moment politics and television fused, visible as it happens. The film that invented American cinéma vérité: newly portable sync-sound cameras follow Kennedy and Humphrey through the 1960 Wisconsin primary, into rooms no camera had entered before."
+  },
+  {
+   "id": "tt0060107",
+   "type": "movie",
+   "name": "Andrei Rublev",
+   "poster": "https://images.metahub.space/poster/medium/tt0060107/img",
+   "background": "https://images.metahub.space/background/medium/tt0060107/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "205 min",
+   "director": "Andrei Tarkovsky",
+   "description": "Captures an artist trying to make images of faith in a world of mud and violence. Medieval Russia through its greatest icon painter: raids, pagan festivals, and a boy casting a bell he may not know how to cast."
+  },
+  {
+   "id": "tt0064815",
+   "type": "movie",
+   "name": "Pirosmani",
+   "poster": "https://images.metahub.space/poster/medium/tt0064815/img",
+   "background": "https://images.metahub.space/background/medium/tt0064815/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1969",
+   "year": 1969,
+   "runtime": "85 min",
+   "director": "Giorgi Shengelaia",
+   "description": "Captures a film learning to see the way its subject painted. Georgian folk painter Niko Pirosmani's life built from his own canvases — taverns, feasts, animals, a man painting signs for food and dying unrecognised."
+  },
+  {
+   "id": "tt0063278",
+   "type": "movie",
+   "name": "Marketa Lazarová",
+   "poster": "https://images.metahub.space/poster/medium/tt0063278/img",
+   "background": "https://images.metahub.space/background/medium/tt0063278/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "162 min",
+   "director": "František Vláčil",
+   "description": "Captures a whole civilisation changing gods. Medieval Bohemia in deep winter — pagan and Christian clans, wolf packs, kidnapped nuns, mud and chanting — with Shadows' savage lyricism stretched to epic scale. Frequently called the greatest Czech film."
+  },
+  {
+   "id": "tt0059776",
+   "type": "movie",
+   "name": "The Round-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0059776/img",
+   "background": "https://images.metahub.space/background/medium/tt0059776/img",
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "releaseInfo": "1966",
+   "year": 1966,
+   "runtime": "90 min",
+   "director": "Miklós Jancsó",
+   "description": "Captures power as folk dance. On an endless white plain, authorities process prisoners from a peasant uprising through rituals of selection and betrayal, in Jancsó's choreographed long takes — nobody's psychology is explained, and the rituals are the point."
+  },
+  {
+   "id": "tt0048473",
+   "type": "movie",
+   "name": "Pather Panchali",
+   "poster": "https://images.metahub.space/poster/medium/tt0048473/img",
+   "background": "https://images.metahub.space/background/medium/tt0048473/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1955",
+   "year": 1955,
+   "runtime": "125 min",
+   "director": "Satyajit Ray",
+   "description": "Captures lyricism at ground level. Ray's Bengal village childhood — Apu and his sister Durga, the monsoon arriving like a miracle — where poverty is filmed as a complete sensory world rather than a condition to be pitied."
+  },
+  {
+   "id": "tt0057091",
+   "type": "movie",
+   "name": "The Leopard",
+   "poster": "https://images.metahub.space/poster/medium/tt0057091/img",
+   "background": "https://images.metahub.space/background/medium/tt0057091/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1963",
+   "year": 1963,
+   "runtime": "186 min",
+   "director": "Luchino Visconti",
+   "description": "Captures pageantry as an instrument for measuring decay. Visconti's Sicilian prince watches his class dissolve during Italian unification, and the film saves its greatest set piece for a 45-minute ball where the old world dances beautifully with the one replacing it."
+  },
+  {
+   "id": "tt0090798",
+   "type": "movie",
+   "name": "Caravaggio",
+   "poster": "https://images.metahub.space/poster/medium/tt0090798/img",
+   "background": "https://images.metahub.space/background/medium/tt0090798/img",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1986",
+   "year": 1986,
+   "runtime": "93 min",
+   "director": "Derek Jarman",
+   "description": "Captures a film thinking in paintings the way The Colour of Pomegranates does, but grubbier, queerer, and made for almost no money. Jarman stages the painter's life as living versions of his canvases, with calculators and motorbikes left sitting in the 1600s."
+  },
+  {
+   "id": "tt0087433",
+   "type": "movie",
+   "name": "Yellow Earth",
+   "poster": "https://images.metahub.space/poster/medium/tt0087433/img",
+   "background": "https://images.metahub.space/background/medium/tt0087433/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "89 min",
+   "director": "Chen Kaige",
+   "description": "Captures a folk culture so total it becomes the cinematography. A Communist soldier arrives in a loess-plateau village in 1939 to collect folk songs for the army, and finds a girl whose singing is the only free thing in her life."
+  },
+  {
+   "id": "tt3409848",
+   "type": "movie",
+   "name": "Zama",
+   "poster": "https://images.metahub.space/poster/medium/tt3409848/img",
+   "background": "https://images.metahub.space/background/medium/tt3409848/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "115 min",
+   "director": "Lucrecia Martel",
+   "description": "Captures empire as a man rotting in a landscape that was never his and barely notices him. Martel strands a Spanish colonial officer in a Paraguayan backwater, waiting years for a transfer that never comes, while insects, water and distant animals become the real film."
+  },
+  {
+   "id": "tt0073800",
+   "type": "movie",
+   "name": "The Travelling Players",
+   "poster": "https://images.metahub.space/poster/medium/tt0073800/img",
+   "background": "https://images.metahub.space/background/medium/tt0073800/img",
+   "genres": [
+    "Drama",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "230 min",
+   "director": "Theodoros Angelopoulos",
+   "description": "Captures a nation's history carried by the people paid to keep entertaining it. Angelopoulos follows a folk theatre troupe performing the same pastoral play across Greece from 1939 to 1952, and in vast single takes, occupation, civil war and executions slide past mid-scene."
+  },
+  {
+   "id": "tt0077138",
+   "type": "movie",
+   "name": "The Tree of Wooden Clogs",
+   "poster": "https://images.metahub.space/poster/medium/tt0077138/img",
+   "background": "https://images.metahub.space/background/medium/tt0077138/img",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "1978",
+   "year": 1978,
+   "runtime": "186 min",
+   "director": "Ermanno Olmi",
+   "description": "Captures the folk world at the opposite end of the temperament scale from Parajanov — patient, plain, and quietly overwhelming. Olmi films Lombardy peasants playing their grandparents' generation: four families, one farm, a whole year of seasons, labour and ritual."
   }
  ]
 }

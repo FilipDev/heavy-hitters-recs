@@ -244,6 +244,124 @@
    "runtime": "84 min",
    "director": "Darren Aronofsky",
    "description": "Captures obsession with a pattern, filmed on grain. A mathematician in a tiny New York apartment with computers made of junk, a number that Wall Street and a Hasidic sect both want, and migraines rendered as drill sounds."
+  },
+  {
+   "id": "tt0235198",
+   "type": "movie",
+   "name": "Audition",
+   "poster": "https://images.metahub.space/poster/medium/tt0235198/img",
+   "background": "https://images.metahub.space/background/medium/tt0235198/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "115 min",
+   "director": "Takashi Miike",
+   "description": "Captures loneliness curdling into horror by changing genre mid-film. A widower holds fake auditions to find a wife; the first hour is a sad, gentle drama before the film reveals what it actually was."
+  },
+  {
+   "id": "tt7984734",
+   "type": "movie",
+   "name": "The Lighthouse",
+   "poster": "https://images.metahub.space/poster/medium/tt7984734/img",
+   "background": "https://images.metahub.space/background/medium/tt7984734/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "109 min",
+   "director": "Robert Eggers",
+   "description": "Captures two men rotting in each other's company. A rock in a storm, gaslight, seagull taboos, and two keepers descending into myth, flatulence and murder inside a frame almost square enough to be a trap."
+  },
+  {
+   "id": "tt0140788",
+   "type": "movie",
+   "name": "The Act of Seeing with One's Own Eyes",
+   "poster": "https://images.metahub.space/poster/medium/tt0140788/img",
+   "background": "https://images.metahub.space/background/medium/tt0140788/img",
+   "genres": [
+    "Documentary",
+    "Horror"
+   ],
+   "releaseInfo": "1971",
+   "year": 1971,
+   "runtime": "32 min",
+   "director": "Stan Brakhage",
+   "description": "Captures the camera reduced to pure looking: Brakhage films autopsies in a Pittsburgh morgue silently and in close-up, with no commentary to hide behind, asking whether there is anything a camera should refuse to see."
+  },
+  {
+   "id": "tt0013257",
+   "type": "movie",
+   "name": "Häxan",
+   "poster": "https://images.metahub.space/poster/medium/tt0013257/img",
+   "background": "https://images.metahub.space/background/medium/tt0013257/img",
+   "genres": [
+    "Documentary",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "1922",
+   "year": 1922,
+   "runtime": "105 min",
+   "director": "Benjamin Christensen",
+   "description": "Captures a lecture dissolving into delirium. Christensen's silent Swedish study of witchcraft keeps abandoning its own lecture format for re-enactments — sabbaths, torture chambers, possessed nuns — and from 1922 remains wilder than most folk horror made since."
+  },
+  {
+   "id": "tt0070917",
+   "type": "movie",
+   "name": "The Wicker Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0070917/img",
+   "background": "https://images.metahub.space/background/medium/tt0070917/img",
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "88 min",
+   "director": "Robin Hardy",
+   "description": "Captures paganism not as horror but as joy. A devout Christian policeman arrives on a Scottish island where the harvest failed and the old religion quietly resumed — and the islanders keep bursting into song, which is what makes the ending land."
+  },
+  {
+   "id": "tt0058279",
+   "type": "movie",
+   "name": "Kwaidan",
+   "poster": "https://images.metahub.space/poster/medium/tt0058279/img",
+   "background": "https://images.metahub.space/background/medium/tt0058279/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "183 min",
+   "director": "Masaki Kobayashi",
+   "description": "Captures folklore as pure painted atmosphere. Kobayashi adapts Lafcadio Hearn's ghost tales on vast studio sets — a snow spirit, a blind biwa player performing for the dead — the closest Japanese equivalent to Parajanov's tableau method."
+  },
+  {
+   "id": "tt0087075",
+   "type": "movie",
+   "name": "The Company of Wolves",
+   "poster": "https://images.metahub.space/poster/medium/tt0087075/img",
+   "background": "https://images.metahub.space/background/medium/tt0087075/img",
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "95 min",
+   "director": "Neil Jordan",
+   "description": "Captures the folk tale's actual content — appetite, danger, metamorphosis — that the children's versions politely remove. Jordan and Angela Carter nest werewolf tales inside a sleeping girl's dream, all fog, forests and practical-effect transformations."
   }
  ]
 }

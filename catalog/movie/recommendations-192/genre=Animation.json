@@ -128,6 +128,124 @@
    "runtime": "103 min",
    "director": "Paul King",
    "description": "Captures decency as something contagious. A bear framed for stealing the pop-up book he wanted to buy his aunt, sent to prison — and the prison improves because he is in it."
+  },
+  {
+   "id": "tt0851578",
+   "type": "movie",
+   "name": "Paprika",
+   "poster": "https://images.metahub.space/poster/medium/tt0851578/img",
+   "background": "https://images.metahub.space/background/medium/tt0851578/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "90 min",
+   "director": "Satoshi Kon",
+   "description": "Captures dreams invading waking life as a parade. A device that lets therapists enter dreams is stolen, and reality dissolves into a marching band of refrigerators and dolls; Inception's debt is on screen."
+  },
+  {
+   "id": "tt2396224",
+   "type": "movie",
+   "name": "It's Such a Beautiful Day",
+   "poster": "https://images.metahub.space/poster/medium/tt2396224/img",
+   "background": "https://images.metahub.space/background/medium/tt2396224/img",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "62 min",
+   "director": "Don Hertzfeldt",
+   "description": "Captures a mind coming apart, drawn with stick figures. Hertzfeldt narrates a man with a failing brain in three chapters — funny, fragmented, and by the end genuinely cosmic."
+  },
+  {
+   "id": "tt2576852",
+   "type": "movie",
+   "name": "The Tale of the Princess Kaguya",
+   "poster": "https://images.metahub.space/poster/medium/tt2576852/img",
+   "background": "https://images.metahub.space/background/medium/tt2576852/img",
+   "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "137 min",
+   "director": "Isao Takahata",
+   "description": "Captures joy being disciplined out of a girl. A bamboo cutter raises a moon princess and watches court life sand down the wild child she was, until the watercolour lines themselves start to run."
+  },
+  {
+   "id": "tt5198068",
+   "type": "movie",
+   "name": "Wolfwalkers",
+   "poster": "https://images.metahub.space/poster/medium/tt5198068/img",
+   "background": "https://images.metahub.space/background/medium/tt5198068/img",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "103 min",
+   "director": "Tomm Moore, Ross Stewart",
+   "description": "Captures the wild being hunted in the name of order. Kilkenny, 1650: a hunter's daughter befriends a girl who becomes a wolf in her sleep, and Cartoon Saloon's hand-drawn forest keeps breaking out of the town's straight lines."
+  },
+  {
+   "id": "tt5116410",
+   "type": "movie",
+   "name": "Tower",
+   "poster": "https://images.metahub.space/poster/medium/tt5116410/img",
+   "background": "https://images.metahub.space/background/medium/tt5116410/img",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "82 min",
+   "director": "Keith Maitland",
+   "description": "Captures how people inside an event remember it — partial, sensory, nothing like the news summary. The 1966 UT Austin sniper massacre retold in rotoscoped animation from survivors' memories, switching to real footage only at the end."
+  },
+  {
+   "id": "tt0079986",
+   "type": "movie",
+   "name": "Tale of Tales",
+   "poster": "https://images.metahub.space/poster/medium/tt0079986/img",
+   "background": "https://images.metahub.space/background/medium/tt0079986/img",
+   "genres": [
+    "Animation",
+    "Drama"
+   ],
+   "releaseInfo": "1979",
+   "year": 1979,
+   "runtime": "29 min",
+   "director": "Yuri Norstein",
+   "description": "Captures folk memory itself — images from childhood, war and lullaby sharing one continuous dream. Norstein's 29-minute animation drifts through layers of cut-out, glass and mist: a little wolf, a minotaur, tango dancers, soldiers leaving for the front."
+  },
+  {
+   "id": "tt0095715",
+   "type": "movie",
+   "name": "Alice",
+   "poster": "https://images.metahub.space/poster/medium/tt0095715/img",
+   "background": "https://images.metahub.space/background/medium/tt0095715/img",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "86 min",
+   "director": "Jan Švankmajer",
+   "description": "Captures the folk tale as a child's-eye inventory of a household's dangerous things. Švankmajer's Alice moves through a Wonderland of taxidermy, bones and jam jars of pins, stop-motion objects that genuinely threaten her — Carroll's dream rebuilt from junk drawers."
   }
  ]
 }

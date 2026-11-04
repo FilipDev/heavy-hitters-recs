@@ -369,6 +369,174 @@
    "runtime": "106 min",
    "director": "Mati Diop",
    "description": "Captures young men who leave by sea returning in another form. Dakar construction workers, unpaid for months, take a boat toward Spain; the film stays with the women left behind, the sea at night, and a love story conducted through possession and fever."
+  },
+  {
+   "id": "tt0096163",
+   "type": "movie",
+   "name": "The Vanishing",
+   "poster": "https://images.metahub.space/poster/medium/tt0096163/img",
+   "background": "https://images.metahub.space/background/medium/tt0096163/img",
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "107 min",
+   "director": "George Sluizer",
+   "description": "Captures the need to know as a trap. Not a whodunit but a how-and-why: a man's obsession with his girlfriend's disappearance, and the ordinary, methodical man who offers him the answer at a price."
+  },
+  {
+   "id": "tt0235198",
+   "type": "movie",
+   "name": "Audition",
+   "poster": "https://images.metahub.space/poster/medium/tt0235198/img",
+   "background": "https://images.metahub.space/background/medium/tt0235198/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "115 min",
+   "director": "Takashi Miike",
+   "description": "Captures loneliness curdling into horror by changing genre mid-film. A widower holds fake auditions to find a wife; the first hour is a sad, gentle drama before the film reveals what it actually was."
+  },
+  {
+   "id": "tt0387898",
+   "type": "movie",
+   "name": "Caché",
+   "poster": "https://images.metahub.space/poster/medium/tt0387898/img",
+   "background": "https://images.metahub.space/background/medium/tt0387898/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2005",
+   "year": 2005,
+   "runtime": "117 min",
+   "director": "Michael Haneke",
+   "description": "Captures guilt that refuses to identify itself. A Paris family receives surveillance tapes of their own house with no demands attached; Haneke never says who sent them, because the film is about what the husband already knows."
+  },
+  {
+   "id": "tt10272386",
+   "type": "movie",
+   "name": "The Father",
+   "poster": "https://images.metahub.space/poster/medium/tt10272386/img",
+   "background": "https://images.metahub.space/background/medium/tt10272386/img",
+   "genres": [
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2020",
+   "year": 2020,
+   "runtime": "97 min",
+   "director": "Florian Zeller",
+   "description": "Captures dementia by making the film itself unreliable. Anthony Hopkins in a flat that keeps changing its layout, furniture and occupants — you're not watching his confusion, you're inside it."
+  },
+  {
+   "id": "tt12477480",
+   "type": "movie",
+   "name": "Decision to Leave",
+   "poster": "https://images.metahub.space/poster/medium/tt12477480/img",
+   "background": "https://images.metahub.space/background/medium/tt12477480/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "139 min",
+   "director": "Park Chan-wook",
+   "description": "Captures desire conducted through surveillance. A detective falls for the widow of the man whose death he's investigating, watching her through binoculars and translation apps. Park Chan-wook's most restrained and most romantic film."
+  },
+  {
+   "id": "tt17009710",
+   "type": "movie",
+   "name": "Anatomy of a Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+   "background": "https://images.metahub.space/background/medium/tt17009710/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "151 min",
+   "director": "Justine Triet",
+   "description": "Captures a marriage being reverse-engineered in a courtroom. A husband falls from a chalet roof; his wife's trial becomes an autopsy of their relationship, conducted through recordings, translations and a dog who may be the only witness."
+  },
+  {
+   "id": "tt5278506",
+   "type": "movie",
+   "name": "Tickled",
+   "poster": "https://images.metahub.space/poster/medium/tt5278506/img",
+   "background": "https://images.metahub.space/background/medium/tt5278506/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "92 min",
+   "director": "David Farrier, Dylan Reeve",
+   "description": "Captures an investigation whose subject fights back in real time: journalist David Farrier asks a cheerful question about 'competitive endurance tickling' videos and receives legal threats so disproportionate that following them becomes the film."
+  },
+  {
+   "id": "tt0070917",
+   "type": "movie",
+   "name": "The Wicker Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0070917/img",
+   "background": "https://images.metahub.space/background/medium/tt0070917/img",
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "88 min",
+   "director": "Robin Hardy",
+   "description": "Captures paganism not as horror but as joy. A devout Christian policeman arrives on a Scottish island where the harvest failed and the old religion quietly resumed — and the islanders keep bursting into song, which is what makes the ending land."
+  },
+  {
+   "id": "tt0084390",
+   "type": "movie",
+   "name": "The Ballad of Narayama",
+   "poster": "https://images.metahub.space/poster/medium/tt0084390/img",
+   "background": "https://images.metahub.space/background/medium/tt0084390/img",
+   "genres": [
+    "Drama",
+    "Family",
+    "Mystery"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "130 min",
+   "director": "Shōhei Imamura",
+   "description": "Captures a folk custom at full earthiness. Imamura's mountain village carries its old people up the peak to die at seventy, filmed with his usual gusto for sex, cruelty and teeming nature — ritual without a trace of reverence."
+  },
+  {
+   "id": "tt0116384",
+   "type": "movie",
+   "name": "Gabbeh",
+   "poster": "https://images.metahub.space/poster/medium/tt0116384/img",
+   "background": "https://images.metahub.space/background/medium/tt0116384/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "75 min",
+   "director": "Mohsen Makhmalbaf",
+   "description": "Captures storytelling embedded in a folk object. A nomad tribe's woven carpet unfolds as it is washed in a river: the girl in the pattern tells her own story of forbidden love, in colours as saturated as Parajanov's Carpathians."
   }
  ]
 }

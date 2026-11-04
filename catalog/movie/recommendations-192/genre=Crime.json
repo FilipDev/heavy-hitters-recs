@@ -545,6 +545,356 @@
    "runtime": "94 min",
    "director": "Abderrahmane Sissako",
    "description": "Captures occupation resisted through music, football and dignity. Jihadists take a Malian town and ban singing and soccer; people comply in public, sing quietly at night, and play a match with an invisible ball."
+  },
+  {
+   "id": "tt0070334",
+   "type": "movie",
+   "name": "The Long Goodbye",
+   "poster": "https://images.metahub.space/poster/medium/tt0070334/img",
+   "background": "https://images.metahub.space/background/medium/tt0070334/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1973",
+   "year": 1973,
+   "runtime": "112 min",
+   "director": "Robert Altman",
+   "description": "Captures a decent man out of sync with his decade. Altman's Philip Marlowe shuffles through sunlit, corrupt Los Angeles in a rumpled suit, the last person still taking loyalty seriously."
+  },
+  {
+   "id": "tt12477480",
+   "type": "movie",
+   "name": "Decision to Leave",
+   "poster": "https://images.metahub.space/poster/medium/tt12477480/img",
+   "background": "https://images.metahub.space/background/medium/tt12477480/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2022",
+   "year": 2022,
+   "runtime": "139 min",
+   "director": "Park Chan-wook",
+   "description": "Captures desire conducted through surveillance. A detective falls for the widow of the man whose death he's investigating, watching her through binoculars and translation apps. Park Chan-wook's most restrained and most romantic film."
+  },
+  {
+   "id": "tt17009710",
+   "type": "movie",
+   "name": "Anatomy of a Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+   "background": "https://images.metahub.space/background/medium/tt17009710/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2023",
+   "year": 2023,
+   "runtime": "151 min",
+   "director": "Justine Triet",
+   "description": "Captures a marriage being reverse-engineered in a courtroom. A husband falls from a chalet roof; his wife's trial becomes an autopsy of their relationship, conducted through recordings, translations and a dog who may be the only witness."
+  },
+  {
+   "id": "tt0096257",
+   "type": "movie",
+   "name": "The Thin Blue Line",
+   "poster": "https://images.metahub.space/poster/medium/tt0096257/img",
+   "background": "https://images.metahub.space/background/medium/tt0096257/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "101 min",
+   "director": "Errol Morris",
+   "description": "Captures how 'eyewitness truth' is mostly people confidently describing things that never happened. Errol Morris reconstructs a policeman's murder through conflicting accounts and stylised re-enactments — and the film's evidence helped free the man convicted of it."
+  },
+  {
+   "id": "tt0342172",
+   "type": "movie",
+   "name": "Capturing the Friedmans",
+   "poster": "https://images.metahub.space/poster/medium/tt0342172/img",
+   "background": "https://images.metahub.space/background/medium/tt0342172/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "107 min",
+   "director": "Andrew Jarecki",
+   "description": "Captures a family performing normality for a camera while everything underneath it collapses. A family accused of horrific crimes, told largely through their own compulsive home videos, which keep contradicting the legal case and each other."
+  },
+  {
+   "id": "tt1152758",
+   "type": "movie",
+   "name": "Dear Zachary: A Letter to a Son About His Father",
+   "poster": "https://images.metahub.space/poster/medium/tt1152758/img",
+   "background": "https://images.metahub.space/background/medium/tt1152758/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "95 min",
+   "director": "Kurt Kuenne",
+   "description": "Captures grief and legal-system failure like nothing else here. It begins as a film for a baby about the father he'll never meet, murdered before he was born — then the case takes a turn mid-production that is almost unbearable."
+  },
+  {
+   "id": "tt1155592",
+   "type": "movie",
+   "name": "Man on Wire",
+   "poster": "https://images.metahub.space/poster/medium/tt1155592/img",
+   "background": "https://images.metahub.space/background/medium/tt1155592/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "94 min",
+   "director": "James Marsh",
+   "description": "Captures pure, pointless, joyful daring — a crime with no victim and no motive except beauty. Philippe Petit's 1974 tightrope walk between the Twin Towers, told like a heist film by the crew who smuggled the rigging up."
+  },
+  {
+   "id": "tt1966604",
+   "type": "movie",
+   "name": "The Imposter",
+   "poster": "https://images.metahub.space/poster/medium/tt1966604/img",
+   "background": "https://images.metahub.space/background/medium/tt1966604/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "99 min",
+   "director": "Bart Layton",
+   "description": "Captures how badly people want a story to be true. A missing Texas teenager 'returns' three years later, older and with a French accent — and his family accepts him. The man himself explains exactly how he did it."
+  },
+  {
+   "id": "tt5275892",
+   "type": "movie",
+   "name": "O.J.: Made in America",
+   "poster": "https://images.metahub.space/poster/medium/tt5275892/img",
+   "background": "https://images.metahub.space/background/medium/tt5275892/img",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "467 min",
+   "director": "Ezra Edelman",
+   "description": "Captures a whole country's contradictions in one man's story. Nearly eight hours, and not really about a murder trial: Los Angeles, race, celebrity and policing across fifty years, with Simpson as the thread running through all of it."
+  },
+  {
+   "id": "tt10706602",
+   "type": "movie",
+   "name": "Collective",
+   "poster": "https://images.metahub.space/poster/medium/tt10706602/img",
+   "background": "https://images.metahub.space/background/medium/tt10706602/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "109 min",
+   "director": "Alexander Nanau",
+   "description": "Captures corruption being dismantled in real time, and it plays like a thriller. After a Bucharest nightclub fire, burn victims start dying of infections in Romanian hospitals — and a sports newspaper, of all things, uncovers why."
+  },
+  {
+   "id": "tt0364930",
+   "type": "movie",
+   "name": "Aileen: Life and Death of a Serial Killer",
+   "poster": "https://images.metahub.space/poster/medium/tt0364930/img",
+   "background": "https://images.metahub.space/background/medium/tt0364930/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "93 min",
+   "director": "Nick Broomfield, Joan Churchill",
+   "description": "Captures the confrontational filmmaker finding his limit: Broomfield builds a real relationship with death-row killer Aileen Wuornos, testifies in her case, and films a final interview in which she is plainly no longer competent."
+  },
+  {
+   "id": "tt5278506",
+   "type": "movie",
+   "name": "Tickled",
+   "poster": "https://images.metahub.space/poster/medium/tt5278506/img",
+   "background": "https://images.metahub.space/background/medium/tt5278506/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "92 min",
+   "director": "David Farrier, Dylan Reeve",
+   "description": "Captures an investigation whose subject fights back in real time: journalist David Farrier asks a cheerful question about 'competitive endurance tickling' videos and receives legal threats so disproportionate that following them becomes the film."
+  },
+  {
+   "id": "tt5873150",
+   "type": "movie",
+   "name": "Strong Island",
+   "poster": "https://images.metahub.space/poster/medium/tt5873150/img",
+   "background": "https://images.metahub.space/background/medium/tt5873150/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "107 min",
+   "director": "Yance Ford",
+   "description": "Captures grief conducted as cross-examination: Yance Ford investigates his brother's killing and the grand jury that declined to indict, addressing the camera directly and interrogating his own family's silence as hard as the legal system's."
+  },
+  {
+   "id": "tt0103905",
+   "type": "movie",
+   "name": "Man Bites Dog",
+   "poster": "https://images.metahub.space/poster/medium/tt0103905/img",
+   "background": "https://images.metahub.space/background/medium/tt0103905/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1992",
+   "year": 1992,
+   "runtime": "95 min",
+   "director": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
+   "description": "Captures the complicity problem pushed to its logical endpoint — the cluster's one fiction: a student crew follows a charming serial killer for a documentary, graduating from filming him, to holding the camera steady, to helping."
+  },
+  {
+   "id": "tt5895028",
+   "type": "movie",
+   "name": "13th",
+   "poster": "https://images.metahub.space/poster/medium/tt5895028/img",
+   "background": "https://images.metahub.space/background/medium/tt5895028/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "100 min",
+   "director": "Ava DuVernay",
+   "description": "Captures the essay-documentary at maximum force — a thesis you can feel being assembled. DuVernay builds one chain from the Thirteenth Amendment's exception clause through convict leasing, Jim Crow and the war on drugs to mass incarceration."
+  },
+  {
+   "id": "tt1645089",
+   "type": "movie",
+   "name": "Inside Job",
+   "poster": "https://images.metahub.space/poster/medium/tt1645089/img",
+   "background": "https://images.metahub.space/background/medium/tt1645089/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "109 min",
+   "director": "Charles Ferguson",
+   "description": "Captures elite impunity as a tone of voice. The 2008 financial crisis explained with unusual clarity and barely suppressed fury, including interviews where the architects keep incriminating themselves with total calm."
+  },
+  {
+   "id": "tt0117293",
+   "type": "movie",
+   "name": "Paradise Lost: The Child Murders at Robin Hood Hills",
+   "poster": "https://images.metahub.space/poster/medium/tt0117293/img",
+   "background": "https://images.metahub.space/background/medium/tt0117293/img",
+   "genres": [
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "150 min",
+   "director": "Joe Berlinger, Bruce Sinofsky",
+   "description": "Captures a Satanic-panic prosecution from the inside; the film itself became evidence in the decades-long fight over the case. Three Arkansas teenagers convicted of murder largely for liking Metallica and black clothes, filmed through the trial with access to every family."
+  },
+  {
+   "id": "tt5116410",
+   "type": "movie",
+   "name": "Tower",
+   "poster": "https://images.metahub.space/poster/medium/tt5116410/img",
+   "background": "https://images.metahub.space/background/medium/tt5116410/img",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Documentary"
+   ],
+   "releaseInfo": "2016",
+   "year": 2016,
+   "runtime": "82 min",
+   "director": "Keith Maitland",
+   "description": "Captures how people inside an event remember it — partial, sensory, nothing like the news summary. The 1966 UT Austin sniper massacre retold in rotoscoped animation from survivors' memories, switching to real footage only at the end."
+  },
+  {
+   "id": "tt0097223",
+   "type": "movie",
+   "name": "Time of the Gypsies",
+   "poster": "https://images.metahub.space/poster/medium/tt0097223/img",
+   "background": "https://images.metahub.space/background/medium/tt0097223/img",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1988",
+   "year": 1988,
+   "runtime": "142 min",
+   "director": "Emir Kusturica",
+   "description": "Captures folk storytelling surviving, barely, inside modern crime. A Romani teenager with telekinetic powers is lured into a smuggling life in Italy, half narrated by Goran Bregović's score — Petrović's world taken into magical realism."
+  },
+  {
+   "id": "tt0058006",
+   "type": "movie",
+   "name": "Black God, White Devil",
+   "poster": "https://images.metahub.space/poster/medium/tt0058006/img",
+   "background": "https://images.metahub.space/background/medium/tt0058006/img",
+   "genres": [
+    "Adventure",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "1964",
+   "year": 1964,
+   "runtime": "120 min",
+   "director": "Glauber Rocha",
+   "description": "Captures a peasant world where religion and violence are the only available languages. Rocha's Brazilian sertão — a hired killer, a self-proclaimed saint gathering followers, a blind bandit-prophet — is filmed like a folk ballad being sung at gunpoint, in glare and dust."
+  },
+  {
+   "id": "tt1745787",
+   "type": "movie",
+   "name": "The Tribe",
+   "poster": "https://images.metahub.space/poster/medium/tt1745787/img",
+   "background": "https://images.metahub.space/background/medium/tt1745787/img",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "126 min",
+   "director": "Myroslav Slaboshpytskyi",
+   "description": "Captures a complete social world you must learn to read bodily or not at all. At a Ukrainian boarding school for deaf students, a student crime network runs everything — performed entirely in sign language, with no subtitles and no translation."
   }
  ]
 }

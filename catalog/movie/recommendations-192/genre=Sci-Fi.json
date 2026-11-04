@@ -274,6 +274,22 @@
    "runtime": "84 min",
    "director": "Darren Aronofsky",
    "description": "Captures obsession with a pattern, filmed on grain. A mathematician in a tiny New York apartment with computers made of junk, a number that Wall Street and a Hasidic sect both want, and migraines rendered as drill sounds."
+  },
+  {
+   "id": "tt2328813",
+   "type": "movie",
+   "name": "Hard to Be a God",
+   "poster": "https://images.metahub.space/poster/medium/tt2328813/img",
+   "background": "https://images.metahub.space/background/medium/tt2328813/img",
+   "genres": [
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "177 min",
+   "director": "Aleksey German",
+   "description": "Captures maximalism as immersion rather than beauty. German's scientist observes a filthy, violent medieval world on another planet, forbidden to intervene, across three hours of black-and-white mud, smoke and faces pressing into the lens — total world-building with every trace of lyricism drowned."
   }
  ]
 }

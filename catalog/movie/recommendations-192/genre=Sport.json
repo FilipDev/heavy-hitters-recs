@@ -98,6 +98,71 @@
    "runtime": "129 min",
    "director": "Martin Scorsese",
    "description": "Captures self-destruction in a family kitchen as much as a ring. Jake LaMotta's jealousy and violence at home filmed with the same intensity as the fights; he can take any punch except accountability."
+  },
+  {
+   "id": "tt7476236",
+   "type": "movie",
+   "name": "Minding the Gap",
+   "poster": "https://images.metahub.space/poster/medium/tt7476236/img",
+   "background": "https://images.metahub.space/background/medium/tt7476236/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "93 min",
+   "director": "Bing Liu",
+   "description": "Captures the moment a documentarian has to point the camera at himself. Bing Liu films his skateboarder friends in their rust-belt hometown over years, then slowly realises the film is about the violence they all grew up in — including his own."
+  },
+  {
+   "id": "tt6333060",
+   "type": "movie",
+   "name": "Icarus",
+   "poster": "https://images.metahub.space/poster/medium/tt6333060/img",
+   "background": "https://images.metahub.space/background/medium/tt6333060/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "120 min",
+   "director": "Bryan Fogel",
+   "description": "Captures a documentary swallowed by its own story: Fogel films himself doping to expose how easy cheating is, but his Russian scientist accomplice sits at the centre of a state doping programme, and the film becomes his escape plan."
+  },
+  {
+   "id": "tt6700846",
+   "type": "movie",
+   "name": "AlphaGo",
+   "poster": "https://images.metahub.space/poster/medium/tt6700846/img",
+   "background": "https://images.metahub.space/background/medium/tt6700846/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "90 min",
+   "director": "Greg Kohs",
+   "description": "Captures the exact historical moment a machine did something its makers couldn't explain. DeepMind's system against Lee Sedol in Seoul, filmed in both camps; Move 37 lands and the human experts go quiet."
+  },
+  {
+   "id": "tt5433114",
+   "type": "movie",
+   "name": "Diego Maradona",
+   "poster": "https://images.metahub.space/poster/medium/tt5433114/img",
+   "background": "https://images.metahub.space/background/medium/tt5433114/img",
+   "genres": [
+    "Biography",
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "130 min",
+   "director": "Asif Kapadia",
+   "description": "Captures fame as a hostage situation where the hostage keeps scoring goals. Kapadia builds Maradona's Naples years entirely from archive: adored as a god, pulled into the Camorra's orbit, collapsing under a worship no person could survive."
   }
  ]
 }
