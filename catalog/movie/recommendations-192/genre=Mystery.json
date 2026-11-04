@@ -1,0 +1,374 @@
+{
+ "metas": [
+  {
+   "id": "tt2866360",
+   "type": "movie",
+   "name": "Coherence",
+   "poster": "https://images.metahub.space/poster/medium/tt2866360/img",
+   "background": "https://images.metahub.space/background/medium/tt2866360/img",
+   "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "89 min",
+   "director": "James Ward Byrkit",
+   "description": "Captures an inversion problem in film form: eight people at a dinner party during a comet find other houses holding the same eight people, and try to tell the worlds apart with numbered photos, dice and glow sticks — markers that keep getting copied or lost."
+  },
+  {
+   "id": "tt2316411",
+   "type": "movie",
+   "name": "Enemy",
+   "poster": "https://images.metahub.space/poster/medium/tt2316411/img",
+   "background": "https://images.metahub.space/background/medium/tt2316411/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "91 min",
+   "director": "Denis Villeneuve",
+   "description": "Captures two men who are observably identical. A Toronto history professor finds an actor who is his exact double — same face, scar and voice — and no measurement he can run separates them, so the film lets the ambiguity stay open."
+  },
+  {
+   "id": "tt0353969",
+   "type": "movie",
+   "name": "Memories of Murder",
+   "poster": "https://images.metahub.space/poster/medium/tt0353969/img",
+   "background": "https://images.metahub.space/background/medium/tt0353969/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "131 min",
+   "director": "Bong Joon Ho",
+   "description": "Captures investigators failing, for real. South Korea's first serial murder case, 1986: local cops who beat confessions out of people, a Seoul detective who trusts evidence, and a country equipped for neither to work."
+  },
+  {
+   "id": "tt0156887",
+   "type": "movie",
+   "name": "Perfect Blue",
+   "poster": "https://images.metahub.space/poster/medium/tt0156887/img",
+   "background": "https://images.metahub.space/background/medium/tt0156887/img",
+   "genres": [
+    "Animation",
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "81 min",
+   "director": "Satoshi Kon",
+   "description": "Captures fame eating a person's grip on which self is hers. A pop idol turned actress, a stalker, and a fan site narrating her life in first person — the animated form is what makes the slippage work."
+  },
+  {
+   "id": "tt0123948",
+   "type": "movie",
+   "name": "Cure",
+   "poster": "https://images.metahub.space/poster/medium/tt0123948/img",
+   "background": "https://images.metahub.space/background/medium/tt0123948/img",
+   "genres": [
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1997",
+   "year": 1997,
+   "runtime": "111 min",
+   "director": "Kiyoshi Kurosawa",
+   "description": "Captures emptiness spreading from person to person. A Tokyo detective investigates murders where each killer is different, calm, and cannot explain themselves — hypnotic and grey rather than jumpy."
+  },
+  {
+   "id": "tt4263482",
+   "type": "movie",
+   "name": "The Witch",
+   "poster": "https://images.metahub.space/poster/medium/tt4263482/img",
+   "background": "https://images.metahub.space/background/medium/tt4263482/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "92 min",
+   "director": "Robert Eggers",
+   "description": "Captures religious paranoia eating a family from inside its own beliefs. Puritan settlers exiled to a forest's edge: a crop fails, a baby vanishes, and their theology gives them only one interpretation."
+  },
+  {
+   "id": "tt0816556",
+   "type": "movie",
+   "name": "Lake Mungo",
+   "poster": "https://images.metahub.space/poster/medium/tt0816556/img",
+   "background": "https://images.metahub.space/background/medium/tt0816556/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2008",
+   "year": 2008,
+   "runtime": "87 min",
+   "director": "Joel Anderson",
+   "description": "Captures grief in the form of a family documentary. Found footage, but the subject is not the ghost — it is parents and a brother in interviews, months after a drowning, still looking for anything."
+  },
+  {
+   "id": "tt7784604",
+   "type": "movie",
+   "name": "Hereditary",
+   "poster": "https://images.metahub.space/poster/medium/tt7784604/img",
+   "background": "https://images.metahub.space/background/medium/tt7784604/img",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "127 min",
+   "director": "Ari Aster",
+   "description": "Captures a family where grief and resentment were already there before anything supernatural. A grandmother dies, a mother builds miniature scenes of her life, and a dinner-table argument is the scariest sequence."
+  },
+  {
+   "id": "tt0062229",
+   "type": "movie",
+   "name": "Le Samouraï",
+   "poster": "https://images.metahub.space/poster/medium/tt0062229/img",
+   "background": "https://images.metahub.space/background/medium/tt0062229/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1967",
+   "year": 1967,
+   "runtime": "105 min",
+   "director": "Jean-Pierre Melville",
+   "description": "Captures cool as ritual and solitude. A Paris hitman in a trench coat, a grey room, a bird in a cage, an alibi arranged like furniture — almost no psychology given, all behaviour."
+  },
+  {
+   "id": "tt0071360",
+   "type": "movie",
+   "name": "The Conversation",
+   "poster": "https://images.metahub.space/poster/medium/tt0071360/img",
+   "background": "https://images.metahub.space/background/medium/tt0071360/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1974",
+   "year": 1974,
+   "runtime": "113 min",
+   "director": "Francis Ford Coppola",
+   "description": "Captures a man whose job is listening realising he has finally heard something. A surveillance expert replays one taped conversation until a line changes meaning, and his own privacy obsession turns on him."
+  },
+  {
+   "id": "tt0443706",
+   "type": "movie",
+   "name": "Zodiac",
+   "poster": "https://images.metahub.space/poster/medium/tt0443706/img",
+   "background": "https://images.metahub.space/background/medium/tt0443706/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "History",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2007",
+   "year": 2007,
+   "runtime": "157 min",
+   "director": "David Fincher",
+   "description": "Captures obsession with a case that will not close. San Francisco, years of codes, files, basements and false certainties; the killer fades and the men who chased him are what's left damaged."
+  },
+  {
+   "id": "tt3397884",
+   "type": "movie",
+   "name": "Sicario",
+   "poster": "https://images.metahub.space/poster/medium/tt3397884/img",
+   "background": "https://images.metahub.space/background/medium/tt3397884/img",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2015",
+   "year": 2015,
+   "runtime": "121 min",
+   "director": "Denis Villeneuve",
+   "description": "Captures an idealist being used as a legal fig leaf. An FBI agent attached to a border operation she is not briefed on, a convoy into Juárez filmed like an occupying army, rules revealed only after she has broken them."
+  },
+  {
+   "id": "tt7282468",
+   "type": "movie",
+   "name": "Burning",
+   "poster": "https://images.metahub.space/poster/medium/tt7282468/img",
+   "background": "https://images.metahub.space/background/medium/tt7282468/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "148 min",
+   "director": "Lee Chang-dong",
+   "description": "Captures class envy curdling into a mystery with no floor. In Seoul, a delivery kid, a girl who mimes eating a tangerine so well you see it, a rich man who burns abandoned greenhouses — and a disappearance the film will not solve."
+  },
+  {
+   "id": "tt6053438",
+   "type": "movie",
+   "name": "First Reformed",
+   "poster": "https://images.metahub.space/poster/medium/tt6053438/img",
+   "background": "https://images.metahub.space/background/medium/tt6053438/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "113 min",
+   "director": "Paul Schrader",
+   "description": "Captures despair finding a political shape inside a small church. A minister keeping a diary in a historic church that is mostly a gift shop, and a young activist asking whether God can forgive us for what we've done to the world."
+  },
+  {
+   "id": "tt0069293",
+   "type": "movie",
+   "name": "Solaris",
+   "poster": "https://images.metahub.space/poster/medium/tt0069293/img",
+   "background": "https://images.metahub.space/background/medium/tt0069293/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1972",
+   "year": 1972,
+   "runtime": "167 min",
+   "director": "Andrei Tarkovsky",
+   "description": "Captures grief arriving in physical form, in orbit. A psychologist on a space station finds the crew haunted by visitors the planet below has made from their memories — including his dead wife, who knows she isn't her."
+  },
+  {
+   "id": "tt1255953",
+   "type": "movie",
+   "name": "Incendies",
+   "poster": "https://images.metahub.space/poster/medium/tt1255953/img",
+   "background": "https://images.metahub.space/background/medium/tt1255953/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "War"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "131 min",
+   "director": "Denis Villeneuve",
+   "description": "Captures two children learning their mother's life was a war they knew nothing about. Montreal twins, a will, two sealed letters, and a journey into a fictionalised Lebanon their mother never described — it hits like a Greek tragedy."
+  },
+  {
+   "id": "tt0405094",
+   "type": "movie",
+   "name": "The Lives of Others",
+   "poster": "https://images.metahub.space/poster/medium/tt0405094/img",
+   "background": "https://images.metahub.space/background/medium/tt0405094/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "137 min",
+   "director": "Florian Henckel von Donnersmarck",
+   "description": "Captures a surveillance officer changed by the lives he's assigned to transcribe. East Berlin, 1984: a Stasi captain bugs a playwright's flat, types his reports, and quietly begins to edit what the state gets to know."
+  },
+  {
+   "id": "tt1340800",
+   "type": "movie",
+   "name": "Tinker Tailor Soldier Spy",
+   "poster": "https://images.metahub.space/poster/medium/tt1340800/img",
+   "background": "https://images.metahub.space/background/medium/tt1340800/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "127 min",
+   "director": "Tomas Alfredson",
+   "description": "Captures espionage as tired old men in bad rooms. A mole inside British intelligence, investigated through retirement-age sadness, Christmas parties and files — almost nothing explodes; the atmosphere is the action."
+  },
+  {
+   "id": "tt0041959",
+   "type": "movie",
+   "name": "The Third Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0041959/img",
+   "background": "https://images.metahub.space/background/medium/tt0041959/img",
+   "genres": [
+    "Film-Noir",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "1949",
+   "year": 1949,
+   "runtime": "104 min",
+   "director": "Carol Reed",
+   "description": "Captures friendship curdling in a ruined, divided city. Postwar Vienna: a pulp writer arrives to find his friend dead and getting saintlier the less sense the story makes — zither music, sewers, and the ferris wheel speech."
+  },
+  {
+   "id": "tt0454848",
+   "type": "movie",
+   "name": "Inside Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0454848/img",
+   "background": "https://images.metahub.space/background/medium/tt0454848/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "releaseInfo": "2006",
+   "year": 2006,
+   "runtime": "129 min",
+   "director": "Spike Lee",
+   "description": "Captures a bank robbery as theatre with a purpose you have to wait for. Manhattan hostages dressed identically to the robbers, a detective and a fixer circling each other, and a heist whose real target isn't the money."
+  },
+  {
+   "id": "tt10199586",
+   "type": "movie",
+   "name": "Atlantics",
+   "poster": "https://images.metahub.space/poster/medium/tt10199586/img",
+   "background": "https://images.metahub.space/background/medium/tt10199586/img",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "year": 2019,
+   "runtime": "106 min",
+   "director": "Mati Diop",
+   "description": "Captures young men who leave by sea returning in another form. Dakar construction workers, unpaid for months, take a boat toward Spain; the film stays with the women left behind, the sea at night, and a love story conducted through possession and fever."
+  }
+ ]
+}
