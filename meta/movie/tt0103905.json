@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "awards": "7 wins & 5 nominations total",
+  "cast": [
+   "Benoît Poelvoorde",
+   "Jacqueline Poelvoorde-Pappaert",
+   "Nelly Pappaert"
+  ],
+  "country": "Belgium",
+  "description": "Captures the complicity problem pushed to its logical endpoint — the cluster's one fiction: a student crew follows a charming serial killer for a documentary, graduating from filming him, to holding the camera steady, to helping.\n\nA film crew follows a ruthless thief and heartless killer as he goes about his daily routine. But complications set in when the film crew lose their objectivity and begin lending a hand.",
+  "director": [
+   "Rémy Belvaux",
+   "André Bonzel",
+   "Benoît Poelvoorde"
+  ],
+  "dvdRelease": "2017-03-02T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt0103905",
+  "moviedb_id": 10086,
+  "name": "Man Bites Dog",
+  "popularity": 0.09777666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0103905/img",
+  "released": "1993-01-15T00:00:00.000Z",
+  "runtime": "96 min",
+  "trailers": [
+   {
+    "source": "3HFuTY3HpV8",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Rémy Belvaux",
+   "André Bonzel",
+   "Benoît Poelvoorde"
+  ],
+  "year": "1993",
+  "background": "https://images.metahub.space/background/medium/tt0103905/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0103905/img",
+  "popularities": {
+   "moviedb": 2.9333,
+   "stremio": 0.09777666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/man-bites-dog-0103905",
+  "id": "tt0103905",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1993",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Man Bites Dog",
+    "ytId": "3HFuTY3HpV8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0103905"
+   },
+   {
+    "name": "Man Bites Dog",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/man-bites-dog-0103905"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Benoît Poelvoorde",
+    "category": "Cast",
+    "url": "stremio:///search?search=Beno%C3%AEt%20Poelvoorde"
+   },
+   {
+    "name": "Jacqueline Poelvoorde-Pappaert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jacqueline%20Poelvoorde-Pappaert"
+   },
+   {
+    "name": "Nelly Pappaert",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nelly%20Pappaert"
+   },
+   {
+    "name": "Rémy Belvaux",
+    "category": "Writers",
+    "url": "stremio:///search?search=R%C3%A9my%20Belvaux"
+   },
+   {
+    "name": "André Bonzel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andr%C3%A9%20Bonzel"
+   },
+   {
+    "name": "Benoît Poelvoorde",
+    "category": "Writers",
+    "url": "stremio:///search?search=Beno%C3%AEt%20Poelvoorde"
+   },
+   {
+    "name": "Rémy Belvaux",
+    "category": "Directors",
+    "url": "stremio:///search?search=R%C3%A9my%20Belvaux"
+   },
+   {
+    "name": "André Bonzel",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andr%C3%A9%20Bonzel"
+   },
+   {
+    "name": "Benoît Poelvoorde",
+    "category": "Directors",
+    "url": "stremio:///search?search=Beno%C3%AEt%20Poelvoorde"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0103905",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "meta": {
+  "id": "tt0087433",
+  "imdb_id": "tt0087433",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0087433/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0087433/img",
+  "background": "https://live.metahub.space/background/medium/tt0087433/img",
+  "moviedb_id": 92990,
+  "name": "Yellow Earth",
+  "description": "Captures a folk culture so total it becomes the cinematography. A Communist soldier arrives in a loess-plateau village in 1939 to collect folk songs for the army, and finds a girl whose singing is the only free thing in her life.\n\nA communist soldier is sent to a remote region of China in order to collect folk songs. Staying with a peasant family (a widower with two small children), he discovers a community whose way of life is completely alien to him, but he gradually wins their trust.",
+  "genres": [
+   "Drama",
+   "Music",
+   "History"
+  ],
+  "releaseInfo": "1984",
+  "runtime": "91 min",
+  "trailers": [
+   {
+    "source": "sIhuNRtGHtQ",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Xue Bai",
+   "Wang Xueqi",
+   "Tuo Tan"
+  ],
+  "credits_cast": [
+   {
+    "character": "Cuiqiao",
+    "name": "Xue Bai",
+    "profile_path": "/d9a8lq7hBcDCojwIxevfgkx6jXc.jpg",
+    "id": 1350578
+   },
+   {
+    "character": "Gu Qing",
+    "name": "Wang Xueqi",
+    "profile_path": "/6ZWonDufaYcVeMmv1ZD8MZZZDeM.jpg",
+    "id": 77303
+   },
+   {
+    "character": "The Father",
+    "name": "Tuo Tan",
+    "profile_path": null,
+    "id": 1372707
+   },
+   {
+    "character": "Hanhan",
+    "name": "Quiang Liu",
+    "profile_path": null,
+    "id": 1888167
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Chen Kaige",
+    "profile_path": "/knMuFWDYEKI38wLJQCr5rssyrbA.jpg",
+    "id": 20640
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Ziliang Zhang",
+    "profile_path": null,
+    "id": 1184598
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Chen Kaige",
+    "profile_path": "/knMuFWDYEKI38wLJQCr5rssyrbA.jpg",
+    "id": 20640
+   }
+  ],
+  "director": [
+   "Chen Kaige"
+  ],
+  "imdbRating": "7.1",
+  "language": "Mandarin",
+  "country": "China",
+  "awards": "11 wins & 7 nominations total",
+  "slug": "movie/yellow-earth-0087433",
+  "behaviorHints": {
+   "defaultVideoId": "tt0087433",
+   "hasScheduledVideos": false
+  }
+ }
+}

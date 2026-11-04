@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "6 wins & 3 nominations",
+  "cast": [
+   "Issiaka Kane",
+   "Aoua Sangare",
+   "Niamanto Sanogo"
+  ],
+  "country": "Mali, France, Burkina Faso, West Germany",
+  "description": "Captures a myth from inside its own cosmology. Mali, Bambara legend: a son fleeing his sorcerer father across desert and village, carrying stolen sacred objects, toward a confrontation filmed as light itself.\n\nA young man with magical powers journeys to his uncle to request help in fighting his sorcerer father.",
+  "director": [
+   "Souleymane Cissé"
+  ],
+  "dvdRelease": "2007-06-11T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "6.9",
+  "imdb_id": "tt0094349",
+  "moviedb_id": 71329,
+  "name": "Yeelen",
+  "popularity": 0.09237666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0094349/img",
+  "released": "1987-12-02T00:00:00.000Z",
+  "runtime": "105 min",
+  "trailers": [
+   {
+    "source": "GRlNG9lJ6rs",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Souleymane Cissé"
+  ],
+  "year": "1987",
+  "popularities": {
+   "moviedb": 2.7713,
+   "stremio": 0.09237666666666668,
+   "stremio_lib": 0
+  },
+  "slug": "movie/yeelen-0094349",
+  "background": "https://images.metahub.space/background/medium/tt0094349/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0094349/img",
+  "id": "tt0094349",
+  "genres": [
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1987",
+  "trailerStreams": [
+   {
+    "title": "Yeelen",
+    "ytId": "GRlNG9lJ6rs"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0094349"
+   },
+   {
+    "name": "Yeelen",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/yeelen-0094349"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Issiaka Kane",
+    "category": "Cast",
+    "url": "stremio:///search?search=Issiaka%20Kane"
+   },
+   {
+    "name": "Aoua Sangare",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aoua%20Sangare"
+   },
+   {
+    "name": "Niamanto Sanogo",
+    "category": "Cast",
+    "url": "stremio:///search?search=Niamanto%20Sanogo"
+   },
+   {
+    "name": "Souleymane Cissé",
+    "category": "Writers",
+    "url": "stremio:///search?search=Souleymane%20Ciss%C3%A9"
+   },
+   {
+    "name": "Souleymane Cissé",
+    "category": "Directors",
+    "url": "stremio:///search?search=Souleymane%20Ciss%C3%A9"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0094349",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "id": "tt0078850",
+  "imdb_id": "tt0078850",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0078850/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0078850/img",
+  "background": "https://live.metahub.space/background/medium/tt0078850/img",
+  "moviedb_id": 42165,
+  "name": "Best Boy",
+  "description": "Captures love expressed as letting go, at the lowest possible volume. Philly, a developmentally disabled man in his fifties whose elderly parents have done everything for him, is gently taught to live more independently — because they won't always be there.\n\nIn this documentary, the director follows the day-to-day activities of his intellectually disabled, middle-aged cousin Philly over a three-year period.",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1979",
+  "runtime": "111 min",
+  "trailers": [],
+  "cast": [
+   "Philly Wohl",
+   "Pearl Wohl",
+   "Max Wohl"
+  ],
+  "credits_cast": [
+   {
+    "character": "Self",
+    "name": "Philly Wohl",
+    "profile_path": null,
+    "id": 5219082
+   },
+   {
+    "character": "Self",
+    "name": "Pearl Wohl",
+    "profile_path": null,
+    "id": 5219083
+   },
+   {
+    "character": "Self",
+    "name": "Max Wohl",
+    "profile_path": null,
+    "id": 5219084
+   },
+   {
+    "character": "Self",
+    "name": "Zero Mostel",
+    "profile_path": "/15kRWmicFWhV06o7kc1L8OOfulY.jpg",
+    "id": 18861
+   },
+   {
+    "character": "Self",
+    "name": "Christine O'Connor",
+    "profile_path": null,
+    "id": 6314803
+   },
+   {
+    "character": "Self - Philly's Sister",
+    "name": "Frances Reiss",
+    "profile_path": null,
+    "id": 6314805
+   },
+   {
+    "character": "Self",
+    "name": "Ira Wohl",
+    "profile_path": null,
+    "id": 1380238
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Ira Wohl",
+    "profile_path": null,
+    "id": 1380238
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Ira Wohl",
+    "profile_path": null,
+    "id": 1380238
+   }
+  ],
+  "director": [
+   "Ira Wohl"
+  ],
+  "imdbRating": "7.8",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 2 nominations total",
+  "slug": "movie/best-boy-0078850",
+  "behaviorHints": {
+   "defaultVideoId": "tt0078850",
+   "hasScheduledVideos": false
+  }
+ }
+}

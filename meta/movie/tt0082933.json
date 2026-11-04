@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "5 wins & 4 nominations total",
+  "cast": [
+   "Isabelle Adjani",
+   "Sam Neill",
+   "Margit Carstensen"
+  ],
+  "country": "France, West Germany",
+  "description": "Captures a marriage breaking down as literal hysteria. A couple in Berlin tearing each other apart, in Isabelle Adjani's unhinged performance — domestic, then completely not.\n\nA woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
+  "director": [
+   "Andrzej Zulawski"
+  ],
+  "dvdRelease": "2003-09-09T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Horror"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0082933",
+  "moviedb_id": 21484,
+  "name": "Possession",
+  "popularity": 0.3502733333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0082933/img",
+  "released": "1983-10-28T00:00:00.000Z",
+  "runtime": "124 min",
+  "trailers": [
+   {
+    "source": "aLXW-oVbTxE",
+    "type": "Trailer"
+   },
+   {
+    "source": "Ah4Z1yIAoFM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Andrzej Zulawski",
+   "Frederic Tuten"
+  ],
+  "year": "1983",
+  "background": "https://images.metahub.space/background/medium/tt0082933/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0082933/img",
+  "popularities": {
+   "moviedb": 10.5082,
+   "stremio": 0.3502733333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/possession-0082933",
+  "id": "tt0082933",
+  "genres": [
+   "Drama",
+   "Horror"
+  ],
+  "releaseInfo": "1983",
+  "trailerStreams": [
+   {
+    "title": "Possession",
+    "ytId": "aLXW-oVbTxE"
+   },
+   {
+    "title": "Possession",
+    "ytId": "Ah4Z1yIAoFM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0082933"
+   },
+   {
+    "name": "Possession",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/possession-0082933"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Isabelle Adjani",
+    "category": "Cast",
+    "url": "stremio:///search?search=Isabelle%20Adjani"
+   },
+   {
+    "name": "Sam Neill",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sam%20Neill"
+   },
+   {
+    "name": "Margit Carstensen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Margit%20Carstensen"
+   },
+   {
+    "name": "Andrzej Zulawski",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andrzej%20Zulawski"
+   },
+   {
+    "name": "Frederic Tuten",
+    "category": "Writers",
+    "url": "stremio:///search?search=Frederic%20Tuten"
+   },
+   {
+    "name": "Andrzej Zulawski",
+    "category": "Directors",
+    "url": "stremio:///search?search=Andrzej%20Zulawski"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0082933",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award3 wins & 4 nominations total",
+  "cast": [
+   "John Gielgud",
+   "Michael Clark",
+   "Michel Blanc"
+  ],
+  "country": "United Kingdom, Netherlands, France, Italy, Japan",
+  "description": "Captures maximalism as a system. Greenaway adapts The Tempest by layering handwriting, water, calligraphy and early digital compositing over John Gielgud voicing nearly every role — an image-world so dense it becomes a library you wander rather than a plot you follow.\n\nThe magician Prospero attempts to stop his daughter's affair with an enemy.",
+  "director": [
+   "Peter Greenaway"
+  ],
+  "dvdRelease": "1992-10-22T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy"
+  ],
+  "imdbRating": "6.8",
+  "imdb_id": "tt0102722",
+  "moviedb_id": 5048,
+  "name": "Prospero's Books",
+  "popularity": 0.062356666666666664,
+  "poster": "https://images.metahub.space/poster/small/tt0102722/img",
+  "released": "1991-08-30T00:00:00.000Z",
+  "runtime": "126 min",
+  "trailers": [
+   {
+    "source": "ZRNLYaXP_h0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "William Shakespeare",
+   "Peter Greenaway"
+  ],
+  "year": "1991",
+  "popularities": {
+   "moviedb": 1.8707,
+   "stremio": 0.062356666666666664,
+   "stremio_lib": 0
+  },
+  "slug": "movie/prosperos-books-0102722",
+  "background": "https://images.metahub.space/background/medium/tt0102722/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0102722/img",
+  "id": "tt0102722",
+  "genres": [
+   "Drama",
+   "Fantasy"
+  ],
+  "releaseInfo": "1991",
+  "trailerStreams": [
+   {
+    "title": "Prospero's Books",
+    "ytId": "ZRNLYaXP_h0"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0102722"
+   },
+   {
+    "name": "Prospero's Books",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/prosperos-books-0102722"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "John Gielgud",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Gielgud"
+   },
+   {
+    "name": "Michael Clark",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Clark"
+   },
+   {
+    "name": "Michel Blanc",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michel%20Blanc"
+   },
+   {
+    "name": "William Shakespeare",
+    "category": "Writers",
+    "url": "stremio:///search?search=William%20Shakespeare"
+   },
+   {
+    "name": "Peter Greenaway",
+    "category": "Writers",
+    "url": "stremio:///search?search=Peter%20Greenaway"
+   },
+   {
+    "name": "Peter Greenaway",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Greenaway"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0102722",
+   "hasScheduledVideos": false
+  }
+ }
+}

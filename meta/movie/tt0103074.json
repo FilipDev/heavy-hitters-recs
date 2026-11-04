@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "Won 1 Oscar. 24 wins & 52 nominations total",
+  "cast": [
+   "Susan Sarandon",
+   "Geena Davis",
+   "Harvey Keitel"
+  ],
+  "country": "United States, United Kingdom, France",
+  "description": "Captures escape becoming irreversible, and friendship becoming absolute. A weekend trip, a parking lot, a gun — then two women driving west, getting freer and more cornered in the same scenes.\n\nAn Arkansas waitress and a housewife shoot a rapist and take off in a '66 Thunderbird.",
+  "director": [
+   "Ridley Scott"
+  ],
+  "dvdRelease": "2016-06-18T00:00:00.000Z",
+  "genre": [
+   "Adventure",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0103074",
+  "moviedb_id": 1541,
+  "name": "Thelma & Louise",
+  "popularity": 0.30528333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0103074/img",
+  "released": "1991-05-24T00:00:00.000Z",
+  "runtime": "130 min",
+  "trailers": [
+   {
+    "source": "g8Uti7PDLnI",
+    "type": "Trailer"
+   },
+   {
+    "source": "2iBFmKlO4BY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Callie Khouri"
+  ],
+  "year": "1991",
+  "background": "https://images.metahub.space/background/medium/tt0103074/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0103074/img",
+  "popularities": {
+   "moviedb": 9.1585,
+   "stremio": 0.30528333333333335,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/thelma-louise-0103074",
+  "id": "tt0103074",
+  "genres": [
+   "Adventure",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1991",
+  "trailerStreams": [
+   {
+    "title": "Thelma & Louise",
+    "ytId": "g8Uti7PDLnI"
+   },
+   {
+    "title": "Thelma & Louise",
+    "ytId": "2iBFmKlO4BY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0103074"
+   },
+   {
+    "name": "Thelma & Louise",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/thelma-louise-0103074"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Susan Sarandon",
+    "category": "Cast",
+    "url": "stremio:///search?search=Susan%20Sarandon"
+   },
+   {
+    "name": "Geena Davis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Geena%20Davis"
+   },
+   {
+    "name": "Harvey Keitel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Harvey%20Keitel"
+   },
+   {
+    "name": "Callie Khouri",
+    "category": "Writers",
+    "url": "stremio:///search?search=Callie%20Khouri"
+   },
+   {
+    "name": "Ridley Scott",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ridley%20Scott"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0103074",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "2 wins & 6 nominations total",
+  "cast": [
+   "James Caan",
+   "Tuesday Weld",
+   "Willie Nelson"
+  ],
+  "country": "United States",
+  "description": "Captures a craftsman trying to buy a normal life with one last job. A Chicago safecracker with a collage of his dream life in his wallet, neon and rain, tools on metal filmed like jewellery-making.\n\nAfter years in prison, ace safe-cracker Frank owns a car dealership and a cocktail lounge, which are fronts for high-stakes jewelry heists. He wants to complete one last big heist for the Mob before he goes straight.",
+  "director": [
+   "Michael Mann"
+  ],
+  "dvdRelease": "2008-09-16T00:00:00.000Z",
+  "genre": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "7.4",
+  "imdb_id": "tt0083190",
+  "moviedb_id": 11524,
+  "name": "Thief",
+  "popularity": 0.16694,
+  "poster": "https://images.metahub.space/poster/small/tt0083190/img",
+  "released": "1981-03-27T00:00:00.000Z",
+  "runtime": "123 min",
+  "trailers": [
+   {
+    "source": "YDa_z0op7iU",
+    "type": "Trailer"
+   },
+   {
+    "source": "PQdgQs7ozdw",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Mann",
+   "Frank Hohimer"
+  ],
+  "year": "1981",
+  "background": "https://images.metahub.space/background/medium/tt0083190/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0083190/img",
+  "popularities": {
+   "moviedb": 5.0082,
+   "stremio": 0.16694,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/thief-0083190",
+  "id": "tt0083190",
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1981",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Thief",
+    "ytId": "YDa_z0op7iU"
+   },
+   {
+    "title": "Thief",
+    "ytId": "PQdgQs7ozdw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0083190"
+   },
+   {
+    "name": "Thief",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/thief-0083190"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "James Caan",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Caan"
+   },
+   {
+    "name": "Tuesday Weld",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tuesday%20Weld"
+   },
+   {
+    "name": "Willie Nelson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Willie%20Nelson"
+   },
+   {
+    "name": "Michael Mann",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Mann"
+   },
+   {
+    "name": "Frank Hohimer",
+    "category": "Writers",
+    "url": "stremio:///search?search=Frank%20Hohimer"
+   },
+   {
+    "name": "Michael Mann",
+    "category": "Directors",
+    "url": "stremio:///search?search=Michael%20Mann"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0083190",
+   "hasScheduledVideos": false
+  }
+ }
+}

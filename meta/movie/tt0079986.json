@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "id": "tt0079986",
+  "imdb_id": "tt0079986",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0079986/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0079986/img",
+  "background": "https://live.metahub.space/background/medium/tt0079986/img",
+  "moviedb_id": 36079,
+  "name": "Tale of Tales",
+  "description": "Captures folk memory itself — images from childhood, war and lullaby sharing one continuous dream. Norstein's 29-minute animation drifts through layers of cut-out, glass and mist: a little wolf, a minotaur, tango dancers, soldiers leaving for the front.\n\nDistant, well-worn memories of childhood are inhabited by a little gray wolf. Through astonishing imagery, the memory of all of Russia is depicted.",
+  "genres": [
+   "Animation"
+  ],
+  "releaseInfo": "1979",
+  "runtime": "29 min",
+  "trailers": [],
+  "cast": [
+   "Aleksandr Kalyagin"
+  ],
+  "credits_cast": [
+   {
+    "character": "Little Grey Wolf (voice)",
+    "name": "Aleksandr Kalyagin",
+    "profile_path": "/tQjZFJEEN7DBC5MeON6ppXPRz6f.jpg",
+    "id": 240566
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Yuri Norstein",
+    "profile_path": "/dINfpmbw7GYvzlJvfD5AMnC9xSm.jpg",
+    "id": 550476
+   },
+   {
+    "department": "Writing",
+    "job": "Screenplay",
+    "name": "Yuri Norstein",
+    "profile_path": "/dINfpmbw7GYvzlJvfD5AMnC9xSm.jpg",
+    "id": 550476
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Gleb Kovrov",
+    "profile_path": null,
+    "id": 1466757
+   }
+  ],
+  "director": [
+   "Yuri Norstein"
+  ],
+  "imdbRating": "7.8",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "2 wins total",
+  "slug": "movie/tale-of-tales-0079986",
+  "behaviorHints": {
+   "defaultVideoId": "tt0079986",
+   "hasScheduledVideos": false
+  }
+ }
+}

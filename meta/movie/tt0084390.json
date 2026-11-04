@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "awards": "9 wins & 10 nominations total",
+  "cast": [
+   "Ken Ogata",
+   "Sumiko Sakamoto",
+   "Tonpei Hidari"
+  ],
+  "country": "Japan",
+  "description": "Captures a folk custom at full earthiness. Imamura's mountain village carries its old people up the peak to die at seventy, filmed with his usual gusto for sex, cruelty and teeming nature — ritual without a trace of reverence.\n\nIn a poor 19th century rural Japanese village, everyone who reaches the age of 70 has to climb a nearby mountain to die. An elderly woman is reaching close to her cut-off age during her last days with her family.",
+  "director": [
+   "Shohei Imamura"
+  ],
+  "dvdRelease": "2018-11-09T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Family",
+   "Mystery"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0084390",
+  "moviedb_id": 42113,
+  "name": "The Ballad of Narayama",
+  "popularity": 0.23638,
+  "poster": "https://images.metahub.space/poster/small/tt0084390/img",
+  "released": "1983-04-29T00:00:00.000Z",
+  "runtime": "130 min",
+  "trailers": [
+   {
+    "source": "Lw08P2VDdgM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Shohei Imamura",
+   "Shichirô Fukazawa"
+  ],
+  "year": "1983",
+  "popularities": {
+   "moviedb": 7.0914,
+   "stremio": 0.23638,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-ballad-of-narayama-0084390",
+  "background": "https://images.metahub.space/background/medium/tt0084390/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0084390/img",
+  "id": "tt0084390",
+  "genres": [
+   "Drama",
+   "Family",
+   "Mystery"
+  ],
+  "releaseInfo": "1983",
+  "trailerStreams": [
+   {
+    "title": "The Ballad of Narayama",
+    "ytId": "Lw08P2VDdgM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0084390"
+   },
+   {
+    "name": "The Ballad of Narayama",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-ballad-of-narayama-0084390"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Family",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Ken Ogata",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ken%20Ogata"
+   },
+   {
+    "name": "Sumiko Sakamoto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sumiko%20Sakamoto"
+   },
+   {
+    "name": "Tonpei Hidari",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tonpei%20Hidari"
+   },
+   {
+    "name": "Shohei Imamura",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shohei%20Imamura"
+   },
+   {
+    "name": "Shichirô Fukazawa",
+    "category": "Writers",
+    "url": "stremio:///search?search=Shichir%C3%B4%20Fukazawa"
+   },
+   {
+    "name": "Shohei Imamura",
+    "category": "Directors",
+    "url": "stremio:///search?search=Shohei%20Imamura"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0084390",
+   "hasScheduledVideos": false
+  }
+ }
+}

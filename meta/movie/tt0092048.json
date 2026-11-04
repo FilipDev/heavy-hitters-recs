@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": "6 wins & 4 nominations total",
+  "cast": [
+   "Ken Watanabe",
+   "Tsutomu Yamazaki",
+   "Nobuko Miyamoto"
+  ],
+  "country": "Japan",
+  "description": "Captures food as craft, sex, comedy and social ritual all at once. A truck driver mentors a widow until her ramen is perfect, cut with vignettes of people eating in every possible way.\n\nA truck driver stops at a small family-run noodle shop and decides to help its fledgling business. The story is intertwined with various vignettes about the relationship of love and food.",
+  "director": [
+   "Juzo Itami"
+  ],
+  "dvdRelease": "2017-05-04T00:00:00.000Z",
+  "genre": [
+   "Comedy"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0092048",
+  "moviedb_id": 11830,
+  "name": "Tampopo",
+  "popularity": 0.14362666666666665,
+  "poster": "https://images.metahub.space/poster/small/tt0092048/img",
+  "released": "1987-09-01T00:00:00.000Z",
+  "runtime": "115 min",
+  "trailers": [
+   {
+    "source": "sur_pxcpuoE",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Juzo Itami"
+  ],
+  "year": "1985",
+  "popularities": {
+   "moviedb": 4.3088,
+   "stremio": 0.14362666666666665,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/tampopo-0092048",
+  "background": "https://images.metahub.space/background/medium/tt0092048/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0092048/img",
+  "id": "tt0092048",
+  "genres": [
+   "Comedy"
+  ],
+  "releaseInfo": "1985",
+  "trailerStreams": [
+   {
+    "title": "Tampopo",
+    "ytId": "sur_pxcpuoE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0092048"
+   },
+   {
+    "name": "Tampopo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tampopo-0092048"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Ken Watanabe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ken%20Watanabe"
+   },
+   {
+    "name": "Tsutomu Yamazaki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tsutomu%20Yamazaki"
+   },
+   {
+    "name": "Nobuko Miyamoto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nobuko%20Miyamoto"
+   },
+   {
+    "name": "Juzo Itami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Juzo%20Itami"
+   },
+   {
+    "name": "Juzo Itami",
+    "category": "Directors",
+    "url": "stremio:///search?search=Juzo%20Itami"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0092048",
+   "hasScheduledVideos": false
+  }
+ }
+}

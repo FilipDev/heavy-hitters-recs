@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "3 wins & 5 nominations total",
+  "cast": [
+   "Davor Dujmovic",
+   "Bora Todorovic",
+   "Ljubica Adzovic"
+  ],
+  "country": "Yugoslavia, Italy, United Kingdom",
+  "description": "Captures folk storytelling surviving, barely, inside modern crime. A Romani teenager with telekinetic powers is lured into a smuggling life in Italy, half narrated by Goran Bregović's score — Petrović's world taken into magical realism.\n\nIn this luminous tale set in the area around Sarajevo and in Italy, Perhan, an engaging young Romany (gypsy) with telekinetic powers, is seduced by the quick-cash world of petty crime, which threatens to destroy him and those he l...",
+  "director": [
+   "Emir Kusturica"
+  ],
+  "dvdRelease": "2010-12-15T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0097223",
+  "moviedb_id": 20123,
+  "name": "Time of the Gypsies",
+  "popularity": 0.08293333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0097223/img",
+  "released": "1990-02-09T00:00:00.000Z",
+  "runtime": "142 min",
+  "trailers": [
+   {
+    "source": "J9K1iQ57LbQ",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Emir Kusturica",
+   "Gordan Mihic"
+  ],
+  "year": "1990",
+  "popularities": {
+   "moviedb": 2.488,
+   "stremio": 0.08293333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/time-of-the-gypsies-0097223",
+  "background": "https://images.metahub.space/background/medium/tt0097223/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0097223/img",
+  "id": "tt0097223",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1990",
+  "trailerStreams": [
+   {
+    "title": "Time of the Gypsies",
+    "ytId": "J9K1iQ57LbQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0097223"
+   },
+   {
+    "name": "Time of the Gypsies",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/time-of-the-gypsies-0097223"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Davor Dujmovic",
+    "category": "Cast",
+    "url": "stremio:///search?search=Davor%20Dujmovic"
+   },
+   {
+    "name": "Bora Todorovic",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bora%20Todorovic"
+   },
+   {
+    "name": "Ljubica Adzovic",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ljubica%20Adzovic"
+   },
+   {
+    "name": "Emir Kusturica",
+    "category": "Writers",
+    "url": "stremio:///search?search=Emir%20Kusturica"
+   },
+   {
+    "name": "Gordan Mihic",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gordan%20Mihic"
+   },
+   {
+    "name": "Emir Kusturica",
+    "category": "Directors",
+    "url": "stremio:///search?search=Emir%20Kusturica"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0097223",
+   "hasScheduledVideos": false
+  }
+ }
+}

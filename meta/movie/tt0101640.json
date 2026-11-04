@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 Oscar. 24 wins & 17 nominations total",
+  "cast": [
+   "Gong Li",
+   "Jingwu Ma",
+   "Saifei He"
+  ],
+  "country": "China, Hong Kong",
+  "description": "Captures ritual as an instrument of control. Zhang Yimou confines a 1920s household drama to one courtyard compound, where the master's nightly choice of wife is announced by red lanterns and foot massages — rules never fully explained, which is how the women live them.\n\nA young woman becomes the fourth concubine of a wealthy man and soon realizes there's fierce competition for his attention and the associated privileges.",
+  "director": [
+   "Yimou Zhang"
+  ],
+  "dvdRelease": "2019-01-04T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0101640",
+  "moviedb_id": 10404,
+  "name": "Raise the Red Lantern",
+  "popularity": 0.25651666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0101640/img",
+  "released": "2026-11-06T00:00:00.000Z",
+  "runtime": "125 min",
+  "trailers": [
+   {
+    "source": "tLYJzEtmavg",
+    "type": "Trailer"
+   },
+   {
+    "source": "L0ATH3N1gsM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Tong Su",
+   "Ni Zhen"
+  ],
+  "year": "2026",
+  "popularities": {
+   "moviedb": 7.6955,
+   "stremio": 0.25651666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/raise-the-red-lantern-0101640",
+  "background": "https://images.metahub.space/background/medium/tt0101640/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0101640/img",
+  "id": "tt0101640",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2026",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Raise the Red Lantern",
+    "ytId": "tLYJzEtmavg"
+   },
+   {
+    "title": "Raise the Red Lantern",
+    "ytId": "L0ATH3N1gsM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0101640"
+   },
+   {
+    "name": "Raise the Red Lantern",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/raise-the-red-lantern-0101640"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Gong Li",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gong%20Li"
+   },
+   {
+    "name": "Jingwu Ma",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jingwu%20Ma"
+   },
+   {
+    "name": "Saifei He",
+    "category": "Cast",
+    "url": "stremio:///search?search=Saifei%20He"
+   },
+   {
+    "name": "Tong Su",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tong%20Su"
+   },
+   {
+    "name": "Ni Zhen",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ni%20Zhen"
+   },
+   {
+    "name": "Yimou Zhang",
+    "category": "Directors",
+    "url": "stremio:///search?search=Yimou%20Zhang"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0101640",
+   "hasScheduledVideos": false
+  }
+ }
+}

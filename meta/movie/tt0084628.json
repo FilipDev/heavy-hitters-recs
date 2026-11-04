@@ -1,0 +1,110 @@
+{
+ "meta": {
+  "awards": "6 wins total",
+  "cast": [
+   "Amilcar Cabral",
+   "Florence Delay",
+   "Arielle Dombasle"
+  ],
+  "country": "France",
+  "description": "Captures memory as footage you keep re-narrating. A woman reads a travelling cameraman's letters over images of Tokyo, Guinea-Bissau, Iceland and San Francisco, until a travel film becomes a film about how a mind stores the world.\n\nA woman narrates the contemplative writings of a seasoned world traveler, focusing on contemporary Japan.",
+  "director": [
+   "Chris Marker"
+  ],
+  "dvdRelease": "2012-02-07T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Drama"
+  ],
+  "imdbRating": "7.7",
+  "imdb_id": "tt0084628",
+  "moviedb_id": 1563,
+  "name": "Sans Soleil",
+  "popularity": 0.05921666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0084628/img",
+  "released": "1983-03-02T00:00:00.000Z",
+  "runtime": "100 min",
+  "trailers": [
+   {
+    "source": "0K8j3MU9dw4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Chris Marker"
+  ],
+  "year": "1983",
+  "popularities": {
+   "moviedb": 1.7765,
+   "stremio": 0.05921666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/sans-soleil-0084628",
+  "background": "https://images.metahub.space/background/medium/tt0084628/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0084628/img",
+  "id": "tt0084628",
+  "genres": [
+   "Documentary",
+   "Drama"
+  ],
+  "releaseInfo": "1983",
+  "trailerStreams": [
+   {
+    "title": "Sans Soleil",
+    "ytId": "0K8j3MU9dw4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0084628"
+   },
+   {
+    "name": "Sans Soleil",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/sans-soleil-0084628"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Amilcar Cabral",
+    "category": "Cast",
+    "url": "stremio:///search?search=Amilcar%20Cabral"
+   },
+   {
+    "name": "Florence Delay",
+    "category": "Cast",
+    "url": "stremio:///search?search=Florence%20Delay"
+   },
+   {
+    "name": "Arielle Dombasle",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arielle%20Dombasle"
+   },
+   {
+    "name": "Chris Marker",
+    "category": "Writers",
+    "url": "stremio:///search?search=Chris%20Marker"
+   },
+   {
+    "name": "Chris Marker",
+    "category": "Directors",
+    "url": "stremio:///search?search=Chris%20Marker"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0084628",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "meta": {
+  "awards": "17 wins & 1 nomination total",
+  "cast": [
+   "Brooke Xtravaganza",
+   "André Christian",
+   "Dorian Corey"
+  ],
+  "country": "United Kingdom, United States",
+  "description": "Captures people inventing family, language and glamour inside exclusion. New York ball culture — houses as chosen families, categories, voguing — joyful and blunt about race, poverty and murder.\n\nA chronicle of New York's drag scene in the 1980s, focusing on balls, voguing and the ambitions and dreams of those who gave the era its warmth and vitality.",
+  "director": [
+   "Jennie Livingston"
+  ],
+  "dvdRelease": "2017-05-05T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0100332",
+  "moviedb_id": 31225,
+  "name": "Paris Is Burning",
+  "popularity": 0.09473,
+  "poster": "https://images.metahub.space/poster/small/tt0100332/img",
+  "released": "1991-08-01T00:00:00.000Z",
+  "runtime": "78 min",
+  "trailers": [
+   {
+    "source": "9SqvD1-0odY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1990",
+  "popularities": {
+   "moviedb": 2.8419,
+   "stremio": 0.09473,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/paris-is-burning-0100332",
+  "background": "https://images.metahub.space/background/medium/tt0100332/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0100332/img",
+  "id": "tt0100332",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1990",
+  "trailerStreams": [
+   {
+    "title": "Paris Is Burning",
+    "ytId": "9SqvD1-0odY"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0100332"
+   },
+   {
+    "name": "Paris Is Burning",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/paris-is-burning-0100332"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Brooke Xtravaganza",
+    "category": "Cast",
+    "url": "stremio:///search?search=Brooke%20Xtravaganza"
+   },
+   {
+    "name": "André Christian",
+    "category": "Cast",
+    "url": "stremio:///search?search=Andr%C3%A9%20Christian"
+   },
+   {
+    "name": "Dorian Corey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dorian%20Corey"
+   },
+   {
+    "name": "Jennie Livingston",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jennie%20Livingston"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0100332",
+   "hasScheduledVideos": false
+  }
+ }
+}

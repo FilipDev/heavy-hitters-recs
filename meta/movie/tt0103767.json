@@ -1,0 +1,105 @@
+{
+ "meta": {
+  "awards": "2 wins & 2 nominations total",
+  "cast": [
+   "Patrick Disanto"
+  ],
+  "country": "United States",
+  "description": "Captures humanity as a planetary process. Shot in 70mm across 24 countries with no narration and no plot — prayer, factories, volcanoes, crowds moving like weather systems — beautiful and faintly horrifying in the same shots.\n\nA collection of expertly photographed scenes of human life and religion.",
+  "director": [
+   "Ron Fricke"
+  ],
+  "dvdRelease": "2013-01-08T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "8.5",
+  "imdb_id": "tt0103767",
+  "moviedb_id": 14002,
+  "name": "Baraka",
+  "popularity": 0.13877333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0103767/img",
+  "released": "1993-11-19T00:00:00.000Z",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "LKGpHu9IONc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ron Fricke",
+   "Mark Magidson",
+   "Genevieve Nicholas"
+  ],
+  "year": "1993",
+  "background": "https://images.metahub.space/background/medium/tt0103767/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0103767/img",
+  "popularities": {
+   "moviedb": 4.1632,
+   "stremio": 0.13877333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/baraka-0103767",
+  "id": "tt0103767",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1993",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Baraka",
+    "ytId": "LKGpHu9IONc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0103767"
+   },
+   {
+    "name": "Baraka",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/baraka-0103767"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Patrick Disanto",
+    "category": "Cast",
+    "url": "stremio:///search?search=Patrick%20Disanto"
+   },
+   {
+    "name": "Ron Fricke",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ron%20Fricke"
+   },
+   {
+    "name": "Mark Magidson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mark%20Magidson"
+   },
+   {
+    "name": "Genevieve Nicholas",
+    "category": "Writers",
+    "url": "stremio:///search?search=Genevieve%20Nicholas"
+   },
+   {
+    "name": "Ron Fricke",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ron%20Fricke"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0103767",
+   "hasScheduledVideos": false
+  }
+ }
+}

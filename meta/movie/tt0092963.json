@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "id": "tt0092963",
+  "imdb_id": "tt0092963",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0092963/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0092963/img",
+  "background": "https://live.metahub.space/background/medium/tt0092963/img",
+  "moviedb_id": 51929,
+  "name": "The Emperor's Naked Army Marches On",
+  "description": "Captures one man's war that never ended: veteran Kenzo Okuzaki tours Japan forcing his former officers to answer on camera for executions and cannibalism in New Guinea, while director Kazuo Hara's crew effectively enlists in his campaign.\n\nKenzo Okuzaki, a 62-year-old anarchist veteran of the New Guinea campaign in World War II, sets out to conduct interviews with survivors and relatives to find the truth behind atrocities committed by Japanese military, in particular the unexplained killing of two Japanese privates in his unit.",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1987",
+  "runtime": "122 min",
+  "trailers": [
+   {
+    "source": "uXn7aFPedKc",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Kenzo Okuzaki",
+   "Masao Koshimizu",
+   "Riichi Aikawa"
+  ],
+  "credits_cast": [
+   {
+    "character": "Self",
+    "name": "Kenzo Okuzaki",
+    "profile_path": "/mcb8mATthtwkM9UHm0ZGZrdFZuk.jpg",
+    "id": 2545618
+   },
+   {
+    "character": "Self",
+    "name": "Masao Koshimizu",
+    "profile_path": null,
+    "id": 3239965
+   },
+   {
+    "character": "Self",
+    "name": "Riichi Aikawa",
+    "profile_path": null,
+    "id": 3239966
+   },
+   {
+    "character": "Self",
+    "name": "Masaichi Hamaguchi",
+    "profile_path": null,
+    "id": 3239967
+   },
+   {
+    "character": "Self",
+    "name": "Toshio Hara",
+    "profile_path": null,
+    "id": 3239968
+   },
+   {
+    "character": "Self",
+    "name": "Shichiro Kojima",
+    "profile_path": null,
+    "id": 3239969
+   },
+   {
+    "character": "Self",
+    "name": "Taro Maruyama",
+    "profile_path": null,
+    "id": 3239970
+   },
+   {
+    "character": "Self",
+    "name": "Toshiya Nomura",
+    "profile_path": null,
+    "id": 3239971
+   },
+   {
+    "character": "Self",
+    "name": "Shizumi Okuzaki",
+    "profile_path": null,
+    "id": 3239972
+   },
+   {
+    "character": "Self",
+    "name": "Eizaburo Oshima",
+    "profile_path": null,
+    "id": 3239973
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Kazuo Hara",
+    "profile_path": "/3JYlsn3vew8U6n1h9otCmqd7yLi.jpg",
+    "id": 1077301
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Sachiko Kobayashi",
+    "profile_path": null,
+    "id": 1906160
+   }
+  ],
+  "director": [
+   "Kazuo Hara"
+  ],
+  "imdbRating": "8.1",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "9 wins & 1 nomination",
+  "slug": "movie/the-emperor-s-naked-army-marches-on-0092963",
+  "behaviorHints": {
+   "defaultVideoId": "tt0092963",
+   "hasScheduledVideos": false
+  }
+ }
+}

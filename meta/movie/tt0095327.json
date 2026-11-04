@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination total",
+  "cast": [
+   "Tsutomu Tatsumi",
+   "Ayano Shiraishi",
+   "Akemi Yamaguchi"
+  ],
+  "country": "Japan",
+  "description": "Captures war as two children slowly running out of everything. A brother tries to keep his little sister fed and cheerful in Kobe, 1945, making worse decisions out of pride.\n\nA young boy and his little sister struggle to survive in Japan during World War II.",
+  "director": [
+   "Isao Takahata"
+  ],
+  "dvdRelease": "2017-03-11T00:00:00.000Z",
+  "genre": [
+   "Animation",
+   "Drama",
+   "War"
+  ],
+  "imdbRating": "8.5",
+  "imdb_id": "tt0095327",
+  "moviedb_id": 12477,
+  "name": "Grave of the Fireflies",
+  "popularity": 0.0005933333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0095327/img",
+  "released": "1989-07-26T00:00:00.000Z",
+  "runtime": "89 min",
+  "trailers": [
+   {
+    "source": "QZbcx0WNrMU",
+    "type": "Trailer"
+   },
+   {
+    "source": "lhlh7JVcTt8",
+    "type": "Trailer"
+   },
+   {
+    "source": "Vu6lvl3sDH4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Akiyuki Nosaka",
+   "Isao Takahata"
+  ],
+  "year": "1989",
+  "background": "https://images.metahub.space/background/medium/tt0095327/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0095327/img",
+  "popularities": {
+   "moviedb": 0.0178,
+   "stremio": 0.0005933333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/grave-of-the-fireflies-0095327",
+  "id": "tt0095327",
+  "genres": [
+   "Animation",
+   "Drama",
+   "War"
+  ],
+  "releaseInfo": "1989",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Grave of the Fireflies",
+    "ytId": "QZbcx0WNrMU"
+   },
+   {
+    "title": "Grave of the Fireflies",
+    "ytId": "lhlh7JVcTt8"
+   },
+   {
+    "title": "Grave of the Fireflies",
+    "ytId": "Vu6lvl3sDH4"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0095327"
+   },
+   {
+    "name": "Grave of the Fireflies",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/grave-of-the-fireflies-0095327"
+   },
+   {
+    "name": "Animation",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Tsutomu Tatsumi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tsutomu%20Tatsumi"
+   },
+   {
+    "name": "Ayano Shiraishi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ayano%20Shiraishi"
+   },
+   {
+    "name": "Akemi Yamaguchi",
+    "category": "Cast",
+    "url": "stremio:///search?search=Akemi%20Yamaguchi"
+   },
+   {
+    "name": "Akiyuki Nosaka",
+    "category": "Writers",
+    "url": "stremio:///search?search=Akiyuki%20Nosaka"
+   },
+   {
+    "name": "Isao Takahata",
+    "category": "Writers",
+    "url": "stremio:///search?search=Isao%20Takahata"
+   },
+   {
+    "name": "Isao Takahata",
+    "category": "Directors",
+    "url": "stremio:///search?search=Isao%20Takahata"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0095327",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "id": "tt0104467",
+  "imdb_id": "tt0104467",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0104467/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0104467/img",
+  "background": "https://live.metahub.space/background/medium/tt0104467/img",
+  "moviedb_id": 124085,
+  "name": "Hyenas",
+  "description": "Captures a village discovering its price. A woman returns after decades, impossibly rich, offering her poor hometown a fortune for one act of 'justice' against the man who wronged her — while shops fill with goods bought on credit.\n\nA now-rich woman returns to her poor desert hometown to propose a deal to the populace: her fortune, in exchange for the death of the man who years earlier abandoned her and left her with his child.",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "releaseInfo": "1992",
+  "runtime": "110 min",
+  "trailers": [
+   {
+    "source": "FqO9FFwIAGA",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Djibril Diop Mambéty",
+   "Mansour Diouf",
+   "Ami Diakhate"
+  ],
+  "credits_cast": [
+   {
+    "character": "The Judge",
+    "name": "Djibril Diop Mambéty",
+    "profile_path": "/qP0a19xyKBoAY22ZsnJJy9Okfm6.jpg",
+    "id": 1079380
+   },
+   {
+    "character": "Dramaan",
+    "name": "Mansour Diouf",
+    "profile_path": "/bes5o3rOtbFv5yRJHhJ6V6uVLnr.jpg",
+    "id": 1200700
+   },
+   {
+    "character": "Linguere Ramatou",
+    "name": "Ami Diakhate",
+    "profile_path": "/jbPkmD2DgqFQqgRheSDQAztVZ0w.jpg",
+    "id": 1200701
+   },
+   {
+    "character": "The Mayor",
+    "name": "Makhouredia Gueye",
+    "profile_path": "/7gwwakANwSOmIgs2BcB4TV1JECm.jpg",
+    "id": 1200619
+   },
+   {
+    "character": "The Priest",
+    "name": "Calgou Fall",
+    "profile_path": null,
+    "id": 1556833
+   },
+   {
+    "character": "Mme. Drameh",
+    "name": "Faly Gueye",
+    "profile_path": null,
+    "id": 1556834
+   },
+   {
+    "character": "The Professor",
+    "name": "Issa Samb",
+    "profile_path": "/nbqOLUL64FLNEyc1IgRWe0difr7.jpg",
+    "id": 1556835
+   },
+   {
+    "character": "Chief of Protocol",
+    "name": "Omar Bah",
+    "profile_path": null,
+    "id": 1363089
+   },
+   {
+    "character": "Toko",
+    "name": "Kaoru Egushi",
+    "profile_path": null,
+    "id": 2720199
+   },
+   {
+    "character": "Lord of the Feather",
+    "name": "Mbaba Diop",
+    "profile_path": null,
+    "id": 2720200
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Djibril Diop Mambéty",
+    "profile_path": "/qP0a19xyKBoAY22ZsnJJy9Okfm6.jpg",
+    "id": 1079380
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Pierre-Alain Meier",
+    "profile_path": null,
+    "id": 64628
+   },
+   {
+    "department": "Production",
+    "job": "Producer",
+    "name": "Alain Rozanés",
+    "profile_path": null,
+    "id": 1159578
+   }
+  ],
+  "director": [
+   "Djibril Diop Mambéty"
+  ],
+  "imdbRating": "7.4",
+  "language": "Wolof, French, Japanese",
+  "country": "Senegal, France, Switzerland, United Kingdom, Netherlands, Italy",
+  "awards": "1 win & 1 nomination total",
+  "slug": "movie/hyenas-0104467",
+  "behaviorHints": {
+   "defaultVideoId": "tt0104467",
+   "hasScheduledVideos": false
+  }
+ }
+}

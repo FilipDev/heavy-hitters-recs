@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "awards": "3 wins & 7 nominations total",
+  "cast": [
+   "James Woods",
+   "Debbie Harry",
+   "Sonja Smits"
+  ],
+  "country": "Canada",
+  "description": "Captures a TV signal getting inside a body. A sleazy Toronto cable programmer finds a pirate broadcast of torture, becomes obsessed, and his perception and flesh start reorganising around it.\n\nA Toronto cable TV station co-owner who specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast titled \"Videodrome.\"",
+  "director": [
+   "David Cronenberg"
+  ],
+  "dvdRelease": "2016-04-19T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Horror",
+   "Sci-Fi"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0086541",
+  "moviedb_id": 837,
+  "name": "Videodrome",
+  "popularity": 0.22369,
+  "poster": "https://images.metahub.space/poster/small/tt0086541/img",
+  "released": "1983-02-04T00:00:00.000Z",
+  "runtime": "88 min",
+  "trailers": [
+   {
+    "source": "v8BUXKcp8zE",
+    "type": "Trailer"
+   },
+   {
+    "source": "X2EyfTGzwY4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "David Cronenberg"
+  ],
+  "year": "1983",
+  "background": "https://images.metahub.space/background/medium/tt0086541/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0086541/img",
+  "popularities": {
+   "moviedb": 6.7107,
+   "stremio": 0.22369,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/videodrome-0086541",
+  "id": "tt0086541",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Sci-Fi"
+  ],
+  "releaseInfo": "1983",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Videodrome",
+    "ytId": "v8BUXKcp8zE"
+   },
+   {
+    "title": "Videodrome",
+    "ytId": "X2EyfTGzwY4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0086541"
+   },
+   {
+    "name": "Videodrome",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/videodrome-0086541"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+   },
+   {
+    "name": "James Woods",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Woods"
+   },
+   {
+    "name": "Debbie Harry",
+    "category": "Cast",
+    "url": "stremio:///search?search=Debbie%20Harry"
+   },
+   {
+    "name": "Sonja Smits",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sonja%20Smits"
+   },
+   {
+    "name": "David Cronenberg",
+    "category": "Writers",
+    "url": "stremio:///search?search=David%20Cronenberg"
+   },
+   {
+    "name": "David Cronenberg",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Cronenberg"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0086541",
+   "hasScheduledVideos": false
+  }
+ }
+}

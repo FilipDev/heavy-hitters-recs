@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination total",
+  "cast": [
+   "Veriko Anjaparidze",
+   "Tamari Tsitsishvili",
+   "Dudukhana Tserodze"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures a filmmaker resuming exactly where the state interrupted him. Parajanov's return after prison and exile: a Georgian folk tale of a boy who must be immured in a fortress wall to make it stand, in full tableau style.\n\nA film version of a well-known Georgian folk-tale. A young boy has to be immured into the walls of a fortress in order to stop it from crumbling to pieces.",
+  "director": [
+   "Dodo Abashidze",
+   "Sergei Parajanov"
+  ],
+  "dvdRelease": "2016-11-05T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.3",
+  "imdb_id": "tt0087606",
+  "moviedb_id": 103590,
+  "name": "The Legend of the Suram Fortress",
+  "popularity": 0.043239999999999994,
+  "poster": "https://images.metahub.space/poster/small/tt0087606/img",
+  "released": "1986-12-03T00:00:00.000Z",
+  "runtime": "83 min",
+  "trailers": [
+   {
+    "source": "Gdg9BGhSUSY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Daniel Chonqadze",
+   "Vaja Gigashvili"
+  ],
+  "year": "1986",
+  "popularities": {
+   "moviedb": 1.2972,
+   "stremio": 0.043239999999999994,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/the-legend-of-suram-fortress-0087606",
+  "background": "https://images.metahub.space/background/medium/tt0087606/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0087606/img",
+  "id": "tt0087606",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1986",
+  "trailerStreams": [
+   {
+    "title": "The Legend of Suram Fortress",
+    "ytId": "Gdg9BGhSUSY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0087606"
+   },
+   {
+    "name": "The Legend of Suram Fortress",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-legend-of-suram-fortress-0087606"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Veriko Anjaparidze",
+    "category": "Cast",
+    "url": "stremio:///search?search=Veriko%20Anjaparidze"
+   },
+   {
+    "name": "Tamari Tsitsishvili",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tamari%20Tsitsishvili"
+   },
+   {
+    "name": "Dudukhana Tserodze",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dudukhana%20Tserodze"
+   },
+   {
+    "name": "Daniel Chonqadze",
+    "category": "Writers",
+    "url": "stremio:///search?search=Daniel%20Chonqadze"
+   },
+   {
+    "name": "Vaja Gigashvili",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vaja%20Gigashvili"
+   },
+   {
+    "name": "Dodo Abashidze",
+    "category": "Directors",
+    "url": "stremio:///search?search=Dodo%20Abashidze"
+   },
+   {
+    "name": "Sergei Parajanov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sergei%20Parajanov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0087606",
+   "hasScheduledVideos": false
+  }
+ }
+}

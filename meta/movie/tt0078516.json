@@ -1,0 +1,51 @@
+{
+ "meta": {
+  "id": "tt0078516",
+  "imdb_id": "tt0078516",
+  "type": "movie",
+  "poster": "https://live.metahub.space/poster/small/tt0078516/img",
+  "logo": "https://live.metahub.space/logo/medium/tt0078516/img",
+  "background": "https://live.metahub.space/background/medium/tt0078516/img",
+  "moviedb_id": 179851,
+  "name": "From a Night Porter's Point of View",
+  "description": "Captures an authoritarian personality describing itself as common sense: Kieślowski gives a factory night porter who adores rules, informers and surveillance enough rope to explain his whole worldview, delighted with himself throughout.\n\nAt the time of the Polish social regime, a security officer is promoted to work at a prison yard. Introducing concurrently with the narrator; he speaks of himself, his thoughts, his point of view.",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1979",
+  "runtime": "17 min",
+  "trailers": [],
+  "cast": [
+   "Marian Osuch"
+  ],
+  "credits_cast": [
+   {
+    "character": "Self (uncredited)",
+    "name": "Marian Osuch",
+    "profile_path": null,
+    "id": 1544869
+   }
+  ],
+  "credits_crew": [
+   {
+    "department": "Directing",
+    "job": "Director",
+    "name": "Krzysztof Kieślowski",
+    "profile_path": "/6K32bPL22jvJx1LO5pJDxZHCsAy.jpg",
+    "id": 1126
+   }
+  ],
+  "director": [
+   "Krzysztof Kieślowski"
+  ],
+  "imdbRating": "7.3",
+  "language": "Polish",
+  "country": "Poland",
+  "awards": "3 wins total",
+  "slug": "movie/from-a-night-porter-s-point-of-view-0078516",
+  "behaviorHints": {
+   "defaultVideoId": "tt0078516",
+   "hasScheduledVideos": false
+  }
+ }
+}

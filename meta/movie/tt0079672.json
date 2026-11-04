@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "awards": "2 wins & 3 nominations total",
+  "cast": [
+   "Gena Rowlands",
+   "John Cassavetes",
+   "Ben Gazzara"
+  ],
+  "country": "United States",
+  "description": "Captures an actress coming apart inside a role about ageing. Rehearsing a play in which her character must accept getting older — drinking, seeing the young fan who died outside the theatre — while the production needs her functional by Thursday.\n\nA renowned actress teeters on the edge of a breakdown as she counts down the days toward a big Broadway opening.",
+  "director": [
+   "John Cassavetes"
+  ],
+  "dvdRelease": "2011-11-29T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "imdb_id": "tt0079672",
+  "moviedb_id": 33665,
+  "name": "Opening Night",
+  "popularity": 0.09342666666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0079672/img",
+  "released": "1978-04-17T00:00:00.000Z",
+  "runtime": "144 min",
+  "trailers": [
+   {
+    "source": "eRZZAvWIBAo",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "John Cassavetes"
+  ],
+  "year": "1978",
+  "popularities": {
+   "moviedb": 2.8028,
+   "stremio": 0.09342666666666667,
+   "stremio_lib": 0
+  },
+  "slug": "movie/opening-night-0079672",
+  "background": "https://images.metahub.space/background/medium/tt0079672/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0079672/img",
+  "id": "tt0079672",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1978",
+  "trailerStreams": [
+   {
+    "title": "Opening Night",
+    "ytId": "eRZZAvWIBAo"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0079672"
+   },
+   {
+    "name": "Opening Night",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/opening-night-0079672"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Gena Rowlands",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gena%20Rowlands"
+   },
+   {
+    "name": "John Cassavetes",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Cassavetes"
+   },
+   {
+    "name": "Ben Gazzara",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ben%20Gazzara"
+   },
+   {
+    "name": "John Cassavetes",
+    "category": "Writers",
+    "url": "stremio:///search?search=John%20Cassavetes"
+   },
+   {
+    "name": "John Cassavetes",
+    "category": "Directors",
+    "url": "stremio:///search?search=John%20Cassavetes"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0079672",
+   "hasScheduledVideos": false
+  }
+ }
+}

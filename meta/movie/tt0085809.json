@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "awards": "6 wins & 1 nomination total",
+  "cast": [
+   "Edward Asner",
+   "Pat Benatar",
+   "Jerry Brown"
+  ],
+  "country": "United States",
+  "description": "Captures civilisation as pattern. No dialogue or characters: time-lapse clouds, highways, factories, demolition and crowds cut to Philip Glass, until modern life starts to look like weather.\n\nA collection of expertly photographed phenomena with no conventional plot. The footage focuses on the relationship between nature, humanity, and technology.",
+  "director": [
+   "Godfrey Reggio"
+  ],
+  "dvdRelease": "2016-10-17T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Music"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0085809",
+  "moviedb_id": 11314,
+  "name": "Koyaanisqatsi",
+  "popularity": 0.12276666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0085809/img",
+  "released": "1983-08-24T00:00:00.000Z",
+  "runtime": "86 min",
+  "trailers": [
+   {
+    "source": "BRItSHelLr4",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Godfrey Reggio",
+   "Ron Fricke",
+   "Michael Hoenig"
+  ],
+  "year": "1983",
+  "popularities": {
+   "moviedb": 3.683,
+   "stremio": 0.12276666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0085809/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0085809/img",
+  "slug": "movie/koyaanisqatsi-0085809",
+  "id": "tt0085809",
+  "genres": [
+   "Documentary",
+   "Music"
+  ],
+  "releaseInfo": "1983",
+  "trailerStreams": [
+   {
+    "title": "Koyaanisqatsi",
+    "ytId": "BRItSHelLr4"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0085809"
+   },
+   {
+    "name": "Koyaanisqatsi",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/koyaanisqatsi-0085809"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Edward Asner",
+    "category": "Cast",
+    "url": "stremio:///search?search=Edward%20Asner"
+   },
+   {
+    "name": "Pat Benatar",
+    "category": "Cast",
+    "url": "stremio:///search?search=Pat%20Benatar"
+   },
+   {
+    "name": "Jerry Brown",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jerry%20Brown"
+   },
+   {
+    "name": "Godfrey Reggio",
+    "category": "Writers",
+    "url": "stremio:///search?search=Godfrey%20Reggio"
+   },
+   {
+    "name": "Ron Fricke",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ron%20Fricke"
+   },
+   {
+    "name": "Michael Hoenig",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Hoenig"
+   },
+   {
+    "name": "Godfrey Reggio",
+    "category": "Directors",
+    "url": "stremio:///search?search=Godfrey%20Reggio"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0085809",
+   "hasScheduledVideos": false
+  }
+ }
+}

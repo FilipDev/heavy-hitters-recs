@@ -1,0 +1,106 @@
+{
+ "meta": {
+  "awards": "6 wins & 2 nominations total",
+  "cast": [
+   "Yuri Mgoyan",
+   "Sofiko Chiaureli",
+   "Ramaz Chkhikvadze"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures the tableau style at its most playful and weightless. Parajanov's last film, from Lermontov: a wandering minstrel must earn a fortune in a thousand days to marry, crossing Azerbaijani landscapes in living-embroidery compositions. Dedicated to Tarkovsky.\n\nA talented but poor minstrel is forced to wander throughout the world because of impossibility to be with his true love - a rich merchant's daughter.",
+  "director": [
+   "Dodo Abashidze",
+   "Sergei Parajanov"
+  ],
+  "dvdRelease": "2016-06-16T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.2",
+  "imdb_id": "tt0094681",
+  "moviedb_id": 92663,
+  "name": "Ashik Kerib",
+  "popularity": 0.06294666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0094681/img",
+  "released": "1988-11-23T00:00:00.000Z",
+  "runtime": "76 min",
+  "trailers": [],
+  "type": "movie",
+  "writer": [
+   "Gia Badridze",
+   "Mikhail Lermontov"
+  ],
+  "year": "1988",
+  "popularities": {
+   "moviedb": 1.8884,
+   "stremio": 0.06294666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/ashik-kerib-0094681",
+  "background": "https://images.metahub.space/background/medium/tt0094681/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0094681/img",
+  "id": "tt0094681",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1988",
+  "videos": [],
+  "trailerStreams": [],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0094681"
+   },
+   {
+    "name": "Ashik Kerib",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/ashik-kerib-0094681"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Yuri Mgoyan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Yuri%20Mgoyan"
+   },
+   {
+    "name": "Sofiko Chiaureli",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sofiko%20Chiaureli"
+   },
+   {
+    "name": "Ramaz Chkhikvadze",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ramaz%20Chkhikvadze"
+   },
+   {
+    "name": "Gia Badridze",
+    "category": "Writers",
+    "url": "stremio:///search?search=Gia%20Badridze"
+   },
+   {
+    "name": "Mikhail Lermontov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mikhail%20Lermontov"
+   },
+   {
+    "name": "Dodo Abashidze",
+    "category": "Directors",
+    "url": "stremio:///search?search=Dodo%20Abashidze"
+   },
+   {
+    "name": "Sergei Parajanov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Sergei%20Parajanov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0094681",
+   "hasScheduledVideos": false
+  }
+ }
+}

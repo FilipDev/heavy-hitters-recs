@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "awards": "11 wins & 15 nominations total",
+  "cast": [
+   "Chang Chen",
+   "Lisa Yang",
+   "Kuo-Chu Chang"
+  ],
+  "country": "Taiwan",
+  "description": "Captures adolescence inside a whole society holding its breath. Taipei, 1960 — exiled mainland families, street gangs, Elvis, a famous murder case — four hours that build a world rather than a plot.\n\nBased on a true story, primarily on a conflict between two youth gangs, a 14-year-old boy's girlfriend conflicts with the head of one gang for an unclear reason, until finally the conflict comes to a violent climax.",
+  "director": [
+   "Edward Yang"
+  ],
+  "dvdRelease": "2016-03-22T00:00:00.000Z",
+  "genre": [
+   "Crime",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0101985",
+  "moviedb_id": 15804,
+  "name": "A Brighter Summer Day",
+  "popularity": 0.21107333333333334,
+  "poster": "https://images.metahub.space/poster/small/tt0101985/img",
+  "released": "2011-11-25T00:00:00.000Z",
+  "runtime": "237 min",
+  "trailers": [
+   {
+    "source": "nsiqbT5adO0",
+    "type": "Trailer"
+   },
+   {
+    "source": "n4pHZ_IrKDk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Edward Yang",
+   "Alex Yang",
+   "Mingtang Lai"
+  ],
+  "year": "2011",
+  "popularities": {
+   "moviedb": 6.3322,
+   "stremio": 0.21107333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/a-brighter-summer-day-0101985",
+  "background": "https://images.metahub.space/background/medium/tt0101985/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0101985/img",
+  "id": "tt0101985",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2011",
+  "trailerStreams": [
+   {
+    "title": "A Brighter Summer Day",
+    "ytId": "nsiqbT5adO0"
+   },
+   {
+    "title": "A Brighter Summer Day",
+    "ytId": "n4pHZ_IrKDk"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0101985"
+   },
+   {
+    "name": "A Brighter Summer Day",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/a-brighter-summer-day-0101985"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Chang Chen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Chang%20Chen"
+   },
+   {
+    "name": "Lisa Yang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lisa%20Yang"
+   },
+   {
+    "name": "Kuo-Chu Chang",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kuo-Chu%20Chang"
+   },
+   {
+    "name": "Edward Yang",
+    "category": "Writers",
+    "url": "stremio:///search?search=Edward%20Yang"
+   },
+   {
+    "name": "Alex Yang",
+    "category": "Writers",
+    "url": "stremio:///search?search=Alex%20Yang"
+   },
+   {
+    "name": "Mingtang Lai",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mingtang%20Lai"
+   },
+   {
+    "name": "Edward Yang",
+    "category": "Directors",
+    "url": "stremio:///search?search=Edward%20Yang"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0101985",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "3 wins & 3 nominations total",
+  "cast": [
+   "Robbie Robertson",
+   "Muddy Waters",
+   "Neil Young"
+  ],
+  "country": "United States",
+  "description": "Captures a musical era ending on stage, politely. The Band's farewell concert with everyone they came up with as guests, and backstage interviews with men who sound relieved and bereaved at once.\n\nA film account and presentation of the final concert of The Band.",
+  "director": [
+   "Martin Scorsese"
+  ],
+  "dvdRelease": "2017-04-18T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Music"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0077838",
+  "moviedb_id": 13963,
+  "name": "The Last Waltz",
+  "popularity": 0.10134,
+  "poster": "https://images.metahub.space/poster/small/tt0077838/img",
+  "released": "1978-04-26T00:00:00.000Z",
+  "runtime": "117 min",
+  "trailers": [
+   {
+    "source": "jvDx5mCzkYg",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Mardik Martin"
+  ],
+  "year": "1978",
+  "popularities": {
+   "moviedb": 3.0402,
+   "stremio": 0.10134,
+   "stremio_lib": 0,
+   "trakt": 4
+  },
+  "background": "https://images.metahub.space/background/medium/tt0077838/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0077838/img",
+  "slug": "movie/the-last-waltz-0077838",
+  "id": "tt0077838",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Music"
+  ],
+  "releaseInfo": "1978",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Last Waltz",
+    "ytId": "jvDx5mCzkYg"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0077838"
+   },
+   {
+    "name": "The Last Waltz",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-last-waltz-0077838"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Robbie Robertson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robbie%20Robertson"
+   },
+   {
+    "name": "Muddy Waters",
+    "category": "Cast",
+    "url": "stremio:///search?search=Muddy%20Waters"
+   },
+   {
+    "name": "Neil Young",
+    "category": "Cast",
+    "url": "stremio:///search?search=Neil%20Young"
+   },
+   {
+    "name": "Mardik Martin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mardik%20Martin"
+   },
+   {
+    "name": "Martin Scorsese",
+    "category": "Directors",
+    "url": "stremio:///search?search=Martin%20Scorsese"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0077838",
+   "hasScheduledVideos": false
+  }
+ }
+}

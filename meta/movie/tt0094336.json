@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "awards": "1 win & 2 nominations total",
+  "cast": [
+   "Richard E. Grant",
+   "Paul McGann",
+   "Richard Griffiths"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures the end of youth as squalor and one great friendship rotting. Two out-of-work actors in 1969 London, a disastrous country holiday, and one of them beginning to leave the other behind.\n\nTwo sloppy actors spend a weekend holiday at an uncle's country cottage.",
+  "director": [
+   "Bruce Robinson"
+  ],
+  "dvdRelease": "2020-10-15T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "imdbRating": "7.5",
+  "imdb_id": "tt0094336",
+  "moviedb_id": 13446,
+  "name": "Withnail and I",
+  "popularity": 0.23119333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0094336/img",
+  "released": "1987-06-19T00:00:00.000Z",
+  "runtime": "108 min",
+  "trailers": [
+   {
+    "source": "PCJ2gzSeTdE",
+    "type": "Trailer"
+   },
+   {
+    "source": "d9Z0DV33gAY",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Bruce Robinson"
+  ],
+  "year": "1987",
+  "background": "https://images.metahub.space/background/medium/tt0094336/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0094336/img",
+  "popularities": {
+   "moviedb": 6.9358,
+   "stremio": 0.23119333333333333,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/withnail-and-i-0094336",
+  "id": "tt0094336",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "1987",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Withnail and I",
+    "ytId": "PCJ2gzSeTdE"
+   },
+   {
+    "title": "Withnail and I",
+    "ytId": "d9Z0DV33gAY"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0094336"
+   },
+   {
+    "name": "Withnail and I",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/withnail-and-i-0094336"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Richard E. Grant",
+    "category": "Cast",
+    "url": "stremio:///search?search=Richard%20E.%20Grant"
+   },
+   {
+    "name": "Paul McGann",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20McGann"
+   },
+   {
+    "name": "Richard Griffiths",
+    "category": "Cast",
+    "url": "stremio:///search?search=Richard%20Griffiths"
+   },
+   {
+    "name": "Bruce Robinson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bruce%20Robinson"
+   },
+   {
+    "name": "Bruce Robinson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bruce%20Robinson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0094336",
+   "hasScheduledVideos": false
+  }
+ }
+}

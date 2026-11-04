@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "awards": "Won 2 BAFTA Awards. 15 wins total",
+  "cast": [
+   "Simon Srebnik",
+   "Michael Podchlebnik",
+   "Motke Zaïdl"
+  ],
+  "country": "France",
+  "description": "Captures memory itself as evidence. Nine and a half hours with not one frame of archival footage — only survivors, bystanders and perpetrators talking in the present tense, in the places where it happened. The most demanding film in the collection.\n\nClaude Lanzmann's epic documentary recounts the story of the Holocaust through interviews with witnesses - perpetrators as well as survivors.",
+  "director": [
+   "Claude Lanzmann"
+  ],
+  "dvdRelease": "2021-03-02T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "History",
+   "War"
+  ],
+  "imdbRating": "8.7",
+  "imdb_id": "tt0090015",
+  "moviedb_id": 42044,
+  "name": "Shoah",
+  "popularity": 0.14459333333333332,
+  "poster": "https://images.metahub.space/poster/small/tt0090015/img",
+  "released": "1985-11-01T00:00:00.000Z",
+  "runtime": "566 min",
+  "trailers": [
+   {
+    "source": "2g-Lc2ZSutA",
+    "type": "Trailer"
+   },
+   {
+    "source": "S7z8lOvfskk",
+    "type": "Trailer"
+   },
+   {
+    "source": "oq_wHbdVRuk",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Claude Lanzmann"
+  ],
+  "year": "1985",
+  "background": "https://images.metahub.space/background/medium/tt0090015/img",
+  "popularities": {
+   "moviedb": 4.3378,
+   "stremio": 0.14459333333333332,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "logo": "https://images.metahub.space/logo/medium/tt0090015/img",
+  "slug": "movie/shoah-0090015",
+  "id": "tt0090015",
+  "genres": [
+   "Documentary",
+   "History",
+   "War"
+  ],
+  "releaseInfo": "1985",
+  "trailerStreams": [
+   {
+    "title": "Shoah",
+    "ytId": "2g-Lc2ZSutA"
+   },
+   {
+    "title": "Shoah",
+    "ytId": "S7z8lOvfskk"
+   },
+   {
+    "title": "Shoah",
+    "ytId": "oq_wHbdVRuk"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0090015"
+   },
+   {
+    "name": "Shoah",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/shoah-0090015"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Simon Srebnik",
+    "category": "Cast",
+    "url": "stremio:///search?search=Simon%20Srebnik"
+   },
+   {
+    "name": "Michael Podchlebnik",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Podchlebnik"
+   },
+   {
+    "name": "Motke Zaïdl",
+    "category": "Cast",
+    "url": "stremio:///search?search=Motke%20Za%C3%AFdl"
+   },
+   {
+    "name": "Claude Lanzmann",
+    "category": "Writers",
+    "url": "stremio:///search?search=Claude%20Lanzmann"
+   },
+   {
+    "name": "Claude Lanzmann",
+    "category": "Directors",
+    "url": "stremio:///search?search=Claude%20Lanzmann"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0090015",
+   "hasScheduledVideos": false
+  }
+ }
+}

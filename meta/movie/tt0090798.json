@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "awards": "3 wins & 3 nominations total",
+  "cast": [
+   "Noam Almaz",
+   "Dexter Fletcher",
+   "Nigel Terry"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures a film thinking in paintings the way The Colour of Pomegranates does, but grubbier, queerer, and made for almost no money. Jarman stages the painter's life as living versions of his canvases, with calculators and motorbikes left sitting in the 1600s.\n\nA retelling of the life of the celebrated 17th-century painter through his brilliant, nearly blasphemous paintings and his flirtations with the underworld.",
+  "director": [
+   "Derek Jarman"
+  ],
+  "dvdRelease": "2017-05-03T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "imdbRating": "6.5",
+  "imdb_id": "tt0090798",
+  "moviedb_id": 20537,
+  "name": "Caravaggio",
+  "popularity": 0.08314,
+  "poster": "https://images.metahub.space/poster/small/tt0090798/img",
+  "released": "1986-08-29T00:00:00.000Z",
+  "runtime": "93 min",
+  "trailers": [
+   {
+    "source": "Su6avUbq-1E",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Derek Jarman",
+   "Nicholas Ward Jackson",
+   "Suso Cecchi D&apos;Amico"
+  ],
+  "year": "1986",
+  "popularities": {
+   "moviedb": 2.4942,
+   "stremio": 0.08314,
+   "stremio_lib": 0
+  },
+  "slug": "movie/caravaggio-0090798",
+  "background": "https://images.metahub.space/background/medium/tt0090798/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0090798/img",
+  "id": "tt0090798",
+  "genres": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "releaseInfo": "1986",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Caravaggio",
+    "ytId": "Su6avUbq-1E"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0090798"
+   },
+   {
+    "name": "Caravaggio",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/caravaggio-0090798"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Noam Almaz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Noam%20Almaz"
+   },
+   {
+    "name": "Dexter Fletcher",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dexter%20Fletcher"
+   },
+   {
+    "name": "Nigel Terry",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nigel%20Terry"
+   },
+   {
+    "name": "Derek Jarman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Derek%20Jarman"
+   },
+   {
+    "name": "Nicholas Ward Jackson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Nicholas%20Ward%20Jackson"
+   },
+   {
+    "name": "Suso Cecchi D&apos;Amico",
+    "category": "Writers",
+    "url": "stremio:///search?search=Suso%20Cecchi%20D%26apos%3BAmico"
+   },
+   {
+    "name": "Derek Jarman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Derek%20Jarman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0090798",
+   "hasScheduledVideos": false
+  }
+ }
+}

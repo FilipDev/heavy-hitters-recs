@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "awards": "12 wins & 5 nominations total",
+  "cast": [
+   "Randall Adams",
+   "David Harris",
+   "Gus Rose"
+  ],
+  "country": "United States",
+  "description": "Captures how 'eyewitness truth' is mostly people confidently describing things that never happened. Errol Morris reconstructs a policeman's murder through conflicting accounts and stylised re-enactments — and the film's evidence helped free the man convicted of it.\n\nA film that successfully argued that a man was wrongly convicted for murder by a corrupt justice system in Dallas County, Texas.",
+  "director": [
+   "Errol Morris"
+  ],
+  "dvdRelease": "2016-04-28T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Crime"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0096257",
+  "moviedb_id": 14285,
+  "name": "The Thin Blue Line",
+  "popularity": 0.07583666666666668,
+  "poster": "https://images.metahub.space/poster/small/tt0096257/img",
+  "released": "1988-08-25T00:00:00.000Z",
+  "runtime": "103 min",
+  "trailers": [
+   {
+    "source": "MzZROKde8Nc",
+    "type": "Trailer"
+   },
+   {
+    "source": "CTDvQ_3VaG0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Errol Morris"
+  ],
+  "year": "1988",
+  "popularities": {
+   "moviedb": 2.2751,
+   "stremio": 0.07583666666666668,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0096257/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0096257/img",
+  "slug": "movie/the-thin-blue-line-0096257",
+  "id": "tt0096257",
+  "genres": [
+   "Documentary",
+   "Crime"
+  ],
+  "releaseInfo": "1988",
+  "trailerStreams": [
+   {
+    "title": "The Thin Blue Line",
+    "ytId": "MzZROKde8Nc"
+   },
+   {
+    "title": "The Thin Blue Line",
+    "ytId": "CTDvQ_3VaG0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0096257"
+   },
+   {
+    "name": "The Thin Blue Line",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-thin-blue-line-0096257"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Randall Adams",
+    "category": "Cast",
+    "url": "stremio:///search?search=Randall%20Adams"
+   },
+   {
+    "name": "David Harris",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Harris"
+   },
+   {
+    "name": "Gus Rose",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gus%20Rose"
+   },
+   {
+    "name": "Errol Morris",
+    "category": "Writers",
+    "url": "stremio:///search?search=Errol%20Morris"
+   },
+   {
+    "name": "Errol Morris",
+    "category": "Directors",
+    "url": "stremio:///search?search=Errol%20Morris"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0096257",
+   "hasScheduledVideos": false
+  }
+ }
+}

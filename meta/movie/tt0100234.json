@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "awards": "2 wins & 2 nominations total",
+  "cast": [
+   "Hossain Sabzian",
+   "Mohsen Makhmalbaf",
+   "Abolfazl Ahankhah"
+  ],
+  "country": "Iran",
+  "description": "Captures a poor film fan who wanted, briefly, to be the man whose name he borrowed. In Tehran a man impersonates a famous director to a family, is arrested, and then everyone involved re-enacts their own case, including the trial.\n\nThe true story of Hossain Sabzian, a cinephile who impersonated the director Mohsen Makhmalbaf to convince a family they would star in his so-called new film.",
+  "director": [
+   "Abbas Kiarostami"
+  ],
+  "dvdRelease": "2017-03-23T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "imdbRating": "8.2",
+  "imdb_id": "tt0100234",
+  "moviedb_id": 30017,
+  "name": "Close-Up",
+  "popularity": 0.15922666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0100234/img",
+  "released": "1991-10-30T00:00:00.000Z",
+  "runtime": "98 min",
+  "trailers": [
+   {
+    "source": "YeFZ448yQ-0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Abbas Kiarostami"
+  ],
+  "year": "1991",
+  "popularities": {
+   "moviedb": 4.7768,
+   "stremio": 0.15922666666666666,
+   "stremio_lib": 0
+  },
+  "slug": "movie/close-up-0100234",
+  "background": "https://images.metahub.space/background/medium/tt0100234/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0100234/img",
+  "id": "tt0100234",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "releaseInfo": "1991",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Close-Up",
+    "ytId": "YeFZ448yQ-0"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0100234"
+   },
+   {
+    "name": "Close-Up",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/close-up-0100234"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Hossain Sabzian",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hossain%20Sabzian"
+   },
+   {
+    "name": "Mohsen Makhmalbaf",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mohsen%20Makhmalbaf"
+   },
+   {
+    "name": "Abolfazl Ahankhah",
+    "category": "Cast",
+    "url": "stremio:///search?search=Abolfazl%20Ahankhah"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   },
+   {
+    "name": "Abbas Kiarostami",
+    "category": "Directors",
+    "url": "stremio:///search?search=Abbas%20Kiarostami"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0100234",
+   "hasScheduledVideos": false
+  }
+ }
+}

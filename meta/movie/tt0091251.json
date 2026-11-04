@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "awards": "3 wins & 1 nomination total",
+  "cast": [
+   "Aleksey Kravchenko",
+   "Olga Mironova",
+   "Liubomiras Laucevicius"
+  ],
+  "country": "Soviet Union",
+  "description": "Captures war as it is done to a child. Belarus, 1943: a boy joins the partisans beaming and ages a lifetime in days; it is not the gore, it is his face.\n\nAfter finding a rifle, a Belarusian teenager joins Soviet partisans in World War II and is swept into the harrowing realities of Nazi occupation.",
+  "director": [
+   "Elem Klimov"
+  ],
+  "dvdRelease": "2015-01-28T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Thriller",
+   "War"
+  ],
+  "imdbRating": "8.3",
+  "imdb_id": "tt0091251",
+  "moviedb_id": 25237,
+  "name": "Come and See",
+  "popularity": 0.35274333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0091251/img",
+  "released": "1985-09-03T00:00:00.000Z",
+  "runtime": "142 min",
+  "trailers": [
+   {
+    "source": "UHaSQU-4wss",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Ales Adamovich",
+   "Elem Klimov"
+  ],
+  "year": "1985",
+  "background": "https://images.metahub.space/background/medium/tt0091251/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0091251/img",
+  "popularities": {
+   "moviedb": 10.5823,
+   "stremio": 0.35274333333333335,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/come-and-see-0091251",
+  "id": "tt0091251",
+  "genres": [
+   "Drama",
+   "Thriller",
+   "War"
+  ],
+  "releaseInfo": "1985",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Come and See",
+    "ytId": "UHaSQU-4wss"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0091251"
+   },
+   {
+    "name": "Come and See",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/come-and-see-0091251"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Aleksey Kravchenko",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aleksey%20Kravchenko"
+   },
+   {
+    "name": "Olga Mironova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olga%20Mironova"
+   },
+   {
+    "name": "Liubomiras Laucevicius",
+    "category": "Cast",
+    "url": "stremio:///search?search=Liubomiras%20Laucevicius"
+   },
+   {
+    "name": "Ales Adamovich",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ales%20Adamovich"
+   },
+   {
+    "name": "Elem Klimov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Elem%20Klimov"
+   },
+   {
+    "name": "Elem Klimov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Elem%20Klimov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0091251",
+   "hasScheduledVideos": false
+  }
+ }
+}

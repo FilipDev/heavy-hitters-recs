@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "awards": "Won 2 Oscars. 24 wins & 28 nominations total",
+  "cast": [
+   "Robert De Niro",
+   "Cathy Moriarty",
+   "Joe Pesci"
+  ],
+  "country": "United States",
+  "description": "Captures self-destruction in a family kitchen as much as a ring. Jake LaMotta's jealousy and violence at home filmed with the same intensity as the fights; he can take any punch except accountability.\n\nThe life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+  "director": [
+   "Martin Scorsese"
+  ],
+  "dvdRelease": "2016-11-25T00:00:00.000Z",
+  "genre": [
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0081398",
+  "moviedb_id": 1578,
+  "name": "Raging Bull",
+  "popularity": 0.28891333333333336,
+  "poster": "https://images.metahub.space/poster/small/tt0081398/img",
+  "released": "1980-12-19T00:00:00.000Z",
+  "runtime": "129 min",
+  "trailers": [
+   {
+    "source": "G5RHRg6zEhY",
+    "type": "Trailer"
+   },
+   {
+    "source": "F2UKuKxCJqc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Jake LaMotta",
+   "Joseph Carter",
+   "Peter Savage"
+  ],
+  "year": "1980",
+  "background": "https://images.metahub.space/background/medium/tt0081398/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0081398/img",
+  "popularities": {
+   "moviedb": 8.6674,
+   "stremio": 0.28891333333333336,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "slug": "movie/raging-bull-0081398",
+  "id": "tt0081398",
+  "genres": [
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "releaseInfo": "1980",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Raging Bull",
+    "ytId": "G5RHRg6zEhY"
+   },
+   {
+    "title": "Raging Bull",
+    "ytId": "F2UKuKxCJqc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0081398"
+   },
+   {
+    "name": "Raging Bull",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/raging-bull-0081398"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Robert De Niro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20De%20Niro"
+   },
+   {
+    "name": "Cathy Moriarty",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cathy%20Moriarty"
+   },
+   {
+    "name": "Joe Pesci",
+    "category": "Cast",
+    "url": "stremio:///search?search=Joe%20Pesci"
+   },
+   {
+    "name": "Jake LaMotta",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jake%20LaMotta"
+   },
+   {
+    "name": "Joseph Carter",
+    "category": "Writers",
+    "url": "stremio:///search?search=Joseph%20Carter"
+   },
+   {
+    "name": "Peter Savage",
+    "category": "Writers",
+    "url": "stremio:///search?search=Peter%20Savage"
+   },
+   {
+    "name": "Martin Scorsese",
+    "category": "Directors",
+    "url": "stremio:///search?search=Martin%20Scorsese"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0081398",
+   "hasScheduledVideos": false
+  }
+ }
+}

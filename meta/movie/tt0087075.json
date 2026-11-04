@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "awards": "Nominated for 4 BAFTA Awards. 10 wins & 5 nominations total",
+  "cast": [
+   "Sarah Patterson",
+   "Angela Lansbury",
+   "David Warner"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures the folk tale's actual content — appetite, danger, metamorphosis — that the children's versions politely remove. Jordan and Angela Carter nest werewolf tales inside a sleeping girl's dream, all fog, forests and practical-effect transformations.\n\nA teenage girl in a country manor falls asleep while reading a magazine, and has a disturbing dream involving wolves prowling the woods below her bedroom window.",
+  "director": [
+   "Neil Jordan"
+  ],
+  "dvdRelease": "2019-01-04T00:00:00.000Z",
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "imdbRating": "6.6",
+  "imdb_id": "tt0087075",
+  "moviedb_id": 11905,
+  "name": "The Company of Wolves",
+  "popularity": 0.13456,
+  "poster": "https://images.metahub.space/poster/small/tt0087075/img",
+  "released": "1985-04-19T00:00:00.000Z",
+  "runtime": "95 min",
+  "trailers": [
+   {
+    "source": "Ir34SoEgik0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Angela Carter",
+   "Neil Jordan",
+   "Charles Perrault"
+  ],
+  "year": "1985",
+  "popularities": {
+   "moviedb": 4.0368,
+   "stremio": 0.13456,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt0087075/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0087075/img",
+  "slug": "movie/the-company-of-wolves-0087075",
+  "id": "tt0087075",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "releaseInfo": "1985",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "The Company of Wolves",
+    "ytId": "Ir34SoEgik0"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0087075"
+   },
+   {
+    "name": "The Company of Wolves",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-company-of-wolves-0087075"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Sarah Patterson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sarah%20Patterson"
+   },
+   {
+    "name": "Angela Lansbury",
+    "category": "Cast",
+    "url": "stremio:///search?search=Angela%20Lansbury"
+   },
+   {
+    "name": "David Warner",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Warner"
+   },
+   {
+    "name": "Angela Carter",
+    "category": "Writers",
+    "url": "stremio:///search?search=Angela%20Carter"
+   },
+   {
+    "name": "Neil Jordan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Neil%20Jordan"
+   },
+   {
+    "name": "Charles Perrault",
+    "category": "Writers",
+    "url": "stremio:///search?search=Charles%20Perrault"
+   },
+   {
+    "name": "Neil Jordan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Neil%20Jordan"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0087075",
+   "hasScheduledVideos": false
+  }
+ }
+}

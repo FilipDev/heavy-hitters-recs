@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "7 wins & 7 nominations total",
+  "cast": [
+   "Bernard-Pierre Donnadieu",
+   "Gene Bervoets",
+   "Johanna ter Steege"
+  ],
+  "country": "Netherlands, France",
+  "description": "Captures the need to know as a trap. Not a whodunit but a how-and-why: a man's obsession with his girlfriend's disappearance, and the ordinary, methodical man who offers him the answer at a price.\n\nRex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.",
+  "director": [
+   "George Sluizer"
+  ],
+  "dvdRelease": "2017-03-25T00:00:00.000Z",
+  "genre": [
+   "Mystery",
+   "Thriller"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0096163",
+  "moviedb_id": 8740,
+  "name": "The Vanishing",
+  "popularity": 0.28653333333333336,
+  "poster": "https://images.metahub.space/poster/small/tt0096163/img",
+  "released": "1988-10-27T00:00:00.000Z",
+  "runtime": "106 min",
+  "trailers": [
+   {
+    "source": "KlO2oIieI44",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Tim Krabbé",
+   "George Sluizer"
+  ],
+  "year": "1988",
+  "background": "https://images.metahub.space/background/medium/tt0096163/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0096163/img",
+  "popularities": {
+   "moviedb": 8.596,
+   "stremio": 0.28653333333333336,
+   "trakt": 3,
+   "stremio_lib": 0
+  },
+  "slug": "movie/the-vanishing-0096163",
+  "id": "tt0096163",
+  "genres": [
+   "Mystery",
+   "Thriller"
+  ],
+  "releaseInfo": "1988",
+  "trailerStreams": [
+   {
+    "title": "The Vanishing",
+    "ytId": "KlO2oIieI44"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0096163"
+   },
+   {
+    "name": "The Vanishing",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-vanishing-0096163"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Bernard-Pierre Donnadieu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bernard-Pierre%20Donnadieu"
+   },
+   {
+    "name": "Gene Bervoets",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gene%20Bervoets"
+   },
+   {
+    "name": "Johanna ter Steege",
+    "category": "Cast",
+    "url": "stremio:///search?search=Johanna%20ter%20Steege"
+   },
+   {
+    "name": "Tim Krabbé",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tim%20Krabb%C3%A9"
+   },
+   {
+    "name": "George Sluizer",
+    "category": "Writers",
+    "url": "stremio:///search?search=George%20Sluizer"
+   },
+   {
+    "name": "George Sluizer",
+    "category": "Directors",
+    "url": "stremio:///search?search=George%20Sluizer"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0096163",
+   "hasScheduledVideos": false
+  }
+ }
+}

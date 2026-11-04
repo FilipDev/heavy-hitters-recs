@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "awards": "Won 1 BAFTA Award. 17 wins & 18 nominations total",
+  "cast": [
+   "Harry Dean Stanton",
+   "Nastassja Kinski",
+   "Dean Stockwell"
+  ],
+  "country": "West Germany, France, United Kingdom, United States",
+  "description": "Captures a man trying to re-enter a family he walked out of, through glass first. A mute drifter found in the desert, a brother, a son — and a reunion in a peep-show booth where he can finally talk because he cannot be touched.\n\nAfter missing for 4 years, aimless drifter Travis Henderson wanders out of the desert and slowly begins to reconnect with his brother's family and his young son while examining his past and attempting to reconcile with his estrang...",
+  "director": [
+   "Wim Wenders"
+  ],
+  "dvdRelease": "2017-03-23T00:00:00.000Z",
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.1",
+  "imdb_id": "tt0087884",
+  "moviedb_id": 655,
+  "name": "Paris, Texas",
+  "popularity": 0.3068266666666667,
+  "poster": "https://images.metahub.space/poster/small/tt0087884/img",
+  "released": "1984-08-23T00:00:00.000Z",
+  "runtime": "145 min",
+  "trailers": [
+   {
+    "source": "Nmvte2r7Z8c",
+    "type": "Trailer"
+   },
+   {
+    "source": "3j8ypqxfiT4",
+    "type": "Trailer"
+   },
+   {
+    "source": "9e590FeeGCM",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "L.M. Kit Carson",
+   "Sam Shepard",
+   "Walter Donohue"
+  ],
+  "year": "1984",
+  "background": "https://images.metahub.space/background/medium/tt0087884/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0087884/img",
+  "popularities": {
+   "moviedb": 9.2048,
+   "stremio": 0.3068266666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "slug": "movie/paris-texas-0087884",
+  "id": "tt0087884",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1984",
+  "videos": [],
+  "trailerStreams": [
+   {
+    "title": "Paris, Texas",
+    "ytId": "Nmvte2r7Z8c"
+   },
+   {
+    "title": "Paris, Texas",
+    "ytId": "3j8ypqxfiT4"
+   },
+   {
+    "title": "Paris, Texas",
+    "ytId": "9e590FeeGCM"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0087884"
+   },
+   {
+    "name": "Paris, Texas",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/paris-texas-0087884"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Harry Dean Stanton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Harry%20Dean%20Stanton"
+   },
+   {
+    "name": "Nastassja Kinski",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nastassja%20Kinski"
+   },
+   {
+    "name": "Dean Stockwell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dean%20Stockwell"
+   },
+   {
+    "name": "L.M. Kit Carson",
+    "category": "Writers",
+    "url": "stremio:///search?search=L.M.%20Kit%20Carson"
+   },
+   {
+    "name": "Sam Shepard",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sam%20Shepard"
+   },
+   {
+    "name": "Walter Donohue",
+    "category": "Writers",
+    "url": "stremio:///search?search=Walter%20Donohue"
+   },
+   {
+    "name": "Wim Wenders",
+    "category": "Directors",
+    "url": "stremio:///search?search=Wim%20Wenders"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0087884",
+   "hasScheduledVideos": false
+  }
+ }
+}

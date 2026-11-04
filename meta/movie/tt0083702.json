@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "awards": "Won 1 BAFTA Award. 5 wins & 1 nomination total",
+  "cast": [
+   "Werner Herzog",
+   "Klaus Kinski",
+   "Claudia Cardinale"
+  ],
+  "country": "United States, West Germany",
+  "description": "Captures obsession becoming indistinguishable from the thing it depicts. Les Blank films Werner Herzog dragging a steamship over an Amazonian mountain to make Fitzcarraldo, losing his mind in exactly the way his character does.\n\nA documentary following German auteur Werner Herzog as he deals with difficult actors, bad weather and getting a boat over a mountain, all in an effort to make his film Fitzcarraldo (1982).",
+  "director": [
+   "Les Blank"
+  ],
+  "dvdRelease": "2017-03-08T00:00:00.000Z",
+  "genre": [
+   "Documentary"
+  ],
+  "imdbRating": "7.9",
+  "imdb_id": "tt0083702",
+  "moviedb_id": 42124,
+  "name": "Burden of Dreams",
+  "popularity": 0.04350333333333333,
+  "poster": "https://images.metahub.space/poster/small/tt0083702/img",
+  "released": "1982-09-24T00:00:00.000Z",
+  "runtime": "97 min",
+  "trailers": [
+   {
+    "source": "IbAk8IZrWmc",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Michael Goodwin"
+  ],
+  "year": "1982",
+  "popularities": {
+   "moviedb": 1.3051,
+   "stremio": 0.04350333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/burden-of-dreams-0083702",
+  "background": "https://images.metahub.space/background/medium/tt0083702/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0083702/img",
+  "id": "tt0083702",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "1982",
+  "trailerStreams": [
+   {
+    "title": "Burden of Dreams",
+    "ytId": "IbAk8IZrWmc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0083702"
+   },
+   {
+    "name": "Burden of Dreams",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/burden-of-dreams-0083702"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Cast",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   },
+   {
+    "name": "Klaus Kinski",
+    "category": "Cast",
+    "url": "stremio:///search?search=Klaus%20Kinski"
+   },
+   {
+    "name": "Claudia Cardinale",
+    "category": "Cast",
+    "url": "stremio:///search?search=Claudia%20Cardinale"
+   },
+   {
+    "name": "Michael Goodwin",
+    "category": "Writers",
+    "url": "stremio:///search?search=Michael%20Goodwin"
+   },
+   {
+    "name": "Les Blank",
+    "category": "Directors",
+    "url": "stremio:///search?search=Les%20Blank"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0083702",
+   "hasScheduledVideos": false
+  }
+ }
+}

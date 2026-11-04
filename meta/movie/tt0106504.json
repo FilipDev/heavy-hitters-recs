@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "awards": "1 win & 2 nominations total",
+  "cast": [
+   "Arsinée Khanjian",
+   "Ashot Adamyan",
+   "Atom Egoyan"
+  ],
+  "country": "Canada, Armenia, Germany",
+  "description": "Captures diaspora as a loop of beautiful images you can't live inside. Egoyan sends a Canadian photographer to Armenia to shoot twelve ancient churches for a calendar, his marriage failing in the car between sites — then the ritual repeats, reframed, back in Toronto.\n\nA woman stays in Armenia after her photographer husband completes his assignment and returns home to Canada.",
+  "director": [
+   "Atom Egoyan"
+  ],
+  "dvdRelease": "2001-06-26T00:00:00.000Z",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "6.7",
+  "imdb_id": "tt0106504",
+  "moviedb_id": 83599,
+  "name": "Calendar",
+  "popularity": 0.056773333333333335,
+  "poster": "https://images.metahub.space/poster/small/tt0106504/img",
+  "released": "1993-06-03T00:00:00.000Z",
+  "runtime": "74 min",
+  "trailers": [
+   {
+    "source": "5uOIf2noNZ0",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": [
+   "Atom Egoyan"
+  ],
+  "year": "1993",
+  "popularities": {
+   "moviedb": 1.7032,
+   "stremio": 0.056773333333333335,
+   "stremio_lib": 0
+  },
+  "slug": "movie/calendar-0106504",
+  "background": "https://images.metahub.space/background/medium/tt0106504/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0106504/img",
+  "id": "tt0106504",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "1993",
+  "trailerStreams": [
+   {
+    "title": "Calendar",
+    "ytId": "5uOIf2noNZ0"
+   }
+  ],
+  "links": [
+   {
+    "name": "6.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0106504"
+   },
+   {
+    "name": "Calendar",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/calendar-0106504"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Arsinée Khanjian",
+    "category": "Cast",
+    "url": "stremio:///search?search=Arsin%C3%A9e%20Khanjian"
+   },
+   {
+    "name": "Ashot Adamyan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ashot%20Adamyan"
+   },
+   {
+    "name": "Atom Egoyan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Atom%20Egoyan"
+   },
+   {
+    "name": "Atom Egoyan",
+    "category": "Writers",
+    "url": "stremio:///search?search=Atom%20Egoyan"
+   },
+   {
+    "name": "Atom Egoyan",
+    "category": "Directors",
+    "url": "stremio:///search?search=Atom%20Egoyan"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0106504",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "awards": "Nominated for 1 BAFTA Award2 wins & 1 nomination total",
+  "cast": [
+   "Paul Tibbets",
+   "Harry S. Truman",
+   "W.H.P. Blandy"
+  ],
+  "country": "United States",
+  "description": "Captures a state lying to its citizens in its own cheerful voice. Nothing but 1940s–50s American government films, ads and newsreels about the bomb, cut together with no narration: duck and cover, soldiers reassured about fallout.\n\nDisturbing collection of 1940s and 1950s United States government-issued propaganda films designed to reassure Americans that the atomic bomb was not a threat to their safety.",
+  "director": [
+   "Jayne Loader",
+   "Kevin Rafferty",
+   "Pierce Rafferty"
+  ],
+  "dvdRelease": "2018-11-06T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "imdbRating": "7.6",
+  "imdb_id": "tt0083590",
+  "moviedb_id": 26851,
+  "name": "The Atomic Cafe",
+  "popularity": 0.062156666666666666,
+  "poster": "https://images.metahub.space/poster/small/tt0083590/img",
+  "released": "1982-10-29T00:00:00.000Z",
+  "runtime": "86 min",
+  "trailers": [
+   {
+    "source": "AymBFIo2-sM",
+    "type": "Trailer"
+   },
+   {
+    "source": "BoYXHEOkLws",
+    "type": "Trailer"
+   }
+  ],
+  "type": "movie",
+  "writer": null,
+  "year": "1982",
+  "popularities": {
+   "moviedb": 1.8647,
+   "stremio": 0.062156666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "slug": "movie/the-atomic-cafe-0083590",
+  "background": "https://images.metahub.space/background/medium/tt0083590/img",
+  "logo": "https://images.metahub.space/logo/medium/tt0083590/img",
+  "id": "tt0083590",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "1982",
+  "trailerStreams": [
+   {
+    "title": "The Atomic Cafe",
+    "ytId": "AymBFIo2-sM"
+   },
+   {
+    "title": "The Atomic Cafe",
+    "ytId": "BoYXHEOkLws"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt0083590"
+   },
+   {
+    "name": "The Atomic Cafe",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-atomic-cafe-0083590"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Paul Tibbets",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Tibbets"
+   },
+   {
+    "name": "Harry S. Truman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Harry%20S.%20Truman"
+   },
+   {
+    "name": "W.H.P. Blandy",
+    "category": "Cast",
+    "url": "stremio:///search?search=W.H.P.%20Blandy"
+   },
+   {
+    "name": "Jayne Loader",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jayne%20Loader"
+   },
+   {
+    "name": "Kevin Rafferty",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kevin%20Rafferty"
+   },
+   {
+    "name": "Pierce Rafferty",
+    "category": "Directors",
+    "url": "stremio:///search?search=Pierce%20Rafferty"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt0083590",
+   "hasScheduledVideos": false
+  }
+ }
+}
