@@ -1,0 +1,392 @@
+{
+ "metas": [
+  {
+   "id": "tt0110057",
+   "type": "movie",
+   "name": "Hoop Dreams",
+   "poster": "https://images.metahub.space/poster/medium/tt0110057/img",
+   "background": "https://images.metahub.space/background/medium/tt0110057/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "1994",
+   "year": 1994,
+   "runtime": "170 min",
+   "director": "Steve James",
+   "description": "Captures the American dream as a system that uses kids up. Two Chicago teenagers filmed over five years chasing basketball as a way out, as school, family, money and injury keep intervening."
+  },
+  {
+   "id": "tt0100332",
+   "type": "movie",
+   "name": "Paris Is Burning",
+   "poster": "https://images.metahub.space/poster/medium/tt0100332/img",
+   "background": "https://images.metahub.space/background/medium/tt0100332/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1990",
+   "year": 1990,
+   "runtime": "71 min",
+   "director": "Jennie Livingston",
+   "description": "Captures people inventing family, language and glamour inside exclusion. New York ball culture — houses as chosen families, categories, voguing — joyful and blunt about race, poverty and murder."
+  },
+  {
+   "id": "tt2375605",
+   "type": "movie",
+   "name": "The Act of Killing",
+   "poster": "https://images.metahub.space/poster/medium/tt2375605/img",
+   "background": "https://images.metahub.space/background/medium/tt2375605/img",
+   "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "115 min",
+   "director": "Joshua Oppenheimer",
+   "description": "Captures impunity as performance. Indonesian mass killers, never punished and locally celebrated, gleefully re-stage their killings as Hollywood genres, until one man's body reacts before his conscience does."
+  },
+  {
+   "id": "tt0073076",
+   "type": "movie",
+   "name": "Grey Gardens",
+   "poster": "https://images.metahub.space/poster/medium/tt0073076/img",
+   "background": "https://images.metahub.space/background/medium/tt0073076/img",
+   "genres": [
+    "Documentary",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1975",
+   "year": 1975,
+   "runtime": "94 min",
+   "director": "Albert Maysles, David Maysles",
+   "description": "Captures a mother and daughter fused together in a decaying mansion. The Beales, relatives of Jackie Kennedy, singing, bickering and feeding raccoons in the attic — performing for the camera and trapped with each other."
+  },
+  {
+   "id": "tt0074605",
+   "type": "movie",
+   "name": "Harlan County, USA",
+   "poster": "https://images.metahub.space/poster/medium/tt0074605/img",
+   "background": "https://images.metahub.space/background/medium/tt0074605/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1976",
+   "year": 1976,
+   "runtime": "103 min",
+   "director": "Barbara Kopple",
+   "description": "Captures a labour strike from inside the picket line. Kentucky coal miners, their wives taking over the fight, company gunmen driving past at night — filmed as it happened, over years."
+  },
+  {
+   "id": "tt8430054",
+   "type": "movie",
+   "name": "Flee",
+   "poster": "https://images.metahub.space/poster/medium/tt8430054/img",
+   "background": "https://images.metahub.space/background/medium/tt8430054/img",
+   "genres": [
+    "Animation",
+    "Biography",
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "89 min",
+   "director": "Jonas Poher Rasmussen",
+   "description": "Captures telling a hidden life story for the first time. An animated documentary about a refugee from Afghanistan settled in Denmark, recounting flight, family separation and a secret he has kept from everyone."
+  },
+  {
+   "id": "tt0088178",
+   "type": "movie",
+   "name": "Stop Making Sense",
+   "poster": "https://images.metahub.space/poster/medium/tt0088178/img",
+   "background": "https://images.metahub.space/background/medium/tt0088178/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1984",
+   "year": 1984,
+   "runtime": "88 min",
+   "director": "Jonathan Demme",
+   "description": "Captures a band building joy in real time. A Talking Heads concert that starts with David Byrne alone with a boombox and adds one musician per song until the stage is full — and his suit keeps getting bigger."
+  },
+  {
+   "id": "tt4935462",
+   "type": "movie",
+   "name": "Amazing Grace",
+   "poster": "https://images.metahub.space/poster/medium/tt4935462/img",
+   "background": "https://images.metahub.space/background/medium/tt4935462/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "89 min",
+   "director": "Sydney Pollack, Alan Elliott",
+   "description": "Captures singing as spiritual labour. Aretha Franklin recording a live gospel album in a Los Angeles church in 1972, over two nights, in a performance that visibly costs her something."
+  },
+  {
+   "id": "tt7378922",
+   "type": "movie",
+   "name": "Summer of Soul",
+   "poster": "https://images.metahub.space/poster/medium/tt7378922/img",
+   "background": "https://images.metahub.space/background/medium/tt7378922/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "2021",
+   "year": 2021,
+   "runtime": "118 min",
+   "director": "Questlove",
+   "description": "Captures a community's archive left in a basement for 50 years. The 1969 Harlem Cultural Festival — Stevie Wonder, Nina Simone, Mahalia Jackson, Sly Stone — in footage almost nobody saw."
+  },
+  {
+   "id": "tt0077838",
+   "type": "movie",
+   "name": "The Last Waltz",
+   "poster": "https://images.metahub.space/poster/medium/tt0077838/img",
+   "background": "https://images.metahub.space/background/medium/tt0077838/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1978",
+   "year": 1978,
+   "runtime": "117 min",
+   "director": "Martin Scorsese",
+   "description": "Captures a musical era ending on stage, politely. The Band's farewell concert with everyone they came up with as guests, and backstage interviews with men who sound relieved and bereaved at once."
+  },
+  {
+   "id": "tt0186508",
+   "type": "movie",
+   "name": "Buena Vista Social Club",
+   "poster": "https://images.metahub.space/poster/medium/tt0186508/img",
+   "background": "https://images.metahub.space/background/medium/tt0186508/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1999",
+   "year": 1999,
+   "runtime": "105 min",
+   "director": "Wim Wenders",
+   "description": "Captures old musicians being found again. Elderly Cuban son musicians, some retired to shining shoes, recording and touring — the pleasure is in their faces and Havana's streets."
+  },
+  {
+   "id": "tt2396566",
+   "type": "movie",
+   "name": "20 Feet from Stardom",
+   "poster": "https://images.metahub.space/poster/medium/tt2396566/img",
+   "background": "https://images.metahub.space/background/medium/tt2396566/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Music"
+   ],
+   "releaseInfo": "2013",
+   "year": 2013,
+   "runtime": "91 min",
+   "director": "Morgan Neville",
+   "description": "Captures the voices you know best belonging to people you can't name. Backup singers for the Stones, Springsteen and Sting — huge talent, a career spent three steps behind someone else."
+  },
+  {
+   "id": "tt0117040",
+   "type": "movie",
+   "name": "Microcosmos",
+   "poster": "https://images.metahub.space/poster/medium/tt0117040/img",
+   "background": "https://images.metahub.space/background/medium/tt0117040/img",
+   "genres": [
+    "Documentary",
+    "Family"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "80 min",
+   "director": "Claude Nuridsany, Marie Pérennou",
+   "description": "Captures a meadow as an alien world, at insect scale. One day in a French field, almost no narration: snails mating, a dung beetle rolling its ball uphill, rain arriving like artillery."
+  },
+  {
+   "id": "tt0085809",
+   "type": "movie",
+   "name": "Koyaanisqatsi",
+   "poster": "https://images.metahub.space/poster/medium/tt0085809/img",
+   "background": "https://images.metahub.space/background/medium/tt0085809/img",
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "releaseInfo": "1982",
+   "year": 1982,
+   "runtime": "86 min",
+   "director": "Godfrey Reggio",
+   "description": "Captures civilisation as pattern. No dialogue or characters: time-lapse clouds, highways, factories, demolition and crowds cut to Philip Glass, until modern life starts to look like weather."
+  },
+  {
+   "id": "tt2332522",
+   "type": "movie",
+   "name": "Leviathan",
+   "poster": "https://images.metahub.space/poster/medium/tt2332522/img",
+   "background": "https://images.metahub.space/background/medium/tt2332522/img",
+   "genres": [
+    "Documentary",
+    "Horror"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "87 min",
+   "director": "Lucien Castaing-Taylor, Véréna Paravel",
+   "description": "Captures commercial fishing as a sensory ordeal. Cameras strapped to nets, chains, helmets and the hull of a North Atlantic trawler — fish heads, gulls, diesel, men half-asleep at 3 a.m., no explanation offered."
+  },
+  {
+   "id": "tt1424432",
+   "type": "movie",
+   "name": "Senna",
+   "poster": "https://images.metahub.space/poster/medium/tt1424432/img",
+   "background": "https://images.metahub.space/background/medium/tt1424432/img",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Sport"
+   ],
+   "releaseInfo": "2010",
+   "year": 2010,
+   "runtime": "104 min",
+   "director": "Asif Kapadia",
+   "description": "Captures speed, faith and charisma, entirely from archive. Ayrton Senna's career built only from period footage and voices — rivalry with Prost, Brazil on his helmet, in-car laps that feel like prayer at 300 km/h."
+  },
+  {
+   "id": "tt7775622",
+   "type": "movie",
+   "name": "Free Solo",
+   "poster": "https://images.metahub.space/poster/medium/tt7775622/img",
+   "background": "https://images.metahub.space/background/medium/tt7775622/img",
+   "genres": [
+    "Documentary",
+    "Sport"
+   ],
+   "releaseInfo": "2018",
+   "year": 2018,
+   "runtime": "100 min",
+   "director": "Jimmy Chin, Elizabeth Chai Vasarhelyi",
+   "description": "Captures a man whose relationship to fear is simply different from yours. Alex Honnold prepares to climb El Capitan without ropes while the filmmakers — his friends — argue on camera about whether filming changes the odds."
+  },
+  {
+   "id": "tt0118147",
+   "type": "movie",
+   "name": "When We Were Kings",
+   "poster": "https://images.metahub.space/poster/medium/tt0118147/img",
+   "background": "https://images.metahub.space/background/medium/tt0118147/img",
+   "genres": [
+    "Documentary",
+    "History",
+    "Sport"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "88 min",
+   "director": "Leon Gast",
+   "description": "Captures Ali as a political and verbal artist at his peak. The Rumble in the Jungle, Zaire 1974: training footage, a music festival, Mobutu's stadium, and Ali talking everyone, including himself, into belief."
+  },
+  {
+   "id": "tt1772925",
+   "type": "movie",
+   "name": "Jiro Dreams of Sushi",
+   "poster": "https://images.metahub.space/poster/medium/tt1772925/img",
+   "background": "https://images.metahub.space/background/medium/tt1772925/img",
+   "genres": [
+    "Documentary",
+    "Family"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "81 min",
+   "director": "David Gelb",
+   "description": "Captures mastery as repetition across a lifetime. An 85-year-old with a tiny Tokyo subway sushi counter and three Michelin stars, sons waiting to inherit, and a standard of 'delicious' he says he still hasn't reached."
+  },
+  {
+   "id": "tt0019760",
+   "type": "movie",
+   "name": "Man with a Movie Camera",
+   "poster": "https://images.metahub.space/poster/medium/tt0019760/img",
+   "background": "https://images.metahub.space/background/medium/tt0019760/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "1929",
+   "year": 1929,
+   "runtime": "68 min",
+   "director": "Dziga Vertov",
+   "description": "Captures a city inventing cinema while cinema invents the city. A Soviet day from waking to work to leisure, no story, and editing tricks in every minute that films still use — nearly a century old and showing off."
+  },
+  {
+   "id": "tt0084628",
+   "type": "movie",
+   "name": "Sans Soleil",
+   "poster": "https://images.metahub.space/poster/medium/tt0084628/img",
+   "background": "https://images.metahub.space/background/medium/tt0084628/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1983",
+   "year": 1983,
+   "runtime": "103 min",
+   "director": "Chris Marker",
+   "description": "Captures memory as footage you keep re-narrating. A woman reads a travelling cameraman's letters over images of Tokyo, Guinea-Bissau, Iceland and San Francisco, until a travel film becomes a film about how a mind stores the world."
+  },
+  {
+   "id": "tt0379357",
+   "type": "movie",
+   "name": "Los Angeles Plays Itself",
+   "poster": "https://images.metahub.space/poster/medium/tt0379357/img",
+   "background": "https://images.metahub.space/background/medium/tt0379357/img",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2003",
+   "year": 2003,
+   "runtime": "169 min",
+   "director": "Thom Andersen",
+   "description": "Captures a city through the lies movies told about it. A video essay built entirely from clips — how Los Angeles is used as backdrop, villain and stand-in for everywhere else — narrated by a resident who loves it and resents all of it."
+  },
+  {
+   "id": "tt0076452",
+   "type": "movie",
+   "name": "News from Home",
+   "poster": "https://images.metahub.space/poster/medium/tt0076452/img",
+   "background": "https://images.metahub.space/background/medium/tt0076452/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "1977",
+   "year": 1977,
+   "runtime": "88 min",
+   "director": "Chantal Akerman",
+   "description": "Captures emigration as long shots and your mother's voice. New York — subways, diners, empty streets — while her mother's letters from Brussels, full of family news and worry, are read over it; homesickness with the geography reversed."
+  },
+  {
+   "id": "tt2366450",
+   "type": "movie",
+   "name": "Stories We Tell",
+   "poster": "https://images.metahub.space/poster/medium/tt2366450/img",
+   "background": "https://images.metahub.space/background/medium/tt2366450/img",
+   "genres": [
+    "Documentary",
+    "Drama"
+   ],
+   "releaseInfo": "2012",
+   "year": 2012,
+   "runtime": "108 min",
+   "director": "Sarah Polley",
+   "description": "Captures a family discovering its central story has an author problem. Sarah Polley interviews her own family about her late mother; the accounts agree on the love and diverge on everything else, then the film shows you its own construction."
+  }
+ ]
+}

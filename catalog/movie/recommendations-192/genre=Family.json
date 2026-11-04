@@ -1,0 +1,72 @@
+{
+ "metas": [
+  {
+   "id": "tt0117040",
+   "type": "movie",
+   "name": "Microcosmos",
+   "poster": "https://images.metahub.space/poster/medium/tt0117040/img",
+   "background": "https://images.metahub.space/background/medium/tt0117040/img",
+   "genres": [
+    "Documentary",
+    "Family"
+   ],
+   "releaseInfo": "1996",
+   "year": 1996,
+   "runtime": "80 min",
+   "director": "Claude Nuridsany, Marie Pérennou",
+   "description": "Captures a meadow as an alien world, at insect scale. One day in a French field, almost no narration: snails mating, a dung beetle rolling its ball uphill, rain arriving like artillery."
+  },
+  {
+   "id": "tt1772925",
+   "type": "movie",
+   "name": "Jiro Dreams of Sushi",
+   "poster": "https://images.metahub.space/poster/medium/tt1772925/img",
+   "background": "https://images.metahub.space/background/medium/tt1772925/img",
+   "genres": [
+    "Documentary",
+    "Family"
+   ],
+   "releaseInfo": "2011",
+   "year": 2011,
+   "runtime": "81 min",
+   "director": "David Gelb",
+   "description": "Captures mastery as repetition across a lifetime. An 85-year-old with a tiny Tokyo subway sushi counter and three Michelin stars, sons waiting to inherit, and a standard of 'delicious' he says he still hasn't reached."
+  },
+  {
+   "id": "tt4468740",
+   "type": "movie",
+   "name": "Paddington 2",
+   "poster": "https://images.metahub.space/poster/medium/tt4468740/img",
+   "background": "https://images.metahub.space/background/medium/tt4468740/img",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "releaseInfo": "2017",
+   "year": 2017,
+   "runtime": "103 min",
+   "director": "Paul King",
+   "description": "Captures decency as something contagious. A bear framed for stealing the pop-up book he wanted to buy his aunt, sent to prison — and the prison improves because he is in it."
+  },
+  {
+   "id": "tt3409392",
+   "type": "movie",
+   "name": "Timbuktu",
+   "poster": "https://images.metahub.space/poster/medium/tt3409392/img",
+   "background": "https://images.metahub.space/background/medium/tt3409392/img",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Family"
+   ],
+   "releaseInfo": "2014",
+   "year": 2014,
+   "runtime": "94 min",
+   "director": "Abderrahmane Sissako",
+   "description": "Captures occupation resisted through music, football and dignity. Jihadists take a Malian town and ban singing and soccer; people comply in public, sing quietly at night, and play a match with an invisible ball."
+  }
+ ]
+}
