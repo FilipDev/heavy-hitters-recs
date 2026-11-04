@@ -1,0 +1,164 @@
+{
+ "meta": {
+  "imdb_id": "tt5727208",
+  "cast": [
+   "Adam Sandler",
+   "Julia Fox",
+   "Idina Menzel"
+  ],
+  "country": "United States",
+  "description": "Captures gambling mania as perpetual motion. A New York jeweller owes everyone and keeps placing the next bet to fix the last one; the film never lets him or you breathe for two hours.\n\nWith his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+  "director": [
+   "Benny Safdie",
+   "Josh Safdie"
+  ],
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.4",
+  "name": "Uncut Gems",
+  "released": "2019-12-25T00:00:00.000Z",
+  "slug": "movie/uncut-gems-5727208",
+  "type": "movie",
+  "writer": [
+   "Ronald Bronstein",
+   "Josh Safdie",
+   "Benny Safdie"
+  ],
+  "year": "2019",
+  "moviedb_id": 473033,
+  "popularities": {
+   "moviedb": 10.4337,
+   "stremio": 0.34779,
+   "stremio_lib": 0,
+   "trakt": 1
+  },
+  "trailers": [
+   {
+    "source": "sXga1Oy0iRk",
+    "type": "Trailer"
+   },
+   {
+    "source": "ovoJXdtPB-o",
+    "type": "Trailer"
+   },
+   {
+    "source": "akKdBkmugEI",
+    "type": "Trailer"
+   },
+   {
+    "source": "vTfJp2Ts9X8",
+    "type": "Trailer"
+   }
+  ],
+  "poster": "https://images.metahub.space/poster/small/tt5727208/img",
+  "runtime": "136 min",
+  "background": "https://images.metahub.space/background/medium/tt5727208/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5727208/img",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2funcutgems_220344%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.794/ImageRenderer/111/168/images/no_image_111x168.jpg/220344/images/masterrepository/fandango/220344/ug_online_teaser-1-sheet.jpg\" alt=\"Uncut Gems\" title=\"Uncut Gems\" border=\"0\" /></a> Opens Friday, Dec 13, 2019</p><p>When he makes a series of high-stakes bets that could lead to the windfall of a lifetime, Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides.</p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2funcutgems_220344%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2funcutgems-trailer%2f220344%3fwssaffid%3d11839%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2funcutgems_220344%2fmovietimes%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.794//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2funcutgems_220344%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123"
+  },
+  "awards": "27 wins & 91 nominations total",
+  "dvdRelease": "2019-12-13T00:00:00.000Z",
+  "popularity": 0.34779,
+  "id": "tt5727208",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "Uncut Gems",
+    "ytId": "sXga1Oy0iRk"
+   },
+   {
+    "title": "Uncut Gems",
+    "ytId": "ovoJXdtPB-o"
+   },
+   {
+    "title": "Uncut Gems",
+    "ytId": "akKdBkmugEI"
+   },
+   {
+    "title": "Uncut Gems",
+    "ytId": "vTfJp2Ts9X8"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.4",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5727208"
+   },
+   {
+    "name": "Uncut Gems",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/uncut-gems-5727208"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Adam Sandler",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adam%20Sandler"
+   },
+   {
+    "name": "Julia Fox",
+    "category": "Cast",
+    "url": "stremio:///search?search=Julia%20Fox"
+   },
+   {
+    "name": "Idina Menzel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Idina%20Menzel"
+   },
+   {
+    "name": "Ronald Bronstein",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ronald%20Bronstein"
+   },
+   {
+    "name": "Josh Safdie",
+    "category": "Writers",
+    "url": "stremio:///search?search=Josh%20Safdie"
+   },
+   {
+    "name": "Benny Safdie",
+    "category": "Writers",
+    "url": "stremio:///search?search=Benny%20Safdie"
+   },
+   {
+    "name": "Benny Safdie",
+    "category": "Directors",
+    "url": "stremio:///search?search=Benny%20Safdie"
+   },
+   {
+    "name": "Josh Safdie",
+    "category": "Directors",
+    "url": "stremio:///search?search=Josh%20Safdie"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5727208",
+   "hasScheduledVideos": false
+  }
+ }
+}

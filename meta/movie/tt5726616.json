@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt5726616",
+  "name": "Call Me by Your Name",
+  "year": "2018",
+  "runtime": "132 min",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "released": "2018-01-19T00:00:00.000Z",
+  "director": [
+   "Luca Guadagnino"
+  ],
+  "writer": [
+   "James Ivory",
+   "André Aciman"
+  ],
+  "cast": [
+   "Timothée Chalamet",
+   "Armie Hammer",
+   "Michael Stuhlbarg"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt5726616/img",
+  "description": "Captures first desire as a summer education of the senses. Italy, 1983 — peaches, swimming, an older grad student in the house — and a father's talk near the end that reframes the whole film.\n\nIn the summer of 1983, 17-year-old Elio is spending the days with his family at their villa in Lombardy, Italy. He soon meets 24-year-old Oliver, an intern working for Elio's father. They discover the heady beauty of awakening des...",
+  "country": "Brazil, France, Italy, United States",
+  "awards": "Won 1 Oscar. 107 wins & 263 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "Z9AYPxH5NTM",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 398818,
+  "popularities": {
+   "moviedb": 21.1137,
+   "stremio": 0.70379,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "dvdRelease": "2018-02-23T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt5726616/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5726616/img",
+  "slug": "movie/call-me-by-your-name-5726616",
+  "popularity": 0.70379,
+  "id": "tt5726616",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Call Me by Your Name",
+    "ytId": "Z9AYPxH5NTM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5726616"
+   },
+   {
+    "name": "Call Me by Your Name",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/call-me-by-your-name-5726616"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Timothée Chalamet",
+    "category": "Cast",
+    "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
+   },
+   {
+    "name": "Armie Hammer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Armie%20Hammer"
+   },
+   {
+    "name": "Michael Stuhlbarg",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michael%20Stuhlbarg"
+   },
+   {
+    "name": "James Ivory",
+    "category": "Writers",
+    "url": "stremio:///search?search=James%20Ivory"
+   },
+   {
+    "name": "André Aciman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Andr%C3%A9%20Aciman"
+   },
+   {
+    "name": "Luca Guadagnino",
+    "category": "Directors",
+    "url": "stremio:///search?search=Luca%20Guadagnino"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5726616",
+   "hasScheduledVideos": false
+  }
+ }
+}

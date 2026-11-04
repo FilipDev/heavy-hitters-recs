@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt7014006",
+  "name": "Eighth Grade",
+  "year": "2018",
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "released": "2018-08-03T00:00:00.000Z",
+  "director": [
+   "Bo Burnham"
+  ],
+  "writer": [
+   "Bo Burnham"
+  ],
+  "cast": [
+   "Elsie Fisher",
+   "Josh Hamilton",
+   "Emily Robinson"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt7014006/img",
+  "description": "Captures social anxiety in the age of front-facing cameras, exactly. A girl filming confident advice videos she cannot follow, pool parties endured minute by minute, and a father scene near the end that rearranges parents.\n\nAn introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school.",
+  "country": "United States",
+  "awards": "60 wins & 91 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "y8lFgF_IjPw",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 489925,
+  "popularities": {
+   "moviedb": 5.2858,
+   "stremio": 0.17619333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "runtime": "94 min",
+  "slug": "movie/eighth-grade-7014006",
+  "dvdRelease": "2018-09-25T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt7014006/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7014006/img",
+  "popularity": 0.17619333333333334,
+  "id": "tt7014006",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Eighth Grade",
+    "ytId": "y8lFgF_IjPw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7014006"
+   },
+   {
+    "name": "Eighth Grade",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/eighth-grade-7014006"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Elsie Fisher",
+    "category": "Cast",
+    "url": "stremio:///search?search=Elsie%20Fisher"
+   },
+   {
+    "name": "Josh Hamilton",
+    "category": "Cast",
+    "url": "stremio:///search?search=Josh%20Hamilton"
+   },
+   {
+    "name": "Emily Robinson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Emily%20Robinson"
+   },
+   {
+    "name": "Bo Burnham",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bo%20Burnham"
+   },
+   {
+    "name": "Bo Burnham",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bo%20Burnham"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7014006",
+   "hasScheduledVideos": false
+  }
+ }
+}

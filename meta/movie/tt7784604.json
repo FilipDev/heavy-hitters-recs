@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "imdb_id": "tt7784604",
+  "name": "Hereditary",
+  "year": "2018",
+  "runtime": "128 min",
+  "genre": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "released": "2018-06-08T00:00:00.000Z",
+  "director": [
+   "Ari Aster"
+  ],
+  "writer": [
+   "Ari Aster"
+  ],
+  "cast": [
+   "Toni Collette",
+   "Milly Shapiro",
+   "Gabriel Byrne"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt7784604/img",
+  "description": "Captures a family where grief and resentment were already there before anything supernatural. A grandmother dies, a mother builds miniature scenes of her life, and a dinner-table argument is the scariest sequence.\n\nA grieving family is haunted by tragic and disturbing occurrences.",
+  "country": "United States",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "MJNR58zaStE",
+    "type": "Trailer"
+   },
+   {
+    "source": "V6wWKNij_1M",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 493922,
+  "popularities": {
+   "moviedb": 22.2243,
+   "stremio": 0.74081,
+   "trakt": 52,
+   "stremio_lib": 0
+  },
+  "slug": "movie/hereditary-7784604",
+  "dvdRelease": "2018-08-21T00:00:00.000Z",
+  "awards": "52 wins & 112 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt7784604/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7784604/img",
+  "popularity": 0.74081,
+  "id": "tt7784604",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Hereditary",
+    "ytId": "MJNR58zaStE"
+   },
+   {
+    "title": "Hereditary",
+    "ytId": "V6wWKNij_1M"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7784604"
+   },
+   {
+    "name": "Hereditary",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/hereditary-7784604"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "Toni Collette",
+    "category": "Cast",
+    "url": "stremio:///search?search=Toni%20Collette"
+   },
+   {
+    "name": "Milly Shapiro",
+    "category": "Cast",
+    "url": "stremio:///search?search=Milly%20Shapiro"
+   },
+   {
+    "name": "Gabriel Byrne",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gabriel%20Byrne"
+   },
+   {
+    "name": "Ari Aster",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ari%20Aster"
+   },
+   {
+    "name": "Ari Aster",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ari%20Aster"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7784604",
+   "hasScheduledVideos": false
+  }
+ }
+}

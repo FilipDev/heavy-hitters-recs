@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "imdb_id": "tt8991268",
+  "country": "North Macedonia, United States, Switzerland",
+  "description": "Captures a whole economy in one woman's beehives. A Macedonian beekeeper lives by one rule — take half the honey, leave half — until new neighbours arrive who take everything. A documentary that plays like an unscripted parable.\n\nThe last female bee-hunter in Europe must save the bees and return the natural balance in Honeyland, when a family of nomadic beekeepers invade her land and threaten her livelihood.",
+  "director": [
+   "Tamara Kotevska",
+   "Ljubomir Stefanov"
+  ],
+  "imdbRating": "8.0",
+  "name": "Honeyland",
+  "poster": "https://images.metahub.space/poster/small/tt8991268/img",
+  "released": "2019-07-26T00:00:00.000Z",
+  "runtime": "89 min",
+  "slug": "movie/honeyland-8991268",
+  "type": "movie",
+  "year": "2019",
+  "moviedb_id": 566213,
+  "popularities": {
+   "moviedb": 3.0728,
+   "stremio": 0.10242666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "B27ORUHlp6E",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Hatidze Muratova",
+   "Nazife Muratova",
+   "Hussein Sam"
+  ],
+  "genre": [
+   "Documentary"
+  ],
+  "writer": [
+   "Tamara Kotevska",
+   "Ljubomir Stefanov"
+  ],
+  "awards": "Nominated for 2 Oscars. 37 wins & 55 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt8991268/img",
+  "logo": "https://images.metahub.space/logo/medium/tt8991268/img",
+  "dvdRelease": "2019-10-22T00:00:00.000Z",
+  "popularity": 0.10242666666666667,
+  "id": "tt8991268",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "Honeyland",
+    "ytId": "B27ORUHlp6E"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt8991268"
+   },
+   {
+    "name": "Honeyland",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/honeyland-8991268"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Hatidze Muratova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hatidze%20Muratova"
+   },
+   {
+    "name": "Nazife Muratova",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nazife%20Muratova"
+   },
+   {
+    "name": "Hussein Sam",
+    "category": "Cast",
+    "url": "stremio:///search?search=Hussein%20Sam"
+   },
+   {
+    "name": "Tamara Kotevska",
+    "category": "Writers",
+    "url": "stremio:///search?search=Tamara%20Kotevska"
+   },
+   {
+    "name": "Ljubomir Stefanov",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ljubomir%20Stefanov"
+   },
+   {
+    "name": "Tamara Kotevska",
+    "category": "Directors",
+    "url": "stremio:///search?search=Tamara%20Kotevska"
+   },
+   {
+    "name": "Ljubomir Stefanov",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ljubomir%20Stefanov"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt8991268",
+   "hasScheduledVideos": false
+  }
+ }
+}

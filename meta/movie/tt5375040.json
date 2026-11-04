@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "imdb_id": "tt5375040",
+  "name": "Cameraperson",
+  "popularities": {
+   "moviedb": 3.8231,
+   "stremio": 0.12743666666666667,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "zprdx-Gs-x0",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 376534,
+  "year": "2017",
+  "runtime": "102 min",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "released": "2017-01-27T00:00:00.000Z",
+  "director": [
+   "Kirsten Johnson"
+  ],
+  "writer": [
+   "Doris Baizley",
+   "Lisa Freedman"
+  ],
+  "cast": [
+   "Kirsten Johnson",
+   "Aisha Bukar",
+   "Eric W. Davis"
+  ],
+  "imdbRating": "7.5",
+  "poster": "https://images.metahub.space/poster/small/tt5375040/img",
+  "description": "Captures a career of looking, reckoned with: Kirsten Johnson cuts decades of outtakes from other people's difficult documentaries — Bosnia, Darfur, her own mother's decline — into a memoir about what pointing a camera at someone's worst day costs.\n\nExposing her role behind the camera, Kirsten Johnson reaches into the vast trove of footage she has shot over decades around the world. What emerges is a visually bold memoir and a revelatory interrogation of the power of the camera.",
+  "country": "United States",
+  "awards": "23 wins & 38 nominations total",
+  "dvdRelease": "2017-01-10T00:00:00.000Z",
+  "slug": "movie/cameraperson-5375040",
+  "background": "https://images.metahub.space/background/medium/tt5375040/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5375040/img",
+  "popularity": 0.12743666666666667,
+  "id": "tt5375040",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "Cameraperson",
+    "ytId": "zprdx-Gs-x0"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5375040"
+   },
+   {
+    "name": "Cameraperson",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/cameraperson-5375040"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Kirsten Johnson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kirsten%20Johnson"
+   },
+   {
+    "name": "Aisha Bukar",
+    "category": "Cast",
+    "url": "stremio:///search?search=Aisha%20Bukar"
+   },
+   {
+    "name": "Eric W. Davis",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eric%20W.%20Davis"
+   },
+   {
+    "name": "Doris Baizley",
+    "category": "Writers",
+    "url": "stremio:///search?search=Doris%20Baizley"
+   },
+   {
+    "name": "Lisa Freedman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lisa%20Freedman"
+   },
+   {
+    "name": "Kirsten Johnson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kirsten%20Johnson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5375040",
+   "hasScheduledVideos": false
+  }
+ }
+}

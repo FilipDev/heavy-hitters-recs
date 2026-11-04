@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "imdb_id": "tt5363618",
+  "imdbRating": "7.7",
+  "name": "Sound of Metal",
+  "released": "2020-12-04T00:00:00.000Z",
+  "slug": "movie/sound-of-metal-5363618",
+  "type": "movie",
+  "year": "2020",
+  "moviedb_id": 502033,
+  "popularities": {
+   "moviedb": 7.233,
+   "stremio": 0.24109999999999998,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "VFOrGkAvjAE",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Riz Ahmed",
+   "Olivia Cooke",
+   "Paul Raci"
+  ],
+  "director": [
+   "Darius Marder"
+  ],
+  "genre": [
+   "Drama",
+   "Music"
+  ],
+  "writer": [
+   "Darius Marder",
+   "Abraham Marder",
+   "Derek Cianfrance"
+  ],
+  "dvdRelease": "2020-08-14T00:00:00.000Z",
+  "awards": "Won 2 Oscars. 90 wins & 179 nominations total",
+  "country": "United States",
+  "description": "Captures hearing loss from inside the head. A metal drummer goes deaf and the sound design puts you in his skull — muffled, ringing — then the strange peace of a deaf community that doesn't treat deafness as damage.\n\nA drummer begins to experience hearing loss and fears for his music career.",
+  "poster": "https://images.metahub.space/poster/small/tt5363618/img",
+  "runtime": "121 min",
+  "background": "https://images.metahub.space/background/medium/tt5363618/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5363618/img",
+  "popularity": 0.24109999999999998,
+  "id": "tt5363618",
+  "genres": [
+   "Drama",
+   "Music"
+  ],
+  "releaseInfo": "2020",
+  "trailerStreams": [
+   {
+    "title": "Sound of Metal",
+    "ytId": "VFOrGkAvjAE"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5363618"
+   },
+   {
+    "name": "Sound of Metal",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/sound-of-metal-5363618"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Music",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+   },
+   {
+    "name": "Riz Ahmed",
+    "category": "Cast",
+    "url": "stremio:///search?search=Riz%20Ahmed"
+   },
+   {
+    "name": "Olivia Cooke",
+    "category": "Cast",
+    "url": "stremio:///search?search=Olivia%20Cooke"
+   },
+   {
+    "name": "Paul Raci",
+    "category": "Cast",
+    "url": "stremio:///search?search=Paul%20Raci"
+   },
+   {
+    "name": "Darius Marder",
+    "category": "Writers",
+    "url": "stremio:///search?search=Darius%20Marder"
+   },
+   {
+    "name": "Abraham Marder",
+    "category": "Writers",
+    "url": "stremio:///search?search=Abraham%20Marder"
+   },
+   {
+    "name": "Derek Cianfrance",
+    "category": "Writers",
+    "url": "stremio:///search?search=Derek%20Cianfrance"
+   },
+   {
+    "name": "Darius Marder",
+    "category": "Directors",
+    "url": "stremio:///search?search=Darius%20Marder"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5363618",
+   "hasScheduledVideos": false
+  }
+ }
+}

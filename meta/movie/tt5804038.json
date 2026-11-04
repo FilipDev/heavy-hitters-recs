@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "imdb_id": "tt5804038",
+  "name": "I Am Not Your Negro",
+  "popularities": {
+   "moviedb": 3.1019,
+   "stremio": 0.10339666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "rNUYdgIyaPM",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 411019,
+  "year": "2017",
+  "runtime": "93 min",
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "released": "2017-02-17T00:00:00.000Z",
+  "director": [
+   "Raoul Peck"
+  ],
+  "writer": [
+   "James Baldwin",
+   "Raoul Peck"
+  ],
+  "cast": [
+   "Samuel L. Jackson",
+   "James Baldwin",
+   "Martin Luther King Jr."
+  ],
+  "imdbRating": "7.9",
+  "poster": "https://images.metahub.space/poster/small/tt5804038/img",
+  "description": "Captures a writer so precise that footage from decades after his death still fits his sentences. James Baldwin's unfinished manuscript on the murders of Medgar Evers, Malcolm X and Martin Luther King, read over a century of American images.\n\nWriter James Baldwin tells the story of race in modern America with his unfinished novel, Remember This House.",
+  "country": "France, United States, Belgium, Switzerland",
+  "awards": "Nominated for 1 Oscar. 37 wins & 53 nominations total",
+  "dvdRelease": "2017-05-02T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt5804038/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5804038/img",
+  "slug": "movie/i-am-not-your-negro-5804038",
+  "popularity": 0.10339666666666666,
+  "id": "tt5804038",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "I Am Not Your Negro",
+    "ytId": "rNUYdgIyaPM"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5804038"
+   },
+   {
+    "name": "I Am Not Your Negro",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/i-am-not-your-negro-5804038"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Samuel L. Jackson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Samuel%20L.%20Jackson"
+   },
+   {
+    "name": "James Baldwin",
+    "category": "Cast",
+    "url": "stremio:///search?search=James%20Baldwin"
+   },
+   {
+    "name": "Martin Luther King Jr.",
+    "category": "Cast",
+    "url": "stremio:///search?search=Martin%20Luther%20King%20Jr."
+   },
+   {
+    "name": "James Baldwin",
+    "category": "Writers",
+    "url": "stremio:///search?search=James%20Baldwin"
+   },
+   {
+    "name": "Raoul Peck",
+    "category": "Writers",
+    "url": "stremio:///search?search=Raoul%20Peck"
+   },
+   {
+    "name": "Raoul Peck",
+    "category": "Directors",
+    "url": "stremio:///search?search=Raoul%20Peck"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5804038",
+   "hasScheduledVideos": false
+  }
+ }
+}

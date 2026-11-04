@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "imdb_id": "tt6700846",
+  "type": "movie",
+  "name": "AlphaGo",
+  "year": "2017",
+  "runtime": "90 min",
+  "genre": [
+   "Documentary",
+   "Sport"
+  ],
+  "released": "2017-09-29T00:00:00.000Z",
+  "director": [
+   "Greg Kohs"
+  ],
+  "cast": [
+   "Ioannis Antonoglou",
+   "Lucas Baker",
+   "Nick Bostrom"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt6700846/img",
+  "description": "Captures the exact historical moment a machine did something its makers couldn't explain. DeepMind's system against Lee Sedol in Seoul, filmed in both camps; Move 37 lands and the human experts go quiet.\n\nGoogle's DeepMind has developed a program for playing the 3000 year old game Go using AI. They test AlphaGo on the European champion, then March 9-15, 2016, on the top player, Lee Sedol, in a best of 5 tournament in Seoul.",
+  "country": "United States",
+  "awards": "4 wins & 3 nominations total",
+  "trailers": [
+   {
+    "source": "8tq1C8spV_g",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 455008,
+  "popularities": {
+   "moviedb": 2.1024,
+   "stremio": 0.07007999999999999,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "writer": [],
+  "slug": "movie/alphago-6700846",
+  "background": "https://images.metahub.space/background/medium/tt6700846/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6700846/img",
+  "dvdRelease": "2017-12-03T00:00:00.000Z",
+  "popularity": 0.07007999999999999,
+  "id": "tt6700846",
+  "genres": [
+   "Documentary",
+   "Sport"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "AlphaGo",
+    "ytId": "8tq1C8spV_g"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6700846"
+   },
+   {
+    "name": "AlphaGo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/alphago-6700846"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Ioannis Antonoglou",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ioannis%20Antonoglou"
+   },
+   {
+    "name": "Lucas Baker",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lucas%20Baker"
+   },
+   {
+    "name": "Nick Bostrom",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nick%20Bostrom"
+   },
+   {
+    "name": "Greg Kohs",
+    "category": "Directors",
+    "url": "stremio:///search?search=Greg%20Kohs"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6700846",
+   "hasScheduledVideos": false
+  }
+ }
+}

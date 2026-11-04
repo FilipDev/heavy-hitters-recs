@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "imdb_id": "tt7984734",
+  "name": "The Lighthouse",
+  "cast": [
+   "Robert Pattinson",
+   "Willem Dafoe",
+   "Valeriia Karaman"
+  ],
+  "country": "Canada, United States",
+  "description": "Captures two men rotting in each other's company. A rock in a storm, gaslight, seagull taboos, and two keepers descending into myth, flatulence and murder inside a frame almost square enough to be a trap.\n\nTwo lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+  "director": [
+   "Robert Eggers"
+  ],
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "imdbRating": "7.3",
+  "released": "2019-11-01T00:00:00.000Z",
+  "slug": "movie/the-lighthouse-7984734",
+  "type": "movie",
+  "writer": [
+   "Robert Eggers",
+   "Max Eggers"
+  ],
+  "year": "2019",
+  "moviedb_id": 503919,
+  "popularities": {
+   "moviedb": 11.2876,
+   "stremio": 0.37625333333333333,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "42_UHhpq530",
+    "type": "Trailer"
+   },
+   {
+    "source": "Hyag7lR8CPA",
+    "type": "Trailer"
+   }
+  ],
+  "poster": "https://images.metahub.space/poster/small/tt7984734/img",
+  "runtime": "109 min",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.765/ImageRenderer/111/168/images/no_image_111x168.jpg/219741/images/masterrepository/fandango/219741/ligos_108_m33v20.jpg\" alt=\"The Lighthouse (2019)\" title=\"The Lighthouse (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fthelighthouse2019-trailer%2f219741%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.765//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "awards": "Nominated for 1 Oscar. 33 wins & 139 nominations total",
+  "dvdRelease": "2019-10-18T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt7984734/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7984734/img",
+  "popularity": 0.37625333333333333,
+  "id": "tt7984734",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "The Lighthouse",
+    "ytId": "42_UHhpq530"
+   },
+   {
+    "title": "The Lighthouse",
+    "ytId": "Hyag7lR8CPA"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7984734"
+   },
+   {
+    "name": "The Lighthouse",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-lighthouse-7984734"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Fantasy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+   },
+   {
+    "name": "Horror",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+   },
+   {
+    "name": "Robert Pattinson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Robert%20Pattinson"
+   },
+   {
+    "name": "Willem Dafoe",
+    "category": "Cast",
+    "url": "stremio:///search?search=Willem%20Dafoe"
+   },
+   {
+    "name": "Valeriia Karaman",
+    "category": "Cast",
+    "url": "stremio:///search?search=Valeriia%20Karaman"
+   },
+   {
+    "name": "Robert Eggers",
+    "category": "Writers",
+    "url": "stremio:///search?search=Robert%20Eggers"
+   },
+   {
+    "name": "Max Eggers",
+    "category": "Writers",
+    "url": "stremio:///search?search=Max%20Eggers"
+   },
+   {
+    "name": "Robert Eggers",
+    "category": "Directors",
+    "url": "stremio:///search?search=Robert%20Eggers"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7984734",
+   "hasScheduledVideos": false
+  }
+ }
+}

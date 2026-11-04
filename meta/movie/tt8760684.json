@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "imdb_id": "tt8760684",
+  "country": "United States",
+  "description": "Captures the sheer procedural calm of the Moon landing. Rebuilt entirely from restored 70mm footage and audio — no narration, no talking heads — just thousands of people doing small jobs correctly until a man is standing on the Moon.\n\nA look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilots Buzz Aldrin and Mike Collins.",
+  "director": [
+   "Todd Douglas Miller"
+  ],
+  "imdbRating": "8.1",
+  "name": "Apollo 11",
+  "poster": "https://images.metahub.space/poster/small/tt8760684/img",
+  "released": "2019-03-01T00:00:00.000Z",
+  "slug": "movie/apollo-11-8760684",
+  "type": "movie",
+  "year": "2019",
+  "moviedb_id": 549559,
+  "popularities": {
+   "moviedb": 3.3345,
+   "stremio": 0.11115,
+   "stremio_lib": 0,
+   "trakt": 3
+  },
+  "trailers": [
+   {
+    "source": "XcIFgM79a0o",
+    "type": "Trailer"
+   },
+   {
+    "source": "PSS8AtjvAcY",
+    "type": "Trailer"
+   },
+   {
+    "source": "3Co8Z8BQgWc",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Neil Armstrong",
+   "Mike Collins",
+   "Buzz Aldrin"
+  ],
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "writer": [],
+  "background": "https://images.metahub.space/background/medium/tt8760684/img",
+  "logo": "https://images.metahub.space/logo/medium/tt8760684/img",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fapollo11_213153%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.620/ImageRenderer/111/168/images/no_image_111x168.jpg/213153/images/masterrepository/fandango/213153/apollo11-2019.jpg\" alt=\"Apollo 11\" title=\"Apollo 11\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fapollo11_213153%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fapollo11-trailer%2f213153%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fapollo11_213153%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.620//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fapollo11_213153%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "runtime": "93 min",
+  "dvdRelease": "2019-05-14T00:00:00.000Z",
+  "awards": "Won 3 Primetime Emmys. 59 wins & 44 nominations total",
+  "popularity": 0.11115,
+  "id": "tt8760684",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "Apollo 11",
+    "ytId": "XcIFgM79a0o"
+   },
+   {
+    "title": "Apollo 11",
+    "ytId": "PSS8AtjvAcY"
+   },
+   {
+    "title": "Apollo 11",
+    "ytId": "3Co8Z8BQgWc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt8760684"
+   },
+   {
+    "name": "Apollo 11",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/apollo-11-8760684"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Neil Armstrong",
+    "category": "Cast",
+    "url": "stremio:///search?search=Neil%20Armstrong"
+   },
+   {
+    "name": "Mike Collins",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mike%20Collins"
+   },
+   {
+    "name": "Buzz Aldrin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Buzz%20Aldrin"
+   },
+   {
+    "name": "Todd Douglas Miller",
+    "category": "Directors",
+    "url": "stremio:///search?search=Todd%20Douglas%20Miller"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt8760684",
+   "hasScheduledVideos": false
+  }
+ }
+}

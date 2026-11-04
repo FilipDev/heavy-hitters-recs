@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "imdb_id": "tt6333060",
+  "name": "Icarus",
+  "popularities": {
+   "moviedb": 2.5001,
+   "stremio": 0.08333666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "qXoRdSTrR-4",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 432976,
+  "year": "2017",
+  "runtime": "122 min",
+  "genre": [
+   "Documentary",
+   "Sport"
+  ],
+  "released": "2017-08-04T00:00:00.000Z",
+  "director": [
+   "Bryan Fogel"
+  ],
+  "writer": [
+   "Bryan Fogel",
+   "Mark Monroe",
+   "Jon Bertain"
+  ],
+  "cast": [
+   "Bryan Fogel",
+   "Dave Zabriskie",
+   "Don Catlin"
+  ],
+  "imdbRating": "7.9",
+  "poster": "https://images.metahub.space/poster/small/tt6333060/img",
+  "description": "Captures a documentary swallowed by its own story: Fogel films himself doping to expose how easy cheating is, but his Russian scientist accomplice sits at the centre of a state doping programme, and the film becomes his escape plan.\n\nWhen Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller.",
+  "country": "United States, United Kingdom",
+  "awards": "Won 1 Oscar. 9 wins & 14 nominations total",
+  "dvdRelease": "2017-08-04T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt6333060/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6333060/img",
+  "slug": "movie/icarus-6333060",
+  "popularity": 0.08333666666666667,
+  "id": "tt6333060",
+  "genres": [
+   "Documentary",
+   "Sport"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "Icarus",
+    "ytId": "qXoRdSTrR-4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6333060"
+   },
+   {
+    "name": "Icarus",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/icarus-6333060"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Bryan Fogel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bryan%20Fogel"
+   },
+   {
+    "name": "Dave Zabriskie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dave%20Zabriskie"
+   },
+   {
+    "name": "Don Catlin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Don%20Catlin"
+   },
+   {
+    "name": "Bryan Fogel",
+    "category": "Writers",
+    "url": "stremio:///search?search=Bryan%20Fogel"
+   },
+   {
+    "name": "Mark Monroe",
+    "category": "Writers",
+    "url": "stremio:///search?search=Mark%20Monroe"
+   },
+   {
+    "name": "Jon Bertain",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jon%20Bertain"
+   },
+   {
+    "name": "Bryan Fogel",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bryan%20Fogel"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6333060",
+   "hasScheduledVideos": false
+  }
+ }
+}

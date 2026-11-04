@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "imdb_id": "tt6725014",
+  "cast": [
+   "Liv Ullmann",
+   "Erland Josephson",
+   "Bibi Andersson"
+  ],
+  "country": "Sweden",
+  "description": "Captures a marriage being taken apart in dialogue. A couple first interviewed as 'ideal' are revisited over years of separation, affairs, and still needing each other.\n\nChronicles the many years of love and turmoil that bind Marianne and Johan through matrimony, infidelity, divorce, and subsequent partners.",
+  "director": [
+   "Ingmar Bergman"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "8.3",
+  "name": "Scenes from a Marriage",
+  "poster": "https://images.metahub.space/poster/small/tt6725014/img",
+  "released": "1974-09-15T00:00:00.000Z",
+  "runtime": "169 min",
+  "slug": "movie/scenes-from-a-marriage-6725014",
+  "type": "movie",
+  "writer": [
+   "Ingmar Bergman"
+  ],
+  "year": "1974",
+  "moviedb_id": 133919,
+  "popularities": {
+   "moviedb": 3.926,
+   "stremio": 0.13086666666666666,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "K6qrTm_-U9Y",
+    "type": "Trailer"
+   }
+  ],
+  "awards": "Nominated for 1 BAFTA Award. 8 wins & 5 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt6725014/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6725014/img",
+  "popularity": 0.13086666666666666,
+  "id": "tt6725014",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "1974",
+  "trailerStreams": [
+   {
+    "title": "Scenes from a Marriage",
+    "ytId": "K6qrTm_-U9Y"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6725014"
+   },
+   {
+    "name": "Scenes from a Marriage",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/scenes-from-a-marriage-6725014"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Liv Ullmann",
+    "category": "Cast",
+    "url": "stremio:///search?search=Liv%20Ullmann"
+   },
+   {
+    "name": "Erland Josephson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Erland%20Josephson"
+   },
+   {
+    "name": "Bibi Andersson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Bibi%20Andersson"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   },
+   {
+    "name": "Ingmar Bergman",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ingmar%20Bergman"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6725014",
+   "hasScheduledVideos": false
+  }
+ }
+}

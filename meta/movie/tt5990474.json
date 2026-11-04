@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "imdb_id": "tt5990474",
+  "name": "Columbus",
+  "year": "2017",
+  "runtime": "104 min",
+  "genre": [
+   "Drama"
+  ],
+  "released": "2017-08-04T00:00:00.000Z",
+  "director": [
+   "Kogonada"
+  ],
+  "cast": [
+   "John Cho",
+   "Haley Lu Richardson",
+   "Parker Posey"
+  ],
+  "imdbRating": "7.2",
+  "poster": "https://images.metahub.space/poster/small/tt5990474/img",
+  "description": "Captures two people keeping each other company inside their own stalled grief. A son stuck in Indiana while his father is in a coma meets a young woman who loves the town's modernist buildings and cannot leave her mother.\n\nA Korean-born man finds himself stuck in Columbus, Indiana, where his architect father is in a coma. The man meets a young woman who wants to stay in Columbus with her mother, a recovering addict, instead of pursuing her own dreams.",
+  "country": "United States",
+  "awards": "12 wins & 32 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "mOPsrKZyskg",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 414453,
+  "popularities": {
+   "moviedb": 4.0671,
+   "stremio": 0.13557,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "writer": [
+   "Kogonada"
+  ],
+  "slug": "movie/columbus-5990474",
+  "background": "https://images.metahub.space/background/medium/tt5990474/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5990474/img",
+  "dvdRelease": "2017-11-04T00:00:00.000Z",
+  "popularity": 0.13557,
+  "id": "tt5990474",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "Columbus",
+    "ytId": "mOPsrKZyskg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5990474"
+   },
+   {
+    "name": "Columbus",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/columbus-5990474"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "John Cho",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Cho"
+   },
+   {
+    "name": "Haley Lu Richardson",
+    "category": "Cast",
+    "url": "stremio:///search?search=Haley%20Lu%20Richardson"
+   },
+   {
+    "name": "Parker Posey",
+    "category": "Cast",
+    "url": "stremio:///search?search=Parker%20Posey"
+   },
+   {
+    "name": "Kogonada",
+    "category": "Writers",
+    "url": "stremio:///search?search=Kogonada"
+   },
+   {
+    "name": "Kogonada",
+    "category": "Directors",
+    "url": "stremio:///search?search=Kogonada"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5990474",
+   "hasScheduledVideos": false
+  }
+ }
+}

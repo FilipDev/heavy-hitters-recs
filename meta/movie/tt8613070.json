@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt8613070",
+  "name": "Portrait of a Lady on Fire",
+  "cast": [
+   "Noémie Merlant",
+   "Adèle Haenel",
+   "Luàna Bajrami"
+  ],
+  "country": "France",
+  "description": "Captures desire as the act of looking carefully. Brittany, 1770: a painter commissioned to paint a bride-to-be in secret, because the woman refuses to sit for the portrait that will be sent to her future husband.\n\nOn an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+  "director": [
+   "Céline Sciamma"
+  ],
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "imdbRating": "8.0",
+  "released": "2020-02-14T00:00:00.000Z",
+  "slug": "movie/portrait-of-a-lady-on-fire-8613070",
+  "type": "movie",
+  "writer": [
+   "Céline Sciamma"
+  ],
+  "year": "2020",
+  "moviedb_id": 531428,
+  "popularities": {
+   "moviedb": 15.6354,
+   "stremio": 0.52118,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "R-fQPTwma9o",
+    "type": "Trailer"
+   },
+   {
+    "source": "Bn_-YoG69Sw",
+    "type": "Trailer"
+   }
+  ],
+  "poster": "https://images.metahub.space/poster/small/tt8613070/img",
+  "runtime": "121 min",
+  "awards": "Nominated for 1 BAFTA Award. 59 wins & 155 nominations total",
+  "dvdRelease": "2020-04-03T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt8613070/img",
+  "logo": "https://images.metahub.space/logo/medium/tt8613070/img",
+  "popularity": 0.52118,
+  "id": "tt8613070",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2020",
+  "trailerStreams": [
+   {
+    "title": "Portrait of a Lady on Fire",
+    "ytId": "R-fQPTwma9o"
+   },
+   {
+    "title": "Portrait of a Lady on Fire",
+    "ytId": "Bn_-YoG69Sw"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt8613070"
+   },
+   {
+    "name": "Portrait of a Lady on Fire",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/portrait-of-a-lady-on-fire-8613070"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Noémie Merlant",
+    "category": "Cast",
+    "url": "stremio:///search?search=No%C3%A9mie%20Merlant"
+   },
+   {
+    "name": "Adèle Haenel",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ad%C3%A8le%20Haenel"
+   },
+   {
+    "name": "Luàna Bajrami",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lu%C3%A0na%20Bajrami"
+   },
+   {
+    "name": "Céline Sciamma",
+    "category": "Writers",
+    "url": "stremio:///search?search=C%C3%A9line%20Sciamma"
+   },
+   {
+    "name": "Céline Sciamma",
+    "category": "Directors",
+    "url": "stremio:///search?search=C%C3%A9line%20Sciamma"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt8613070",
+   "hasScheduledVideos": false
+  }
+ }
+}

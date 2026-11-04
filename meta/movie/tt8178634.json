@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "imdb_id": "tt8178634",
+  "name": "RRR",
+  "cast": [
+   "N.T. Rama Rao Jr.",
+   "Ram Charan",
+   "Ajay Devgn"
+  ],
+  "country": "India",
+  "description": "Captures male friendship at blockbuster maximum. Two revolutionaries, a rescue on a collapsing bridge, a dance-off against the British, a man carrying a leopard into a party — three hours that never once do anything at half scale.\n\nA fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+  "director": [
+   "S.S. Rajamouli"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt8178634/img",
+  "released": "2022-03-25T00:00:00.000Z",
+  "slug": "movie/rrr-8178634",
+  "type": "movie",
+  "writer": [
+   "Vijayendra Prasad",
+   "S.S. Rajamouli",
+   "Sai Madhav Burra"
+  ],
+  "year": "2022",
+  "moviedb_id": 579974,
+  "popularities": {
+   "moviedb": 12.71,
+   "stremio": 0.4236666666666667,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "i4pjiLGUTtk",
+    "type": "Trailer"
+   },
+   {
+    "source": "AVVO3Yat_Bw",
+    "type": "Trailer"
+   }
+  ],
+  "genre": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "background": "https://images.metahub.space/background/medium/tt8178634/img",
+  "logo": "https://images.metahub.space/logo/medium/tt8178634/img",
+  "runtime": "187 min",
+  "awards": "Won 1 Oscar. 94 wins & 152 nominations total",
+  "dvdRelease": "2022-05-22T00:00:00.000Z",
+  "popularity": 0.4236666666666667,
+  "id": "tt8178634",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "RRR",
+    "ytId": "i4pjiLGUTtk"
+   },
+   {
+    "title": "RRR",
+    "ytId": "AVVO3Yat_Bw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt8178634"
+   },
+   {
+    "name": "RRR",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/rrr-8178634"
+   },
+   {
+    "name": "Action",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "N.T. Rama Rao Jr.",
+    "category": "Cast",
+    "url": "stremio:///search?search=N.T.%20Rama%20Rao%20Jr."
+   },
+   {
+    "name": "Ram Charan",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ram%20Charan"
+   },
+   {
+    "name": "Ajay Devgn",
+    "category": "Cast",
+    "url": "stremio:///search?search=Ajay%20Devgn"
+   },
+   {
+    "name": "Vijayendra Prasad",
+    "category": "Writers",
+    "url": "stremio:///search?search=Vijayendra%20Prasad"
+   },
+   {
+    "name": "S.S. Rajamouli",
+    "category": "Writers",
+    "url": "stremio:///search?search=S.S.%20Rajamouli"
+   },
+   {
+    "name": "Sai Madhav Burra",
+    "category": "Writers",
+    "url": "stremio:///search?search=Sai%20Madhav%20Burra"
+   },
+   {
+    "name": "S.S. Rajamouli",
+    "category": "Directors",
+    "url": "stremio:///search?search=S.S.%20Rajamouli"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt8178634",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "imdb_id": "tt5895028",
+  "popularities": {
+   "moviedb": 2.9241,
+   "stremio": 0.09747,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "name": "13th",
+  "trailers": [
+   {
+    "source": "K6IXQbXPO3I",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 407806,
+  "year": "2016",
+  "runtime": "101 min",
+  "genre": [
+   "Documentary",
+   "Crime",
+   "History"
+  ],
+  "released": "2016-10-07T00:00:00.000Z",
+  "director": [
+   "Ava DuVernay"
+  ],
+  "writer": [
+   "Spencer Averick",
+   "Ava DuVernay"
+  ],
+  "cast": [
+   "Melina Abdullah",
+   "Michelle Alexander",
+   "Cory Booker"
+  ],
+  "imdbRating": "8.2",
+  "poster": "https://images.metahub.space/poster/small/tt5895028/img",
+  "description": "Captures the essay-documentary at maximum force — a thesis you can feel being assembled. DuVernay builds one chain from the Thirteenth Amendment's exception clause through convict leasing, Jim Crow and the war on drugs to mass incarceration.\n\nAn in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 32 wins & 47 nominations total",
+  "dvdRelease": "2017-05-23T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt5895028/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5895028/img",
+  "slug": "movie/13th-5895028",
+  "popularity": 0.09747,
+  "id": "tt5895028",
+  "genres": [
+   "Documentary",
+   "Crime",
+   "History"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "13th",
+    "ytId": "K6IXQbXPO3I"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5895028"
+   },
+   {
+    "name": "13th",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/13th-5895028"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Melina Abdullah",
+    "category": "Cast",
+    "url": "stremio:///search?search=Melina%20Abdullah"
+   },
+   {
+    "name": "Michelle Alexander",
+    "category": "Cast",
+    "url": "stremio:///search?search=Michelle%20Alexander"
+   },
+   {
+    "name": "Cory Booker",
+    "category": "Cast",
+    "url": "stremio:///search?search=Cory%20Booker"
+   },
+   {
+    "name": "Spencer Averick",
+    "category": "Writers",
+    "url": "stremio:///search?search=Spencer%20Averick"
+   },
+   {
+    "name": "Ava DuVernay",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ava%20DuVernay"
+   },
+   {
+    "name": "Ava DuVernay",
+    "category": "Directors",
+    "url": "stremio:///search?search=Ava%20DuVernay"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5895028",
+   "hasScheduledVideos": false
+  }
+ }
+}

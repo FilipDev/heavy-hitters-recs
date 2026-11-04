@@ -1,0 +1,121 @@
+{
+ "meta": {
+  "imdb_id": "tt7775622",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ffreesolo_214074%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.529/ImageRenderer/111/168/images/no_image_111x168.jpg/214074/images/masterrepository/fandango/214074/freesolo2018.jpg\" alt=\"Free Solo\" title=\"Free Solo\" border=\"0\" /></a> Opens Friday, Sep 28, 2018</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ffreesolo_214074%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2ffreesolo-trailer%2f214074%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ffreesolo_214074%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.529//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ffreesolo_214074%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "name": "Free Solo",
+  "cast": [
+   "Alex Honnold",
+   "Tommy Caldwell",
+   "Jimmy Chin"
+  ],
+  "country": "United States",
+  "description": "Captures a man whose relationship to fear is simply different from yours. Alex Honnold prepares to climb El Capitan without ropes while the filmmakers — his friends — argue on camera about whether filming changes the odds.\n\nAlex Honnold faces the biggest challenge of his career, climbing El Capitan in Yosemite National Park. He pursues it Free Solo, which means climbing without a rope and alone.",
+  "director": [
+   "Jimmy Chin",
+   "Elizabeth Chai Vasarhelyi"
+  ],
+  "genre": [
+   "Documentary",
+   "Adventure",
+   "Sport"
+  ],
+  "imdbRating": "8.1",
+  "poster": "https://images.metahub.space/poster/small/tt7775622/img",
+  "released": "2018-12-13T00:00:00.000Z",
+  "slug": "movie/free-solo-7775622",
+  "type": "movie",
+  "year": "2018",
+  "moviedb_id": 515042,
+  "popularities": {
+   "moviedb": 6.9024,
+   "stremio": 0.23008,
+   "trakt": 32,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "urRVZ4SW7WU",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "runtime": "100 min",
+  "dvdRelease": "2019-02-12T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt7775622/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7775622/img",
+  "awards": "Won 1 Oscar. 32 wins & 54 nominations total",
+  "popularity": 0.23008,
+  "id": "tt7775622",
+  "genres": [
+   "Documentary",
+   "Adventure",
+   "Sport"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Free Solo",
+    "ytId": "urRVZ4SW7WU"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7775622"
+   },
+   {
+    "name": "Free Solo",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/free-solo-7775622"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Alex Honnold",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alex%20Honnold"
+   },
+   {
+    "name": "Tommy Caldwell",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tommy%20Caldwell"
+   },
+   {
+    "name": "Jimmy Chin",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jimmy%20Chin"
+   },
+   {
+    "name": "Jimmy Chin",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jimmy%20Chin"
+   },
+   {
+    "name": "Elizabeth Chai Vasarhelyi",
+    "category": "Directors",
+    "url": "stremio:///search?search=Elizabeth%20Chai%20Vasarhelyi"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7775622",
+   "hasScheduledVideos": false
+  }
+ }
+}

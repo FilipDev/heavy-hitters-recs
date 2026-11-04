@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "imdb_id": "tt5598102",
+  "name": "Faces Places",
+  "year": "2017",
+  "runtime": "94 min",
+  "genre": [
+   "Documentary",
+   "Adventure"
+  ],
+  "released": "2017-06-28T00:00:00.000Z",
+  "director": [
+   "JR",
+   "Agnès Varda"
+  ],
+  "cast": [
+   "Agnès Varda",
+   "JR",
+   "Jeannine Carpentier"
+  ],
+  "imdbRating": "7.8",
+  "poster": "https://images.metahub.space/poster/small/tt5598102/img",
+  "description": "Captures art as an excuse to pay attention to people — the lightest, warmest film in this batch. Varda, 88 and going blind, tours rural France with photographer JR, pasting giant portraits of villagers onto their own villages.\n\nDirector Agnes Varda and photographer/muralist J.R. journey through rural France and form an unlikely friendship.",
+  "country": "France",
+  "awards": "Nominated for 1 Oscar. 36 wins & 41 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "P7rFMO7ODBk",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 451995,
+  "popularities": {
+   "moviedb": 2.604,
+   "stremio": 0.0868,
+   "trakt": 1,
+   "stremio_lib": 0
+  },
+  "writer": [
+   "JR",
+   "Agnès Varda"
+  ],
+  "dvdRelease": "2018-02-27T00:00:00.000Z",
+  "slug": "movie/faces-places-5598102",
+  "background": "https://images.metahub.space/background/medium/tt5598102/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5598102/img",
+  "popularity": 0.0868,
+  "id": "tt5598102",
+  "genres": [
+   "Documentary",
+   "Adventure"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "Faces Places",
+    "ytId": "P7rFMO7ODBk"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5598102"
+   },
+   {
+    "name": "Faces Places",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/faces-places-5598102"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Adventure",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Cast",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   },
+   {
+    "name": "JR",
+    "category": "Cast",
+    "url": "stremio:///search?search=JR"
+   },
+   {
+    "name": "Jeannine Carpentier",
+    "category": "Cast",
+    "url": "stremio:///search?search=Jeannine%20Carpentier"
+   },
+   {
+    "name": "JR",
+    "category": "Writers",
+    "url": "stremio:///search?search=JR"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   },
+   {
+    "name": "JR",
+    "category": "Directors",
+    "url": "stremio:///search?search=JR"
+   },
+   {
+    "name": "Agnès Varda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Agn%C3%A8s%20Varda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5598102",
+   "hasScheduledVideos": false
+  }
+ }
+}

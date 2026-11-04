@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt5433114",
+  "cast": [
+   "Diego Maradona",
+   "Dalma Maradona",
+   "Pelé"
+  ],
+  "country": "United Kingdom",
+  "description": "Captures fame as a hostage situation where the hostage keeps scoring goals. Kapadia builds Maradona's Naples years entirely from archive: adored as a god, pulled into the Camorra's orbit, collapsing under a worship no person could survive.\n\nConstructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Maradona, who played for S.S.C. Napoli in the 1980s.",
+  "director": [
+   "Asif Kapadia"
+  ],
+  "genre": [
+   "Documentary",
+   "Biography",
+   "Sport"
+  ],
+  "imdbRating": "7.7",
+  "name": "Diego Maradona",
+  "poster": "https://images.metahub.space/poster/small/tt5433114/img",
+  "released": "2019-09-20T00:00:00.000Z",
+  "slug": "movie/diego-maradona-5433114",
+  "type": "movie",
+  "year": "2019",
+  "moviedb_id": 536841,
+  "popularities": {
+   "moviedb": 3.1534,
+   "stremio": 0.10511333333333334,
+   "stremio_lib": 0,
+   "trakt": 2
+  },
+  "trailers": [
+   {
+    "source": "Pmm7r4ynyIQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "JNaRrDX8MUc",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "runtime": "130 min",
+  "awards": "Nominated for 1 BAFTA Award. 1 win & 14 nominations total",
+  "background": "https://images.metahub.space/background/medium/tt5433114/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5433114/img",
+  "dvdRelease": "2019-11-16T00:00:00.000Z",
+  "popularity": 0.10511333333333334,
+  "id": "tt5433114",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Sport"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "Diego Maradona",
+    "ytId": "Pmm7r4ynyIQ"
+   },
+   {
+    "title": "Diego Maradona",
+    "ytId": "JNaRrDX8MUc"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.7",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5433114"
+   },
+   {
+    "name": "Diego Maradona",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/diego-maradona-5433114"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Diego Maradona",
+    "category": "Cast",
+    "url": "stremio:///search?search=Diego%20Maradona"
+   },
+   {
+    "name": "Dalma Maradona",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dalma%20Maradona"
+   },
+   {
+    "name": "Pelé",
+    "category": "Cast",
+    "url": "stremio:///search?search=Pel%C3%A9"
+   },
+   {
+    "name": "Asif Kapadia",
+    "category": "Directors",
+    "url": "stremio:///search?search=Asif%20Kapadia"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5433114",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "imdb_id": "tt6223974",
+  "type": "movie",
+  "name": "The Farthest",
+  "year": "2017",
+  "runtime": "121 min",
+  "genre": [
+   "Documentary",
+   "History"
+  ],
+  "released": "2017-08-11T00:00:00.000Z",
+  "director": [
+   "Emer Reynolds"
+  ],
+  "writer": [
+   "Emer Reynolds"
+  ],
+  "cast": [
+   "Frank Drake",
+   "Carolyn Porco",
+   "John Casani"
+  ],
+  "imdbRating": "8.1",
+  "poster": "https://images.metahub.space/poster/small/tt6223974/img",
+  "description": "Captures the most optimistic object our species has ever made, and the scientists ageing alongside it. The Voyager probes, told by the people who built them, carrying a golden record of human greetings out of the solar system.\n\nIt is one of humankind's greatest achievements. More than 12 billion miles away a tiny spaceship is leaving our Solar System and entering the void of deep space - the first human-made object ever to do so.",
+  "country": "Ireland",
+  "awards": "12 wins & 9 nominations total",
+  "trailers": [
+   {
+    "source": "znTdk_de_K8",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 436305,
+  "popularities": {
+   "moviedb": 1.5716,
+   "stremio": 0.05238666666666667,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "background": "https://images.metahub.space/background/medium/tt6223974/img",
+  "logo": "https://images.metahub.space/logo/medium/tt6223974/img",
+  "slug": "movie/the-farthest-6223974",
+  "dvdRelease": "2018-03-27T00:00:00.000Z",
+  "popularity": 0.05238666666666667,
+  "id": "tt6223974",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "The Farthest",
+    "ytId": "znTdk_de_K8"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.1",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt6223974"
+   },
+   {
+    "name": "The Farthest",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/the-farthest-6223974"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Frank Drake",
+    "category": "Cast",
+    "url": "stremio:///search?search=Frank%20Drake"
+   },
+   {
+    "name": "Carolyn Porco",
+    "category": "Cast",
+    "url": "stremio:///search?search=Carolyn%20Porco"
+   },
+   {
+    "name": "John Casani",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Casani"
+   },
+   {
+    "name": "Emer Reynolds",
+    "category": "Writers",
+    "url": "stremio:///search?search=Emer%20Reynolds"
+   },
+   {
+    "name": "Emer Reynolds",
+    "category": "Directors",
+    "url": "stremio:///search?search=Emer%20Reynolds"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt6223974",
+   "hasScheduledVideos": false
+  }
+ }
+}

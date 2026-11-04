@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "imdb_id": "tt5247022",
+  "name": "Paterson",
+  "popularities": {
+   "moviedb": 5.0297,
+   "stremio": 0.16765666666666668,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "E8_L9kqie7s",
+    "type": "Trailer"
+   },
+   {
+    "source": "32exBSNsaBw",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 370755,
+  "year": "2016",
+  "runtime": "118 min",
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "released": "2016-12-28T00:00:00.000Z",
+  "director": [
+   "Jim Jarmusch"
+  ],
+  "writer": [
+   "Jim Jarmusch",
+   "Ron Padgett",
+   "William Carlos Williams"
+  ],
+  "cast": [
+   "Adam Driver",
+   "Golshifteh Farahani",
+   "Nellie"
+  ],
+  "imdbRating": "7.3",
+  "poster": "https://images.metahub.space/poster/small/tt5247022/img",
+  "description": "Captures a routine life as a work of art. One week with a bus driver named Paterson, in Paterson, who writes poems about matchboxes and waterfalls between shifts.\n\nA quiet observation of the triumphs and defeats of daily life, along with the poetry evident in its smallest details.",
+  "country": "France, Germany, United States",
+  "awards": "10 wins & 41 nominations total",
+  "dvdRelease": "2017-03-21T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt5247022/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5247022/img",
+  "slug": "movie/paterson-5247022",
+  "popularity": 0.16765666666666668,
+  "id": "tt5247022",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Paterson",
+    "ytId": "E8_L9kqie7s"
+   },
+   {
+    "title": "Paterson",
+    "ytId": "32exBSNsaBw"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5247022"
+   },
+   {
+    "name": "Paterson",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/paterson-5247022"
+   },
+   {
+    "name": "Comedy",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Adam Driver",
+    "category": "Cast",
+    "url": "stremio:///search?search=Adam%20Driver"
+   },
+   {
+    "name": "Golshifteh Farahani",
+    "category": "Cast",
+    "url": "stremio:///search?search=Golshifteh%20Farahani"
+   },
+   {
+    "name": "Nellie",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nellie"
+   },
+   {
+    "name": "Jim Jarmusch",
+    "category": "Writers",
+    "url": "stremio:///search?search=Jim%20Jarmusch"
+   },
+   {
+    "name": "Ron Padgett",
+    "category": "Writers",
+    "url": "stremio:///search?search=Ron%20Padgett"
+   },
+   {
+    "name": "William Carlos Williams",
+    "category": "Writers",
+    "url": "stremio:///search?search=William%20Carlos%20Williams"
+   },
+   {
+    "name": "Jim Jarmusch",
+    "category": "Directors",
+    "url": "stremio:///search?search=Jim%20Jarmusch"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5247022",
+   "hasScheduledVideos": false
+  }
+ }
+}

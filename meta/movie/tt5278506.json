@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "imdb_id": "tt5278506",
+  "popularities": {
+   "moviedb": 2.4499,
+   "stremio": 0.08166333333333334,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "name": "Tickled",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "6w6Lijk73Q0",
+    "type": "Trailer"
+   },
+   {
+    "source": "MRRJF_nkIBE",
+    "type": "Trailer"
+   },
+   {
+    "source": "iOBXuCYB4jQ",
+    "type": "Trailer"
+   },
+   {
+    "source": "6Vs4ar_rM4I",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 373072,
+  "year": "2016",
+  "runtime": "92 min",
+  "genre": [
+   "Documentary",
+   "Crime",
+   "Mystery"
+  ],
+  "released": "2016-06-17T00:00:00.000Z",
+  "director": [
+   "David Farrier",
+   "Dylan Reeve"
+  ],
+  "writer": null,
+  "cast": [
+   "David Farrier",
+   "Dylan Reeve",
+   "David Starr"
+  ],
+  "imdbRating": "7.5",
+  "poster": "https://images.metahub.space/poster/small/tt5278506/img",
+  "description": "Captures an investigation whose subject fights back in real time: journalist David Farrier asks a cheerful question about 'competitive endurance tickling' videos and receives legal threats so disproportionate that following them becomes the film.\n\nJournalist David Farrier stumbles upon a mysterious tickling competition online. As he delves deeper he comes up against fierce resistance, but that doesn't stop him getting to the bottom of a story stranger than fiction.",
+  "country": "New Zealand",
+  "awards": "1 win & 16 nominations",
+  "dvdRelease": "2017-04-17T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt5278506/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5278506/img",
+  "slug": "movie/tickled-5278506",
+  "popularity": 0.08166333333333334,
+  "id": "tt5278506",
+  "genres": [
+   "Documentary",
+   "Crime",
+   "Mystery"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Tickled",
+    "ytId": "6w6Lijk73Q0"
+   },
+   {
+    "title": "Tickled",
+    "ytId": "MRRJF_nkIBE"
+   },
+   {
+    "title": "Tickled",
+    "ytId": "iOBXuCYB4jQ"
+   },
+   {
+    "title": "Tickled",
+    "ytId": "6Vs4ar_rM4I"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.5",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5278506"
+   },
+   {
+    "name": "Tickled",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/tickled-5278506"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Mystery",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+   },
+   {
+    "name": "David Farrier",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Farrier"
+   },
+   {
+    "name": "Dylan Reeve",
+    "category": "Cast",
+    "url": "stremio:///search?search=Dylan%20Reeve"
+   },
+   {
+    "name": "David Starr",
+    "category": "Cast",
+    "url": "stremio:///search?search=David%20Starr"
+   },
+   {
+    "name": "David Farrier",
+    "category": "Directors",
+    "url": "stremio:///search?search=David%20Farrier"
+   },
+   {
+    "name": "Dylan Reeve",
+    "category": "Directors",
+    "url": "stremio:///search?search=Dylan%20Reeve"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5278506",
+   "hasScheduledVideos": false
+  }
+ }
+}

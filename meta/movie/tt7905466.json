@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "imdb_id": "tt7905466",
+  "name": "They Shall Not Grow Old",
+  "country": "United Kingdom, New Zealand",
+  "description": "Captures the trenches suddenly populated by recognisable young men instead of ghosts. Peter Jackson restores jerky silent WWI footage to correct speed, colourises it, and adds voices reconstructed from veterans' interviews and lip-reading.\n\nA documentary about World War I with never-before-seen footage to commemorate the centennial of the end of the war.",
+  "director": [
+   "Peter Jackson"
+  ],
+  "genre": [
+   "Documentary",
+   "History",
+   "War"
+  ],
+  "imdbRating": "8.2",
+  "released": "2019-02-01T00:00:00.000Z",
+  "slug": "movie/they-shall-not-grow-old-7905466",
+  "type": "movie",
+  "year": "2019",
+  "moviedb_id": 543580,
+  "popularities": {
+   "moviedb": 3.8045,
+   "stremio": 0.12681666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "IrabKK9Bhds",
+    "type": "Trailer"
+   },
+   {
+    "source": "D6Do1p1CWyc",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Thomas Adlam",
+   "William Argent",
+   "John Ashby"
+  ],
+  "writer": [
+   "Peter Jackson"
+  ],
+  "poster": "https://images.metahub.space/poster/small/tt7905466/img",
+  "runtime": "99 min",
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheyshallnotgrowold_215686%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.597/ImageRenderer/111/168/images/no_image_111x168.jpg/215686/images/masterrepository/fandango/215686/tsngo_ticketingbanner_250x375_r2.jpg\" alt=\"They Shall Not Grow Old\" title=\"They Shall Not Grow Old\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheyshallnotgrowold_215686%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> </p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheyshallnotgrowold_215686%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.597//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheyshallnotgrowold_215686%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "background": "https://images.metahub.space/background/medium/tt7905466/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7905466/img",
+  "awards": "Nominated for 1 BAFTA Award. 6 wins & 15 nominations total",
+  "dvdRelease": "2019-03-12T00:00:00.000Z",
+  "popularity": 0.12681666666666666,
+  "id": "tt7905466",
+  "genres": [
+   "Documentary",
+   "History",
+   "War"
+  ],
+  "releaseInfo": "2019",
+  "trailerStreams": [
+   {
+    "title": "They Shall Not Grow Old",
+    "ytId": "IrabKK9Bhds"
+   },
+   {
+    "title": "They Shall Not Grow Old",
+    "ytId": "D6Do1p1CWyc"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.2",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7905466"
+   },
+   {
+    "name": "They Shall Not Grow Old",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/they-shall-not-grow-old-7905466"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "War",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+   },
+   {
+    "name": "Thomas Adlam",
+    "category": "Cast",
+    "url": "stremio:///search?search=Thomas%20Adlam"
+   },
+   {
+    "name": "William Argent",
+    "category": "Cast",
+    "url": "stremio:///search?search=William%20Argent"
+   },
+   {
+    "name": "John Ashby",
+    "category": "Cast",
+    "url": "stremio:///search?search=John%20Ashby"
+   },
+   {
+    "name": "Peter Jackson",
+    "category": "Writers",
+    "url": "stremio:///search?search=Peter%20Jackson"
+   },
+   {
+    "name": "Peter Jackson",
+    "category": "Directors",
+    "url": "stremio:///search?search=Peter%20Jackson"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7905466",
+   "hasScheduledVideos": false
+  }
+ }
+}

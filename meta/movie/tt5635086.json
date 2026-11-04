@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt5635086",
+  "name": "God's Own Country",
+  "year": "2017",
+  "runtime": "104 min",
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "released": "2017-08-24T00:00:00.000Z",
+  "director": [
+   "Francis Lee"
+  ],
+  "writer": [
+   "Francis Lee"
+  ],
+  "cast": [
+   "Josh O&apos;Connor",
+   "Alec Secareanu",
+   "Gemma Jones"
+  ],
+  "imdbRating": "7.6",
+  "poster": "https://images.metahub.space/poster/small/tt5635086/img",
+  "description": "Captures a man who can only express feeling through work and drink learning tenderness from lambing. A young Yorkshire farmer, mud and silence, and a Romanian migrant worker hired for the season who is gentle in a way he has no defences for.\n\nSpring. Yorkshire. Young farmer Johnny Saxby numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker for lambing season ignites an intense relationship that sets Johnny on a ...",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award. 32 wins & 39 nominations total",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "kQV_pJyGAIg",
+    "type": "Trailer"
+   },
+   {
+    "source": "2sPE9sbXQoQ",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 428493,
+  "popularities": {
+   "moviedb": 6.4173,
+   "stremio": 0.21391,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "dvdRelease": "2018-01-30T00:00:00.000Z",
+  "slug": "movie/gods-own-country-5635086",
+  "background": "https://images.metahub.space/background/medium/tt5635086/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5635086/img",
+  "popularity": 0.21391,
+  "id": "tt5635086",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "releaseInfo": "2017",
+  "trailerStreams": [
+   {
+    "title": "God's Own Country",
+    "ytId": "kQV_pJyGAIg"
+   },
+   {
+    "title": "God's Own Country",
+    "ytId": "2sPE9sbXQoQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.6",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5635086"
+   },
+   {
+    "name": "God's Own Country",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/gods-own-country-5635086"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Romance",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+   },
+   {
+    "name": "Josh O&apos;Connor",
+    "category": "Cast",
+    "url": "stremio:///search?search=Josh%20O%26apos%3BConnor"
+   },
+   {
+    "name": "Alec Secareanu",
+    "category": "Cast",
+    "url": "stremio:///search?search=Alec%20Secareanu"
+   },
+   {
+    "name": "Gemma Jones",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gemma%20Jones"
+   },
+   {
+    "name": "Francis Lee",
+    "category": "Writers",
+    "url": "stremio:///search?search=Francis%20Lee"
+   },
+   {
+    "name": "Francis Lee",
+    "category": "Directors",
+    "url": "stremio:///search?search=Francis%20Lee"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5635086",
+   "hasScheduledVideos": false
+  }
+ }
+}

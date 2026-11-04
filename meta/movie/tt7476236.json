@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "imdb_id": "tt7476236",
+  "name": "Minding the Gap",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 1.6754,
+   "stremio": 0.05584666666666667,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "Nominated for 1 Oscar. 60 wins & 53 nominations total",
+  "country": "United States",
+  "description": "Captures the moment a documentarian has to point the camera at himself. Bing Liu films his skateboarder friends in their rust-belt hometown over years, then slowly realises the film is about the violence they all grew up in — including his own.\n\nFilmmaker Bing Liu searches for correlations between his skateboarder friends' turbulent upbringings and the complexities of modern masculinity.",
+  "director": [
+   "Bing Liu"
+  ],
+  "dvdRelease": "2018-08-17T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Sport"
+  ],
+  "imdbRating": "8.0",
+  "poster": "https://images.metahub.space/poster/small/tt7476236/img",
+  "released": "2018-08-17T00:00:00.000Z",
+  "runtime": "93 min",
+  "slug": "movie/minding-the-gap-7476236",
+  "year": "2018",
+  "moviedb_id": 489985,
+  "trailers": [
+   {
+    "source": "n5Vm_Awe3bw",
+    "type": "Trailer"
+   }
+  ],
+  "cast": [
+   "Kent Abernathy",
+   "Mengyue Bolen",
+   "Nina Bowgren"
+  ],
+  "writer": [],
+  "background": "https://images.metahub.space/background/medium/tt7476236/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7476236/img",
+  "popularity": 0.05584666666666667,
+  "id": "tt7476236",
+  "genres": [
+   "Documentary",
+   "Sport"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Minding the Gap",
+    "ytId": "n5Vm_Awe3bw"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7476236"
+   },
+   {
+    "name": "Minding the Gap",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/minding-the-gap-7476236"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Sport",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+   },
+   {
+    "name": "Kent Abernathy",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kent%20Abernathy"
+   },
+   {
+    "name": "Mengyue Bolen",
+    "category": "Cast",
+    "url": "stremio:///search?search=Mengyue%20Bolen"
+   },
+   {
+    "name": "Nina Bowgren",
+    "category": "Cast",
+    "url": "stremio:///search?search=Nina%20Bowgren"
+   },
+   {
+    "name": "Bing Liu",
+    "category": "Directors",
+    "url": "stremio:///search?search=Bing%20Liu"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7476236",
+   "hasScheduledVideos": false
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "imdb_id": "tt5275828",
+  "popularities": {
+   "moviedb": 1.9358,
+   "stremio": 0.06452666666666666,
+   "trakt": 2,
+   "stremio_lib": 0
+  },
+  "name": "Lo and Behold: Reveries of the Connected World",
+  "year": "2016",
+  "runtime": "99 min",
+  "genre": [
+   "Documentary"
+  ],
+  "released": "2016-08-19T00:00:00.000Z",
+  "director": [
+   "Werner Herzog"
+  ],
+  "writer": [
+   "Werner Herzog"
+  ],
+  "cast": [
+   "Elon Musk",
+   "Lawrence Krauss",
+   "Lucianne Walkowicz"
+  ],
+  "imdbRating": "7.0",
+  "poster": "https://images.metahub.space/poster/small/tt5275828/img",
+  "description": "Captures the internet as something stranger and more fragile than either its utopians or critics describe. Herzog wanders its birthplace, a monastery of monks with smartphones, a family hounded by trolls, and asks if the network dreams of itself.\n\nWerner Herzog's exploration of the Internet and the connected world.",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination",
+  "dvdRelease": "2016-11-23T00:00:00.000Z",
+  "type": "movie",
+  "trailers": [
+   {
+    "source": "Zc1tZ8JsZvg",
+    "type": "Trailer"
+   }
+  ],
+  "moviedb_id": 360030,
+  "slug": "movie/lo-and-behold-reveries-of-the-connected-world-5275828",
+  "background": "https://images.metahub.space/background/medium/tt5275828/img",
+  "logo": "https://images.metahub.space/logo/medium/tt5275828/img",
+  "popularity": 0.06452666666666666,
+  "id": "tt5275828",
+  "genres": [
+   "Documentary"
+  ],
+  "releaseInfo": "2016",
+  "trailerStreams": [
+   {
+    "title": "Lo and Behold: Reveries of the Connected World",
+    "ytId": "Zc1tZ8JsZvg"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.0",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt5275828"
+   },
+   {
+    "name": "Lo and Behold: Reveries of the Connected World",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/lo-and-behold-reveries-of-the-connected-world-5275828"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Elon Musk",
+    "category": "Cast",
+    "url": "stremio:///search?search=Elon%20Musk"
+   },
+   {
+    "name": "Lawrence Krauss",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lawrence%20Krauss"
+   },
+   {
+    "name": "Lucianne Walkowicz",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lucianne%20Walkowicz"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Writers",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   },
+   {
+    "name": "Werner Herzog",
+    "category": "Directors",
+    "url": "stremio:///search?search=Werner%20Herzog"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt5275828",
+   "hasScheduledVideos": false
+  }
+ }
+}

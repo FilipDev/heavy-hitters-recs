@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "imdb_id": "tt9660502",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 7.1282,
+   "stremio": 0.23760666666666666,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "awards": "Nominated for 1 Oscar. 58 wins & 86 nominations total",
+  "cast": [
+   "Eden Dambrine",
+   "Gustav De Waele",
+   "Émilie Dequenne"
+  ],
+  "country": "Belgium, Netherlands, France",
+  "description": "Captures two boys' intimacy being seen, and what being seen does to it. Best friends at 13, inseparable all summer, then school starts and other kids ask what they are.\n\nThe intense friendship between two thirteen-year old boys Leo and Remi suddenly gets disrupted. Struggling to understand what has happened, Léo approaches Sophie, Rémi's mother. \"Close\" is a film about friendship and responsibility.",
+  "director": [
+   "Lukas Dhont"
+  ],
+  "genre": [
+   "Drama"
+  ],
+  "imdbRating": "7.8",
+  "name": "Close",
+  "released": "2022-11-01T00:00:00.000Z",
+  "runtime": "104 min",
+  "slug": "movie/close-9660502",
+  "writer": [
+   "Lukas Dhont",
+   "Angelo Tijssens"
+  ],
+  "year": "2022",
+  "moviedb_id": 901563,
+  "poster": "https://images.metahub.space/poster/small/tt9660502/img",
+  "trailers": [
+   {
+    "source": "wm6guCngagM",
+    "type": "Trailer"
+   },
+   {
+    "source": "V2e21KWP3B0",
+    "type": "Trailer"
+   },
+   {
+    "source": "pWVDDWvT878",
+    "type": "Trailer"
+   },
+   {
+    "source": "6EJGnU2AmV4",
+    "type": "Trailer"
+   }
+  ],
+  "background": "https://images.metahub.space/background/medium/tt9660502/img",
+  "logo": "https://images.metahub.space/logo/medium/tt9660502/img",
+  "popularity": 0.23760666666666666,
+  "id": "tt9660502",
+  "genres": [
+   "Drama"
+  ],
+  "releaseInfo": "2022",
+  "trailerStreams": [
+   {
+    "title": "Close",
+    "ytId": "wm6guCngagM"
+   },
+   {
+    "title": "Close",
+    "ytId": "V2e21KWP3B0"
+   },
+   {
+    "title": "Close",
+    "ytId": "pWVDDWvT878"
+   },
+   {
+    "title": "Close",
+    "ytId": "6EJGnU2AmV4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.8",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt9660502"
+   },
+   {
+    "name": "Close",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/close-9660502"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Eden Dambrine",
+    "category": "Cast",
+    "url": "stremio:///search?search=Eden%20Dambrine"
+   },
+   {
+    "name": "Gustav De Waele",
+    "category": "Cast",
+    "url": "stremio:///search?search=Gustav%20De%20Waele"
+   },
+   {
+    "name": "Émilie Dequenne",
+    "category": "Cast",
+    "url": "stremio:///search?search=%C3%89milie%20Dequenne"
+   },
+   {
+    "name": "Lukas Dhont",
+    "category": "Writers",
+    "url": "stremio:///search?search=Lukas%20Dhont"
+   },
+   {
+    "name": "Angelo Tijssens",
+    "category": "Writers",
+    "url": "stremio:///search?search=Angelo%20Tijssens"
+   },
+   {
+    "name": "Lukas Dhont",
+    "category": "Directors",
+    "url": "stremio:///search?search=Lukas%20Dhont"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt9660502",
+   "hasScheduledVideos": false
+  }
+ }
+}

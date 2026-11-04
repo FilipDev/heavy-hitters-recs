@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "imdb_id": "tt7681902",
+  "name": "Won't You Be My Neighbor?",
+  "popularities": {
+   "trakt": 2,
+   "moviedb": 3.02,
+   "stremio": 0.10066666666666667,
+   "stremio_lib": 0
+  },
+  "type": "movie",
+  "cast": [
+   "Fred Rogers",
+   "Margaret Whitmer",
+   "Tom Junod"
+  ],
+  "country": "United States",
+  "description": "Captures gentleness deployed as a discipline, not a temperament. Fred Rogers turns out to have been exactly as radical as he appeared: using children's television to insist, slowly and on purpose, that every child is lovable as they are.\n\nAn exploration of the life, lessons, and legacy of iconic children's television host Fred Rogers.",
+  "director": [
+   "Morgan Neville"
+  ],
+  "dvdRelease": "2018-08-21T00:00:00.000Z",
+  "genre": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "imdbRating": "8.3",
+  "poster": "https://images.metahub.space/poster/small/tt7681902/img",
+  "released": "2018-06-29T00:00:00.000Z",
+  "runtime": "95 min",
+  "slug": "movie/wont-you-be-my-neighbor-7681902",
+  "year": "2018",
+  "moviedb_id": 490003,
+  "trailers": [
+   {
+    "source": "EAwR54HrVW8",
+    "type": "Trailer"
+   },
+   {
+    "source": "FhwktRDG_aQ",
+    "type": "Trailer"
+   }
+  ],
+  "writer": [],
+  "background": "https://images.metahub.space/background/medium/tt7681902/img",
+  "logo": "https://images.metahub.space/logo/medium/tt7681902/img",
+  "awards": "54 wins & 34 nominations",
+  "popularity": 0.10066666666666667,
+  "id": "tt7681902",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "History"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Won't You Be My Neighbor?",
+    "ytId": "EAwR54HrVW8"
+   },
+   {
+    "title": "Won't You Be My Neighbor?",
+    "ytId": "FhwktRDG_aQ"
+   }
+  ],
+  "links": [
+   {
+    "name": "8.3",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt7681902"
+   },
+   {
+    "name": "Won't You Be My Neighbor?",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/wont-you-be-my-neighbor-7681902"
+   },
+   {
+    "name": "Documentary",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+   },
+   {
+    "name": "Biography",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+   },
+   {
+    "name": "History",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+   },
+   {
+    "name": "Fred Rogers",
+    "category": "Cast",
+    "url": "stremio:///search?search=Fred%20Rogers"
+   },
+   {
+    "name": "Margaret Whitmer",
+    "category": "Cast",
+    "url": "stremio:///search?search=Margaret%20Whitmer"
+   },
+   {
+    "name": "Tom Junod",
+    "category": "Cast",
+    "url": "stremio:///search?search=Tom%20Junod"
+   },
+   {
+    "name": "Morgan Neville",
+    "category": "Directors",
+    "url": "stremio:///search?search=Morgan%20Neville"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt7681902",
+   "hasScheduledVideos": false
+  }
+ }
+}

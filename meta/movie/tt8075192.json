@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "imdb_id": "tt8075192",
+  "name": "Shoplifters",
+  "cast": [
+   "Lily Franky",
+   "Sakura Andô",
+   "Kirin Kiki"
+  ],
+  "country": "Japan",
+  "description": "Captures a household that is a family and a crime at once. A poor Tokyo family who shoplift to get by take in a neglected little girl; shared croquettes and a beach day sit alongside the question of what they actually are to each other.\n\nOn the margins of Tokyo, a dysfunctional band of outsiders are united by loyalty, a penchant for petty theft and playful grifting. When the young son is arrested, secrets are exposed that upend their tenuous, below-the-radar exist...",
+  "director": [
+   "Hirokazu Koreeda"
+  ],
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "imdbRating": "7.9",
+  "poster": "https://images.metahub.space/poster/small/tt8075192/img",
+  "released": "2018-11-23T00:00:00.000Z",
+  "runtime": "120 min",
+  "slug": "movie/shoplifters-8075192",
+  "type": "movie",
+  "writer": [
+   "Hirokazu Koreeda"
+  ],
+  "year": "2018",
+  "moviedb_id": 505192,
+  "popularities": {
+   "moviedb": 10.8444,
+   "stremio": 0.36148,
+   "trakt": 4,
+   "stremio_lib": 0
+  },
+  "trailers": [
+   {
+    "source": "wuaoRzuVqI0",
+    "type": "Trailer"
+   },
+   {
+    "source": "9382rwoMiRc",
+    "type": "Trailer"
+   },
+   {
+    "source": "Rwcb5ki1f-4",
+    "type": "Trailer"
+   }
+  ],
+  "affiliates": {
+   "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fshoplifters_214039%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.576/ImageRenderer/111/168/images/no_image_111x168.jpg/214039/images/masterrepository/fandango/214039/shoplifters_037.jpg\" alt=\"Shoplifters\" title=\"Shoplifters\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fshoplifters_214039%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fshoplifters-trailer%2f214039%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fshoplifters_214039%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.576//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+   "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fshoplifters_214039%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+  },
+  "awards": "Nominated for 1 Oscar. 50 wins & 98 nominations total",
+  "dvdRelease": "2019-02-12T00:00:00.000Z",
+  "background": "https://images.metahub.space/background/medium/tt8075192/img",
+  "logo": "https://images.metahub.space/logo/medium/tt8075192/img",
+  "popularity": 0.36148,
+  "id": "tt8075192",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "releaseInfo": "2018",
+  "trailerStreams": [
+   {
+    "title": "Shoplifters",
+    "ytId": "wuaoRzuVqI0"
+   },
+   {
+    "title": "Shoplifters",
+    "ytId": "9382rwoMiRc"
+   },
+   {
+    "title": "Shoplifters",
+    "ytId": "Rwcb5ki1f-4"
+   }
+  ],
+  "links": [
+   {
+    "name": "7.9",
+    "category": "imdb",
+    "url": "https://imdb.com/title/tt8075192"
+   },
+   {
+    "name": "Shoplifters",
+    "category": "share",
+    "url": "https://www.strem.io/s/movie/shoplifters-8075192"
+   },
+   {
+    "name": "Crime",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+   },
+   {
+    "name": "Drama",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+   },
+   {
+    "name": "Thriller",
+    "category": "Genres",
+    "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+   },
+   {
+    "name": "Lily Franky",
+    "category": "Cast",
+    "url": "stremio:///search?search=Lily%20Franky"
+   },
+   {
+    "name": "Sakura Andô",
+    "category": "Cast",
+    "url": "stremio:///search?search=Sakura%20And%C3%B4"
+   },
+   {
+    "name": "Kirin Kiki",
+    "category": "Cast",
+    "url": "stremio:///search?search=Kirin%20Kiki"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Writers",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   },
+   {
+    "name": "Hirokazu Koreeda",
+    "category": "Directors",
+    "url": "stremio:///search?search=Hirokazu%20Koreeda"
+   }
+  ],
+  "behaviorHints": {
+   "defaultVideoId": "tt8075192",
+   "hasScheduledVideos": false
+  }
+ }
+}
